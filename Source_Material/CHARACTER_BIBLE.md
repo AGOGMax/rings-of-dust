@@ -106,6 +106,13 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Communication**: In main book, sounds and gestures (no sign language). In TRotR, sign language — that's a tonal divergence. Stick with sounds-and-gestures for Rings of Dust.
 - **Hidden secret**: He's the prototype IRiS's nanopowder was reverse-engineered from. The "EM Cyber" line is the breadcrumb. Pay it off in Ch 18 or Ch 24.
 - **Relationship to Cole**: Found family. Cole's a deadbeat dad to a junkie monkey. The bond is real and visible.
+- **Command interface** (established Ch04 "Bitboy, play" / flash drive decrypt — reuse throughout):
+  - **"Bitboy, play"** — decrypt/hack mode. Established Ch04 when he cracks the flash drive. Reuse any time a locked system needs opening.
+  - **"Bitboy, attack"** — offensive posture; blades deploy, full combat mode.
+  - **"Bitboy, defend"** — wraps himself around a specific person; absorbs punishment, won't leave.
+  - **"Bitboy, kamikaze"** — extreme self-endangerment / suicidal charge. Reserve for climactic moments only; the crew knows what it costs to say it.
+  - Optional later: "scout," "ghost," "bridge" — add if a scene needs it.
+- **Blue eye glow**: When Bitboy's eyes shift to soft blue light, it's the visual tell that he's entering enhanced/superpower mode. Plant it early, pay it off big. First major use: the road action scene where he drinks the energy drink — "Bitboy, defend" + blue glow right before he goes full shield.
 - **Writing notes**: Bitboy is comic relief, but he's also the first to *feel* things the humans miss. He grieves Sharon viscerally. He recognizes Gracie's birth. Use him as the canary.
 
 ### IRiS / Gracie
