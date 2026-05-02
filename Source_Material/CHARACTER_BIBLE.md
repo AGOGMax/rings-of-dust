@@ -177,6 +177,33 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 
 ---
 
+## Factions & Power Hierarchy
+
+### The chain of control (locked canon)
+
+```
+Marcus Verguld
+    ↓  (owns / directs)
+Alpha Corp
+    ↓  (funds / infiltrates / weaponizes)
+The Federation
+    ↓  (extorts / conscripts / taxes)
+The populace
+```
+
+**Marcus Verguld is the apex predator.** Alpha Corp is his instrument. He uses it the way a mob boss uses a legitimate business — laundering ambition through it, giving it just enough real function to stay useful as cover.
+
+**Alpha Corp is the shadow government.** It runs money through the Federation — meaning the Federation's budget is effectively Alpha Corp's money, spent on Alpha Corp's priorities, disguised as public policy. The energy research that caused the crisis? Alpha Corp-directed. The conscription order Cole receives? Alpha Corp wanted Cole; the Federation Chancellor signed the letter.
+
+**The Federation is NASA.** A real government agency with real scientists and real Astros who mostly believe in what they're doing. Not uniformly corrupt — Vance Black is proof of that. But captured at the top. Its leadership takes Alpha Corp's directives as policy and its rank-and-file either don't know or look the other way. The Federation's bureaucratic weight, legal authority, and military resources are Alpha Corp's to borrow whenever needed. "The Federation is crawling with MY employees" (Marcus, Ch 10) — that's the tell. The institution is genuine; the control is total.
+
+**Cole, Sharon, and Conrad were all "used."** Alpha Corp needed Cole's expertise, tried to conscript it. It turned Sharon into a weapon. It coerced Conrad into corrupting Gracie. The pattern is the same each time: find someone exceptional, exploit them, discard or reprogram the ones who resist.
+
+### Writing rule
+When the narrative prose names a villain, the villain is **Alpha Corp** (or Marcus by name). The Federation takes orders. It does not *give* orders — not at the level that matters. A Federation lieutenant issuing a command is fine; framing the Federation as the entity *behind* the crisis or *behind* the surveillance is not. The Federation is the hand. Alpha Corp is the brain. Marcus is the will.
+
+---
+
 ## Sharon "Teez" — IMPORTANT name disambiguation
 
 In TRotR (Rings of the Reich), Sharon has the surname "Teez" and is a different character — Falcon crew tactician, not Cole's love interest, no medical training.
