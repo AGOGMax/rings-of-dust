@@ -171,11 +171,8 @@ DarkX is canonically sentient. Cole is not the first person it has shown to them
 9. He fights her without trying to kill her. He's not strong enough to overpower her. He's only strong enough to stay alive long enough to get through.
 10. **Bitboy enters.** The chimp recognizes her at a level neither human can articulate — EM Cyber tech reading the Federation nanopowder still in her bloodstream — and he gets close enough to touch her plating. The nanopowder bridges. **Gracie reaches in.** *"Hi. I'm new. Are you in there?"*
 11. Sharon's combat freezes for a fraction of a second. Cole sees the human eye refocus.
-12. Choose your conditioning-breaker — pick one or layer:
-    - The copper-wire ring she gave back to him (Cody Ch 5, callback) — he holds it where her augmented eye can scan it
-    - Her own laughter, recorded somewhere on the ship — Gracie plays it through the suit
-    - Cole says her name. Not as a tactic. Just because he can.
-13. She doesn't come fully back. But she comes back enough. She drops the weapon. She says, in her own voice but slower, distant, like she's calling from the bottom of a well: *"Cole."*
+12. **The conditioning-breaker — Conrad's antidote (locked 2026-05-02):** During the fight Cole has taken damage — he's bleeding. At some point he grabs her, or she grabs him, and his blood makes contact with her plating. Conrad's counter-program, absorbed from the figurine back in Ch 4 (the silver stain on his thumb), transfers from Cole's bloodstream into Sharon's systems. Gracie detects it immediately — it's the unlock code Conrad built into IRiS before he disappeared, the apology he encoded into the only vessel he trusted. *Gracie uses Conrad's counter-program to break through Sharon's conditioning.* Cole doesn't know what just happened. Neither does Sharon. Gracie does. The copper-wire ring and Cole saying her name are still valid layered beats — but the antidote is the mechanical key that makes those emotional beats *work*.
+13. She doesn't come fully back. But she comes back enough. She drops the weapon. She says, in her own voice but slower, distant, like she's calling from the bottom of a well: *"Cole."* — Conrad's apology, delivered at last.
 14. The Collective extraction team — they're here for the harvested DarkX, but Rachel's orders included contingency protocols — takes her into custody. Sealed med-cell. Headed home with the convoy. Deprogramming begins.
 15. Taylor's shuttle docks with the Alpha ship. He thinks he's escaped.
 16. **Gracie has already taken over the Alpha space station** he's heading to (V3a Ch 24). When he arrives he'll be arrested. We don't see this — we just plant it.

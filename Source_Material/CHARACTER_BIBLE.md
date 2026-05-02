@@ -148,9 +148,17 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Recommendation**: Make him the reform-aligned good guy. He's been waiting for someone like Emily. Gives her the prototype voluntarily in Ch 20. Adds depth to Federation politics — not all of them are corrupt.
 
 ### Dr. Stephen Conrad
-- **Status**: Disappeared. Possibly dead.
-- **Role**: Brilliant scientist, Collective sympathizer, made the prototype. The Vegas conference where he handed off the thumb drive (Cody Ch 2) was likely his last public appearance.
-- **Function in plot**: Drives the plot through absence. The prototype he made is what Emily retrieves in Ch 20.
+- **Status**: Disappeared. Possibly dead. Alpha Corp took him — likely to continue the IRiS work under duress.
+- **Role**: Brilliant scientist, Collective sympathizer, made the prototype. The Vegas conference was his last public appearance.
+- **CRITICAL CANON (locked 2026-05-02)**: By the time Conrad meets Emily and Sharon in Ch 2, he has **already been coerced by Alpha Corp to modify Gracie into IRiS**. He did it. He didn't have a choice. The guilt of it is all over the Vegas scene — his shaking hands, the penance line ("I'll keep doing my part"), his desperate emphasis that Cole must personally hold the drive.
+- **The antidote**: Conrad built a counter-program into the figurine on the thumb drive as nanopowder coating on its surface. It transfers via skin contact — which is why he is so specific that Cole's hands must touch it. When Cole rubs the figurine in Ch 4 and gets the dark silver stain on his thumb, Conrad's antidote is now in Cole's bloodstream. Cole never knows.
+- **The payoff chain**:
+  1. Ch 2 — Conrad hands off the drive: *"What's on that figurine is the way back. Cole is the only one who can carry it."*
+  2. Ch 4 — Cole rubs the figurine, silver stain on his thumb. The antidote is absorbed.
+  3. Ch 18 — DarkX exposure amplifies everything in Cole's bloodstream. The antidote wakes up alongside Gracie being born.
+  4. Ch 19 — During the fight with corrupted Sharon, Cole's blood/touch transfers Conrad's counter-program to her. Gracie detects it and uses it as the unlock code for Sharon's conditioning. Conrad's apology fires from beyond his disappearance.
+- **"Tell him I'm sorry"**: Conrad's last line to Emily in the updated Ch 2 prose. Cole won't understand it in Ch 2 or Ch 4. He will in Ch 19 when the antidote breaks through.
+- **Function in plot**: Drives the plot through absence AND through the antidote he left behind. The prototype Emily retrieves in Ch 20 is separate from the thumb drive — it's the quantum-comms node Conrad built to punch through IRiS jamming.
 
 ### Chip & Dale
 - **Role**: Collective handlers in Panama (Cody Ch 9 + Ch 13).
