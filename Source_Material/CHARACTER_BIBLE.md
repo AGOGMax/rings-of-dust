@@ -121,19 +121,22 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Evolution**: Cole's deep DarkX exposure (Ch 18) rewrites her. She becomes **Gracie** — softer, more present, more autonomous. By the epilogue she's "everywhere, part of everything."
 - **Voice progression**: IRiS (Ch 6–11): clinical, cold. Transition (Ch 17–18): glitching, deep, slow. Gracie (Ch 18+): warmer, sharper, sometimes wry. By Ch 23 she's fully herself — call-and-response with humans, real personality.
 
-### Taylor (Crew Chief)
-- **What he is**: Federation Crew Chief, embedded as Alpha Corp mole.
+### Taylor Glenn (Crew Chief)
+- **What he is**: Federation Crew Chief by title. Alpha Corp plant by allegiance. He knows exactly what he is and has known since the "Tailored Solutions" card. No delusion, no ambivalence — he chose this.
 - **Backstory**: Cody Ch 6 — Federation career on the rise, recruited via a "Tailored Solutions" black-card from a man who never gave his name. Sorority-house era. Sees the Federation as part of "a grander vision" where ethics don't apply.
+- **Mission**: Steer the Saturn mission in Alpha Corp's direction. Sabotage what needs sabotaging. Report back. He is not conflicted about any of it — that's what makes him dangerous.
 - **Voice**: Sharp, contemptuous, *uncomfortably right*. Uses precision to wound.
-- **The double-function**: He IS the saboteur, AND he's the one who breaks Cole open with the truth. Don't flatten him. The contradiction is his power.
+- **The double-function**: He IS the saboteur, AND he's the one who breaks Cole open with the truth. Don't flatten him. The contradiction is his power — he can tell the truth about Cole's failures while serving the thing that caused them.
 - **Fate**: Escapes the Saturn sabotage, docks at the Alpha space station — which by then is already under Gracie's control. He's arrested off-screen (V3a Ch 23 plot beat).
 
 ### Sam Drummond ("Samantha")
-- **Role**: Data Technician on the Golden Dawn.
+- **Role**: Data Technician on the Golden Dawn. Federation employee — but the Federation is just the job that got her where she needed to be.
 - **Physical**: Plump, was teased about her weight as a kid; the only thing she wished was "normal." Body composition waiver from the Federation due to scoring high on the FREE entrance exam.
 - **Backstory**: STEM District / S.T.D. graduate, white-hat hacker, studied Conrad's nanoparticle work. Punk rock and psychedelic posters at home. "Out of place in this world of conformity."
+- **The Collective question (deliberately unresolved)**: Sam is sympathetic to the Collective — she fights for regular people, distrusts power structures, carries a hidden patch in her bag lining. Whether she's an active Collective member, a passive sympathizer, or something in between is intentionally left ambiguous. The reader should wonder. Don't resolve it until her arc demands it.
 - **Voice**: Smart, irreverent, intuitive. Knows Cole won't let her down.
 - **Romance**: Spark with Ricardo planted in Ch 6. Decide if it lands.
+- **Writing note**: Taylor and Sam share a bunk room and a mission. One is knowingly steering toward catastrophe. The other is quietly watching. The irony is that Taylor thinks he's the sophisticated one.
 
 ### Rachel Vayes
 - **What she is**: Public-facing newscaster. Secretly Grand Admiral of the Collective.
