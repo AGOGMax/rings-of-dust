@@ -128,7 +128,7 @@ DarkX is canonically sentient. Cole is not the first person it has shown to them
 1. Cole is out. Bay is sealed but he's exposed. The substance pulls him.
 2. **Visions in cascading order**:
    - **Baby Cole**, in his crib, reaching for a mobile of stars. (The original wonder.)
-   - **Teenage Cole**, in a car, learning his father has died. The "Everytime I get my hopes up..." V2 line, kept verbatim.
+   - **Teenage Cole**, in a car, learning his father has died. The "Everytime I get my hopes up..." V2 line, kept verbatim. **Now includes the father-rage beat (planted in Ch 18 prose 2026-05-01):** the boy says *"He left me. He fucking let go of us."* The warden (old Cole) says: *"Yes. He left you... you are allowed to be furious about it... The substance is not going to take any of that away from you tonight."* The vision doesn't resolve the rage — it holds it. The warden foreshadows Ch 24: *"There will be a day when you sit beside something coming back in pieces, and you will understand what it took for him to die. The love and the fury at the same time. And you will forgive him in the same breath you forgive her."* — Ch 18 as written already contains this foreshadow; the DarkX vision in this chapter should echo it without repeating it verbatim.
    - **Old Cole**, weather-beaten, watching all of this from a distance. *"Discovering the self love that's always been there takes work."*
    - **Sharon's voice — calling him home — IS NOT THERE.** That absence is the lesson. The substance won't fake her.
 3. Cole tries to summon her. He can't. The substance doesn't lie.
@@ -263,6 +263,7 @@ DarkX is canonically sentient. Cole is not the first person it has shown to them
 3. Emily takes Cole's arm. *"There's something you need to see. She's at the Collective recovery facility. They didn't tell you because they weren't sure she'd come back. She's coming back."*
 4. **Cole goes to see Sharon.** She's in a clean, quiet room. She's awake. Most of her right side is augmented now. Plating where her shoulder used to be. The eye is permanent. Her voice is hers, mostly. She remembers him in fragments — most of him, not all. There are gaps where the conditioning carved out memories.
 5. He sits with her. Doesn't try to fill the gaps. Doesn't pretend nothing happened. He says: *"It's me. We can do this slow."* She says: *"I know who you are. I keep losing the where. I'm working on it."*
+   - **Father-wound payoff lives here (added 2026-05-01):** Somewhere in this scene — quietly, not announced — Cole feels what the teenage-Cole vision foreshadowed: love and fury in the same breath. He sees what it took for his father to die still fighting with less and less of himself. Sharon coming back in pieces is the mirror. He forgives his father in the same beat he accepts Sharon-as-she-is-now. This does not need to be stated aloud. A sentence of Cole's interiority is enough. The reader who caught the Ch 18 vision will feel it land.
 6. **Bitboy is in the room with them.** Has been the whole time, refusing to leave. He climbs into her lap. She remembers him fully. *"Hi, you little bastard."* The book's first real laugh in twelve chapters.
 7. Cole doesn't take her home yet. She isn't ready. He visits every day for the next week.
 8. The cabin is being converted into a Collective node. Cole gives Rachel his blessing.

@@ -81,3 +81,21 @@ Need to seed (subtly) that Alpha Corp's plan is not to kill Conrad outright but 
 - The Saturn imagery ("a cold pearl with a knife laid across its belt") leans literary. Cody-restrained but not Cody-plain. If the pulp-spine reading wants flatter prose here, this is the most editable paragraph in the chapter.
 
 ---
+
+## Father-wound arc — decision log (2026-05-01)
+
+**Owner confirmed (2026-05-01):** Cole's psychology is a dual truth, not a clean single line.
+
+**The canon now reads:**
+- Father died of cancer, Cole was 17. Not an affair, not a choice to leave.
+- AND: the boy experienced it as abandonment. His father stopped fighting before the end. That feels like letting go. Both things are true simultaneously.
+- Cole is *allowed* to be furious. The rage is valid. The grief is valid. They do not cancel each other out.
+
+**Where this lives in the text:**
+
+- **Ch 18 (planted 2026-05-01)**: Father-rage beat added to the teenage-Cole car sequence. New prose block (~556 words): *"He fucking let go of us. I was seventeen."* The warden (old Cole) holds the rage without resolving it. Foreshadows Ch 24: *"There will be a day when you sit beside something coming back in pieces... The love and the fury at the same time. And you will forgive him in the same breath you forgive her."* Ch 18 surfaces the wound only. Ch 18 does NOT resolve it.
+- **Ch 24 (planned)**: Cole sits with bionic Sharon in the Collective recovery facility. She is coming back in pieces. In that room, he understands what his father felt — fighting with less and less of himself, loving with all of it anyway, and the thing Cole called letting go was just the last of what the man had. Love and fury in the same moment. One sentence of interiority is enough. The resolution does not need to be said aloud.
+
+**Age fix (applied 2026-05-01):** All four instances of "sixteen" in Ch 18 changed to "seventeen" to match CHARACTER_BIBLE.md. Cole's father died when Cole was 17. Locked.
+
+---
