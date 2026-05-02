@@ -1,0 +1,22 @@
+# Node deps
+Working_Draft/node_modules/
+Working_Draft/package-lock.json
+
+# Heavy binary assets — track in dedicated audio/image storage instead
+Audio/*.mp3
+Source_Material/frames/
+Source_Material/frames_antigravity/
+Source_Material/frames_darkmatter/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# LibreOffice/OpenOffice lock files
+.~lock.*
+
+# OS metadata
+desktop.ini

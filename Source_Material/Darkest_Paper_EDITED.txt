@@ -1,0 +1,507 @@
+
+
+
+Tokenomics and Simulation Report: 
+AntiGravity
+
+
+Introduction
+This report presents the simulation of $DARK tokenomics and its various components, including the Journey Phase Manager, Treasury, Jackpot, and Pool modules. The simulation tracks the evolution of the $$DARK token price, NFT minting, and yield distribution across 33 Journeys.
+This report aims to provide a comprehensive overview of the system's behavior and key metrics through detailed graphs and data accumulation.
+
+Table of Contents
+
+What is the need for a project like 
+AntiGravity
+?
+
+Introduction of 
+AntiGravity
+
+
+What is the goal of 
+AntiGravity
+, and what impact will it make?
+
+What is $DARK?
+
+Components of 
+AntiGravity
+
+
+How do Fuel Cells work?
+
+How is yield generated in 
+AntiGravity
+?
+
+How does the Jackpot feature work?
+
+How does the Evil Address operate?
+
+How does the Evil Address benefit $DARK and Fuel Cell holders?
+
+How are supply crisis events created?
+
+Tokenomics Simulations
+
+Simulation Variables
+
+Token Distribution over Journeys 
+
+Price of $DARK Token over Journeys
+
+Total Number of NFTs minted over Journeys
+
+Total Number of NFTs minted in each Journey
+
+Cumulative Yield per NFT minted in Journey 1
+
+USD value of Cumulative Yield per NFT minted in Journey 1
+
+Scheduled ROI for user minting in Journey 1
+
+Cumulative yield disbursed to NFTs until Journey 50
+
+Token Balance Changes of the Evil Address across Journeys
+
+Scheduled Liquidity Pool trades
+
+
+
+What is the need for a project like 
+AntiGravity
+?
+The crypto space needs a project that pushes the innovation of NFTs. This is an experiment in capturing and concentrating economic energy through unique tokenomics and DeFi principles.
+
+Introduction of 
+AntiGravity
+
+
+AntiGravity
+ is an incredibly dynamic story plus a set of great tokenomics, all folded into a single project.
+
+What is the goal of 
+AntiGravity
+, and what impact will it make? 
+The goal of agproject.io is to create the best community ever seen in crypto. We ambitiously hope to break through the confines of the 4-year “bull and bear” cycle.
+
+What is $DARK?
+$DARK is a PRC-20 token with a total supply of 1M tokens, no inflation, and programmed scarcity. It is also the only token used to mint Fuel Cell NFTs.
+
+Components of 
+AntiGravity
+
+The three components of 
+AntiGravity
+ are:
+
+
+Its story and art, inspired by "Rings of Dust"
+
+
+The Dark Matter ($DARK) Token 
+
+
+The Fuel Cell NFTs
+
+How do Fuel Cells work?
+Fuel Cell NFTs are minted at a 1:1 ratio with $$DARK tokens, and they have a supply cap of 1 million units. Users have 33 chances to mint the Fuel Cell NFTs and a 15-day window to mint each series. Fuel Cell NFTs also have 3 features: 
+
+
+Artwork from "Rings of Dust"
+
+
+Yield from the Treasury disbursed every 105 days
+
+
+Lottery giveaways that take place in the 90 days following the minting phase
+
+How is yield generated in 
+AntiGravity
+?
+Yield is generated from the minting of Fuel Cells. 77% of the $$DARK tokens that are used in minting fund the Treasury. The Treasury pays yield every 105 days into the Fuel Cell NFTs. The yield can only be collected by breaking open (or “burning” in crypto terms) the Fuel Cell NFT. Once the Fuel Cell NFT is broken open (unwrapped) it no longer receives yield from the Treasury. Fuel Cell NFTs that are left unbroken continue to receive yield from the Treasury every 105 days.If you are familiar with the WAATSA NFTs from the 
+Icosa
+ project, this is a very similar concept. 
+
+How does the Jackpot feature work?
+20% of the $$DARK tokens used in minting go to funding the Jackpot address. When users mint a Fuel Cell NFT, they're automatically entered into 3 Lotteries drawings that take place during the following 90 days.
+How does the Evil Address operate?The Evil Address has an unfair advantage in the 
+AntiGravity
+ game. Not only does it start with the majority of the supply (65,000 $DARK), but it also mints the majority of the Fuel Cell NFTs. This gives the Evil Address a higher chance of winning the lotteries and accruing the majority of the Treasury’s yield.
+
+How does the Evil Address benefit $DARK and Fuel Cell holders?
+The competitive nature of the Evil Address challenges other players in the game by removing the supply of $DARK from the market. This may increase demand for the tokens.
+
+How are supply crisis events created?
+Supply crises may arise from any of the following events:
+
+
+The Evil Address hoarding tokens and NFTs 
+
+
+Minting of the Fuel Cell NFTs 
+
+
+Limited minting windows and limited minting periods
+
+
+Players’ FOMO of getting into the next lotteries
+
+
+A special, one-time event called "The Rapture" where all unutilized $$DARK tokens will be destroyed and removed from circulating supply following the final (33rd) minting phase
+
+Tokenomics Simulations
+
+Initial Accounts
+Initial Balances:
+Public Account: 100,000 $$DARK tokens
+Treasury Contract Balance: 0 $DARK tokens
+Jackpot Contract Balance: 0 $DARK tokens
+Magic Box Account: 250,000 $DARK tokens
+Evil Address Contract Balance: 650,000 $DARK tokens
+Team Account: 0 $DARK tokens
+
+Data Storage and Helper Functions
+
+Initial Liquidity Pool
+Liquidity Pool Initialized:
+Pool: $DARK reserve = 100,000, DAI reserve = 300,000, Fee = 0.003, Total volume = 0
+Initial $DARK token price: 3.0 per DAI token
+
+Utility Functions
+
+Variables
+Initial $DARK reserve: 100,000
+Initial DAI reserve: 300,000
+Initial $DARK token price: 3.0
+Buy Probability: 0.6
+Sell Probability: 0.4
+Total Trades per Journey: 10,000
+% of the $DARK tokens from buys that will be used for minting NFTs: 0.3
+% of the public $DARK token balance that will be used to mint NFTs: 0.1
+% of the lottery winnings that will be used to mint NFTs again: 0.1
+
+Run-through of the Journeys
+
+Simulation for 50 Journeys
+Simulating Journey 1
+Public mints NFTs using: 10,000 in Journey 1, Fuel Cell balance: 10,000
+Evil Address mints NFTs using: 67,038.0 in Journey 1
+Total volume in Pool at end of Phase 1: 247,484.0139482396
+3 Lotteries were conducted and 121.00413850000004 payouts were distributed to a total of 4,419 winners.
+Evil Address lottery winning: 91.97065594263836
+Total lottery winnings for the public: 29.03348255736558
+Total lottery winnings sold by the public: 26.130134301629024
+
+Simulating Journey 2
+Public mints NFTs using: 3,783 in Journey 2, Fuel Cell balance: 25,166
+Evil Address mints NFTs using: 60,334.0 in Journey 2
+Total volume in Pool at end of Phase 1: 929,428.9480268111
+3 Lotteries were conducted and 234.3967306191957 payouts were distributed to a total of 4,149 winners.
+Evil Address lottery winning: 173.89085004721548
+Total lottery winnings for the public: 60.505880571984285
+Total lottery winnings sold by the public: 54.45529251478586
+
+Simulating Journey 3
+Public mints NFTs using: 1,346 in Journey 3, Fuel Cell balance: 45,413
+Evil Address mints NFTs using: 54,301.0 in Journey 3
+Total volume in Pool at end of Phase 1: 1,562,610.9811098159
+3 Lotteries were conducted and 334.930007187133 payouts were distributed to a total of 3,687 winners.
+Evil Address lottery winning: 249.3190475446183
+Total lottery winnings for the public: 85.61095964250929
+Total lottery winnings sold by the public: 77.04986367825836
+
+Simulating Journey 4
+Public mints NFTs using: 55 in Journey 4, Fuel Cell balance: 63,612
+Evil Address mints NFTs using: 48,870.0 in Journey 4
+Total volume in Pool at end of Phase 1: 2,190,613.6448038192
+3 Lotteries were conducted and 421.8701927282475 payouts were distributed to a total of 3,198 winners.
+Evil Address lottery winning: 318.29659408471406
+Total lottery winnings for the public: 103.57359864354633
+Total lottery winnings sold by the public: 93.2162387791917
+
+Simulating Journey 5
+Public mints NFTs using: 20 in Journey 5, Fuel Cell balance: 78,702
+Evil Address mints NFTs using: 43,983.0 in Journey 5
+Total volume in Pool at end of Phase 1: 2,801,575.2547139744
+3 Lotteries were conducted and 497.1642245462136 payouts were distributed to a total of 2,778 winners.
+Evil Address lottery winning: 387.25426870315084
+Total lottery winnings for the public: 109.90995584306104
+Total lottery winnings sold by the public: 98.91896025875494
+
+Simulating Journey 6
+Public mints NFTs using: 9 in Journey 6, Fuel Cell balance: 90,293
+Evil Address mints NFTs using: 39,585.0 in Journey 6
+Total volume in Pool at end of Phase 1: 3,431,909.215303904
+3 Lotteries were conducted and 563.4233845532971 payouts were distributed to a total of 2,451 winners.
+Evil Address lottery winning: 449.53679029842715
+Total lottery winnings for the public: 113.88659425487216
+Total lottery winnings sold by the public: 102.49793482938495
+
+Simulating Journey 7
+Public mints NFTs using: 28 in Journey 7, Fuel Cell balance: 99,752
+Evil Address mints NFTs using: 35,626.0 in Journey 7
+Total volume in Pool at end of Phase 1: 4,072,979.141112509
+3 Lotteries were conducted and 622.452450367444 payouts were distributed to a total of 2,187 winners.
+Evil Address lottery winning: 504.865900856519
+Total lottery winnings for the public: 117.58654951091734
+Total lottery winnings sold by the public: 105.82789455982561
+
+Simulating Journey 8
+Public mints NFTs using: 7 in Journey 8, Fuel Cell balance: 107,876
+Evil Address mints NFTs using: 32,064.0 in Journey 8
+Total volume in Pool at end of Phase 1: 4,688,402.674042588
+3 Lotteries were conducted and 674.2479000546065 payouts were distributed to a total of 1,923 winners.
+Evil Address lottery winning: 567.1075495444952
+Total lottery winnings for the public: 107.14035051012645
+Total lottery winnings sold by the public: 96.42631545911381
+
+Simulating Journey 9
+Public mints NFTs using: 6 in Journey 9, Fuel Cell balance: 114,323
+Evil Address mints NFTs using: 28,857.0 in Journey 9
+Total volume in Pool at end of Phase 1: 5,312,013.6064215535
+3 Lotteries were conducted and 720.4775162040075 payouts were distributed to a total of 1,719 winners.
+Evil Address lottery winning: 618.0910329738253
+Total lottery winnings for the public: 102.38648323018857
+Total lottery winnings sold by the public: 92.14783490716972
+
+Simulating Journey 10
+Public mints NFTs using: 2 in Journey 10, Fuel Cell balance: 119,864
+Evil Address mints NFTs using: 25,972.0 in Journey 10
+Total volume in Pool at end of Phase 1: 5,937,389.8101859465
+3 Lotteries were conducted and 761.7122740557315 payouts were distributed to a total of 1,536 winners.
+Evil Address lottery winning: 631.0055082788696
+Total lottery winnings for the public: 130.70676577686265
+Total lottery winnings sold by the public: 117.6360891991764
+
+Simulating Journey 11
+Public mints NFTs using: 2 in Journey 11, Fuel Cell balance: 124,628
+Evil Address mints NFTs using: 23,374.0 in Journey 11
+Total volume in Pool at end of Phase 1: 6,565,651.479225193
+3 Lotteries were conducted and 798.3768733551619 payouts were distributed to a total of 1,377 winners.
+Evil Address lottery winning: 692.2745002077394
+Total lottery winnings for the public: 106.10237314741761
+Total lottery winnings sold by the public: 95.49213583267586
+
+Simulating Journey 12
+Public mints NFTs using: 0 in Journey 12, Fuel Cell balance: 128,792
+Evil Address mints NFTs using: 21037.0 in Journey 12
+Total volume in Pool at end of Phase 1: 7,199,515.825956094
+3 Lotteries were conducted and 831.2080737188694 payouts were distributed to a total of 1,230 winners.
+Evil Address lottery winning: 706.0924333542241
+Total lottery winnings for the public: 125.11564036465249
+Total lottery winnings sold by the public: 112.60407632818725
+
+Simulating Journey 13
+Public mints NFTs using: 1 in Journey 13, Fuel Cell balance: 132,381
+Evil Address mints NFTs using: 18,933.0 in Journey 13
+Total volume in Pool at end of Phase 1: 7,823,287.770282013
+3 Lotteries were conducted and 860.3126583254075 payouts were distributed to a total of 1,098 winners.
+Evil Address lottery winning: 729.3517150205965
+Total lottery winnings for the public: 130.9609433048044
+Total lottery winnings sold by the public: 117.86484897432396
+
+Simulating Journey 14
+Public mints NFTs using: 6 in Journey 14, Fuel Cell balance: 135,452
+Evil Address mints NFTs using: 17,040.0 in Journey 14
+Total volume in Pool at end of Phase 1: 8,452,504.948955614
+3 Lotteries were conducted and 886.4479873975201 payouts were distributed to a total of 993 winners.
+Evil Address lottery winning: 770.1423386410055
+Total lottery winnings for the public: 116.30564875651554
+Total lottery winnings sold by the public: 104.67508388086398
+
+Simulating Journey 15
+Public mints NFTs using: 7 in Journey 15, Fuel Cell balance: 138,275
+Evil Address mints NFTs using: 15,336.0 in Journey 15
+Total volume in Pool at end of Phase 1: 9,082,026.759713555
+3 Lotteries were conducted and 910.0367540273722 payouts were distributed to a total of 894 winners.
+Evil Address lottery winning: 790.9379842049984
+Total lottery winnings for the public: 119.09876982237425
+Total lottery winnings sold by the public: 107.18889284013683
+
+Simulating Journey 16
+Public mints NFTs using: 0 in Journey 16, Fuel Cell balance: 140,866
+Evil Address mints NFTs using: 13,802.0 in Journey 16
+Total volume in Pool at end of Phase 1: 9,719,855.906450642
+3 Lotteries were conducted and 931.1005219002138 payouts were distributed to a total of 804 winners.
+Evil Address lottery winning: 809.0052509047749
+Total lottery winnings for the public: 122.09527099544373
+Total lottery winnings sold by the public: 109.88574389589935
+
+Simulating Journey 17
+Public mints NFTs using: 7 in Journey 17, Fuel Cell balance: 143,177
+Evil Address mints NFTs using: 12,422.0 in Journey 17
+Total volume in Pool at end of Phase 1: 10,354,604.405719223
+3 Lotteries were conducted and 949.9148964555635 payouts were distributed to a total of 723 winners.
+Evil Address lottery winning: 813.6496890209258
+Total lottery winnings for the public: 136.26520743464536
+Total lottery winnings sold by the public: 122.63868669118082
+
+Simulating Journey 18
+Public mints NFTs using: 7 in Journey 18, Fuel Cell balance: 145,235
+Evil Address mints NFTs using: 11,180.0 in Journey 18
+Total volume in Pool at end of Phase 1: 10,986,496.083216928
+3 Lotteries were conducted and 966.6347183337928 payouts were distributed to a total of 651 winners.
+Evil Address lottery winning: 850.1803710954314
+Total lottery winnings for the public: 116.4543472383699
+Total lottery winnings sold by the public: 104.80891251453292
+
+Simulating Journey 19
+Public mints NFTs using: 2 in Journey 19, Fuel Cell balance: 147,071
+Evil Address mints NFTs using: 10,062.0 in Journey 19
+Total volume in Pool at end of Phase 1: 11624076.175803792
+3 Lotteries were conducted and 981.8048161871641 payouts were distributed to a total of 588 winners.
+Evil Address lottery winning: 830.8129676335983
+Total lottery winnings for the public: 150.99184855356526
+Total lottery winnings sold by the public: 135.89266369820874
+
+Simulating Journey 20
+Public mints NFTs using: 2 in Journey 20, Fuel Cell balance: 148,804
+Evil Address mints NFTs using: 9,055.0 in Journey 20
+Total volume in Pool at end of Phase 1: 12,267,863.636429626
+3 Lotteries were conducted and 995.1906878315675 payouts were distributed to a total of 531 winners.
+Evil Address lottery winning: 867.4785656643211
+Total lottery winnings for the public: 127.71212216724727
+Total lottery winnings sold by the public: 114.94090995052255
+
+Simulating Journey 21
+Public mints NFTs using: 2 in Journey 21, Fuel Cell balance: 150,410
+Evil Address mints NFTs using: 8,150.0 in Journey 21
+Total volume in Pool at end of Phase 1: 12,904,372.373817116
+3 Lotteries were conducted and 1,007.2859254731237 payouts were distributed to a total of 480 winners.
+Evil Address lottery winning: 858.8911239525338
+Total lottery winnings for the public: 148.39480152059423
+Total lottery winnings sold by the public: 133.5553213685348
+
+Simulating Journey 22
+Public mints NFTs using: 2 in Journey 22, Fuel Cell balance: 151,867
+Evil Address mints NFTs using: 7,335.0 in Journey 22
+Total volume in Pool at end of Phase 1: 13,540,239.64971921
+3 Lotteries were conducted and 1,017.9043801682926 payouts were distributed to a total of 429 winners.
+Evil Address lottery winning: 863.3374812815961
+Total lottery winnings for the public: 154.5668988866938
+Total lottery winnings sold by the public: 139.1102089980244
+
+Simulating Journey 23
+Public mints NFTs using: 2 in Journey 23, Fuel Cell balance: 153,162
+Evil Address mints NFTs using: 6,601.0 in Journey 23
+Total volume in Pool at end of Phase 1: 14,180,616.6447528
+3 Lotteries were conducted and 1,027.3848895612655 payouts were distributed to a total of 390 winners.
+Evil Address lottery winning: 798.1990295822125
+Total lottery winnings for the public: 229.18585997905126
+Total lottery winnings sold by the public: 206.26727398114613
+
+Simulating Journey 24
+Public mints NFTs using: 6 in Journey 24, Fuel Cell balance: 154,395
+Evil Address mints NFTs using: 5,941.0 in Journey 24
+Total volume in Pool at end of Phase 1: 14,811,028.890169244
+3 Lotteries were conducted and 1,035.2597050086183 payouts were distributed to a total of 351 winners.
+Evil Address lottery winning: 858.2922340669766
+Total lottery winnings for the public: 176.96747094164417
+Total lottery winnings sold by the public: 159.27072384747976
+
+Simulating Journey 25
+Public mints NFTs using: 0 in Journey 25, Fuel Cell balance: 155,468
+Evil Address mints NFTs using: 5,347.0 in Journey 25
+Total volume in Pool at end of Phase 1: 15,449,044.748415224
+3 Lotteries were conducted and 1,042.5406981504316 payouts were distributed to a total of 315 winners.
+Evil Address lottery winning: 892.187889981794
+Total lottery winnings for the public: 150.3528081686338
+Total lottery winnings sold by the public: 135.31752735177042
+
+Simulating Journey 26
+Public mints NFTs using: 4 in Journey 26, Fuel Cell balance: 156,459
+Evil Address mints NFTs using: 4,812.0 in Journey 26
+Total volume in Pool at end of Phase 1: 16,083,971.477742236
+3 Lotteries were conducted and 1,049.2222731915083 payouts were distributed to a total of 288 winners.
+Evil Address lottery winning: 908.7014330319339
+Total lottery winnings for the public: 140.52084015957703
+Total lottery winnings sold by the public: 126.46875614361933
+
+Simulating Journey 27
+Public mints NFTs using: 5 in Journey 27, Fuel Cell balance: 157,416
+Evil Address mints NFTs using: 4,331.0 in Journey 27
+Total volume in Pool at end of Phase 1: 16,722,457.403890578
+3 Lotteries were conducted and 1,055.2533766561176 payouts were distributed to a total of 261 winners.
+Evil Address lottery winning: 911.4339509377925
+Total lottery winnings for the public: 143.81942571832153
+Total lottery winnings sold by the public: 129.43748314648937
+
+Simulating Journey 28
+Public mints NFTs using: 2 in Journey 28, Fuel Cell balance: 158,328
+Evil Address mints NFTs using: 3,898.0 in Journey 28
+Total volume in Pool at end of Phase 1: 17,369,204.872122288
+3 Lotteries were conducted and 1,060.6564716314247 payouts were distributed to a total of 240 winners.
+Evil Address lottery winning: 861.7833832005348
+Total lottery winnings for the public: 198.873088430892
+Total lottery winnings sold by the public: 178.98577958780282
+
+Simulating Journey 29
+Public mints NFTs using: 2 in Journey 29, Fuel Cell balance: 159,234
+Evil Address mints NFTs using: 3,508.0 in Journey 29
+Total volume in Pool at end of Phase 1: 18,004,778.578933064
+3 Lotteries were conducted and 1,065.0662809399128 payouts were distributed to a total of 216 winners.
+Evil Address lottery winning: 896.0081411081785
+Total lottery winnings for the public: 169.0581398317323
+Total lottery winnings sold by the public: 152.15232584855906
+
+Simulating Journey 30
+Public mints NFTs using: 4 in Journey 30, Fuel Cell balance: 160,074
+Evil Address mints NFTs using: 3,157.0 in Journey 30
+Total volume in Pool at end of Phase 1: 18,637,289.03442287
+3 Lotteries were conducted and 1,069.1338845470098 payouts were distributed to a total of 195 winners.
+Evil Address lottery winning: 883.5040452520318
+Total lottery winnings for the public: 185.6298392949754
+Total lottery winnings sold by the public: 167.06685536547786
+
+Simulating Journey 31
+Public mints NFTs using: 1 in Journey 31, Fuel Cell balance: 160,866
+Evil Address mints NFTs using: 2,841.0 in Journey 31
+Total volume in Pool at end of Phase 1: 19,278,966.598335568
+3 Lotteries were conducted and 1,072.6103195787941 payouts were distributed to a total of 180 winners.
+Evil Address lottery winning: 822.3345783437409
+Total lottery winnings for the public: 250.27574123505215
+Total lottery winnings sold by the public: 225.24816711154693
+
+Simulating Journey 32
+Public mints NFTs using: 2 in Journey 32, Fuel Cell balance: 161,627
+Evil Address mints NFTs using: 2,557.0 in Journey 32
+Total volume in Pool at end of Phase 1: 19,919,503.5785367
+3 Lotteries were conducted and 1,075.2231570888864 payouts were distributed to a total of 162 winners.
+Evil Address lottery winning: 782.2390693106981
+Total lottery winnings for the public: 292.9840877781887
+Total lottery winnings sold by the public: 263.6856790003699
+
+Simulating Journey 33
+Public mints NFTs using: 4 in Journey 33, Fuel Cell balance: 162,356
+Evil Address mints NFTs using: 2,301.0 in Journey 33
+Total volume in Pool at end of Phase 1: 20,569,077.07442823
+3 Lotteries were conducted and 1,077.129126843361 payouts were distributed to a total of 147 winners.
+Evil Address lottery winning: 863.5874923671247
+Total lottery winnings for the public: 213.5416344762349
+Total lottery winnings sold by the public: 192.1874710286114
+
+Graphs
+
+Token Distribution
+
+Price of $DARK tokens over Journey
+
+Total Number of NFTs minted over Journeys
+
+(capitalize J in “journey” in the image graph title)
+
+Total Number of NFTs minted in each Journey
+
+Cumulative yield per NFT minted in Journey 1 in $DARK tokensUSD value of Cumulative Yield per NFT minted in Journey 1 (changed text order)
+
+Return On Investment
+
+Cumulative yield given to NFTs till Journey 50
+
+Change of Balance of Evil Address over Journeys (capitalize J in “journeys”)
+
+Scheduled Liquidity Pool Trades
+
+

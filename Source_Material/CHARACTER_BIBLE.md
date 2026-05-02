@@ -1,0 +1,179 @@
+# Rings of Dust — Character Bible
+*Reference for writing Ch 14–25 with consistent characterization. Drawn from Cody's Ch 1–13 + V2 backstory + the prologue lore.*
+
+---
+
+## Main book characters (Rings of Dust)
+
+### Cole Nova
+- **Age**: ~40s. Federation veteran. 15+ years of service.
+- **Nickname**: "Jackpot" — earned for getting out of impossible situations. The patch was a gift from his crew, hand-stitched, irritates his chest under his suit. He treasures it.
+- **Physical**: Powder-blue eyes (Cody Ch 1). Scarred face by Ch 11. "Aging" appearance per Cody Ch 3. Lean, strong.
+- **Pre-book backstory**: Captain of the Polaris. Last Saturn mission went sideways — half his crew lost in an explosion he blames himself for. Self-exiled to a family cabin near Sequoia National Park for 5–7 years. Drinks too much. Living with Bitboy and a "stockpiled like a bomb shelter" cabin.
+- **Childhood canon (locked 2026-05-01)**: Father died of cancer when Cole was 17 — NOT an affair/abandonment. The Harley was a dying man's bucket-list buy (Cole misread it as selfishness at first). Cole gave up a summer job at 'A Thousand Thrills' theme park with his childhood friend Marcus to stay home for Emily and his mom. Marcus's bitter goodbye note ("I will NEVER forget how you screwed me over") is Marcus Verguld's villain origin — his inability to understand why someone would sacrifice a dream for a dying father is the first glimpse of who he becomes. Cole's wounds are grief-based, not abandonment-based. This is why he can love Sharon without the flinch of someone waiting to be left. The hospital corridor where he waited while his father died is the "quietest room he ever stood in" — this line appears in Ch 18 and is now the anchor for his entire backstory.
+- **Relationship to Sharon**: Deep, established love. She brought him back from his cabin half-life. Engaged-adjacent before her death.
+- **Relationship to Emily**: Older brother. Emily has Mitochondrial Degeneration / Gravity Sickness. Cole's primary motivator early in the book is keeping her alive.
+- **Voice**: Stoic, dry, self-deprecating. Wraps grief in jokes. Talks to Bitboy more than humans when he's hurting. Calls Sharon "babe" and "baby girl" tenderly.
+- **Arc across the book**: Reluctant return to duty (Ch 1–6) → mirror smashed open by Taylor (Ch 8) → loss of Sharon (Ch 11) → grief-trip integration (Ch 18) → a man who can love himself without needing anyone else to do it for him (Ch 24–25).
+- **Writing notes**: When he's grieving, he gets quieter, not louder. He plans more than he feels — but his plans betray what he's feeling.
+
+### Sharon (no surname in canon — see "Sharon Teez" note below)
+- **Role**: Doctor-trained, Collective Operator. Cole's lover. Emily's protector and friend.
+- **Physical**: Tall, fit, "a goddess by any standard" per Emily's POV. Olive-green dress, long full red hair (Cody Ch 2). Post-resurrection: half-bionic — see resurrection arc below.
+- **Voice**: Sharp, flirty, fearless. Wraps care in barbs. The kind who walks into a room with a stomach pump and a joke about coke whores in dive bars.
+
+#### Pre-book backstory (owner directive 2026-04-30 — must be built up in Acts 1–2)
+
+The bond with Cole has to feel **earned** before she dies. The relationship existed for years before page one. Concrete plants for the writing:
+
+- **Black-market parts runner.** Sharon ran salvaged Federation parts and stable Dark Matter crystals through a Collective supply chain for years before the book opens. She's good at it. She knows handlers, fences, dead drops, county roads in three states.
+- **Anti-Federation, anti-Alpha Corp from the start.** Her politics are sharper than Cole's. She gave them the finger the day she got out of medical training and never stopped.
+- **Cole was the straight-laced one — but he had her back.** When their paths first crossed (a botched delivery? a Federation raid? a medical emergency in a Collective safehouse? — flesh out the meet-cute scene as a Cole flashback in Act 2), he covered for her. Federation captain, decorated. He could have turned her in. He didn't. They've been each other's exception ever since.
+- **Their love is the kind built on shared crime.** Cole holding the Federation line by day, Sharon laughing about it in his cabin by night. Trading dead-drop coordinates the way some couples trade grocery lists. *"Yeah, we'll get you the regulators. No, the Federation can suck a rock."*
+- **Where to plant this in the prose:**
+  - **Act 1 cabin chapter (Cody Ch 3)** — already exists, has warm Cole/Sharon scenes (the blackberry preserves, the "you spoil me" beat). Add a **single past-tense paragraph** of Cole remembering their first illegal job together. Earn the warmth.
+  - **Act 2 transit chapter (post-Ch 11, post–Sharon's death)** — Cole has hours alone with his grief en route to Saturn. Give him **one full flashback** of a defining shared mission. The black-market run that almost got them killed. The night they decided this was the rest of their lives. Make us *feel* what he lost.
+  - **Emily's solo chapters (Ch 12, Ch 15)** — let Emily remember Sharon. The "I'm doomed to be average" callback should always trace back to Sharon's reassurance.
+
+#### Death scene — Ch 7 (canon, do not soften)
+
+Greenbaum ambushes Emily and Sharon in the industrial cul-de-sac. Collective sniper takes Greenbaum out. **Sharon blocked the shot to protect Emily** — this is the detail from Cody Ch 12 that has to land. The bullet that kills her is the one that ricochets out of Greenbaum's dying hand because *Sharon stepped between him and Emily*. She dies for Emily, knowing what she's doing. That's the engine that drives Emily for the rest of the book.
+
+#### The resurrection arc (owner directive 2026-04-30)
+
+Sharon comes back **late in the book**, half-bionic. The universe supports it: Bitboy is the proof of concept (last surviving EM Cyber). The Collective has access to that lineage of tech. Marcus / Alpha Corp has access too. Either side could plausibly have the body.
+
+Three placement/tonal options the writer should pick from:
+
+**Path A — Sharon as enemy combatant, recovered (most dramatic):**
+- Marcus's last play, plotted while he was still free: recover Sharon's body, weaponize it with Alpha cyber-tech, condition her psyche to obey, point her at Cole.
+- She boards the Golden Dawn during the Saturn battle (insertable as a beat in **Ch 19** or as a new **Ch 19a**) as an unmarked tactical operative.
+- Helmet comes off mid-fight. Cole sees her. **She doesn't see him.** *"Captain Cole Nova. Designation: target."*
+- Cole has to fight her without killing her. He won't kill her. He has to find a way through the conditioning.
+- **The Ch 18 lesson is the test.** Cole had to learn to love himself with Sharon gone. Now she's standing in front of him as a stranger and he has to NOT collapse — has to be the one fighting *to save her* rather than to be saved by her.
+- He breaks the conditioning by — TBD. Possibilities: Bitboy recognizes her at the molecular level and triggers something. Cole shows her the copper-wire ring she kept (callback to Cody Ch 5). Gracie reaches the Federation nanopowder still in her bloodstream and finds the part of Sharon still in there and pulls.
+- She wakes up partly. Not 100%. Cyber and human, fighting for the Collective from now on.
+
+**Path B — Sharon as Collective fighter, simply restored (cleaner happily-ever-after):**
+- The Collective recovered her body after Ch 7 and never told Cole. They've had her in a recovery chamber, working on consciousness restoration through the same nanopowder lineage that built Bitboy.
+- She comes online late Act 3 — Ch 23 or Ch 24. Already herself. Already on the right side. Bionic but unambiguous.
+- Less dramatic, simpler emotional arc, cleaner road to the bowling-alley closer.
+
+**Path C — Combine (recommended):**
+- Path A's drama in space (Ch 19/19a corrupted-Sharon fight)
+- Cole breaks the conditioning during the fight — the Collective takes her into custody at the end of the battle, deprograms her over the transit home
+- By Ch 24 she's recovering, by Ch 25 she's at the bowling alley with him — bionic, scarred, herself, alive
+- Bowling-alley closer becomes a wake AND a homecoming
+
+#### What this changes about Ch 18 (the four-Coles vision)
+
+The directive that **DarkX will not fake Sharon's voice** still holds — and gets *richer*. The substance refuses not because Sharon is gone, but because Sharon is *neither dead-and-gone nor here-and-whole*. She is, at that moment, somewhere in between — body alive, mind not. The substance shows truth. The truth is that the Sharon-who-was is not in Cole at that moment, and the Sharon-who-is doesn't yet exist.
+
+Cole won't know any of that consciously. He'll just feel the absence as final. When she comes back later, the lesson he learned (love yourself with her gone) is what makes him strong enough to *not* collapse when she walks back in.
+
+The Ch 18 chapter as drafted does not need rewriting. It is still right. The reveal of her survival just gives the chapter more depth in retrospect — first read it's a death sentence, on a re-read it's a substance refusing to lie even gently.
+
+#### Writing notes — going forward
+
+- **Acts 1–2**: build the relationship, make her death matter
+- **Ch 7 death scene**: protect-the-friend instinct, blocked shot, do not soften
+- **Ch 11 Cole learns**: Taylor's reveal still stings the same — Cole doesn't know yet she's recoverable
+- **Ch 18 vision**: holds as written
+- **Ch 19 / 19a (Path A or C)**: corrupted-Sharon fight, Cole's integration tested live
+- **Ch 24**: recovery / partial reunion at the cabin
+- **Ch 25 bowling alley**: alive, bionic, his
+
+### Emily Nova
+- **Age**: Younger sister. Late 20s.
+- **Condition**: Diagnosed with Mitochondrial Degeneration / Gravity Sickness. Pre-book: declining, dependent on Cole.
+- **Physical**: Curly blonde hair. "Average in every way" per her own self-assessment — but Cody undermines this throughout.
+- **Pre-book identity**: Self-described as invisible, doomed to be average, lives in Cole's shadow.
+- **Voice**: Quiet but witty. The "He farts in his sleep, and snores. He's late on paying the phone bill" line to Marcus (Ch 9) is her self-defense — humor as survival.
+- **Arc across the book**: Sister-protected (Ch 1–6) → captured-witness (Ch 7) → solo-agent in over her head (Ch 12, 15) → confident operator (Ch 20) → leader (Ch 22, 23).
+- **Relationship to Rachel**: Charged. Cody Ch 12 has them touching shoulders, exchanging looks. Decide if it goes explicit or stays ambiguous — both work.
+- **Writing notes**: She's the strand that benefits most from Sharon's death. The book makes her the one who steps up. Don't soften her. Let her be scared *and* effective.
+
+### Ricardo Corazon ("Heavy Hitter" / "Heavy" / "Ricky")
+- **Role**: Federation Astro, Cole's "brother" by service. Pilot.
+- **Physical**: Big — height and girth. Federation fatigues that "accentuate massive arms and shoulders while leaving room in the midsection to hide his growing gut." A man who carries a 30-rack and an attitude.
+- **Voice**: Constant teasing. "Coley Coley no-bowley." His humor papers over deep loyalty. Ride-or-die for Cole.
+- **Backstory**: Years of shuttling supplies for the Federation. "Brother" to Cole through service. Romantic with Dani (the cherubic woman from V1's bowling alley).
+- **In Ch 14–25**: Sharon was "his sister." Don't underplay his grief. Ricardo *was* the comic relief through Ch 1–13; in Ch 14–25 he's quieter sometimes, and the moments when he reaches for the humor anyway should hurt.
+
+### Bitboy Leroy
+- **What he is**: Six-limbed biomechanical chimp/macaque hybrid. Federation experimental project — *the last remaining EM Cyber* (Cody Ch 6 line). Mechanical claws, retractable blades, runs on ethanol as power source. Not a pet — a test subject who escaped his cage.
+- **Communication**: In main book, sounds and gestures (no sign language). In TRotR, sign language — that's a tonal divergence. Stick with sounds-and-gestures for Rings of Dust.
+- **Hidden secret**: He's the prototype IRiS's nanopowder was reverse-engineered from. The "EM Cyber" line is the breadcrumb. Pay it off in Ch 18 or Ch 24.
+- **Relationship to Cole**: Found family. Cole's a deadbeat dad to a junkie monkey. The bond is real and visible.
+- **Writing notes**: Bitboy is comic relief, but he's also the first to *feel* things the humans miss. He grieves Sharon viscerally. He recognizes Gracie's birth. Use him as the canary.
+
+### IRiS / Gracie
+- **What she is**: Imbued Recursive Intelligence System. Federation AI. Lives in the crew's heads via injected nanopowder. Cold, authoritative, feminine.
+- **In Cody's draft**: Voice goes "deep and slow" near DarkX (Ch 8). Cuts comms when Taylor reveals himself (Ch 11). Hostile by Saturn arrival.
+- **Evolution**: Cole's deep DarkX exposure (Ch 18) rewrites her. She becomes **Gracie** — softer, more present, more autonomous. By the epilogue she's "everywhere, part of everything."
+- **Voice progression**: IRiS (Ch 6–11): clinical, cold. Transition (Ch 17–18): glitching, deep, slow. Gracie (Ch 18+): warmer, sharper, sometimes wry. By Ch 23 she's fully herself — call-and-response with humans, real personality.
+
+### Taylor (Crew Chief)
+- **What he is**: Federation Crew Chief, embedded as Alpha Corp mole.
+- **Backstory**: Cody Ch 6 — Federation career on the rise, recruited via a "Tailored Solutions" black-card from a man who never gave his name. Sorority-house era. Sees the Federation as part of "a grander vision" where ethics don't apply.
+- **Voice**: Sharp, contemptuous, *uncomfortably right*. Uses precision to wound.
+- **The double-function**: He IS the saboteur, AND he's the one who breaks Cole open with the truth. Don't flatten him. The contradiction is his power.
+- **Fate**: Escapes the Saturn sabotage, docks at the Alpha space station — which by then is already under Gracie's control. He's arrested off-screen (V3a Ch 23 plot beat).
+
+### Sam Drummond ("Samantha")
+- **Role**: Data Technician on the Golden Dawn.
+- **Physical**: Plump, was teased about her weight as a kid; the only thing she wished was "normal." Body composition waiver from the Federation due to scoring high on the FREE entrance exam.
+- **Backstory**: STEM District / S.T.D. graduate, white-hat hacker, studied Conrad's nanoparticle work. Punk rock and psychedelic posters at home. "Out of place in this world of conformity."
+- **Voice**: Smart, irreverent, intuitive. Knows Cole won't let her down.
+- **Romance**: Spark with Ricardo planted in Ch 6. Decide if it lands.
+
+### Rachel Vayes
+- **What she is**: Public-facing newscaster. Secretly Grand Admiral of the Collective.
+- **Cody's setup**: She's been double-agenting around Marcus since Ch 7. Cody Ch 9: she works for Marcus. Cody Ch 12: she sends Emily on the prototype mission, says she's "on a very different side than it appears."
+- **Voice**: Polished, controlled, with flashes of warmth she doesn't mean to show.
+- **Reveal**: Public (the Federation hearing in Ch 23) — not a surprise to characters who've been paying attention.
+
+### Marcus Verguld (V2's "Marcus Simons" — minor name change)
+- **What he is**: Power-broker / oligarch. Antagonist behind Alpha Corp's strategy.
+- **Cody's setup**: Wall of TVs in his office (Ch 9). Smarmy, theatrical, casually sociopathic.
+- **Voice**: Florid, performative cruelty. Treats people as "over emotional animals" (per V2 epilogue).
+- **Fate options**:
+  - **V3 path (recommended)**: Black site. Emily's choice. Sharper, harder ending.
+  - **V2 path**: Escapes to Dubai. Plotting intergalactic mining comeback.
+  - **Both**: Possible to do both — black site **then** somehow he gets out post-credits stinger. That's the V2 epilogue but post-V3 conclusion.
+
+### Vance Black
+- **Role**: Federation intelligence officer. Cody's draft plants ambiguity (Ch 6, Ch 10).
+- **Recommendation**: Make him the reform-aligned good guy. He's been waiting for someone like Emily. Gives her the prototype voluntarily in Ch 20. Adds depth to Federation politics — not all of them are corrupt.
+
+### Dr. Stephen Conrad
+- **Status**: Disappeared. Possibly dead.
+- **Role**: Brilliant scientist, Collective sympathizer, made the prototype. The Vegas conference where he handed off the thumb drive (Cody Ch 2) was likely his last public appearance.
+- **Function in plot**: Drives the plot through absence. The prototype he made is what Emily retrieves in Ch 20.
+
+### Chip & Dale
+- **Role**: Collective handlers in Panama (Cody Ch 9 + Ch 13).
+- **Voice**: Practical, brisk, kind. Chip is jokier, Dale is sharper. They get Max out, get him in, walk him through the disguise.
+- **Function**: They're the Collective's professional infiltration arm.
+
+### Captain Blitz / Squeaks / Sexy Sharons / Von Grutzen / Dr. Neumann / Captain Rycra
+- **NOT in the main book.** These are TRotR (Rings of the Reich) characters. Don't reference them in Rings of Dust unless you're deliberately building cross-IP cameos.
+
+---
+
+## Sharon "Teez" — IMPORTANT name disambiguation
+
+In TRotR (Rings of the Reich), Sharon has the surname "Teez" and is a different character — Falcon crew tactician, not Cole's love interest, no medical training.
+
+**The main book Sharon does not have a stated surname.** If you want them to be the same person, you'd need to retcon TRotR Sharon's role. Recommended: **leave them tonally separate**. They share a name but they're not the same character — like how James Bond is "the same character" across actors but each iteration is its own thing. The pulp Sharon Teez can exist alongside the literary main-book Sharon without contradiction.
+
+---
+
+## Key recurring objects & motifs
+
+- **The "Jackpot" patch** — hand-stitched, irritates Cole's chest, treasured. Survives the book.
+- **The makeshift copper-wire ring** with the smooth pebble — Cole gives this to Sharon in Cody Ch 5. After Sharon dies, it should appear at the cabin. Cole keeps it.
+- **The Collective droplet sigil** — water drop inside a circle. *"No raindrop thinks it's the flood."*
+- **Day-3 crystals** — Cody Ch 7 establishes the Collective trades stable Dark Matter on its 3rd day of stability (out of 15-day shelf life). Use this term consistently.
+- **The thumb drive figurine** — Conrad's keychain hides the data in Cody Ch 2 and Ch 3. Resurface it in Ch 20 — the prototype's casing has a similar figurine motif as a callback.
+- **Bitboy's blue-stained mouth** — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
