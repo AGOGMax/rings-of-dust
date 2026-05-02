@@ -223,3 +223,58 @@ In TRotR (Rings of the Reich), Sharon has the surname "Teez" and is a different 
 - **Day-3 crystals** — Cody Ch 7 establishes the Collective trades stable Dark Matter on its 3rd day of stability (out of 15-day shelf life). Use this term consistently.
 - **The thumb drive figurine** — Conrad's keychain hides the data in Cody Ch 2 and Ch 3. Resurface it in Ch 20 — the prototype's casing has a similar figurine motif as a callback.
 - **Bitboy's blue-stained mouth** — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
+
+---
+
+## DarkX & Darker Matter — Canon Science
+
+### DarkX (the raw substance)
+- **What it is**: A plasma-like substance — not quite liquid, not quite gas. Obsidian in color, changes shape into spikes and tendrils. Behaves as if it has its own personality and will. Almost sentient.
+- **Origin lore**: DarkX is what was communicating with people in *The First Spark*. It does not want to be separated, handled, or contained. Cole's first instinct during the Polaris mission is correct: it has secrets it is unwilling to share.
+- **Danger**: Extraordinarily volatile when disturbed. Crew behavioral changes near DarkX are documented — it exerts a subtle influence before anyone realizes it.
+
+### The conversion: DarkX → Darker Matter crystals
+To stabilize DarkX into usable solid form, it must be processed in a specific environment:
+1. **Salt compounds** — specific mineral salts act as a crystallization catalyst
+2. **Liquid nitrogen** — rapid cooling accelerates the transition
+3. **Negative pressure (vacuum environment)** — prevents premature detonation and forces the plasma inward into crystal structure
+
+Result: **Darker Matter crystals** — solid, dense, dark. Stable enough to handle, but will revert to DarkX vapor if placed in a standard containment unit and left at ambient pressure.
+
+### Max's accidental discovery (Ch 05)
+Max had a batch of freshly converted Darker Matter crystals at his workstation on a Friday afternoon. The official containment unit was across campus. Carrying them there meant logging the transfer, dealing with security checkpoints, and explaining why he had them at all.
+
+So he did the lazy thing. He sealed the crystals inside a spare fuel cell — packed it with nitrogen and sealed it under negative pressure as a temporary measure — and shoved it in his locker. *I'll deal with it Monday.*
+
+He came back Monday to find the locker glowing. Inside the fuel cell, the crystals hadn't just sat there — they had begun dissolving back into vapor, and that vapor had nowhere to go. Trapped under pressure inside the cell, it formed a slow vortex, a miniature storm in a jar. And the storm was *charging the cell*. The vapor was generating energy.
+
+On Day 11, the mist cleared. New crystals had formed on the *outside* of the cell's base — the cycle had completed itself. The fuel cell read fully charged.
+
+Max said "Jackpot" to an empty lab, and then felt the dread move in.
+
+### The fuel cell cycle (11-day round)
+```
+Darker Matter crystals → sealed in fuel cell (nitrogen + negative pressure)
+    → crystals dissolve into vapor → vapor forms vortex inside cell
+    → vortex charges the cell → Day 11: mist clears, new crystals form on cell exterior
+    → harvest crystals → transfer to fresh cell → repeat
+```
+The cycle is 11 days. Alpha Corp accelerated it to exactly 11 days by adding liquid nitrogen to the process. Earlier experiments ran much longer (45 days and more) before they cracked the formula.
+
+### Staking (the long-hold mechanic)
+Someone eventually figures out that a sealed, *locked* fuel cell — one made deliberately inaccessible, not harvested, just left alone — does not reset. It keeps accumulating. The vapor keeps building. The crystals keep growing, layer on layer, inside a sealed environment with no release valve.
+
+Lock a cell for **33 days**: it supercharges. The crystal yield on Day 33 dwarfs eleven individual 11-day harvests.
+
+Lock a cell for **180 days**: the cell becomes something else entirely. The accumulation is exponential. What comes out of a 180-day sealed cell is not just more crystals — it is *denser*, more potent, as if the extended confinement changed the nature of the substance itself.
+
+In the story this is hinted at — a researcher notices that the cells nobody got around to harvesting outperformed the ones on schedule. The implication spreads quietly through Alpha Corp's data. Nobody advertises it. It goes into the classified files.
+
+### Sacrifice (the void mechanic)
+Somewhere in the lore — to be placed deliberately in the plot — a character discovers that Darker Matter crystals and charged fuel cells can be *fed into DarkX itself*. Not used. Not harvested. Destroyed.
+
+When a fuel cell is sacrificed into an active DarkX field, it does not simply detonate. The DarkX absorbs it. And something comes back — not immediately, not proportionally, but eventually, and in a form that defies the ordinary accounting of matter and energy. The returns are not logical. They are **eternal in nature**: a sacrifice now that pays forward into something larger and longer than the individual act.
+
+This is the mechanic the Collective knows about and Alpha Corp does not. Or vice versa. Decide when the plot demands it.
+
+**Writing rule**: DarkX is never just a fuel source. Every scene involving it should carry the faint suggestion that it is aware of what is being done to it — and that it is patient.
