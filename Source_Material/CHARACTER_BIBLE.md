@@ -196,10 +196,13 @@ Marcus Verguld  (Rings of Dust — primary antagonist)
 - **Childhood**: Grew up with Cole Nova on adjacent streets in Culver City. Mother died of an aneurysm when Marcus was eleven. Father was Klaus — who Marcus believed was just a strange small immigrant who drove a trash truck. The "A Thousand Thrills" summer — Cole quit to go home for his dying father. Marcus stood at the kitchen table: *"I will never forget how he screwed me over."* Klaus said *"No. You won't."* and waited seven years. At twenty-four Marcus asked his father what he actually did. Klaus opened the notebook. *(The First Spark, Ch 20–21)*
 - **Cody's setup**: Wall of TVs in his office (Ch 9). Smarmy, theatrical, casually sociopathic.
 - **Voice**: Florid, performative cruelty. Treats people as "over emotional animals" (per V2 epilogue).
+- **The cold-blood register (owner, 2026-05-03)**: Marcus kills when he's *annoyed*. Not furious — annoyed. Vance Black pushed back. That was an irritant. Marcus removed it the way you swat a fly: fast, unbothered, already thinking about something else before the body hits the floor. The practiced weeping before the police call is not cynicism — it is *pleasure*. He enjoyed rehearsing it. The laughter afterward is genuine. This is what true psychopathy looks like in the Verguld line: not rage, not ideology, not even greed — just an absolute absence of the thing that would make killing *cost* something. **This is the signature of the dynasty.** Klaus was cold in a different register — patient, generational, almost sad. Marcus got the coldness without the patience. He kills the way his father placed a glass on a table: without sound, without ceremony, and completely in control.
+- **Writing rule for Marcus on-page**: He is never loud when he is most dangerous. The wall of TVs, the theatrics, the florid cruelty — that's the costume. The man under it is the one who clicked the revolver under the desk and didn't break his sentence.
 - **Fate options**:
   - **V3 path (recommended)**: Black site. Emily's choice. Sharper, harder ending.
   - **V2 path**: Escapes to Dubai. Plotting intergalactic mining comeback.
   - **Both**: Possible to do both — black site **then** somehow he gets out post-credits stinger. That's the V2 epilogue but post-V3 conclusion.
+- **Book One endpoint**: His last image is laughing alone in the dark, holding his ribs. That stays. His full reckoning is Book Two.
 
 ### Vance Black
 - **Role**: Federation Operations chief, private contractor. Alpha Corp asset turned conscience-case. The road not taken for Taylor.
@@ -222,6 +225,14 @@ Marcus Verguld  (Rings of Dust — primary antagonist)
   - **Sam is nearby.** She notices his non-reaction. Says nothing. Files it away. This is the moment she knows exactly who she's sharing a ship with. It plants her eventual break from Taylor.
   - **Writing note**: The less Taylor says here, the worse he looks. No monologue. No explanation. Visible through absence.
 - **Function**: Vance is the proof that Alpha Corp's grip could have been broken — by someone with enough spine, at the right moment. He died for it. Taylor saw what that looked like and chose the other direction, on purpose. His death is the moral center of the Ch15–17 arc.
+
+#### Build directive (owner, 2026-05-03)
+Vance needs more page time and rounding before his death lands. He is currently underwritten. The goal is for the reader to *like* him — to feel the specific loss of *this* person, not just a plot-function casualty. Scenes to build toward:
+- **Early Vance**: Ch7/Ch8 — he's on the Golden Dawn mission briefing, he's the one who processed Cole and Ricardo in. He's charming, casual, competent. A little loose. The reader should enjoy him.
+- **Vance with humor**: The black site scene is already full of dry wit under pressure (*"Appreciate the warm welcome. Nothing like eating dirt."* / *"You mean a pop?"*). That voice is the key. He's funny when he's scared. He's funniest when he's in the most trouble.
+- **Vance showing doubt**: One line, one moment — probably in Ch15 or a late Ch14 scene — where he says something that isn't quite loyal. Not a speech. Just one question he asks that shouldn't be asked, or one pause before he agrees to something. Taylor notices. Files it.
+- **Vance's last scene before the black site**: He should feel like a man who has made a decision and is at peace with the cost of it. No martyrdom speech. Just someone who finally knows what he's doing and why.
+- **Writing rule**: Do not let Vance die as a symbol. Let him die as a person. The dry wit is the armor. The scene works because Marcus kills him *while he still has the armor on.*
 
 ### Dr. Stephen Conrad
 - **Status**: Disappeared. Possibly dead. Alpha Corp took him — likely to continue the IRiS work under duress.
@@ -270,6 +281,28 @@ The populace
 
 ### Writing rule
 When the narrative prose names a villain, the villain is **Alpha Corp** (or Marcus by name). The Federation takes orders. It does not *give* orders — not at the level that matters. A Federation lieutenant issuing a command is fine; framing the Federation as the entity *behind* the crisis or *behind* the surveillance is not. The Federation is the hand. Alpha Corp is the brain. Marcus is the will.
+
+---
+
+## STRIPPED ARCS — Do Not Resurrect
+*These plot threads existed in earlier drafts (DARK_MATTER.txt, 01_Antigravity_2023-02-16.txt) and have been deliberately removed from the Rings of Dust canon. Do not reintroduce them.*
+
+### 1. Gravity sickness / pandemic
+- **What it was**: Characters suffered from "gravity sickness" — a condition linked to Dark Matter exposure and space travel. There was a pandemic-adjacent dimension to the crisis.
+- **Why stripped**: Replaced by the **energy crisis** as the central stakes. The world is running out of power, not dying of a disease. The energy crisis is tighter, more relevant, and does not compete tonally with the DarkX sentience arc.
+- **Writing rule**: Gravity sickness is gone. Any line referencing it in older prose must be updated on sight.
+
+### 2. Emily drives all night to find DeMint / the transmitter quest
+- **What it was**: After Sharon's death, Emily drives through the desert to reach Chancellor DeMint. She tells him Sharon was killed. Together they search for a piece of equipment powerful enough to amplify a signal into deep space and reach Cole aboard the Golden Dawn.
+- **Why stripped**: The stakes were routed through DeMint (a morally compromised character) and the solve was an external device. Both undercut Emily's agency. Her arc is stronger without it.
+- **What replaces it**: Emily's solo arc in Ch12–16 goes through Rachel Vayes and the Collective. Her agency comes from *within* — the Collective gives her access, not DeMint.
+- **Writing rule**: No scene where Emily's goal is "find a way to contact Cole in space via boosted transmitter."
+
+### 3. Sharon's voice through the void saves Cole
+- **What it was**: Cole is knocked out by Dark Matter exposure and near death. Somewhere in space, Sharon's voice reaches him through the void — *"Cole, I love you. Come home."* It brings him back.
+- **Why stripped**: Beautiful image, but it required the transmitter quest above to make physical sense. Without that infrastructure it becomes mystical hand-waving. More importantly: Cole's survival arc should be earned by his own internal work — the Ch18 vision, the DarkX integration — not by being pulled back by an external voice.
+- **What replaces it**: The Conrad antidote (already in Cole's bloodstream from Ch4) activates during the Ch18 DarkX event. Cole comes back because the work Conrad did, and Cole absorbed unknowingly, fires at exactly the right moment. The miracle is earned, not wished for.
+- **Writing rule**: Sharon does not speak to Cole through space. If she speaks to him it is in a Ch18 memory/vision — internal, not transmitted.
 
 ---
 
