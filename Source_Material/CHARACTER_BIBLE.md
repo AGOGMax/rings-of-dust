@@ -154,11 +154,11 @@ Klaus Verguld  (Rings of Dust — off-page presence)
 Marcus Verguld  (Rings of Dust — primary antagonist)
 ```
 
-**Wilhelm** found the dark matter information in archives where he had no business being. He read it, kept the secret, put it back, and told no one — except eventually Klaus. That single act of quiet theft is the original sin the entire Verguld empire is built on.
+**Wilhelm** *(The First Spark, Chs 13–16)* found the dark matter drives in a Directorate archive where he had no business being. He read the sequences — DarkX had written itself into the data — kept the secret, put the drives back, submitted no report, and left the Directorate fourteen months later. He changed his surname to Verguld (*"to gild"*). That single act of quiet theft is the original sin the entire empire is built on.
 
-**Klaus** was raised on those secrets. Wilhelm instilled everything into him — not as a confession but as an inheritance. Klaus moved to America, built the architecture of what would become Alpha Corp, and raised Marcus to run it. Where Wilhelm was a man who stumbled onto power and chose to keep it, Klaus was a man who *designed* a system to accumulate it. Cold, patient, generational in his thinking.
+**Klaus** *(The First Spark, Chs 17–21)* was raised on the sequences the way other children are raised on language. Wilhelm gave him everything. Klaus came to America on a freighter, settled in Culver City, drove a trash route as cover (Verde Sanitation), and spent a decade quietly building the structure that a subordinate he never met eventually named **Alpha Corp**. He raised Marcus in deliberate ignorance — "the only luxury he ever permitted himself" — so that when Marcus was ready, the wound of a small life would make him *want* the larger frame. Cold, patient, generational in his thinking.
 
-**The kitchen table (locked canon)**: Klaus saw Marcus and Cole Nova sitting together at his kitchen table as boys. They were childhood friends — the same Marcus who would later write Cole the bitter goodbye note when Cole stayed home for his dying father instead of going to work at "A Thousand Thrills." Klaus watched Cole in his own home. He already knew who Cole was long before any of this. Whether he ever thought about that boy again — and what he thought — is a question the story can answer or leave open.
+**The kitchen table (locked canon, The First Spark Ch 21)**: Cole Nova lived four streets over from the stucco house on Sawtelle. Klaus let the friendship form. The A Thousand Thrills summer — Cole quit to go home to his dying father. Marcus came home that evening and stood at the kitchen table: *"I will never forget how he screwed me over."* Klaus said: *"No. You won't."* Then he waited seven more years before he opened the notebook and told Marcus who he was. Klaus had liked the Nova boy. He wrote in cipher: *"The Nova boy is good. He may be useful or he may be in the way. Either is permissible."*
 
 ### Klaus Verguld
 - **What he is**: The architect. The original shadow behind Alpha Corp. Where Marcus is theatrical and performative, Klaus is quiet, deliberate, and almost invisible. He does not need a wall of TVs. He already knows what's on every channel.
@@ -169,7 +169,7 @@ Marcus Verguld  (Rings of Dust — primary antagonist)
 
 ### Marcus Verguld (V2's "Marcus Simons" — minor name change)
 - **What he is**: Power-broker / oligarch. Antagonist behind Alpha Corp's strategy. Klaus's heir — louder, sloppier, and more dangerous because he enjoys it.
-- **Childhood**: Grew up with Cole Nova. The "A Thousand Thrills" summer — Cole bailed on their shared plan to stay home for his dying father. Marcus wrote the bitter goodbye note ("I will NEVER forget how you screwed me over") and never forgave it. His inability to understand why someone would sacrifice for a dying parent is the first window into who he becomes. Klaus saw both boys at his kitchen table.
+- **Childhood**: Grew up with Cole Nova on adjacent streets in Culver City. Mother died of an aneurysm when Marcus was eleven. Father was Klaus — who Marcus believed was just a strange small immigrant who drove a trash truck. The "A Thousand Thrills" summer — Cole quit to go home for his dying father. Marcus stood at the kitchen table: *"I will never forget how he screwed me over."* Klaus said *"No. You won't."* and waited seven years. At twenty-four Marcus asked his father what he actually did. Klaus opened the notebook. *(The First Spark, Ch 20–21)*
 - **Cody's setup**: Wall of TVs in his office (Ch 9). Smarmy, theatrical, casually sociopathic.
 - **Voice**: Florid, performative cruelty. Treats people as "over emotional animals" (per V2 epilogue).
 - **Fate options**:
