@@ -164,8 +164,27 @@ Marcus Verguld  (Rings of Dust — primary antagonist)
 - **What he is**: The architect. The original shadow behind Alpha Corp. Where Marcus is theatrical and performative, Klaus is quiet, deliberate, and almost invisible. He does not need a wall of TVs. He already knows what's on every channel.
 - **Father of Marcus. Son of Wilhelm.**
 - **The Taylor connection (locked canon)**: The mysterious man who handed Taylor the "Tailored Solutions" card at his sorority house and slipped into the black town car without giving his name — that was Klaus Verguld. He personally identified Taylor, personally made the approach, and personally decided he was worth owning. Taylor has spent his entire career not knowing the name of the man who recruited him. That detail lands when he finally finds out.
+- **Physical tell / idiosyncrasy (the wink across books)**: Three things that always travel together:
+  1. **The pocket watch** — brass, old, Wilhelm gave it to him on his 20th birthday. Klaus never opens it to check the time. He already knows what time it is. He holds it in his palm when he is thinking — closed, just the weight of it. When Taylor is first visited by the mysterious man from the black car, he notices the watch. Years later, in a Ch14–18 reveal, he will recognize it again and understand.
+  2. **He sets things down without sound** — a glass, a card, a notebook — always placed, never put down. No impact. No announcement. Established in *The First Spark* Ch21: *"He set the glass down on the table without making a sound."*
+  3. **Always water** — never coffee, never alcohol. If he offers you something, it is water. If a scene involves Klaus and a drink, it is water. This never changes.
 - **Presence in the story**: Likely never appears on-page directly — or appears only once, briefly, in a way the reader doesn't immediately recognize. His power is in absence. Things happen because Klaus decided they would, long before anyone else knew there was a decision to make.
 - **Voice**: Minimal. When he does speak, it's one sentence that ends conversations.
+
+### Taylor backstory seeds — for Ch14–18 (extracted from Ch07)
+*These beats were removed from Ch07 to be parceled out as tension builds. Drop them as small reveals, not dumps.*
+- Taylor was built for Federation life but none of the military groups or agencies who tapped him in college caught his interest — they wanted to manage his ambition, not use it.
+- One day a thin man came to his sorority house, handed him a card reading "Tailored Solutions" with an address, and left without giving his name. Taylor watched him get into a black town car. He followed the address. That man was Klaus Verguld. Taylor still doesn't know his name.
+- Taylor has spent his entire career not knowing who recruited him. The moment he finds out is the moment his certainty about everything collapses — or doubles down.
+
+### Sam backstory seeds — for Ch14–18 (extracted from Ch07)
+*Drop as small reveals as her Collective sympathies become a live question.*
+- Never gone by Samantha since she was old enough to say so. Even her jumpsuits say Sam.
+- Teased about her weight as a kid. The only thing she ever wished were "normal." Everything else she owned.
+- Scored so high on the FREE exam that the officer wrote a body composition waiver on the spot. First time anyone went out of their way for her. It mattered.
+- STEM District / S.T.D. graduate. Studied Conrad's nanoparticle work. Breezed the classwork, struggled through basic training.
+- White-hat hacker, firewall specialist. Believes talent is for helping people, not for hoarding.
+- At home: punk rock and psychedelic posters, stencils, patches. Things that have no place in a Federation barracks. She knows exactly how out of place she is and has never once tried to fix it.
 
 ### Marcus Verguld (V2's "Marcus Simons" — minor name change)
 - **What he is**: Power-broker / oligarch. Antagonist behind Alpha Corp's strategy. Klaus's heir — louder, sloppier, and more dangerous because he enjoys it.
