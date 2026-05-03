@@ -132,7 +132,7 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
   2. **The sabotage fails.** The crew survives. Taylor flees to the escape shuttle.
   3. **Taylor's shuttle docks with the Alpha ship** — he thinks he's escaped, thinks he's home.
   4. **Ch 24 — The arrival**: Taylor makes his way to what he believes is an Alpha Corp stronghold. What he doesn't know: by the time he gets there, IRiS has already been reborn as Gracie, and Gracie has taken control of the Alpha space station. The Alpha friendlies he's expecting are gone. The people waiting for him are **Collective guards.**
-  5. **He's arrested.** Off-screen. We plant it in Ch 19 and pay it off in Ch 24. We don't need to watch it happen — the reader knowing it's coming is enough.
+  5. **He's arrested — or something worse.** Off-screen either way. The Ch24 seed has him walked down a corridor in silence — no fight, nowhere to go, Collective guards already waiting. That may be enough. But the question is open: does Taylor deserve more than quiet arrest for what he did to the crew? His consequences should equal the shittiness he treated Cole and the crew with. **Do not resolve this before Ch24 drafting.** The reader knowing it's coming is the payoff — whatever form it takes.
 
 ### Sam Drummond ("Samantha")
 - **Role**: Data Technician on the Golden Dawn. Federation employee — but the Federation is just the job that got her where she needed to be.
@@ -202,8 +202,26 @@ Marcus Verguld  (Rings of Dust — primary antagonist)
   - **Both**: Possible to do both — black site **then** somehow he gets out post-credits stinger. That's the V2 epilogue but post-V3 conclusion.
 
 ### Vance Black
-- **Role**: Federation intelligence officer. Cody's draft plants ambiguity (Ch 6, Ch 10).
-- **Recommendation**: Make him the reform-aligned good guy. He's been waiting for someone like Emily. Gives her the prototype voluntarily in Ch 20. Adds depth to Federation politics — not all of them are corrupt.
+- **Role**: Federation Operations chief, private contractor. Alpha Corp asset turned conscience-case. The road not taken for Taylor.
+- **Physical**: Casual to the point of provocation — sandals, untucked shirts, smudged $400 sunglasses. Exudes confidence without effort. The kind of man who eats dirt at a black site and comes back with a dry joke. *"Appreciate the warm welcome. Nothing like eating dirt to feel at home."*
+- **Klaus connection**: Both Vance and Taylor were recruited through the same chain — Klaus Verguld's network. Vance knew about Taylor. Taylor knew about Vance. They recognized each other as the same kind of creature and resented it.
+- **The dynamic with Taylor (Ch15–17)**: Friction without volume. Two men who both served Klaus and could never respect each other for it. Taylor was younger, more ideological, more purely Alpha Corp — a true believer. Vance was older, more pragmatic, and had accumulated doubts over years. Taylor found Vance soft. Vance found Taylor dangerous in the way true believers always are. Their friction played out in hallways, in handshakes one second too short, in the way Vance would ask a question that implied doubt and Taylor would answer for the presenter before he had to. *"Glenn had the answer for everything. The problem with men like that is they never ask the right questions."* (Vance, internal — never spoken aloud.)
+- **The turning point (Ch15–16 flashback)**: Vance goes to a classified desert black site — an abandoned drive-in theater converted to underground archive — to retrieve equipment from the Dr. Ankur files. He intends to hand it to DeMint as a double-agent offering. His conscience has been building for years. This is the moment he acts on it.
+  - He gets to the Hall of Records. The clerk tells him the vault was cleaned out last month.
+  - *"Federation Representative Rachel Vayes,"* she says. Alpha Corp trucks. Vayes beat him to it.
+  - Vance has no leverage. He has a redacted death certificate and the understanding that every exit is sealed.
+  - His choice: swallow it and stay useful to Marcus, or confront him. He confronts him. **That's who Vance is.**
+- **The murder (Ch16–17 flashback, source: 01_Antigravity_2023-02-16.txt lines 3979–4087)**: Vance goes directly to Marcus's office at Alpha Corp HQ. Night. The big swivel chair like a throne, wall of TVs flickering. He challenges Marcus — the court-martial threat, the "I've got you by the balls." Marcus shoots him with a concealed revolver under the desk without getting up.
+  - *"You'd better not try any —"* Marcus takes aim. The shot. Vance slumps.
+  - Marcus practices fake crying before calling 911. Rehearses it. *"Yeah. Hi? This is Marcus of Alpha Corp? Um, there's been a shooting and... oh my gosh."* He reports an intruder, claims self-defense.
+  - When he hangs up: blank-faced. Then laughter — hugging his ribs until it hurts.
+  - **Writing note**: Don't editorialize after the shot. No narrator intrusion. Let Marcus laughing alone in the dark be the last image. That's the one that should haunt.
+- **Taylor's reaction (aboard the Golden Dawn, late Ch17)**: Taylor receives word — comms, a message, however it reaches him in space. Vance Black, dead. Official story: intruder. Self-defense.
+  - Taylor already knows the truth. He may have flagged Vance's growing disloyalty to someone at Alpha Corp.
+  - His reaction: not grief. Not surprise. A quiet, satisfied exhale. The sense that an irritant has been removed. He doesn't pause. He doesn't look up from what he's doing for more than a second.
+  - **Sam is nearby.** She notices his non-reaction. Says nothing. Files it away. This is the moment she knows exactly who she's sharing a ship with. It plants her eventual break from Taylor.
+  - **Writing note**: The less Taylor says here, the worse he looks. No monologue. No explanation. Visible through absence.
+- **Function**: Vance is the proof that Alpha Corp's grip could have been broken — by someone with enough spine, at the right moment. He died for it. Taylor saw what that looked like and chose the other direction, on purpose. His death is the moral center of the Ch15–17 arc.
 
 ### Dr. Stephen Conrad
 - **Status**: Disappeared. Possibly dead. Alpha Corp took him — likely to continue the IRiS work under duress.

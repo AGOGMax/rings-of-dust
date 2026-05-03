@@ -1,0 +1,178 @@
+RINGS OF DUST
+Chapters Fifteen–Seventeen — Seed / Reference Material
+
+[ This file collects source prose, placement notes, and writing direction
+  for the Vance Black / Taylor Glenn parallel arc.
+  Do not treat this as final draft — it is raw material to shape. ]
+
+---
+
+## Arc Overview
+
+Ch15-17 intercut two timelines:
+  (A) Present: the Golden Dawn in deep space — Taylor's mask slowly slipping.
+  (B) Flashback: Vance and Taylor's overlapping careers as Klaus/Marcus assets.
+
+Vance is the road not taken for Taylor. He developed a conscience.
+Taylor watched what that cost Vance — and chose differently, on purpose.
+
+---
+
+## Source: Vance visits the black site
+[ Source: DARK_MATTER.txt, Chapter 30, "Vance Black Visits a Black Site" ]
+[ Placement: Ch15 or Ch16 flashback, before Marcus kills him.
+  This is where Vance's conscience fully crystallizes — he came out here
+  to get leverage, to do the right thing, and finds he's already been
+  outmaneuvered. ]
+
+KEY PROSE — Vance at the Hall of Records:
+
+    The clerk clarified, "His vault was emptied last month."
+    Vance, visibly irritated, hissed, "How... How is that possible? By whom?"
+    "I don't even have to look that one up. It was transferred by several
+    trucks with the Alpha Omega Corp emblem on the sides. These files are
+    all that's left."
+    Vance looked around wildly, barely managing to look calm.
+    "Who authorized the transfer?"
+    "Federation Representative Rachel Vayes," she replied.
+    Sensing the end of his rope, he looked into her hazel eyes.
+    "You have got to be kidding me."
+
+WRITING NOTES:
+- Vance came here as a double agent in the making — one foot in Alpha Corp,
+  one foot starting to tip toward the Federation and DeMint. He wanted the
+  equipment as leverage and as proof of good faith.
+- Rachel Vayes beat him to it. She's working the same angle from the
+  Federation side, but she serves Marcus just as much as the Federation does.
+- Vance now has no leverage. He has a death certificate, a redacted file,
+  and the dawning understanding that every exit has been sealed.
+- His choice: swallow it and stay useful to Marcus, or confront him.
+  He confronts him. That's who Vance is.
+
+---
+
+## Source: Marcus shoots Vance in cold blood
+[ Source: 01_Antigravity_2023-02-16.txt, lines 3979–4087 ]
+[ Placement: Ch16 or Ch17 flashback. The chapter's emotional gut-punch.
+  Keep it tight — this scene works best when it moves fast. ]
+
+KEY PROSE:
+
+Marcus's office, Alpha Corp HQ. Night. Vance arrives unannounced.
+
+    Vance grew defensive. "You want to know something, Marcus?
+    You sell crap that doesn't work. Okay? And your greed —
+    your bottomless greed — is going to cost me a court-martial.
+    Did you ever consider that?"
+
+    Marcus crowed, "That's the price of doing business. Oh you'll
+    get paid. After you serve your term I'm going to get you a
+    nice setup here. Big salary, full benefits."
+
+    Vance stuttered, "But I could be going to prison for years
+    for failing the Federation."
+
+    Marcus' tone dropped. "Next time you think you can out-sing
+    or out-dance me, I want you to think again."
+
+    Vance stamped his foot. "If you think I'm going down without
+    you, you are sorely, SORELY mistaken. I've got you by the balls."
+
+    Marcus said, calmly, "Sounds like a threat to me. Pull out
+    your phone."
+
+    Vance spat, "Man, screw you!"
+
+    A revolver clicked under Marcus' desk.
+    Vance grimaced. "You'd better not try any —"
+    Marcus took aim, and an explosion ripped through the air.
+
+AFTERMATH (same source, immediately following):
+
+    As Vance's body slumped over, Marcus pulled up his own phone.
+    From blank-faced to weepy, he practiced putting on the waterworks
+    a few times before making the call.
+    In hysteria, he forced out the words. "Yeah. Hi? This is Marcus
+    of Alpha Corp? Um, there's been a shooting and... oh my gosh."
+    He really had to sell this.
+    "Um, there was an intruder and I feared for my life."
+    "Mr. Marcus, we have your address on file and we're sending units
+    immediately."
+    "Oh my gosh. I am so traumatized by this. Please hurry."
+    When he hung up, Marcus went blank-faced. Then he exploded in
+    laughter, hugging his ribs when laughing started to hurt.
+
+WRITING NOTES:
+- The "dance competition" line is vintage dark comedy — Marcus killed a man
+  partly because Vance won a dance-off. Keep it. That's the point: Marcus
+  doesn't need a proportionate reason. He kills for status.
+- The practiced weeping before the call is the scariest beat. He rehearses it.
+- Don't editorialize. Let the scene speak. No narrator intruding after the shot.
+- Marcus laughing alone in the dark, holding his ribs — that's the image
+  that should land and stay.
+
+---
+
+## New Material Needed: Taylor learns of Vance's death
+
+[ Placement: Late Ch17, aboard the Golden Dawn or during Taylor's escape
+  sequence. A single scene, half a page maximum. ]
+
+WHAT HAPPENS:
+- Taylor receives word (comms, a message, however it reaches him in space)
+  that Vance Black has been killed. Official story: intruder, self-defense.
+- Taylor already knows the truth. He knew what Vance was doing.
+  He may have even flagged Vance's growing disloyalty to someone at Alpha Corp.
+- His reaction: not grief. Not even surprise. A quiet, satisfied exhale.
+  Maybe a faint smirk. The sense that an irritant has been removed.
+  "He always thought the rules were negotiable," Taylor might think.
+  "They weren't."
+- The reader should feel sick. This is the moment Taylor becomes irredeemable.
+
+WRITING NOTES:
+- No monologue. No explanation. Taylor's inner life should be visible through
+  what he does NOT do — he doesn't mourn, doesn't pause, doesn't look up
+  from what he's doing for more than a second.
+- Sam should be nearby and should notice his non-reaction. She doesn't say
+  anything yet. She files it away. (This plants her eventual break from him.)
+- Keep it short. The less Taylor says, the worse he looks.
+
+---
+
+## New Material Needed: Vance / Taylor friction in earlier flashbacks
+
+[ Placement: Ch15 — one or two scenes, seeded before the black site visit
+  and the murder. Establish them as two men who recognized each other
+  as the same kind of creature and resented what they saw. ]
+
+WHAT TO ESTABLISH:
+- Both were Klaus Verguld assets. Both knew it about the other.
+  That knowledge made them more competitive, not more allied.
+- Taylor was younger, more ideological, more purely Alpha Corp.
+  Vance was older, more pragmatic, and had accumulated doubts over years.
+- Taylor found Vance soft. Vance found Taylor naive — a true believer
+  is always the most dangerous kind of fool.
+- Their friction was never loud. It was the kind that happens in hallways,
+  in the way a man doesn't move out of your path, in the way a handshake
+  is one second too short.
+- One good concrete image: a shared briefing where Vance asks a question
+  that implies doubt about an Alpha Corp directive. Taylor answers before
+  the presenter can — clean, certain, slightly too eager. Vance looks at him
+  the way you look at a man who just volunteered for something he shouldn't have.
+
+SUGGESTED LINE (Vance internal, not spoken aloud):
+  "Glenn had the answer for everything. The problem with men like that
+  is they never ask the right questions."
+
+---
+
+## Cross-references
+
+- Ch19: Taylor betrays the crew in the cargo bay. The groundwork is laid here.
+- Ch24: Taylor arrested at Alpha station by Gracie / Collective guards.
+  Whatever Taylor's final fate is (arrest, or something more permanent),
+  this arc in Ch15-17 is what earns it.
+- CHARACTER_BIBLE: Vance Black full arc, Taylor fate arc (both updated).
+- Marcus's full reckoning: reserved for Book Two. Do NOT resolve here.
+  His self-defense call is the last we see of him laughing. That image
+  should haunt the reader until the next book.
