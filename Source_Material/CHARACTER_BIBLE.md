@@ -144,15 +144,32 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Voice**: Polished, controlled, with flashes of warmth she doesn't mean to show.
 - **Reveal**: Public (the Federation hearing in Ch 23) — not a surprise to characters who've been paying attention.
 
+### The Verguld Dynasty (locked canon)
+
+```
+Wilhelm Verguld  (The First Spark, Part 2)
+    ↓
+Klaus Verguld  (Rings of Dust — off-page presence)
+    ↓
+Marcus Verguld  (Rings of Dust — primary antagonist)
+```
+
+**Wilhelm** found the dark matter information in archives where he had no business being. He read it, kept the secret, put it back, and told no one — except eventually Klaus. That single act of quiet theft is the original sin the entire Verguld empire is built on.
+
+**Klaus** was raised on those secrets. Wilhelm instilled everything into him — not as a confession but as an inheritance. Klaus moved to America, built the architecture of what would become Alpha Corp, and raised Marcus to run it. Where Wilhelm was a man who stumbled onto power and chose to keep it, Klaus was a man who *designed* a system to accumulate it. Cold, patient, generational in his thinking.
+
+**The kitchen table (locked canon)**: Klaus saw Marcus and Cole Nova sitting together at his kitchen table as boys. They were childhood friends — the same Marcus who would later write Cole the bitter goodbye note when Cole stayed home for his dying father instead of going to work at "A Thousand Thrills." Klaus watched Cole in his own home. He already knew who Cole was long before any of this. Whether he ever thought about that boy again — and what he thought — is a question the story can answer or leave open.
+
 ### Klaus Verguld
 - **What he is**: The architect. The original shadow behind Alpha Corp. Where Marcus is theatrical and performative, Klaus is quiet, deliberate, and almost invisible. He does not need a wall of TVs. He already knows what's on every channel.
+- **Father of Marcus. Son of Wilhelm.**
 - **The Taylor connection (locked canon)**: The mysterious man who handed Taylor the "Tailored Solutions" card at his sorority house and slipped into the black town car without giving his name — that was Klaus Verguld. He personally identified Taylor, personally made the approach, and personally decided he was worth owning. Taylor has spent his entire career not knowing the name of the man who recruited him. That detail lands when he finally finds out.
-- **Relationship to Marcus**: ⚠️ **TO DECIDE** — father? uncle? older brother? Recommended: **father**. Marcus inherited the empire Klaus built. The difference in their styles (Klaus = cold precision, Marcus = loud sociopathy) is a generational divergence — the son got sloppy with the power his father spent a lifetime accumulating quietly.
 - **Presence in the story**: Likely never appears on-page directly — or appears only once, briefly, in a way the reader doesn't immediately recognize. His power is in absence. Things happen because Klaus decided they would, long before anyone else knew there was a decision to make.
 - **Voice**: Minimal. When he does speak, it's one sentence that ends conversations.
 
 ### Marcus Verguld (V2's "Marcus Simons" — minor name change)
 - **What he is**: Power-broker / oligarch. Antagonist behind Alpha Corp's strategy. Klaus's heir — louder, sloppier, and more dangerous because he enjoys it.
+- **Childhood**: Grew up with Cole Nova. The "A Thousand Thrills" summer — Cole bailed on their shared plan to stay home for his dying father. Marcus wrote the bitter goodbye note ("I will NEVER forget how you screwed me over") and never forgave it. His inability to understand why someone would sacrifice for a dying parent is the first window into who he becomes. Klaus saw both boys at his kitchen table.
 - **Cody's setup**: Wall of TVs in his office (Ch 9). Smarmy, theatrical, casually sociopathic.
 - **Voice**: Florid, performative cruelty. Treats people as "over emotional animals" (per V2 epilogue).
 - **Fate options**:
