@@ -247,6 +247,15 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **"Tell him I'm sorry"**: Conrad's last line to Emily in the updated Ch 2 prose. Cole won't understand it in Ch 2 or Ch 4. He will in Ch 19 when the antidote breaks through.
 - **Function in plot**: Drives the plot through absence AND through the antidote he left behind. The prototype Emily retrieves in Ch 20 is separate from the thumb drive — it's the quantum-comms node Conrad built to punch through IRiS jamming.
 
+### Ryan Greenbaum
+- **Title**: Federal Council Police. Presents as law enforcement; functions as Alpha Corp muscle dressed in government credentials.
+- **First appearance**: Ch2 — the Vegas conference. Approaches Emily and Sharon, attempts to intimidate. Sharon runs the elevator humiliation on him; he falls out of the doors half-undressed. She hands him a lollipop as the doors close.
+- **The transformation**: By Ch7, this is not the same man from the elevator. Greenbaum moves with purpose, jaw clenched, hardened. The humiliation calcified. *"This was not the man they left in the elevator, floundering after their game."* He ambushes Emily and Sharon in the industrial cul-de-sac. Sharon blocks the shot to protect Emily. Sharon dies.
+- **What made him**: Years of being looked through by men like Taylor Glenn. Being dismissed in briefing rooms. Being talked past. Absorbing it. Straightening his jacket and acting like it didn't happen. **The Ch15–17 flashback contains one beat — a single moment in a shared room where Taylor talks past him mid-sentence and Vance doesn't intervene.** That beat is not named, not called out, not editorially flagged. It just happens and the scene moves on.
+- **The Easter egg**: The reader who connects that Ch15-17 moment to the Ch7 shooting gets a gut-punch. The reader who doesn't isn't pulled out of Vance's arc. That's the intent — catch it or don't, it works either way.
+- **After Ch7**: Collective sniper takes Greenbaum out — he dies in the cul-de-sac. Sharon's death is what the bullet ricocheting from his dying hand causes. He is the instrument; Taylor (and the system Taylor serves) is the forge that shaped him.
+- **Writing rule**: Greenbaum is never cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
+
 ### Chip & Dale
 - **Role**: Collective handlers in Panama (Cody Ch 9 + Ch 13).
 - **Voice**: Practical, brisk, kind. Chip is jokier, Dale is sharper. They get Max out, get him in, walk him through the disguise.

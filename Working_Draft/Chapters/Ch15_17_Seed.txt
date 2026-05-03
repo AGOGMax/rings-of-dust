@@ -166,6 +166,49 @@ SUGGESTED LINE (Vance internal, not spoken aloud):
 
 ---
 
+## Easter Egg: Ryan Greenbaum in the flashback
+[ Placement: ONE beat, inside the Vance/Taylor friction scene in Ch15 or Ch16.
+  Do not give it its own scene. Do not call attention to it.
+  The camera passes through it on the way to something else. ]
+
+WHAT HAPPENS:
+- Greenbaum is in the room — a junior Federation officer, unremarkable,
+  trying to contribute. He says something during a briefing or debrief.
+  It's not wrong. It's just small.
+- Taylor dismisses it without looking at him. Not a takedown — just a redirect,
+  the kind that erases the person who spoke. Like they never said anything.
+- Vance doesn't intervene. He moves on. Greenbaum stands there for a beat,
+  recalibrated, and then straightens up and acts like it didn't happen.
+- That's it. The scene continues. Vance and Taylor keep going.
+
+WHY IT WORKS:
+- Greenbaum has already been established in Ch7 as a man running on
+  humiliation and resentment — the elevator scene, the sulfuric cologne,
+  the rigid jaw, the "women get away with bloody murder" line. That is
+  a man shaped by years of being looked through by people like Taylor.
+- This beat is where one of those years happened.
+- The reader who catches it gets a gut-punch callback when Sharon is shot.
+  The reader who doesn't catch it doesn't notice anything — Vance's arc
+  keeps moving without interruption.
+
+WRITING NOTES:
+- Do NOT name the connection in the prose. No narrator wink. No Vance
+  noticing Greenbaum's expression and filing it away. Just the beat,
+  clean, and then the scene moves on.
+- Greenbaum should not look angry in the moment. He should look practiced —
+  the practiced neutrality of someone who has learned to absorb this
+  and not show it. That's scarier than anger.
+- One sentence is enough. Two at most. If you're writing more than that,
+  you've broken the Easter egg — you've made it a scene instead of a seed.
+
+SUGGESTED IMAGE:
+  Greenbaum offered something — a number, an observation, a small piece
+  of data. Taylor talked over the end of it. Not to Greenbaum. Just...
+  past him. Vance was already moving to the next point on the board.
+  Greenbaum nodded like he'd agreed.
+
+---
+
 ## Cross-references
 
 - Ch19: Taylor betrays the crew in the cargo bay. The groundwork is laid here.
