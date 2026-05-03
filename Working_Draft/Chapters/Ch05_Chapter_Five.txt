@@ -64,6 +64,10 @@ DeMint's jaw clenched. "What about production? Can we ramp it up?"
 
 Sam, a data technician who had been silent until now, leaned forward. "We've been experimenting with the accumulations on the cells. We can extend the stability for a few more days, but it's not enough. We need their data."
 
+Taylor didn't look at her. He addressed the room. "Extending accumulation cycles based on experimental intuition isn't a strategy. It's a feeling. And feelings don't hold up at a briefing table." A half-beat pause. "Or in the field."
+
+Sam's eyes stayed on her screen. "Funny. I've found that following the data leads to better outcomes than following whoever's currently at the top of the org chart." She pulled up a new readout and turned it toward Dr. Salazar without acknowledging Taylor at all. "The numbers are right here if anyone wants to look at them instead of quoting policy."
+
 Dr. Salazar's expression didn't change, her gaze steady and unyielding. "Alpha Corp has already shared everything they can. The proprietary information is classified."
 
 Sam's hands curled into fists. "We're all fighting the same battle. The least they could do is give us a chance."
