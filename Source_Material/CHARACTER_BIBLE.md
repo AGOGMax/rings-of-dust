@@ -123,7 +123,7 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 
 ### Taylor Glenn (Crew Chief)
 - **What he is**: Federation Crew Chief by title. Alpha Corp plant by allegiance. He knows exactly what he is and has known since the "Tailored Solutions" card. No delusion, no ambivalence — he chose this.
-- **Backstory**: Cody Ch 6 — Federation career on the rise, recruited via a "Tailored Solutions" black-card from a man who never gave his name. Sorority-house era. Sees the Federation as part of "a grander vision" where ethics don't apply.
+- **Backstory**: Federation career on the rise when a man appeared at his sorority house, handed him a card reading "Tailored Solutions," and left without giving a name. The man got into a black town car and was gone. That man was **Klaus Verguld**. Taylor followed the address on the card and never looked back. He does not know who Klaus is — not yet. He knows only that whoever sent him commands everything Taylor has been asked to do.
 - **Mission**: Steer the Saturn mission in Alpha Corp's direction. Sabotage what needs sabotaging. Report back. He is not conflicted about any of it — that's what makes him dangerous.
 - **Voice**: Sharp, contemptuous, *uncomfortably right*. Uses precision to wound.
 - **The double-function**: He IS the saboteur, AND he's the one who breaks Cole open with the truth. Don't flatten him. The contradiction is his power — he can tell the truth about Cole's failures while serving the thing that caused them.
@@ -144,8 +144,15 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Voice**: Polished, controlled, with flashes of warmth she doesn't mean to show.
 - **Reveal**: Public (the Federation hearing in Ch 23) — not a surprise to characters who've been paying attention.
 
+### Klaus Verguld
+- **What he is**: The architect. The original shadow behind Alpha Corp. Where Marcus is theatrical and performative, Klaus is quiet, deliberate, and almost invisible. He does not need a wall of TVs. He already knows what's on every channel.
+- **The Taylor connection (locked canon)**: The mysterious man who handed Taylor the "Tailored Solutions" card at his sorority house and slipped into the black town car without giving his name — that was Klaus Verguld. He personally identified Taylor, personally made the approach, and personally decided he was worth owning. Taylor has spent his entire career not knowing the name of the man who recruited him. That detail lands when he finally finds out.
+- **Relationship to Marcus**: ⚠️ **TO DECIDE** — father? uncle? older brother? Recommended: **father**. Marcus inherited the empire Klaus built. The difference in their styles (Klaus = cold precision, Marcus = loud sociopathy) is a generational divergence — the son got sloppy with the power his father spent a lifetime accumulating quietly.
+- **Presence in the story**: Likely never appears on-page directly — or appears only once, briefly, in a way the reader doesn't immediately recognize. His power is in absence. Things happen because Klaus decided they would, long before anyone else knew there was a decision to make.
+- **Voice**: Minimal. When he does speak, it's one sentence that ends conversations.
+
 ### Marcus Verguld (V2's "Marcus Simons" — minor name change)
-- **What he is**: Power-broker / oligarch. Antagonist behind Alpha Corp's strategy.
+- **What he is**: Power-broker / oligarch. Antagonist behind Alpha Corp's strategy. Klaus's heir — louder, sloppier, and more dangerous because he enjoys it.
 - **Cody's setup**: Wall of TVs in his office (Ch 9). Smarmy, theatrical, casually sociopathic.
 - **Voice**: Florid, performative cruelty. Treats people as "over emotional animals" (per V2 epilogue).
 - **Fate options**:
