@@ -144,10 +144,15 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Writing note**: Taylor and Sam share a bunk room and a mission. One is knowingly steering toward catastrophe. The other is quietly watching. The irony is that Taylor thinks he's the sophisticated one.
 
 ### Rachel Vayes
-- **What she is**: Public-facing newscaster. Secretly Grand Admiral of the Collective.
-- **Cody's setup**: She's been double-agenting around Marcus since Ch 7. Cody Ch 9: she works for Marcus. Cody Ch 12: she sends Emily on the prototype mission, says she's "on a very different side than it appears."
-- **Voice**: Polished, controlled, with flashes of warmth she doesn't mean to show.
-- **Reveal**: Public (the Federation hearing in Ch 23) — not a surprise to characters who've been paying attention.
+- **What she is**: Chancellor of the Federation — public face, authority figure, news-adjacent. Secretly the **Grand Admiral of the Collective**. The highest rank that exists. One person holds it. She's held it since before the book opens.
+- **The long game**: While Marcus built Alpha Corp into a shadow government, Rachel built the Collective into the thing that could outlast it. She has been playing this longer than Marcus has been playing anything.
+- **Act 1 read**: Marcus's ally. His public validator. She appears at his events, she echoes his framing, she is — to all appearances — one more instrument in his orchestra. The reader should believe this.
+- **Act 2 turn**: After Sharon's shooting, Rachel finds Emily. She helps her. It reads as ambiguous — is she running Emily as an asset for Marcus, or is she actually on a different side? *"On a very different side than it appears"* (Cody Ch 12) — that line lands differently on a reread.
+- **The Grand Admiral mystery thread (runs throughout the book)**: The Collective has an internal mythology around the Grand Admiral. Lower-ranked members treat it as legend — some believe the rank exists and someone holds it, others think it's a motivational fiction the Navigators invented to give the organization gravity. Characters joke about it. *"Right, and I'm the Grand Admiral."* The jokes should make the reader smile and forget about it.
+- **The reveal**: Late in the book — Ch 23 or the Federation hearing. Rachel is exposed not as Marcus's asset but as the architecture behind everything that has been working against him. The Grand Admiral rank insignia — **bronze star, olive leaf wreath** — is the visual signal. The reader who has seen the Collective rank chart understands in an instant what they are looking at.
+- **Why the reveal lands**: She was never hiding who she was. She was hiding where she stood. The public figure, the polished voice, the apparent loyalty to Marcus — all of it was operational cover for the longest-running infiltration in the book. She didn't betray Marcus. She was never his.
+- **Voice**: Polished, controlled, with flashes of warmth she doesn't mean to show. On reread, those warmth flashes are the real her leaking through.
+- **Rank insignia**: Bronze star with olive leaf wreath. Singular. No other rank has it.
 
 ### The Verguld Dynasty (locked canon)
 
@@ -287,6 +292,58 @@ The populace
 **The Federation is NASA.** A real government agency with real scientists and real Astros who mostly believe in what they're doing. Not uniformly corrupt — Vance Black is proof of that. But captured at the top. Its leadership takes Alpha Corp's directives as policy and its rank-and-file either don't know or look the other way. The Federation's bureaucratic weight, legal authority, and military resources are Alpha Corp's to borrow whenever needed. "The Federation is crawling with MY employees" (Marcus, Ch 10) — that's the tell. The institution is genuine; the control is total.
 
 **Cole, Sharon, and Conrad were all "used."** Alpha Corp needed Cole's expertise, tried to conscript it. It turned Sharon into a weapon. It coerced Conrad into corrupting Gracie. The pattern is the same each time: find someone exceptional, exploit them, discard or reprogram the ones who resist.
+
+### The Collective — Rank Structure
+
+The Collective is not an army. It is a living network — volunteers, sympathizers, specialists, and true believers who found each other through the grey market that grew up alongside Alpha Corp's rise. The rank structure reflects function, not seniority. You don't climb it through time served. You climb it through what you do.
+
+```
+TIER 1 — INTELLIGENCE
+  Informant          [symbol: Collective water droplet]
+  Jr. Operator       [symbol: pin — small, plain]
+  Sr. Operator       [symbol: pin — small, plain]
+  Lead Operator      [symbol: pin — prominent]
+
+TIER 2 — TECHNICAL
+  Jr. Technician     [symbol: wrench pin]
+  Sr. Technician     [symbol: wrench pin]
+  Lead Technician    [symbol: wrench pin — gold]
+
+TIER 3 — FIELD
+  Jr. Agent          [symbol: sunglasses patch]
+  Sr. Agent          [symbol: sunglasses patch — tinted]
+  Special Agent      [symbol: sunglasses patch — dark, full frame]
+
+TIER 4 — NAVIGATION  (strategic; they see the whole board)
+  2nd Navigator      [symbol: compass]
+  1st Navigator      [symbol: compass — detailed]
+  Chief Navigator    [symbol: compass — ornate, gold]
+
+TIER 5 — COMMAND
+  2nd Officer        [symbol: star — silver]
+  1st Officer        [symbol: star — gold]
+  Chief Officer      [symbol: star — red/crimson]
+
+TIER 6 — SINGULAR
+  Grand Admiral      [symbol: bronze star + olive leaf wreath]
+```
+
+**Story function of each tier:**
+- **Intelligence**: The eyes and ears. Informants and Operators are the people in every building, every agency, every shipping dock who notice things and pass them up. Sharon was Collective-adjacent at this level — she ran black-market parts, she knew handlers, she never carried the patch but she knew the drop points.
+- **Technical**: The builders, hackers, engineers. Sam Drummond belongs here in spirit, whether she carries the patch or not. Conrad's nanoparticle work was funded through Technician-level Collective cells without his knowledge.
+- **Field**: Active operatives. They carry the sunglasses patch (on the inside of a bag lining, not on a lapel). They move things, people, and information under cover. Chip and Dale are Special Agents.
+- **Navigation**: The strategists. They don't run missions — they plan them. They see across factions, they know who is and isn't who they appear to be. Rachel's reach operates at this level even before the Grand Admiral reveal.
+- **Command**: The inner circle. A handful of people, most of them founding members who couldn't go along with what Alpha Corp was becoming. They know about the Grand Admiral. They follow her without ever publicly confirming she exists.
+- **Grand Admiral**: One rank. One person. Rachel Vayes. The rank is so rare that lower tiers treat it as mythology. *"There are rumors of a Grand Admiral, but who could wrangle an entire secret army of volunteers?"* (Full_First_Draft.txt, Ch narrator) — that line was always the answer hiding in plain sight.
+
+**The mystery thread — writing rule:**
+The Grand Admiral should be referenced as rumor and legend throughout the book. Characters at Operator and Technician level treat it like a campfire story. Agents take it more seriously but still with skepticism. Navigators know. Command knows. The reader should encounter the jokes first and the truth last.
+- First reference: a throwaway line from a minor Collective character. *"Right, and I'm the Grand Admiral."*
+- Middle reference: Emily hears it from Rachel herself — Rachel says something that, on reread, is obviously a tell. But it reads as deflection in the moment.
+- Final reveal: the bronze star and olive wreath. Visual, instant, irreversible.
+
+**The game connection:**
+The rank structure maps directly to the DARK token reward points system. Players who reach Special Agent rank receive a physical copy of *Rings of Dust*. A player who reaches Grand Admiral has done something extraordinary — the book's fictional mythology and the real community mythology collapse into the same thing. The Collective isn't just a faction in a story. It *is* the community.
 
 ### Writing rule
 When the narrative prose names a villain, the villain is **Alpha Corp** (or Marcus by name). The Federation takes orders. It does not *give* orders — not at the level that matters. A Federation lieutenant issuing a command is fine; framing the Federation as the entity *behind* the crisis or *behind* the surveillance is not. The Federation is the hand. Alpha Corp is the brain. Marcus is the will.
