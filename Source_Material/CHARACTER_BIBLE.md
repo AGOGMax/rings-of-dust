@@ -127,7 +127,12 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Mission**: Steer the Saturn mission in Alpha Corp's direction. Sabotage what needs sabotaging. Report back. He is not conflicted about any of it — that's what makes him dangerous.
 - **Voice**: Sharp, contemptuous, *uncomfortably right*. Uses precision to wound.
 - **The double-function**: He IS the saboteur, AND he's the one who breaks Cole open with the truth. Don't flatten him. The contradiction is his power — he can tell the truth about Cole's failures while serving the thing that caused them.
-- **Fate**: Escapes the Saturn sabotage, docks at the Alpha space station — which by then is already under Gracie's control. He's arrested off-screen (V3a Ch 23 plot beat).
+- **Fate arc (locked canon):**
+  1. **Ch 19 — The trap**: Taylor calls a fake "system check" that herds Cole, Sam, Ricardo, and Bitboy into the cargo bay. Doors seal. IRiS goes dead. His voice on the intercom: *"I told you to stop looking for someone to blame, Cole."* He tries to leave the crew to die aboard the Golden Dawn while the Alpha Corp ship moves in to take the harvested DarkX.
+  2. **The sabotage fails.** The crew survives. Taylor flees to the escape shuttle.
+  3. **Taylor's shuttle docks with the Alpha ship** — he thinks he's escaped, thinks he's home.
+  4. **Ch 24 — The arrival**: Taylor makes his way to what he believes is an Alpha Corp stronghold. What he doesn't know: by the time he gets there, IRiS has already been reborn as Gracie, and Gracie has taken control of the Alpha space station. The Alpha friendlies he's expecting are gone. The people waiting for him are **Collective guards.**
+  5. **He's arrested.** Off-screen. We plant it in Ch 19 and pay it off in Ch 24. We don't need to watch it happen — the reader knowing it's coming is enough.
 
 ### Sam Drummond ("Samantha")
 - **Role**: Data Technician on the Golden Dawn. Federation employee — but the Federation is just the job that got her where she needed to be.
