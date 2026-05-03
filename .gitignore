@@ -20,3 +20,10 @@ Thumbs.db
 
 # OS metadata
 desktop.ini
+
+# Large design/video files in Images
+Source_Material/Images/**/*.ai
+Source_Material/Images/**/*.psd
+Source_Material/Images/**/*.mp4
+Source_Material/Images/**/*.pdf
+Source_Material/Images/**/*.heic
