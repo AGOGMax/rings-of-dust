@@ -27,3 +27,11 @@ Source_Material/Images/**/*.psd
 Source_Material/Images/**/*.mp4
 Source_Material/Images/**/*.pdf
 Source_Material/Images/**/*.heic
+
+# Video assets — tracked in VIDEO_INDEX.md, binaries stay local
+Source_Material/Videos/*.mp4
+Source_Material/Videos/*.MP4
+Source_Material/Videos/*.mov
+Source_Material/Videos/*.MOV
+Source_Material/Videos/*.avi
+Source_Material/Videos/*.mkv
