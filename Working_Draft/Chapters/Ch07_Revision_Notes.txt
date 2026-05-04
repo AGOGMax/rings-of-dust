@@ -1,0 +1,284 @@
+RINGS OF DUST
+Chapter Seven — Revision Notes
+[ From session 2026-05-03 — all items actionable ]
+
+---
+
+## 1. "This is for everyone who wasn't able to join us" (line ~134)
+
+CURRENT:
+  "Thank you all for everything you guys have done to get us to this point.
+   This is for everyone who wasn't able to join us."
+
+PROBLEM: Vague. Originally referred to people who died from the gravity sickness
+(stripped arc). Now means nothing specific.
+
+FIX: Make explicit — Cole is talking about crew members killed in the explosion
+at the beginning of the book. He should name the loss briefly, or at least
+gesture at it with enough specificity that the reader knows exactly what he means.
+
+SUGGESTED DIRECTION:
+  "Thank you for everything you've done to get us here. This launch —
+   this mission — is for the crew we lost at the start. We carry them."
+   [something in that register — specific enough to feel real, not so long
+   it becomes a speech. The engineers know. Cole knows. That shared knowledge
+   is what makes the cheer land.]
+
+
+---
+
+## 2. IRiS in Cole's head — needs to feel MORE WRONG
+
+CURRENT: Cole's reaction is mostly matter-of-fact. One line about "unsettlingly
+clear" — not enough.
+
+CONTRAST NEEDED: Gracie was Siri/Alexa — passive, only spoke when addressed,
+lived in a device outside him. IRiS is INSIDE HIS HEAD. It speaks without being
+asked. It knows his schedule before he checks it. It wakes him directly.
+Cole has never had another consciousness living in his skull before.
+
+That should feel like a violation. Not dramatic — Cole is a soldier, he'll
+compartmentalize — but the physical wrongness of it should be present.
+
+KEY MOMENTS TO EXPAND:
+  a) The moment the nanopowder hits (line ~30) — the cold fire in his veins,
+     the first voice. That's the violation landing. Currently goes too fast
+     to his "Thank you, iRIS. Let's get to work." He should need a beat.
+     Not panic — just a man recalibrating what his own head feels like now.
+
+  b) The sleep scene (~line 96) — "not entirely used to integrating her into
+     his life" is too clinical. What does it actually feel like to try to fall
+     asleep when someone else is in the room? Except the room is your skull.
+
+  c) SETUP PAYOFF: When Gracie returns at the end of the book, Cole should
+     feel the relief of his own silence back. Plant now what that silence will
+     mean later. The absence of Gracie that he took for granted.
+
+WRITING NOTE: Don't make IRiS sinister YET in Ch7. The horror is subtle —
+just the strangeness of not being alone in your own thoughts. IRiS is coldly
+professional. That's almost worse.
+
+
+---
+
+## 3. Sam Drummond — plant her as a Collective asset
+
+EXISTING PLANT: The patch scene (current line ~90) — Collective insignia
+(black background, white stencil of a fist inside a circle) sewn inside
+her bag lining. KEEP THIS. It's clean and doesn't draw attention.
+
+ADD: A beat — brief, easily missed — where Sam is secretly sending a
+transmission. Mirror structure: Taylor is checking his SmartCom for
+incoming messages from Alpha Corp (~line 160). Sam should have her own
+version of this. The reader who catches both gets the full picture:
+two crew members with outside allegiances, neither knowing about the other.
+
+WRITING RULE: Do NOT make Sam villainous. She's a plant with real feelings
+developing. Her mission: entangle/seduce Heavy Hitter (Ricardo) and make him
+sympathetic to the Collective cause. Over time, the romance becomes real.
+
+LATER CONFLICT: Ricardo eventually realizes he was being played at the
+start. Point of tension — resolves like a rom-com. He fell for it,
+and then he fell for her, and both things are true.
+
+
+---
+
+## 4. Sam's antidote (Collective-issued)
+
+MECHANIC: IRiS is present in Sam, but cannot access her thoughts, memories,
+or situational awareness. She has a Collective-issued "patch" — she's
+inoculated against the full penetration of IRiS. Still carries it,
+still appears affected to outside observers. Less affected than the others.
+
+PLANT IN CH7: One small beat where Sam's reaction to iRIS feels slightly
+different from Cole's and Ricardo's — she accepts it too easily, or her
+eyes don't show the same adjustment the others show. Something small.
+Don't explain it. Let it be a seed.
+
+PAYOFF: When Gracie comes back and IRiS is expelled, Sam's transition
+back is notably smoother than the others. This can be the moment
+someone (Cole? Ricardo?) starts to ask questions.
+
+
+---
+
+## 5. Bitboy NOT inoculated — use this as an IRiS/Taylor detection thread
+
+ALREADY IN TEXT: "Bitboy was the only crew member not inoculated with
+the electronics spore." (line 94) — KEEP, plant harder.
+
+NEW USE: Bitboy begins to pick up that IRiS is giving Taylor different
+instructions than the rest of the crew. He can't articulate it — he's a
+chimp — but he communicates to Cole that something is off. This becomes
+part of the thread that eventually exposes IRiS/Taylor.
+
+HOW BITBOY MIGHT COMMUNICATE THIS:
+  - Agitation near Taylor that he doesn't show near others
+  - Mimicking something he heard (monkeys do this)
+  - Refusing to go near a piece of equipment that Taylor has been alone with
+  - Chirping/gesturing in a specific direction when Taylor leaves the room
+
+WRITING NOTE: Don't make this a Lassie-moment. Subtle. Cole notices it,
+files it, doesn't understand it yet.
+
+
+---
+
+## 6. Mantis Blades — introduce earlier and use harder
+
+CURRENT: First mention in Ch7, line 114: "extending his mantis blades briefly"
+One word, one beat, moves on.
+
+PROBLEM: If mantis blades are going to be used to destroy a carload of
+enemies later, the reader needs to know what they are and why they're
+terrifying. Right now they're introduced as casual background detail.
+
+FIXES NEEDED:
+  a) When Bitboy is FIRST introduced (earlier chapters, wherever he debuts) —
+     describe the blades properly. Six-limbed biomechanical hybrid. Mechanical
+     arms with retractable blades. What do they look like? What's the sound
+     when they extend? What does it feel like to be near him when they're out?
+
+  b) In Ch7, the "extending his mantis blades briefly" beat can stay but
+     needs one line of reaction — from Ricardo, from Cole, from someone —
+     that establishes these aren't decorative.
+
+  c) The carload attack scene — Bitboy using blades should feel earned
+     and visceral. We need to have seen them enough times to know what
+     we're in for when he actually deploys them at full capacity.
+
+BITBOY ORIGIN (from source: 01_Antigravity_2023-02-16.txt):
+  - Created by 17 Hindu doctors (3 were Sikhs — "that's a long debate")
+  - Hardware/software flaw: cannot stop drinking things that will kill him
+    (motor oil, antifreeze — he has no "stop" signal for harmful ingestion)
+  - Runs on ethanol as a power source
+  - Federation experimental project / last remaining EM Cyber
+  - Six limbs — some biomechanical
+  - Commands: "Bitboy, attack" / "defend" / "play" / "kamikaze"
+  - Blue eye glow = enhanced/superpower mode active
+
+SUGGESTED LINE (add to wherever Bitboy is introduced):
+  "The doctors who built him — seventeen of them, give or take a Sikh —
+   had solved everything except the one problem that would eventually
+   become everyone's problem: they had forgotten to give him an off switch
+   for things he shouldn't be putting in his mouth."
+   [or whatever register fits the voice of that chapter]
+
+
+---
+
+## 7. Who attacks Cole and Ricardo? (carload — Bitboy deploys)
+
+RESOLUTION: These are NOT agents, operatives, or hired professionals.
+They are grieving family members of crew killed in the opening explosion.
+
+Cole went into hiding after the incident. Heavy came to pick him up.
+Some families lashed out publicly — screaming at Cole that it should
+have been him. Some plotted. These people found out Cole was resurfacing
+and heading to the Federation. They drove at him.
+
+They look exactly like what they are: civilians in a pickup truck
+running on vengeance, not training. Not well-equipped. Not coordinated.
+Just determined and wrong about what would make the pain stop.
+
+BITBOY'S MOMENT: This is where the mantis blades deploy at full capacity.
+The scene earns its weight not because the attackers are dangerous
+operators — but because of what they represent. Bitboy doesn't know
+any of that. He just knows his command.
+
+THE ID REVEAL: After the scene, someone checks a wallet or ID on one
+of the attackers. The name connects to one of the crew members lost
+in the explosion. This beat lands quietly — no announcement, no dialogue.
+Cole or Heavy sees the name, recognizes it. A beat of silence.
+They get back in the car. That silence is more devastating than any words.
+
+HEAVY'S LOYALTY DEFINED HERE: He came to get Cole out of hiding.
+He stood next to him through the attack. He saw the name on the ID.
+He's still there. That's not loyalty in the abstract — it's loyalty
+with full knowledge of the cost.
+
+STRUCTURAL PAYOFF: The attack loads Cole's launch speech ("the crew
+we lost before we ever cleared the ground") with retroactive weight.
+Cole just faced the family of that crew hours before saying those words.
+The engineers cheering in the control room knew them too. The grief
+runs in multiple directions at once.
+
+SCENE LOCATION: This scene precedes Ch7 — it happens when Heavy picks
+Cole up from hiding to bring him to the facility. Find or write it in
+the chapter immediately prior to Ch7.
+
+WRITING NOTE: Play the attackers with full humanity. They're not
+villains. They're not wrong to be in pain. They're wrong about this.
+That distinction is what makes the scene hurt.
+
+
+---
+
+## 8. Sharon and Emily — turning over the drive
+
+EVENT: Sharon and Emily turn over the unencrypted drive (Bitboy unlocked it)
+to the Collective when they drop off the crystals.
+
+NOTE: This needs to be woven into whatever chapter covers the crystal
+drop-off. The encrypted drive became unencrypted when Bitboy unlocked it.
+That drive going to the Collective is a significant handoff — it should
+feel like one.
+
+
+---
+
+## 9. Crystal timeline with Max — FIX NEEDED in Max's chapter
+
+CURRENT (WRONG): Max "just barely got them crystallized Friday morning"
+and doesn't want to turn them in.
+
+CORRECT TIMELINE:
+  - Fuel cell cycle = 11 days
+  - Max crystallized the DarkX 11 days ago
+  - The crystals are now approaching reversion back to DarkX
+  - Company protocol: must turn them in within 24 hours before reversion
+  - Max has missed the window / is cutting it dangerously close
+  - This is the screwup — not laziness about turning them in, but
+    a timing failure with real consequences
+
+ACTION: Find Max's chapter and fix the timeline to match.
+This changes the STAKES of that scene — it's not "he's dragging his feet,"
+it's "the clock is running and he's already behind."
+
+
+---
+
+## 10. First Collective appearance in space — plant future threads
+
+CURRENT (END OF CH7):
+  "One of the men turned to the others.
+   'Are we considered drops or snowflakes at this temp?'"
+
+THIS IS: The first time we see the Collective operating in space.
+They're watching the Golden Dawn launch. Cold, casual, competent.
+
+PLANT FROM HERE:
+  a) Future appearances of Collective operatives in space — this crew
+     of three (in the East Asian decommissioned shuttle) should recur.
+     Give them texture now so they mean something when they return.
+
+  b) Sam's secret comms — she is transmitting to the Collective from
+     inside the Golden Dawn. This mirrors Taylor transmitting to Alpha Corp.
+     Both happen in the same chapter, neither knows about the other.
+     The reader sees both. This is the dramatic irony that runs the
+     entire mission arc.
+
+STRUCTURAL NOTE: Two plants to add near the end of Ch7:
+  1. Taylor checking his SmartCom (already there, line ~160) —
+     this is his Alpha Corp check-in. Needs one beat more specificity:
+     he's not just checking vibration mode, he's confirming receipt
+     of a message he was expecting.
+  2. Sam — a parallel beat. She slips away for 90 seconds. Or she
+     times a transmission to coincide with a moment when everyone
+     is occupied at launch. Something small, procedural, invisible
+     to the crew but visible to the reader.
+
+---
+
+[ END REVISION NOTES — Ch07 ]

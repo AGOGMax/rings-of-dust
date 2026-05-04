@@ -29,9 +29,15 @@ Cole managed to extract his hand from the Chancellor's iron grip and hurriedly s
 
         As Cole signed the final document, the pen's tip scratched against the paper with a finality that seemed to echo through the sterile room, and a small silver device embedded within the table activated. It released a cloud of microscopic particles that shimmered in the harsh overhead light. The nanopowder settled onto his skin, and for a moment, nothing happened. Then, the particles burrowed into his skin like countless tiny needles, each one a pinpoint of cold fire. The veins in his hand lit up, glowing faintly as the particles spread through his bloodstream, racing up his arm and across his body.
 
-        "Welcome aboard, Mr. Nova," a voice said directly in his mind, startling him. It was cold and authoritative, unmistakably feminine, lacking any hint of warmth. "I am iRIS, the Imbued Recursive Intelligence System. I will be your guide and assistant throughout your reactivated service."
+        "Welcome aboard, Mr. Nova," a voice said directly in his mind. Not through his ear. In it. Cold, authoritative, unmistakably feminine. "I am iRIS, the Imbued Recursive Intelligence System. I will be your guide and assistant throughout your reactivated service."
 
-Cole blinked, trying to shake off the strange sensation of another voice in his head. He nodded, feeling a slight tingle in his hand. He dismissed it as nerves. "Thank you, iRIS. Let's get to work."
+Cole sat very still.
+
+He had worked alongside AI systems his entire career. Gracie — everyone's Gracie, the assistant in the device, the voice that answered when you spoke and went quiet when you didn't — had been outside him. You could set her down. This was inside. He was aware of the architecture of his own skull in a way he had never been forced to be before, and occupying part of it now was something that was not him. Not hostile. Not warm. Present. He had the brief, irrational urge to clear his throat.
+
+He did not. He was a soldier. He filed the sensation in the part of his mind reserved for things he would examine later and adjusted.
+
+"Thank you, iRIS. Let's get to work."
 
  "Well damn, if I had to have another voice in my head, iRIS, I sure am glad it's that of a beautiful woman." Ricardo's voice interrupted Cole's thoughts, his tone laced with dark humor.
 
@@ -93,7 +99,11 @@ Taylor unpacked with the efficient, deliberate movements of a man who had done t
 
 With iRIS guiding them through all their ship's new tech innovations and amenities, the week of training and instructions flew by. Bitboy was the only crew member not inoculated with the electronics spore. The four humans now processed and retained more information than at any other point in their lives. After one particularly strenuous module, Ricardo turned to Cole, horsing around to break the tension. "I know kung fu!"
 
-As Cole rolled out of his bunk, his hand beat the button on his alarm before it could go off and break the silence in the room of three. iRIS already had his daily schedule programmed, and would wake him directly, but he still wasn't entirely used to integrating "her" into his life. His sleep was mixed with fits of tossing and turning, even though he knew he needed the rest. He could never sleep the night before a launch. Some things never change, he thought to himself.
+Cole had noticed, somewhere in the second day of training, that Sam had adjusted to iRIS with unusual ease. No lag. No the brief unfocused look he and Ricardo had both worn for the first forty-eight hours while their heads recalibrated around a presence that was no longer only theirs. Sam's eyes had been clear from the first morning. He filed that somewhere without a label and moved on.
+
+He had also noticed — less easily filed — that Bitboy grew quieter around Taylor. Not afraid. Just watchful in a way he wasn't with the others, a subtle tracking thing, the way an animal monitors something it cannot categorize. Cole mentioned it to no one.
+
+As Cole rolled out of his bunk on the morning of launch, his hand beat the button on his alarm before it could go off. iRIS already had his daily schedule programmed and would wake him directly — had been doing exactly that all week — but he had not yet found the right relationship to sharing his skull with something that was already awake when he was still trying to become awake. Gracie had been outside. In the room, in the device, quiet until you needed her. iRIS did not wait. She was already running each morning before he had decided to think, already there in the dark behind his eyes when he tried to go under at night. He'd been breathing deliberately the way they'd trained him. It helped less than it usually did. His sleep came in intervals. He could never sleep the night before a launch. Some things never change — and some things changed into something you didn't have a word for yet.
 
 Now that he was up, he could hear the buzz of people outside. As he entered the hall, everyone walked slightly faster than usual. He carried his bathroom kit to the bathroom, knowing this was his last hot shower for the next few months.
 
@@ -111,7 +121,7 @@ Ricardo and Bitboy clambered into the cabin. Ricardo strapped himself in while C
 
 "Hey, Bitboy, ready for another adventure?" Ricardo said, chuckling.
 
-Bitboy chirped happily in response, extending his mantis blades briefly.
+Bitboy chirped happily in response, extending his mantis blades briefly — six inches of retractable carbon edge catching the cabin light before folding back with a sound like a lock engaging. Ricardo watched this without expression. He'd been around Bitboy long enough to understand that "briefly" was carrying significant weight in that sentence.
 
 Amid the cacophony of beeping systems and the whirl of machinery, Taylor and Sam entered the cabin, moving with focused intent. With Cole in the center, the crew was complete. Bitboy, with his usual curious gaze, looked around, sensing the tension but not fully grasping the human apprehension that filled the air.
 
@@ -131,7 +141,7 @@ Bitboy offered a grunt.
 
 In the control room, DeMint addressed the sleep-deprived engineers. "Everybody got their coffee? It's going to be a long day." He touched the intercom. "Cole, do you have anything to say to our engineers?"
 
-"Thank you all for everything you guys have done to get us to this point. This is for everyone who wasn't able to join us."
+"Thank you for everything you've done to get us here." He paused. "This launch — this mission — is for the crew we lost before we ever cleared the ground. We carry them."
 
 The engineers cheered.
 
@@ -157,14 +167,24 @@ For Sam, iRIS was a reassuring echo of her movements. As Taylor stood at the com
 
 "Taylor," Cole said, announcing his presence with a gentle cough. "How's everything coming along?"
 
-Taylor turned, his eyes scanning Cole and Ricardo with curiosity and skepticism. "Captain Nova, Ricardo." His hand ran unconsciously along the SmartCom in his pocket, hoping he'd remembered to turn Vibration Mode on for incoming message notifications.
+Taylor turned, his eyes scanning Cole and Ricardo with curiosity and skepticism. "Captain Nova, Ricardo." His hand moved to the SmartCom in his pocket with the casual ease of a man who has done the same thing a hundred times and knows exactly what he's looking for. He registered the indicator, pocketed the device, and returned his attention to the console without breaking sentence.
 
 Sam was relaxed at her console, surrounded by a nest of monitors. Her eyes sparkled with intelligence, and she had an air of confidence that put Cole at ease. Her lighthearted approach balanced the situation's intensity, making the grueling preparations more bearable.
 
+For ninety seconds while Cole and Taylor talked, Sam's hands moved through a sequence on her secondary panel that looked from behind like standard diagnostic routing. Her shoulders were relaxed. Her face didn't change. When she finished, she set both hands flat on the console for a moment, rolled her neck once, and went back to her primary monitors as though nothing worth noticing had happened.
+
+Nothing worth noticing had happened.
+
 This being a Federation mission, no one thought to check for other spacecraft in the area. An Alpha Corp cargo ship cruised along the interior of a large empty cavern, aside from a few packed weapon crates.
 
-Just out of radar range, a separate smaller ship scuttled along, this one being an old, decommissioned transport shuttle abandoned by the failed Republic of East Asia. It was filled to the brim with radio amps for long-range communication. Inside was a crew of three. Their hand-sewn insignias collected the frost from their breath.
+Just out of radar range, a separate smaller ship moved without announcement — an old decommissioned transport shuttle that the Republic of East Asia had abandoned along with everything else. The Republic's markings had been painted over with the particular care of people who understood that thoroughness is indistinguishable from innocence. Inside: rack-mounted radio amplifiers where the seating used to be, three people, and enough cold to make conversation visible.
+
+The man at the navigation console — broad, unhurried, the kind of still that comes from years of watching rather than acting — kept his eyes on the Golden Dawn's exit signature as it cleared the atmosphere and went quiet. The woman reviewing the transmission log ticked something complete and closed the window. The third sat with his arms crossed, watching the vapor of his own breath.
+
+Their hand-sewn insignias had collected frost on the threads.
 
 One of the men turned to the others.
 
 "Are we considered drops or snowflakes at this temp?"
+
+The woman at the transmission log checked the last entry. "Relayed," she said.
