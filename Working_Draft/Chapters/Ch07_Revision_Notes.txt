@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 Chapter Seven — Revision Notes
 [ From session 2026-05-03 — all items actionable ]
 
@@ -15,7 +15,8 @@ PROBLEM: Vague. Originally referred to people who died from the gravity sickness
 
 FIX: Make explicit — Cole is talking about crew members killed in the explosion
 at the beginning of the book. He should name the loss briefly, or at least
-gesture at it with enough specificity that the reader knows exactly what he means.
+gesture at it with enough specificity that the reader knows exactly what he
+means.
 
 SUGGESTED DIRECTION:
   "Thank you for everything you've done to get us here. This launch —
@@ -23,7 +24,6 @@ SUGGESTED DIRECTION:
    [something in that register — specific enough to feel real, not so long
    it becomes a speech. The engineers know. Cole knows. That shared knowledge
    is what makes the cheer land.]
-
 
 ---
 
@@ -58,7 +58,6 @@ WRITING NOTE: Don't make IRiS sinister YET in Ch7. The horror is subtle —
 just the strangeness of not being alone in your own thoughts. IRiS is coldly
 professional. That's almost worse.
 
-
 ---
 
 ## 3. Sam Drummond — plant her as a Collective asset
@@ -81,7 +80,6 @@ LATER CONFLICT: Ricardo eventually realizes he was being played at the
 start. Point of tension — resolves like a rom-com. He fell for it,
 and then he fell for her, and both things are true.
 
-
 ---
 
 ## 4. Sam's antidote (Collective-issued)
@@ -99,7 +97,6 @@ Don't explain it. Let it be a seed.
 PAYOFF: When Gracie comes back and IRiS is expelled, Sam's transition
 back is notably smoother than the others. This can be the moment
 someone (Cole? Ricardo?) starts to ask questions.
-
 
 ---
 
@@ -121,7 +118,6 @@ HOW BITBOY MIGHT COMMUNICATE THIS:
 
 WRITING NOTE: Don't make this a Lassie-moment. Subtle. Cole notices it,
 files it, doesn't understand it yet.
-
 
 ---
 
@@ -164,7 +160,6 @@ SUGGESTED LINE (add to wherever Bitboy is introduced):
    become everyone's problem: they had forgotten to give him an off switch
    for things he shouldn't be putting in his mouth."
    [or whatever register fits the voice of that chapter]
-
 
 ---
 
@@ -212,7 +207,6 @@ WRITING NOTE: Play the attackers with full humanity. They're not
 villains. They're not wrong to be in pain. They're wrong about this.
 That distinction is what makes the scene hurt.
 
-
 ---
 
 ## 8. Sharon and Emily — turning over the drive
@@ -224,7 +218,6 @@ NOTE: This needs to be woven into whatever chapter covers the crystal
 drop-off. The encrypted drive became unencrypted when Bitboy unlocked it.
 That drive going to the Collective is a significant handoff — it should
 feel like one.
-
 
 ---
 
@@ -245,7 +238,6 @@ CORRECT TIMELINE:
 ACTION: Find Max's chapter and fix the timeline to match.
 This changes the STAKES of that scene — it's not "he's dragging his feet,"
 it's "the clock is running and he's already behind."
-
 
 ---
 

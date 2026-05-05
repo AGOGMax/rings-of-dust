@@ -2,17 +2,39 @@
 
 Chapter Ten (B)
 
-Max ran his dry fingertips along the rough edges of his weathered oak table, feeling the familiar grit beneath his skin. The surface, scarred from years of restless nights and unanswered questions, was as uneven as his thoughts. A single light hung overhead, casting sharp, unforgiving shadows that made the room feel even smaller than it was. The faint hum of the lamp above him was the only sound — its flicker a reminder that nothing around him was as stable as it seemed.
+Max ran his dry fingertips along the rough edges of his weathered oak table,
+feeling the familiar grit beneath his skin. The surface, scarred from years of
+restless nights and unanswered questions, was as uneven as his thoughts. A
+single light hung overhead, casting sharp, unforgiving shadows that made the
+room feel even smaller than it was. The faint hum of the lamp above him was the
+only sound — its flicker a reminder that nothing around him was as stable as it
+seemed.
 
-In front of him, the stolen fuel cell gleamed dully under the light's hesitant glow. It was untouched since the day he'd left Alpha Corp — abandoned, like everything else. Max stared at it, half-expecting it to give him answers, though he knew better by now. The thought of selling it tugged at him, a practical solution for the bills piling up. The black market would pay a good price. But the longer he looked at it, the more something twisted in his gut — a strange cocktail of anger and, worse, hope.
+In front of him, the stolen fuel cell gleamed dully under the light's hesitant
+glow. It was untouched since the day he'd left Alpha Corp — abandoned, like
+everything else. Max stared at it, half-expecting it to give him answers, though
+he knew better by now. The thought of selling it tugged at him, a practical
+solution for the bills piling up. The black market would pay a good price. But
+the longer he looked at it, the more something twisted in his gut — a strange
+cocktail of anger and, worse, hope.
 
-He hadn't realized how small his apartment had become until the two people stepped inside.
+He hadn't realized how small his apartment had become until the two people
+stepped inside.
 
-Chip crossed the threshold first, his heavy boots thudding against the worn hardwood floor. Dale followed, her gaze sweeping across the space with a quiet intensity that made Max's skin prickle. They were not the kind of people who fidgeted. They moved through the room and stopped and waited, and the quality of their waiting was very different from the waiting of civilians.
+Chip crossed the threshold first, his heavy boots thudding against the worn
+hardwood floor. Dale followed, her gaze sweeping across the space with a quiet
+intensity that made Max's skin prickle. They were not the kind of people who
+fidgeted. They moved through the room and stopped and waited, and the quality of
+their waiting was very different from the waiting of civilians.
 
-They didn't sit. They didn't move toward the couch half-covered in old blankets. Instead, they positioned themselves near the table — not threatening, exactly, but settled in the way of people who intend to conclude this conversation before leaving.
+They didn't sit. They didn't move toward the couch half-covered in old blankets.
+Instead, they positioned themselves near the table — not threatening, exactly,
+but settled in the way of people who intend to conclude this conversation before
+leaving.
 
-Chip didn't waste words. "We have a window of about seventy-two hours before Alpha Corp sends someone who isn't going to knock. You're already on a list, Max. You've been on it since the night you told your department head."
+Chip didn't waste words. "We have a window of about seventy-two hours before
+Alpha Corp sends someone who isn't going to knock. You're already on a list,
+Max. You've been on it since the night you told your department head."
 
 Max looked at them. "You people have been watching me."
 
@@ -20,43 +42,86 @@ Max looked at them. "You people have been watching me."
 
 "Not from where I'm sitting."
 
-"I understand that." She pulled out a chair and sat down across from him — unhurried, like she was prepared to be here a while. "What you found in that locker didn't stop being important because they took it from you. Alpha Corp knows the discovery exists. They know you made it. And they have built a significant amount of their current business model on the fact that the rest of the world does not know what you know."
+"I understand that." She pulled out a chair and sat down across from him —
+unhurried, like she was prepared to be here a while. "What you found in that
+locker didn't stop being important because they took it from you. Alpha Corp
+knows the discovery exists. They know you made it. And they have built a
+significant amount of their current business model on the fact that the rest of
+the world does not know what you know."
 
-Max's hand moved toward the blanket on the table, then stopped. He looked at Chip. "What do you actually want from me?"
+Max's hand moved toward the blanket on the table, then stopped. He looked at
+Chip. "What do you actually want from me?"
 
-"We want you alive and working," Chip said. "We have a facility. Equipment. Other researchers. What we don't have is someone who has held a charged cell in his hands and watched it crystallize in the wrong container and understood what he was looking at."
+"We want you alive and working," Chip said. "We have a facility. Equipment.
+Other researchers. What we don't have is someone who has held a charged cell in
+his hands and watched it crystallize in the wrong container and understood what
+he was looking at."
 
 "It was an accident."
 
 "Most of the important ones are."
 
-Max was quiet. Outside the window, a car passed and did not slow down and its headlights swept the ceiling of his apartment. He had been watching headlights for three weeks, logging which ones slowed down.
+Max was quiet. Outside the window, a car passed and did not slow down and its
+headlights swept the ceiling of his apartment. He had been watching headlights
+for three weeks, logging which ones slowed down.
 
-"You understand what the cell actually did," Dale said. It was not a question. "Alpha Corp thinks they understand it. They're harvesting the output — the crystals, the yield, the energy the conversion cycle produces. They built their whole operation around the output." She leaned forward. "They never figured out that the cell needs to be charged. They only ever saw it as a container."
+"You understand what the cell actually did," Dale said. It was not a question.
+"Alpha Corp thinks they understand it. They're harvesting the output — the
+crystals, the yield, the energy the conversion cycle produces. They built their
+whole operation around the output." She leaned forward. "They never figured out
+that the cell needs to be charged. They only ever saw it as a container."
 
 "They saw what they expected to see," Max said, in spite of himself.
 
 "Yes."
 
-He looked at the cell under the blanket. "I packed the crystals in there because it was convenient. The negative pressure, the nitrogen atmosphere — I thought it was just a stable environment. I wasn't trying to trigger a reaction. I was trying to avoid paperwork."
+He looked at the cell under the blanket. "I packed the crystals in there because
+it was convenient. The negative pressure, the nitrogen atmosphere — I thought it
+was just a stable environment. I wasn't trying to trigger a reaction. I was
+trying to avoid paperwork."
 
-"And what you got," Chip said, "was a reaction that their entire R&D division has been unable to reproduce reliably in two years of trying. Because they started from the output side. They're trying to backward-engineer a process they don't have the right mental model for. They think the cell is a container. They've never asked what happens if you treat it as a participant."
+"And what you got," Chip said, "was a reaction that their entire R&D division
+has been unable to reproduce reliably in two years of trying. Because they
+started from the output side. They're trying to backward-engineer a process they
+don't have the right mental model for. They think the cell is a container.
+They've never asked what happens if you treat it as a participant."
 
-Max pulled the blanket away from the fuel cell. He hadn't meant to do it — his hands made the decision before his head caught up. The cell sat on the table, dull and inert in the lamplight, and Max stared at it.
+Max pulled the blanket away from the fuel cell. He hadn't meant to do it — his
+hands made the decision before his head caught up. The cell sat on the table,
+dull and inert in the lamplight, and Max stared at it.
 
-"I've been thinking about it," he said. "I've had three weeks of nothing to do but think about it."
+"I've been thinking about it," he said. "I've had three weeks of nothing to do
+but think about it."
 
-He reached into the drawer and pulled out a battered notebook. Several pages were covered in diagrams — heat maps, charge curves, a rough model of the accumulation behavior he'd observed in the eleven days before the crystals formed.
+He reached into the drawer and pulled out a battered notebook. Several pages
+were covered in diagrams — heat maps, charge curves, a rough model of the
+accumulation behavior he'd observed in the eleven days before the crystals
+formed.
 
-"When you charge one cell with another," he said, "something happens in the crystallization cycle. I thought at first it was a contamination artifact. But I ran the calculation a dozen times." He turned the notebook so they could see. "If you lock the input from one cell into a second cell under sustained charge conditions — thirty-three days — the yield doesn't just increase. The crystallite density increases non-linearly. It's not additive. It compounds."
+"When you charge one cell with another," he said, "something happens in the
+crystallization cycle. I thought at first it was a contamination artifact. But I
+ran the calculation a dozen times." He turned the notebook so they could see.
+"If you lock the input from one cell into a second cell under sustained charge
+conditions — thirty-three days — the yield doesn't just increase. The
+crystallite density increases non-linearly. It's not additive. It compounds."
 
 Chip looked at the notebook. "Compounds by how much?"
 
-"At thirty-three days? Roughly four times the standard yield from an uncharged cell." Max's voice had changed. He was not frightened anymore. He was precise, and precision was, for him, a kind of territory. "But that's not the thing. The thing is what happens if you hold the charge for a hundred and eighty days."
+"At thirty-three days? Roughly four times the standard yield from an uncharged
+cell." Max's voice had changed. He was not frightened anymore. He was precise,
+and precision was, for him, a kind of territory. "But that's not the thing. The
+thing is what happens if you hold the charge for a hundred and eighty days."
 
 Dale looked up from the notebook.
 
-"At thirty-three days the cycle is still inefficient. You're losing energy at the interface. But somewhere around the sixty-day mark, the interface loss inverts. The cell starts returning more than it costs to hold the charge. It becomes self-sustaining." He tapped the diagram. "And then at a hundred and eighty days, the compounding doesn't just continue — it accelerates. I don't have the instruments to model what the yield would look like at that duration. But theoretically — " he stopped. He looked at his own numbers. "Theoretically it's not a linear curve anymore. It's exponential."
+"At thirty-three days the cycle is still inefficient. You're losing energy at
+the interface. But somewhere around the sixty-day mark, the interface loss
+inverts. The cell starts returning more than it costs to hold the charge. It
+becomes self-sustaining." He tapped the diagram. "And then at a hundred and
+eighty days, the compounding doesn't just continue — it accelerates. I don't
+have the instruments to model what the yield would look like at that duration.
+But theoretically — " he stopped. He looked at his own numbers. "Theoretically
+it's not a linear curve anymore. It's exponential."
 
 The room was very quiet.
 
@@ -64,21 +129,36 @@ The room was very quiet.
 
 Max looked at her.
 
-"Once it reaches the self-sustaining threshold, you're not consuming energy to produce energy. You're spinning. Each cycle feeds the next one. It becomes its own momentum." She was watching him carefully. "That's the word for it. Flywheel."
+"Once it reaches the self-sustaining threshold, you're not consuming energy to
+produce energy. You're spinning. Each cycle feeds the next one. It becomes its
+own momentum." She was watching him carefully. "That's the word for it.
+Flywheel."
 
 Max sat with the word. He turned it over. "Alpha Corp doesn't know this."
 
-"Alpha Corp has been running eleven-day cycles," Chip said. "Harvest, reset, repeat. They found the yield window and they've been farming it efficiently and they have never once asked whether a longer cycle would change the math. They extracted value and called it a discovery." A pause. "You found the actual discovery."
+"Alpha Corp has been running eleven-day cycles," Chip said. "Harvest, reset,
+repeat. They found the yield window and they've been farming it efficiently and
+they have never once asked whether a longer cycle would change the math. They
+extracted value and called it a discovery." A pause. "You found the actual
+discovery."
 
-"Three weeks ago I was a guy who almost reported a protocol violation and then didn't," Max said. "Now I'm apparently the most important person in the energy industry."
+"Three weeks ago I was a guy who almost reported a protocol violation and then
+didn't," Max said. "Now I'm apparently the most important person in the energy
+industry."
 
-"You're on a list," Chip said. "Important or not, in seventy-two hours someone comes who doesn't knock. That's the more immediate fact."
+"You're on a list," Chip said. "Important or not, in seventy-two hours someone
+comes who doesn't knock. That's the more immediate fact."
 
-Max looked at the fuel cell. He looked at his notebook. He thought about the loan statements on his kitchen counter and the way his department head's face had looked when the security team arrived — not surprised, exactly. Already decided.
+Max looked at the fuel cell. He looked at his notebook. He thought about the
+loan statements on his kitchen counter and the way his department head's face
+had looked when the security team arrived — not surprised, exactly. Already
+decided.
 
 "Where is the facility?"
 
-"Off-site. Secure. You'll have access to the equipment you need and two other researchers who understand the chemistry." Dale pulled a card from her pocket and set it on the table — plain, no logo, just a handwritten address. "Tonight."
+"Off-site. Secure. You'll have access to the equipment you need and two other
+researchers who understand the chemistry." Dale pulled a card from her pocket
+and set it on the table — plain, no logo, just a handwritten address. "Tonight."
 
 "Tonight."
 
@@ -86,22 +166,37 @@ Max looked at the fuel cell. He looked at his notebook. He thought about the loa
 
 Max picked up the card. He set it back down. He picked it up again and held it.
 
-"There's something else," he said. "The accumulation behavior — I think it's different in zero gravity. The crystallite formation in the data from the Saturn mission parameters, the yield curves I've seen in the public-domain research — there's a distribution pattern that doesn't match what I'm seeing at ground level. I think the cell behaves differently in a low-gravity environment. I think the yield at a hundred and eighty days in orbit might be substantially higher than what I can model down here."
+"There's something else," he said. "The accumulation behavior — I think it's
+different in zero gravity. The crystallite formation in the data from the Saturn
+mission parameters, the yield curves I've seen in the public-domain research —
+there's a distribution pattern that doesn't match what I'm seeing at ground
+level. I think the cell behaves differently in a low-gravity environment. I
+think the yield at a hundred and eighty days in orbit might be substantially
+higher than what I can model down here."
 
-Chip and Dale looked at each other. A flicker of something — not surprise. Recognition.
+Chip and Dale looked at each other. A flicker of something — not surprise.
+Recognition.
 
 "That's a longer conversation," Dale said.
 
-"I'm going to need more than a safe house and two colleagues," Max said. "Eventually, I'm going to need to be somewhere I can run this under the right conditions."
+"I'm going to need more than a safe house and two colleagues," Max said.
+"Eventually, I'm going to need to be somewhere I can run this under the right
+conditions."
 
 "We know," Chip said. "One problem at a time."
 
-Max looked at the fuel cell for the last time in his apartment. He put his notebook on top of it, carefully, like he was tucking something in.
+Max looked at the fuel cell for the last time in his apartment. He put his
+notebook on top of it, carefully, like he was tucking something in.
 
 "Seventy-two hours," he said.
 
 "Less, now."
 
-He stood up. He went to his closet and pulled out a bag from the top shelf and stood holding it for a moment. Then he started packing. He was not fast about it and he was not slow. He was precise. He took the notebook. He took the fuel cell, wrapped in the blanket. He left the loan statements on the counter.
+He stood up. He went to his closet and pulled out a bag from the top shelf and
+stood holding it for a moment. Then he started packing. He was not fast about it
+and he was not slow. He was precise. He took the notebook. He took the fuel
+cell, wrapped in the blanket. He left the loan statements on the counter.
 
-At the door, he turned back and looked at the apartment once — the lamp still burning, the oak table still scarred, the lamp's flicker still going. Then he followed them out into the dark.
+At the door, he turned back and looked at the apartment once — the lamp still
+burning, the oak table still scarred, the lamp's flicker still going. Then he
+followed them out into the dark.

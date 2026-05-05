@@ -2,23 +2,51 @@
 
 Chapter Eleven
 
-Like the murmur of distant thunder, the containment building's underbelly resonated through the floor and into Chancellor DeMint's bones. His fingers twitched, restlessly plucking at his beard in jagged rhythms. Pluck. His lips curled faintly, and he let the pricks wash over him in silence like a broken clock. Tethering himself to time. Solid. Controllable. Real.
+Like the murmur of distant thunder, the containment building's underbelly
+resonated through the floor and into Chancellor DeMint's bones. His fingers
+twitched, restlessly plucking at his beard in jagged rhythms. Pluck. His lips
+curled faintly, and he let the pricks wash over him in silence like a broken
+clock. Tethering himself to time. Solid. Controllable. Real.
 
-Pale light streaked across DeMint's face, throwing sharp shadows under his eyes and cheekbones, distorting his features into something hollow. His shadow stretched grotesquely, flickering across the room with each step, warping into monstrous proportions before shrinking back to human form. He stopped mid-step, shoes squeaking against the polished floor as the machine emitted a louder hum. The glow rippled outward. His heart skipped a beat in sync with the pulse. His hand dropped from his beard, curling into a tight fist, knuckles white with tension. The low hum crawled under his skin, feeding the gnawing inevitability that spread through him.
+Pale light streaked across DeMint's face, throwing sharp shadows under his eyes
+and cheekbones, distorting his features into something hollow. His shadow
+stretched grotesquely, flickering across the room with each step, warping into
+monstrous proportions before shrinking back to human form. He stopped mid-step,
+shoes squeaking against the polished floor as the machine emitted a louder hum.
+The glow rippled outward. His heart skipped a beat in sync with the pulse. His
+hand dropped from his beard, curling into a tight fist, knuckles white with
+tension. The low hum crawled under his skin, feeding the gnawing inevitability
+that spread through him.
 
-"Where did this come from." It was not a question. He was looking at the intelligence brief in his hand — two pages, no letterhead, no signature. The paper was standard issue. The contents were not.
+"Where did this come from." It was not a question. He was looking at the
+intelligence brief in his hand — two pages, no letterhead, no signature. The
+paper was standard issue. The contents were not.
 
-Vance stood to DeMint's left with the particular ease of someone who does not feel the weight of the room the same way its host does. He wore a white polo and had his hands in his pockets. He had reviewed the brief before DeMint and had already arrived at his own conclusions.
+Vance stood to DeMint's left with the particular ease of someone who does not
+feel the weight of the room the same way its host does. He wore a white polo and
+had his hands in his pockets. He had reviewed the brief before DeMint and had
+already arrived at his own conclusions.
 
-"Anonymous routing. Our signals team traced it to a Federation satellite relay, but the origin was spoofed back through four separate station nodes. Whoever sent it knows our infrastructure well enough to disappear inside it."
+"Anonymous routing. Our signals team traced it to a Federation satellite relay,
+but the origin was spoofed back through four separate station nodes. Whoever
+sent it knows our infrastructure well enough to disappear inside it."
 
-DeMint read the key line again. The Golden Dawn manifest does not reflect the crew's full operational directive. A secondary objective was filed with Alpha Corp prior to launch and withheld from Federation oversight. The payload transfer is a secondary concern. The primary concern is what comes back with it.
+DeMint read the key line again. The Golden Dawn manifest does not reflect the
+crew's full operational directive. A secondary objective was filed with Alpha
+Corp prior to launch and withheld from Federation oversight. The payload
+transfer is a secondary concern. The primary concern is what comes back with it.
 
 "This is an accusation," DeMint said. "Against a sanctioned mission."
 
-"It's unverified intelligence from an unconfirmed source," Vance said, and left the interpretation of that to DeMint.
+"It's unverified intelligence from an unconfirmed source," Vance said, and left
+the interpretation of that to DeMint.
 
-DeMint's steps faltered. His jaw tightened. He had approved this mission. He had reviewed the brief, the crew manifest, the objectives. He had shaken Cole Nova's hand and told him the Federation was counting on him. The idea that there was a layer beneath that brief — a separate filing, a separate set of instructions, routed through Alpha Corp and not his office — the idea sat in his chest like something cold.
+DeMint's steps faltered. His jaw tightened. He had approved this mission. He had
+reviewed the brief, the crew manifest, the objectives. He had shaken Cole Nova's
+hand and told him the Federation was counting on him. The idea that there was a
+layer beneath that brief — a separate filing, a separate set of instructions,
+routed through Alpha Corp and not his office — the idea sat in his chest like
+something cold.
 
 "Alpha Corp handled the iRIS integration," he said.
 
@@ -26,61 +54,120 @@ DeMint's steps faltered. His jaw tightened. He had approved this mission. He had
 
 "And the crew selection went through Taylor. Who Alpha Corp recommended."
 
-Vance said nothing. He was watching DeMint work through it and he was not rushing him.
+Vance said nothing. He was watching DeMint work through it and he was not
+rushing him.
 
-DeMint set the brief down on the console. "What's the protocol window if we need to contact the Golden Dawn?"
+DeMint set the brief down on the console. "What's the protocol window if we need
+to contact the Golden Dawn?"
 
-"At current trajectory, direct communication is degraded. Sending a message would be like throwing a bottle into the sea," Vance said. "But there may be another option." He moved slightly, easy in his own body, a man who had learned to carry himself in rooms where other people sweated. "Dr. Stephen Conrad was working on a communications prototype before he disappeared — something outside the iRIS architecture entirely, operating on a different signal band. If it's intact, it could reach the ship independent of the standard relay."
+"At current trajectory, direct communication is degraded. Sending a message
+would be like throwing a bottle into the sea," Vance said. "But there may be
+another option." He moved slightly, easy in his own body, a man who had learned
+to carry himself in rooms where other people sweated. "Dr. Stephen Conrad was
+working on a communications prototype before he disappeared — something outside
+the iRIS architecture entirely, operating on a different signal band. If it's
+intact, it could reach the ship independent of the standard relay."
 
 "Where is it?"
 
-"Desert research station. Conrad's old secondary facility." Vance's tone was the mild tone of a man who has been asked to pick up dry cleaning and finds the errand slightly beneath his schedule but is not going to say so. "I can go."
+"Desert research station. Conrad's old secondary facility." Vance's tone was the
+mild tone of a man who has been asked to pick up dry cleaning and finds the
+errand slightly beneath his schedule but is not going to say so. "I can go."
 
 DeMint studied him. "You understand what I'm asking."
 
-"You're asking me to retrieve a prototype that may or may not work, from a facility that may or may not still be staffed by Conrad's people, in order to establish contact with a mission that may or may not have been compromised by the organization we contracted to run its AI backbone." Vance's expression did not change. "I understand what you're asking."
+"You're asking me to retrieve a prototype that may or may not work, from a
+facility that may or may not still be staffed by Conrad's people, in order to
+establish contact with a mission that may or may not have been compromised by
+the organization we contracted to run its AI backbone." Vance's expression did
+not change. "I understand what you're asking."
 
 "And?"
 
-"I'll leave this afternoon." He adjusted his glasses and straightened. "If the prototype works, you'll have your window to reach the Golden Dawn. If it doesn't, at minimum we'll know what Conrad was building before he went dark, which seems worth knowing."
+"I'll leave this afternoon." He adjusted his glasses and straightened. "If the
+prototype works, you'll have your window to reach the Golden Dawn. If it
+doesn't, at minimum we'll know what Conrad was building before he went dark,
+which seems worth knowing."
 
-Silence descended upon the room again, thick and suffocating, wrapping around them until even the softest sound felt like an intrusion. The only break was the machine's constant hum, low and mechanical, like the breath of some unseen force. DeMint's eyes drifted back to the machine, watching as it spun, the motion too smooth, too even, too controlled.
+Silence descended upon the room again, thick and suffocating, wrapping around
+them until even the softest sound felt like an intrusion. The only break was the
+machine's constant hum, low and mechanical, like the breath of some unseen
+force. DeMint's eyes drifted back to the machine, watching as it spun, the
+motion too smooth, too even, too controlled.
 
-He turned to Vance with a curt nod. "Go. And Vance." He paused, and there was something in the pause that had not been in his voice before — an edge of genuine uncertainty, a military man who has begun to suspect the map is wrong but does not yet know in which direction the error runs. "If you find anything at that facility that doesn't look right — anything that suggests Alpha Corp's reach extends beyond the mission parameters — you call me directly. Not through the standard relay."
+He turned to Vance with a curt nod. "Go. And Vance." He paused, and there was
+something in the pause that had not been in his voice before — an edge of
+genuine uncertainty, a military man who has begun to suspect the map is wrong
+but does not yet know in which direction the error runs. "If you find anything
+at that facility that doesn't look right — anything that suggests Alpha Corp's
+reach extends beyond the mission parameters — you call me directly. Not through
+the standard relay."
 
 Vance held his gaze. "Understood."
 
-DeMint's hand moved to his pocket as the faint buzz of his phone hummed against his leg. He ignored it. Without another word, he spun on his heel, the hem of his coat sweeping through the air behind him as he strode toward the door. His footsteps echoed briefly against the metal floor before the hum swallowed the sound. The door slid shut with a soft hiss.
+DeMint's hand moved to his pocket as the faint buzz of his phone hummed against
+his leg. He ignored it. Without another word, he spun on his heel, the hem of
+his coat sweeping through the air behind him as he strode toward the door. His
+footsteps echoed briefly against the metal floor before the hum swallowed the
+sound. The door slid shut with a soft hiss.
 
-The brief sat on the console. Vance picked it up and folded it twice, carefully, and put it in his inside jacket pocket. He stood for a moment in the dim glow of the machine. Then he straightened his collar and went to get his car.
+The brief sat on the console. Vance picked it up and folded it twice, carefully,
+and put it in his inside jacket pocket. He stood for a moment in the dim glow of
+the machine. Then he straightened his collar and went to get his car.
 
-And far away, on the Golden Dawn, Officer Taylor sat at his post in the hour after the ship's night cycle began and the crew had dispersed to their quarters. The screens blinked back at him, steady and green, the diagnostics returning exactly what they should return.
+And far away, on the Golden Dawn, Officer Taylor sat at his post in the hour
+after the ship's night cycle began and the crew had dispersed to their quarters.
+The screens blinked back at him, steady and green, the diagnostics returning
+exactly what they should return.
 
 He was not watching the diagnostics.
 
-He was watching the corridor feed — specifically, the forty-second segment of footage from the cargo bay passage that he had reviewed eleven times in the past six hours. It was unremarkable footage. Cole entering. Cole checking container seals. Cole leaving. The timestamp showed three minutes and forty seconds in the cargo bay.
+He was watching the corridor feed — specifically, the forty-second segment of
+footage from the cargo bay passage that he had reviewed eleven times in the past
+six hours. It was unremarkable footage. Cole entering. Cole checking container
+seals. Cole leaving. The timestamp showed three minutes and forty seconds in the
+cargo bay.
 
 Cole's average container inspection ran ninety seconds.
 
-Taylor had reviewed the audio logs. The bay acoustic sensors had registered ambient ship noise only — no voice activity, no SmartCom signal. Whatever Cole had or hadn't heard was unconfirmed.
+Taylor had reviewed the audio logs. The bay acoustic sensors had registered
+ambient ship noise only — no voice activity, no SmartCom signal. Whatever Cole
+had or hadn't heard was unconfirmed.
 
 That was the problem. Unconfirmed.
 
-"iRIS," Taylor said, quietly, at a frequency below what the corridor mics were calibrated to pick up from that angle. "Behavioral summary. Cole Nova. Last eighteen hours."
+"iRIS," Taylor said, quietly, at a frequency below what the corridor mics were
+calibrated to pick up from that angle. "Behavioral summary. Cole Nova. Last
+eighteen hours."
 
-iRIS responded at the same low register. "No significant deviations from established routine. Interaction pattern with Chief Science Officer Taylor down twelve percent from seven-day average. Cargo bay visit duration elevated by one hundred and sixty-two percent."
+iRIS responded at the same low register. "No significant deviations from
+established routine. Interaction pattern with Chief Science Officer Taylor down
+twelve percent from seven-day average. Cargo bay visit duration elevated by one
+hundred and sixty-two percent."
 
-"Cross-reference: any change in Nova's communication frequency with crew members following the cargo bay visit."
+"Cross-reference: any change in Nova's communication frequency with crew members
+following the cargo bay visit."
 
-A half-second pause. "Interaction with Dr. Okafor increased thirty-one percent in the four-hour window following. Duration: eleven minutes. No SmartCom signal detected during the interaction."
+A half-second pause. "Interaction with Dr. Okafor increased thirty-one percent
+in the four-hour window following. Duration: eleven minutes. No SmartCom signal
+detected during the interaction."
 
-Taylor looked at the corridor feed. Cole's route from the cargo bay to the forward maintenance alcove was a three-minute walk. The maintenance alcove was Sam's habitual workspace. Eleven minutes was long for a routine check-in.
+Taylor looked at the corridor feed. Cole's route from the cargo bay to the
+forward maintenance alcove was a three-minute walk. The maintenance alcove was
+Sam's habitual workspace. Eleven minutes was long for a routine check-in.
 
-He pulled the alcove camera feed. Standard resolution, partial occlusion from the ventilation housing — Sam at the diagnostic panel, Cole at the threshold. Body language. Nothing transferred between them that the camera could resolve.
+He pulled the alcove camera feed. Standard resolution, partial occlusion from
+the ventilation housing — Sam at the diagnostic panel, Cole at the threshold.
+Body language. Nothing transferred between them that the camera could resolve.
 
 Nothing the camera could resolve.
 
-Taylor closed the feed and sat with his hands on the console. He was not panicking. He was assessing. The advantage was still his — the iRIS architecture was intact, the communications relay was functioning on the band Alpha Corp controlled, and whatever Cole suspected was still a suspicion without the evidence to make it operational. A man with a suspicion was manageable. A man with evidence was a different problem.
+Taylor closed the feed and sat with his hands on the console. He was not
+panicking. He was assessing. The advantage was still his — the iRIS architecture
+was intact, the communications relay was functioning on the band Alpha Corp
+controlled, and whatever Cole suspected was still a suspicion without the
+evidence to make it operational. A man with a suspicion was manageable. A man
+with evidence was a different problem.
 
 He needed to know, precisely, what Cole had heard in that cargo bay.
 

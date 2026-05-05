@@ -4,19 +4,38 @@ Chapter Sixteen
 
 Behind the Curtain
 
-The badge was laminated. Max turned it over in his hands, noting the weight, the specific sheen of the photo beneath the protective coating. The name read MICHOV KARGAN. The face in the photo was his.
+The badge was laminated. Max turned it over in his hands, noting the weight, the
+specific sheen of the photo beneath the protective coating. The name read MICHOV
+KARGAN. The face in the photo was his.
 
-"The contractor database entry went live six hours ago," Chip said. "Backstory is clean. Eighteen months of consulting work for two Alpha-adjacent firms in São Paulo, both of which are real and both of which have been — let's say — made receptive to confirming the relationship if anyone calls."
+"The contractor database entry went live six hours ago," Chip said. "Backstory
+is clean. Eighteen months of consulting work for two Alpha-adjacent firms in São
+Paulo, both of which are real and both of which have been — let's say — made
+receptive to confirming the relationship if anyone calls."
 
-Dale was at the window, watching the street below. The safe house was a two-room flat above a laundry operation in the Marbella district, which was the kind of neighborhood that was neither nice enough to attract attention nor rough enough to generate it. Laundry was going below. Max could hear the drums through the floor.
+Dale was at the window, watching the street below. The safe house was a two-room
+flat above a laundry operation in the Marbella district, which was the kind of
+neighborhood that was neither nice enough to attract attention nor rough enough
+to generate it. Laundry was going below. Max could hear the drums through the
+floor.
 
-"Your specialization is fuel-cell stabilization engineering," Dale said without turning around. "That gets you lab access at the mid-tier. Not the vault. But the vault isn't where you need to be."
+"Your specialization is fuel-cell stabilization engineering," Dale said without
+turning around. "That gets you lab access at the mid-tier. Not the vault. But
+the vault isn't where you need to be."
 
-Max set the badge down on the table next to his notebook. "And if someone runs a technical deep-dive? Asks me to explain something I don't actually know?"
+Max set the badge down on the table next to his notebook. "And if someone runs a
+technical deep-dive? Asks me to explain something I don't actually know?"
 
-"Then you explain that the methodology you worked with in São Paulo was proprietary and you're under NDA." Chip sat down across from him. "But that won't happen. You're a consultant, not a hire. They want your output, not your credentials. The whole point of bringing in outside contractors is that nobody has to own the gaps."
+"Then you explain that the methodology you worked with in São Paulo was
+proprietary and you're under NDA." Chip sat down across from him. "But that
+won't happen. You're a consultant, not a hire. They want your output, not your
+credentials. The whole point of bringing in outside contractors is that nobody
+has to own the gaps."
 
-Max considered this. The logic was sound. Corporate epistemology worked exactly this way: consultants existed in a categorical space where their knowledge was assumed and therefore never verified. He had navigated this structure his entire career from the other side. Now he was using it.
+Max considered this. The logic was sound. Corporate epistemology worked exactly
+this way: consultants existed in a categorical space where their knowledge was
+assumed and therefore never verified. He had navigated this structure his entire
+career from the other side. Now he was using it.
 
 "Okay," he said.
 
@@ -24,164 +43,355 @@ Chip looked at him for a moment, as if waiting for something more.
 
 There wasn't anything more. This was a protocol. Max understood protocols.
 
-Alpha Corp Panama occupied a forty-story tower on the eastern edge of the Casco district, where the old colonial architecture stopped and the twenty-first century asserted itself in glass and exposed steel. The building's ground floor lobby was the size of a small airport terminal, and it had been designed to produce the same sensations: the ceilings were high enough to make you aware of your own dimensions. The floor was polished stone that reflected the overhead lighting in long pale columns. Every surface was clean in a way that suggested staff had been specifically tasked with the maintenance of cleanliness, which is different from surfaces that are simply clean.
+Alpha Corp Panama occupied a forty-story tower on the eastern edge of the Casco
+district, where the old colonial architecture stopped and the twenty-first
+century asserted itself in glass and exposed steel. The building's ground floor
+lobby was the size of a small airport terminal, and it had been designed to
+produce the same sensations: the ceilings were high enough to make you aware of
+your own dimensions. The floor was polished stone that reflected the overhead
+lighting in long pale columns. Every surface was clean in a way that suggested
+staff had been specifically tasked with the maintenance of cleanliness, which is
+different from surfaces that are simply clean.
 
-Max scanned in at the exterior gate with the Michov Kargan badge. The reader beeped once, green, and he was through.
+Max scanned in at the exterior gate with the Michov Kargan badge. The reader
+beeped once, green, and he was through.
 
-He noted: seven badge readers between the exterior gate and the elevator bank. Cameras at intervals of roughly eight feet along the main corridor, angled to produce overlapping coverage with no dead zones he could identify from a walking pass. Staff moved through the lobby with the calibrated efficiency of people who had been, over time, implicitly and explicitly rewarded for moving efficiently. They walked at a consistent pace. They did not linger. Nobody was on their phone. The behavior was not robotic — it was more specific than that. It was optimized. You could see the optimization in the way a person held their badge against a reader before the door had fully come into range, anticipating the beep. You could see it in the way two researchers passed each other in the corridor without breaking stride, their acknowledgment of each other's existence compressed into a single nod.
+He noted: seven badge readers between the exterior gate and the elevator bank.
+Cameras at intervals of roughly eight feet along the main corridor, angled to
+produce overlapping coverage with no dead zones he could identify from a walking
+pass. Staff moved through the lobby with the calibrated efficiency of people who
+had been, over time, implicitly and explicitly rewarded for moving efficiently.
+They walked at a consistent pace. They did not linger. Nobody was on their
+phone. The behavior was not robotic — it was more specific than that. It was
+optimized. You could see the optimization in the way a person held their badge
+against a reader before the door had fully come into range, anticipating the
+beep. You could see it in the way two researchers passed each other in the
+corridor without breaking stride, their acknowledgment of each other's existence
+compressed into a single nod.
 
-The building was designed to make you feel small. That was one of its functions and it worked. But Max noticed something else operating simultaneously: the materials were expensive, the lines were elegant, the signage used a typeface that communicated precision and authority. The building also made you feel that being inside it meant something. That you were part of something with resources. With ambition. With a certain kind of importance.
+The building was designed to make you feel small. That was one of its functions
+and it worked. But Max noticed something else operating simultaneously: the
+materials were expensive, the lines were elegant, the signage used a typeface
+that communicated precision and authority. The building also made you feel that
+being inside it meant something. That you were part of something with resources.
+With ambition. With a certain kind of importance.
 
-Both effects were intentional. Both were necessary. The smallness kept people obedient. The importance kept them loyal.
+Both effects were intentional. Both were necessary. The smallness kept people
+obedient. The importance kept them loyal.
 
 He rode the elevator to the fourteenth floor.
 
-Dr. Yusuf Oren was shorter than Max had expected from the name, which was not a rational thing to notice but Max noticed it anyway. He was perhaps fifty-five, with close-cut gray hair and the particular quality of attention that marks scientists who have spent decades actually listening to the problems in front of them rather than performing the act of listening. He came around his desk to shake Max's hand rather than waiting for Max to come to him.
+Dr. Yusuf Oren was shorter than Max had expected from the name, which was not a
+rational thing to notice but Max noticed it anyway. He was perhaps fifty-five,
+with close-cut gray hair and the particular quality of attention that marks
+scientists who have spent decades actually listening to the problems in front of
+them rather than performing the act of listening. He came around his desk to
+shake Max's hand rather than waiting for Max to come to him.
 
 "Michov. Good to have you." He gestured toward a chair. "Coffee?"
 
 "Please."
 
-Oren poured from a carafe on his desk without asking for specifications. He handed Max a cup — black, which was correct — and sat down with his own. "São Paulo firms don't usually send us people who work on the stabilization side. That's usually handled in-house here. I was curious about the request."
+Oren poured from a carafe on his desk without asking for specifications. He
+handed Max a cup — black, which was correct — and sat down with his own. "São
+Paulo firms don't usually send us people who work on the stabilization side.
+That's usually handled in-house here. I was curious about the request."
 
-"My understanding was you had a throughput bottleneck in the batch processing stage."
+"My understanding was you had a throughput bottleneck in the batch processing
+stage."
 
-"We do." Oren nodded. "Third shift is running about twelve percent below projection. The models say it's a crystallization rate issue — the yield windows are tightening. But the models are based on assumptions about the feedstock purity that I'm not entirely confident in." He paused. "I'd rather have someone look at the process fresh. People who have been here five years see what they expect to see."
+"We do." Oren nodded. "Third shift is running about twelve percent below
+projection. The models say it's a crystallization rate issue — the yield windows
+are tightening. But the models are based on assumptions about the feedstock
+purity that I'm not entirely confident in." He paused. "I'd rather have someone
+look at the process fresh. People who have been here five years see what they
+expect to see."
 
 "That's usually how it works," Max said.
 
-Oren smiled. It was not a performed smile. It reached his eyes and then retreated, which was the motion of a genuine expression rather than a social one. "Let me show you around."
+Oren smiled. It was not a performed smile. It reached his eyes and then
+retreated, which was the motion of a genuine expression rather than a social
+one. "Let me show you around."
 
-The lab was large and climate-controlled, divided into sections by clear partitions. The air tasted faintly metallic, the specific signature of plasma-adjacent work. Max knew this smell from his own lab, from the years before. There were twelve researchers working across two adjacent sections, and they moved with focused concentration. The equipment was newer than anything Max had worked with. Considerably newer. The centrifuge array alone represented a capital investment he could not calculate from the outside but could estimate from its output capacity at somewhere between eight and twelve million dollars.
+The lab was large and climate-controlled, divided into sections by clear
+partitions. The air tasted faintly metallic, the specific signature of
+plasma-adjacent work. Max knew this smell from his own lab, from the years
+before. There were twelve researchers working across two adjacent sections, and
+they moved with focused concentration. The equipment was newer than anything Max
+had worked with. Considerably newer. The centrifuge array alone represented a
+capital investment he could not calculate from the outside but could estimate
+from its output capacity at somewhere between eight and twelve million dollars.
 
-Oren walked him through the setup with the easy familiarity of someone who had designed it. He explained the negative-pressure chambers, the nitrogen cycling, the batch-log interface. He introduced Max to two junior researchers — a young woman named Priya who nodded without looking up from her console, and a man named Chen who asked Max two technical questions that were sharp enough to confirm he was the genuine article, not a greeter. Max answered them correctly. Chen seemed satisfied.
+Oren walked him through the setup with the easy familiarity of someone who had
+designed it. He explained the negative-pressure chambers, the nitrogen cycling,
+the batch-log interface. He introduced Max to two junior researchers — a young
+woman named Priya who nodded without looking up from her console, and a man
+named Chen who asked Max two technical questions that were sharp enough to
+confirm he was the genuine article, not a greeter. Max answered them correctly.
+Chen seemed satisfied.
 
-"The batch logs are here," Oren said, pointing to a wall-mounted terminal near the back of the lab. "Pull access is part of your standard contractor clearance. If you need write access to flag anomalies you'll need to submit a request, but I can expedite that."
+"The batch logs are here," Oren said, pointing to a wall-mounted terminal near
+the back of the lab. "Pull access is part of your standard contractor clearance.
+If you need write access to flag anomalies you'll need to submit a request, but
+I can expedite that."
 
-"Pull access is fine to start," Max said. "I'll want to review three months of throughput data before I form any opinions."
+"Pull access is fine to start," Max said. "I'll want to review three months of
+throughput data before I form any opinions."
 
-"Exactly the right instinct." Oren clapped him once on the shoulder — not a territorial gesture, genuinely collegial — and returned to his own work.
+"Exactly the right instinct." Oren clapped him once on the shoulder — not a
+territorial gesture, genuinely collegial — and returned to his own work.
 
 Max turned to the terminal and began to read.
 
 The proprietary stabilization process was not what he had imagined.
 
-He had imagined it the way everyone outside Alpha Corp imagined it: some closely held technical innovation, years of refinement, a process that would require significant reverse-engineering to reproduce. He had assumed the secrecy meant complexity. He had assumed that walls of that height protected something proportionally valuable.
+He had imagined it the way everyone outside Alpha Corp imagined it: some closely
+held technical innovation, years of refinement, a process that would require
+significant reverse-engineering to reproduce. He had assumed the secrecy meant
+complexity. He had assumed that walls of that height protected something
+proportionally valuable.
 
-What he found instead was a crystallization protocol that was competent, well-optimized, and entirely derivable from first principles by any team of moderately skilled researchers given six months and a reasonable equipment budget. The negative-pressure parameters were standard. The nitrogen cycling was efficient but not novel. The yield windows they were using — eleven days, always eleven days — were the obvious sweet spot for the extraction economics they had built their model around.
+What he found instead was a crystallization protocol that was competent,
+well-optimized, and entirely derivable from first principles by any team of
+moderately skilled researchers given six months and a reasonable equipment
+budget. The negative-pressure parameters were standard. The nitrogen cycling was
+efficient but not novel. The yield windows they were using — eleven days, always
+eleven days — were the obvious sweet spot for the extraction economics they had
+built their model around.
 
-There was no secret ingredient. There was no breakthrough. There was a standard process, executed with the precision that comes from doing something exactly this way ten thousand times in a row.
+There was no secret ingredient. There was no breakthrough. There was a standard
+process, executed with the precision that comes from doing something exactly
+this way ten thousand times in a row.
 
-Max worked through this understanding methodically. It did not make him angry. He noted it the way he noted anything: as a data point. The data point was this: Alpha Corp's hold on the DarkX market was not a product of superior science. It was a product of superior lawyers. They had acquired, at the right moment, the patents that covered the obvious implementation paths. They had signed the right supply agreements. They had structured the right exclusivity contracts with the Saturn harvesting operations. The wall they had built was not a wall of brilliance.
+Max worked through this understanding methodically. It did not make him angry.
+He noted it the way he noted anything: as a data point. The data point was this:
+Alpha Corp's hold on the DarkX market was not a product of superior science. It
+was a product of superior lawyers. They had acquired, at the right moment, the
+patents that covered the obvious implementation paths. They had signed the right
+supply agreements. They had structured the right exclusivity contracts with the
+Saturn harvesting operations. The wall they had built was not a wall of
+brilliance.
 
 It was a wall of paperwork.
 
-The energy crisis, as a technical problem, had been solvable for at least a decade.
+The energy crisis, as a technical problem, had been solvable for at least a
+decade.
 
 Max filed this understanding away and kept reading.
 
 It took him two and a half shifts to find the batch destruction logs.
 
-He was not looking for them. He was auditing throughput across Q3 and Q4 of the previous year, following Oren's hypothesis about feedstock purity, when he found a field in the batch records he didn't recognize. The field was labeled DISPOSAL_PROTOCOL_7 and it appeared at irregular but recurring intervals across the dataset. He filtered for it.
+He was not looking for them. He was auditing throughput across Q3 and Q4 of the
+previous year, following Oren's hypothesis about feedstock purity, when he found
+a field in the batch records he didn't recognize. The field was labeled
+DISPOSAL_PROTOCOL_7 and it appeared at irregular but recurring intervals across
+the dataset. He filtered for it.
 
 Three hundred and twelve entries in an eighteen-month window.
 
-Each entry recorded a quantity of crystallized DarkX product, a timestamp, and a status code. The status codes were internal Alpha Corp nomenclature he didn't immediately know, but they were consistent, which meant they were systematic, which meant he could decode them from context. He spent forty minutes doing this. When he had the schema, he read the entries again.
+Each entry recorded a quantity of crystallized DarkX product, a timestamp, and a
+status code. The status codes were internal Alpha Corp nomenclature he didn't
+immediately know, but they were consistent, which meant they were systematic,
+which meant he could decode them from context. He spent forty minutes doing
+this. When he had the schema, he read the entries again.
 
-DISPOSAL_PROTOCOL_7 was not a contamination flag. It was not a quality-control rejection. The quantities attached to it were not anomalously small or large. They tracked, with a consistency that was striking in its precision, at roughly eleven to thirteen percent of each batch's usable yield.
+DISPOSAL_PROTOCOL_7 was not a contamination flag. It was not a quality-control
+rejection. The quantities attached to it were not anomalously small or large.
+They tracked, with a consistency that was striking in its precision, at roughly
+eleven to thirteen percent of each batch's usable yield.
 
 Alpha Corp was destroying product.
 
-Not spoilage. Not error. Consistent, scheduled, deliberate destruction of viable DarkX crystals representing eleven to thirteen percent of everything this facility produced.
+Not spoilage. Not error. Consistent, scheduled, deliberate destruction of viable
+DarkX crystals representing eleven to thirteen percent of everything this
+facility produced.
 
-Max sat with this for thirty seconds. He thought about the supply charts he had memorized in the weeks since leaving Alpha Corp. Global DarkX supply had run at approximately four to eight percent below projected demand for eleven consecutive years. The energy crisis was, in the language of economists, a demand-side problem: there was not enough supply to meet demand at any reasonable price point, which drove prices up, which made DarkX unaffordable for most of the world's population outside of priority industrial contracts.
+Max sat with this for thirty seconds. He thought about the supply charts he had
+memorized in the weeks since leaving Alpha Corp. Global DarkX supply had run at
+approximately four to eight percent below projected demand for eleven
+consecutive years. The energy crisis was, in the language of economists, a
+demand-side problem: there was not enough supply to meet demand at any
+reasonable price point, which drove prices up, which made DarkX unaffordable for
+most of the world's population outside of priority industrial contracts.
 
-Eleven to thirteen percent of production destroyed per batch. Four to eight percent supply gap.
+Eleven to thirteen percent of production destroyed per batch. Four to eight
+percent supply gap.
 
 The math was not subtle.
 
-He thought, briefly and precisely, about Dr. Oren. About whether Oren knew. He looked across the lab to where Oren was bent over a console, reading something, and he considered the man's face: the quality of attention, the genuine curiosity, the enthusiasm with which he had explained the nitrogen cycling this morning. He thought about what it meant to be a good scientist working inside a machine without knowing what the machine was for.
+He thought, briefly and precisely, about Dr. Oren. About whether Oren knew. He
+looked across the lab to where Oren was bent over a console, reading something,
+and he considered the man's face: the quality of attention, the genuine
+curiosity, the enthusiasm with which he had explained the nitrogen cycling this
+morning. He thought about what it meant to be a good scientist working inside a
+machine without knowing what the machine was for.
 
-Then he opened the drive housing on the terminal's secondary port and inserted the Collective drive, which was the size of a thumbnail and the color of the housing it was inserted into.
+Then he opened the drive housing on the terminal's secondary port and inserted
+the Collective drive, which was the size of a thumbnail and the color of the
+housing it was inserted into.
 
-He had three minutes before the batch log session would auto-expire and require re-authentication.
+He had three minutes before the batch log session would auto-expire and require
+re-authentication.
 
 He worked efficiently.
 
 The alarm was not his.
 
-It came from the adjacent lab, a containment alert — the distinctive three-pulse tone that indicated a pressure failure in a nitrogen cycling unit. Not catastrophic. Not dangerous. But by protocol, the floor went into incident mode, and incident mode meant: all non-essential personnel to designated staging areas, all lab-adjacent doors to automatic lock-and-hold, all badge readers elevated to tier-two authorization.
+It came from the adjacent lab, a containment alert — the distinctive three-pulse
+tone that indicated a pressure failure in a nitrogen cycling unit. Not
+catastrophic. Not dangerous. But by protocol, the floor went into incident mode,
+and incident mode meant: all non-essential personnel to designated staging
+areas, all lab-adjacent doors to automatic lock-and-hold, all badge readers
+elevated to tier-two authorization.
 
 Max pulled the drive.
 
-He did this first, before he looked up, before he assessed. The drive was in his pocket before the second alarm pulse had completed. This was not instinct — it was the result of having spent three days thinking carefully about what he would do if something like this happened, which was the same thing he did with every protocol: he thought through the failure modes in advance so that when they occurred he did not have to think.
+He did this first, before he looked up, before he assessed. The drive was in his
+pocket before the second alarm pulse had completed. This was not instinct — it
+was the result of having spent three days thinking carefully about what he would
+do if something like this happened, which was the same thing he did with every
+protocol: he thought through the failure modes in advance so that when they
+occurred he did not have to think.
 
 He stood up from the terminal and turned around.
 
-Priya was moving toward the designated staging area near the north wall. Chen had already crossed the partition into the adjacent section, presumably to assist with the containment. Three other researchers were moving in the same direction as Priya, unhurried, the way people move through a practiced drill.
+Priya was moving toward the designated staging area near the north wall. Chen
+had already crossed the partition into the adjacent section, presumably to
+assist with the containment. Three other researchers were moving in the same
+direction as Priya, unhurried, the way people move through a practiced drill.
 
 Oren was coming toward Max.
 
-"Nitrogen coupling failed in 14-C," Oren said. "Routine. We'll be in hold for probably twenty minutes." He gestured toward the staging area. "Come on, I'll finish walking you through the Q4 anomalies while we wait."
+"Nitrogen coupling failed in 14-C," Oren said. "Routine. We'll be in hold for
+probably twenty minutes." He gestured toward the staging area. "Come on, I'll
+finish walking you through the Q4 anomalies while we wait."
 
 Max did not go toward the staging area.
 
-"I need to use the restroom," he said. "Before the hold locks me in for twenty minutes."
+"I need to use the restroom," he said. "Before the hold locks me in for twenty
+minutes."
 
-Oren smiled. "Corridor B, left at the junction. You have maybe two minutes before it locks."
+Oren smiled. "Corridor B, left at the junction. You have maybe two minutes
+before it locks."
 
 "I'll be quick," Max said.
 
 He walked at the pace of a man who intended to return.
 
-Corridor B was clear. He turned left at the junction and kept his pace even, noting the badge readers on the doors he passed: the first was already showing amber, cycling toward red. He did not use Michov Kargan's card on that one.
+Corridor B was clear. He turned left at the junction and kept his pace even,
+noting the badge readers on the doors he passed: the first was already showing
+amber, cycling toward red. He did not use Michov Kargan's card on that one.
 
-The second door, forty feet further, was still green. He scanned through and kept moving.
+The second door, forty feet further, was still green. He scanned through and
+kept moving.
 
-He used the card on one more door after that — a maintenance corridor that ran parallel to the main shaft, which he had mapped on his first walk-through by the simple expedient of noticing where the maintenance staff went when they disappeared from view. The door opened. He walked through and descended two flights of stairs into a service level that smelled of refrigerant and insulated cable.
+He used the card on one more door after that — a maintenance corridor that ran
+parallel to the main shaft, which he had mapped on his first walk-through by the
+simple expedient of noticing where the maintenance staff went when they
+disappeared from view. The door opened. He walked through and descended two
+flights of stairs into a service level that smelled of refrigerant and insulated
+cable.
 
-The loading bay exit was at the west end. A man in a gray Alpha Corp uniform was moving a pallet loader toward the freight elevator, his back to the door. Max walked past him at a consistent pace, badge in hand though there was no reader on this door, and pushed through the bay door into the late afternoon.
+The loading bay exit was at the west end. A man in a gray Alpha Corp uniform was
+moving a pallet loader toward the freight elevator, his back to the door. Max
+walked past him at a consistent pace, badge in hand though there was no reader
+on this door, and pushed through the bay door into the late afternoon.
 
-Panama City in May at four in the afternoon smells of exhaust and something green and wet under it — the particular vegetable richness of a city that is fighting a constant battle against tropical encroachment and losing it at the margins. The light was golden and horizontal. The noise was immediate and specific: traffic, a vendor's amplified radio somewhere to the right, the compressed-air grunt of a delivery truck two blocks up.
+Panama City in May at four in the afternoon smells of exhaust and something
+green and wet under it — the particular vegetable richness of a city that is
+fighting a constant battle against tropical encroachment and losing it at the
+margins. The light was golden and horizontal. The noise was immediate and
+specific: traffic, a vendor's amplified radio somewhere to the right, the
+compressed-air grunt of a delivery truck two blocks up.
 
 Max walked.
 
-He did not move fast. A man moving fast from a loading bay draws attention. He moved at the pace of a contractor who has just finished a shift and is thinking about dinner. He held his badge lanyard loosely. He did not look behind him.
+He did not move fast. A man moving fast from a loading bay draws attention. He
+moved at the pace of a contractor who has just finished a shift and is thinking
+about dinner. He held his badge lanyard loosely. He did not look behind him.
 
-He was three blocks north before he turned into a side street and allowed himself to stop.
+He was three blocks north before he turned into a side street and allowed
+himself to stop.
 
-He stood in the doorway of a hardware store. The smell in here was specific and known: machine oil, rubber gasket material, the particular dustiness of packed shelving. Through the window, he could see a man behind a counter watching something on a screen. Normal afternoon. Nothing looking back at him.
+He stood in the doorway of a hardware store. The smell in here was specific and
+known: machine oil, rubber gasket material, the particular dustiness of packed
+shelving. Through the window, he could see a man behind a counter watching
+something on a screen. Normal afternoon. Nothing looking back at him.
 
-His hands were shaking. He noted this without particular interest. It was the body's delayed accounting for the last fifteen minutes, which was a known phenomenon. He put his hands in his pockets, feeling the drive in the right one and the notebook's corner digging into his ribs from where he had it wedged under his arm.
+His hands were shaking. He noted this without particular interest. It was the
+body's delayed accounting for the last fifteen minutes, which was a known
+phenomenon. He put his hands in his pockets, feeling the drive in the right one
+and the notebook's corner digging into his ribs from where he had it wedged
+under his arm.
 
-Six blocks east. That was the extraction point. He had forty minutes before Chip and Dale's window closed.
+Six blocks east. That was the extraction point. He had forty minutes before Chip
+and Dale's window closed.
 
 He started walking.
 
 He thought about Oren.
 
-He thought about Oren the way you think about a fact you have not yet fully integrated: turning it over, testing its edges. Oren was not performing goodness. He was good, in the way that some people are simply good, the way some scientists are simply curious — not because it is useful but because it is the thing they are made of. He would go back to his lab after the nitrogen cycling incident was resolved and he would work on his yield models and he would think, in whatever part of his mind processed such things, that he was contributing to something important. To the science of energy production. To the world's power supply. To the careful, careful enterprise of making the crystals stable and the yields predictable.
+He thought about Oren the way you think about a fact you have not yet fully
+integrated: turning it over, testing its edges. Oren was not performing
+goodness. He was good, in the way that some people are simply good, the way some
+scientists are simply curious — not because it is useful but because it is the
+thing they are made of. He would go back to his lab after the nitrogen cycling
+incident was resolved and he would work on his yield models and he would think,
+in whatever part of his mind processed such things, that he was contributing to
+something important. To the science of energy production. To the world's power
+supply. To the careful, careful enterprise of making the crystals stable and the
+yields predictable.
 
-He would never see the DISPOSAL_PROTOCOL_7 entries. Not because they were hidden from him — Max did not think they were hidden from Oren. He thought they simply existed in a part of the system that Oren had never had reason to look at, because Oren's job was the science and someone else's job was the numbers and the system was designed so that those two things never needed to be in the same room.
+He would never see the DISPOSAL_PROTOCOL_7 entries. Not because they were hidden
+from him — Max did not think they were hidden from Oren. He thought they simply
+existed in a part of the system that Oren had never had reason to look at,
+because Oren's job was the science and someone else's job was the numbers and
+the system was designed so that those two things never needed to be in the same
+room.
 
-That was the design. Not malice toward Oren, specifically. Just the ordinary architecture of a machine that works better when its parts don't know what the other parts are doing.
+That was the design. Not malice toward Oren, specifically. Just the ordinary
+architecture of a machine that works better when its parts don't know what the
+other parts are doing.
 
-Max thought about the junior researcher at Alpha Corp who had first noticed that a certain class of feedstock was yielding anomalous results. He thought about the report that researcher had almost certainly written. He thought about where that report had gone and who had read it and what decision had been made about it and how far upstream that decision would have had to travel before it reached someone who understood not just what the finding meant scientifically but what it meant commercially.
+Max thought about the junior researcher at Alpha Corp who had first noticed that
+a certain class of feedstock was yielding anomalous results. He thought about
+the report that researcher had almost certainly written. He thought about where
+that report had gone and who had read it and what decision had been made about
+it and how far upstream that decision would have had to travel before it reached
+someone who understood not just what the finding meant scientifically but what
+it meant commercially.
 
-Someone had understood. Someone had calculated the value of that finding against the value of the current model and had made a decision, and that decision had been the right one from the perspective of the current model's beneficiaries.
+Someone had understood. Someone had calculated the value of that finding against
+the value of the current model and had made a decision, and that decision had
+been the right one from the perspective of the current model's beneficiaries.
 
-The energy crisis was not a crisis in the sense of something that had gone wrong.
+The energy crisis was not a crisis in the sense of something that had gone
+wrong.
 
-It was a product. It had been designed, maintained, and optimized over eleven years with the same care and precision that Oren applied to his yield models.
+It was a product. It had been designed, maintained, and optimized over eleven
+years with the same care and precision that Oren applied to his yield models.
 
-Max walked east through the Panama City late afternoon. The smell of the city was around him: exhaust, green, something frying from an open window two floors up. He was sweating in the heat and his hands had stopped shaking. In his pocket the drive was the size of his thumbnail and it contained enough data to demonstrate everything he had just been thinking in terms that a court, a journalist, or a historian could use.
+Max walked east through the Panama City late afternoon. The smell of the city
+was around him: exhaust, green, something frying from an open window two floors
+up. He was sweating in the heat and his hands had stopped shaking. In his pocket
+the drive was the size of his thumbnail and it contained enough data to
+demonstrate everything he had just been thinking in terms that a court, a
+journalist, or a historian could use.
 
 He thought: nobody in that building thinks they are doing something wrong.
 
 He thought: that is the most frightening thing about all of this.
 
-Not the calculation. Not the destroyed crystals. Not the eleven years and the billions of people who had paid for it in energy costs and cold winters and factories that couldn't run. The most frightening thing was Oren, and Chen asking sharp questions about crystallization rates, and Priya not looking up from her console. The most frightening thing was a building full of careful, competent, genuinely dedicated people who went home at the end of each shift and slept well, because the machine they worked inside had been constructed so that none of them ever had to know what the machine was for.
+Not the calculation. Not the destroyed crystals. Not the eleven years and the
+billions of people who had paid for it in energy costs and cold winters and
+factories that couldn't run. The most frightening thing was Oren, and Chen
+asking sharp questions about crystallization rates, and Priya not looking up
+from her console. The most frightening thing was a building full of careful,
+competent, genuinely dedicated people who went home at the end of each shift and
+slept well, because the machine they worked inside had been constructed so that
+none of them ever had to know what the machine was for.
 
-The extraction point was a café awning two blocks ahead. He could see Chip's jacket through the crowd.
+The extraction point was a café awning two blocks ahead. He could see Chip's
+jacket through the crowd.
 
 He kept walking.

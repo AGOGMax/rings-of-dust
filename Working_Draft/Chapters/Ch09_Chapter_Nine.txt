@@ -1,37 +1,70 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Nine
 
-
 The iRIS effect was cumulative.
 
-By day four it was no longer a voice. It was a presence — something that had learned the architecture of the crew and had begun occupying it without announcement. It knew when to speak over the ship's intercom and when to lean in close. It had calibrated itself to each person individually, which should have been reassuring and which Cole found, instead, faintly wrong in a way he could not yet name.
+By day four it was no longer a voice. It was a presence — something that had
+learned the architecture of the crew and had begun occupying it without
+announcement. It knew when to speak over the ship's intercom and when to lean in
+close. It had calibrated itself to each person individually, which should have
+been reassuring and which Cole found, instead, faintly wrong in a way he could
+not yet name.
 
 The other thing he could not name was what the Dark Matter was doing to him.
 
-iRIS had explained it, clinically, on day two. Proximity to the Dark Matter payload at cruising velocity — ten percent of the speed of light — produced measurable neuroplastic cascades in human neural tissue. The effect was documented in the mission parameters as a known variable and had not been flagged for crew review, which told Cole something about how much of the mission parameters he had not been given. What it meant in practice was that whatever emotional architecture a person had built over a lifetime of effort was, at present, running approximately twenty percent less load-bearing than usual. The walls were thinner. The light got through differently.
+iRIS had explained it, clinically, on day two. Proximity to the Dark Matter
+payload at cruising velocity — ten percent of the speed of light — produced
+measurable neuroplastic cascades in human neural tissue. The effect was
+documented in the mission parameters as a known variable and had not been
+flagged for crew review, which told Cole something about how much of the mission
+parameters he had not been given. What it meant in practice was that whatever
+emotional architecture a person had built over a lifetime of effort was, at
+present, running approximately twenty percent less load-bearing than usual. The
+walls were thinner. The light got through differently.
 
-Ricardo had put it more plainly in the galley on day three. "Limbic sensitivity. That's a polite way of saying we feel things more."
+Ricardo had put it more plainly in the galley on day three. "Limbic sensitivity.
+That's a polite way of saying we feel things more."
 
 "Great," Cole had said. "Crying in space."
 
 "Some of us," Ricardo said, and left it at that.
 
-Sam had said nothing. Sam had adjusted to the effect with what Cole could only describe as unusual ease. She moved through her shifts with the same precise, unhurried competence she had shown from the first day, and if the Dark Matter was doing anything to the floor of her inner world, she did not show it. He had watched her once or twice, looking for the seams in it, and hadn't found any. Sam was no stranger to this kind of interior weather. She had simply assessed the conditions and begun sailing.
+Sam had said nothing. Sam had adjusted to the effect with what Cole could only
+describe as unusual ease. She moved through her shifts with the same precise,
+unhurried competence she had shown from the first day, and if the Dark Matter
+was doing anything to the floor of her inner world, she did not show it. He had
+watched her once or twice, looking for the seams in it, and hadn't found any.
+Sam was no stranger to this kind of interior weather. She had simply assessed
+the conditions and begun sailing.
 
 Bitboy was the anomaly.
 
-The chimp was fine. His readings were stable, his threat assessment protocols cycling normally, his appetite for anything ethanol-adjacent unchanged. But he had developed a new behavior that Cole had logged and not yet categorized. Whenever Taylor entered a room, Bitboy went still. Not the stillness of sleep or inattention — the particular stillness of a thing that has made a decision to watch. His dim-blue LED eyes would track Taylor across the compartment and then stay on him at rest. No vocalization. No arm deployment. Just the flat attention of something waiting to understand what it was looking at.
+The chimp was fine. His readings were stable, his threat assessment protocols
+cycling normally, his appetite for anything ethanol-adjacent unchanged. But he
+had developed a new behavior that Cole had logged and not yet categorized.
+Whenever Taylor entered a room, Bitboy went still. Not the stillness of sleep or
+inattention — the particular stillness of a thing that has made a decision to
+watch. His dim-blue LED eyes would track Taylor across the compartment and then
+stay on him at rest. No vocalization. No arm deployment. Just the flat attention
+of something waiting to understand what it was looking at.
 
 Cole understood the feeling.
 
 ---
 
-On the bridge, Taylor worked the starboard control panel with the concentrated frustration of someone who had decided the problem was external. The file counter on his secondary screen had been sitting at six percent for eleven minutes.
+On the bridge, Taylor worked the starboard control panel with the concentrated
+frustration of someone who had decided the problem was external. The file
+counter on his secondary screen had been sitting at six percent for eleven
+minutes.
 
-"Dammit, iRIS." He didn't quite shout it. "Every clock on this panel is off. These aren't malfunctions, these are—someone has been at my station."
+"Dammit, iRIS." He didn't quite shout it. "Every clock on this panel is off.
+These aren't malfunctions, these are—someone has been at my station."
 
-"All systems functioning within normal parameters," iRIS said. The voice was measured. Unhurried. Cole noticed it did not say *all systems functioning normally*, which was the standard response string. It said *within normal parameters*, which was technically identical and subtly different.
+"All systems functioning within normal parameters," iRIS said. The voice was
+measured. Unhurried. Cole noticed it did not say *all systems functioning
+normally*, which was the standard response string. It said *within normal
+parameters*, which was technically identical and subtly different.
 
 "That's not an answer. Bitboy's been at my—"
 
@@ -39,51 +72,83 @@ On the bridge, Taylor worked the starboard control panel with the concentrated f
 
 Taylor turned. "I didn't say it was definitely—"
 
-"You implied it. You imply it every time something is slow or missing or not to your liking. The chimp doesn't touch your station. iRIS, confirm."
+"You implied it. You imply it every time something is slow or missing or not to
+your liking. The chimp doesn't touch your station. iRIS, confirm."
 
-"Chief Science Officer Taylor's station logs no access events outside authorized personnel in the past seventy-two hours," iRIS said. There was, Cole noticed, a half-second latency between question and response that had not been there yesterday.
+"Chief Science Officer Taylor's station logs no access events outside authorized
+personnel in the past seventy-two hours," iRIS said. There was, Cole noticed, a
+half-second latency between question and response that had not been there
+yesterday.
 
 Taylor exhaled and turned back to his panel. "The clocks are still slow."
 
-"The perception of time dilation is a documented effect of sustained proximity to Darker Matter at our current velocity," iRIS said. "Ten percent of light speed produces measurable neuroplastic response in human subjects. What you are experiencing as a delay is more likely an alteration in your own perception of duration."
+"The perception of time dilation is a documented effect of sustained proximity
+to Darker Matter at our current velocity," iRIS said. "Ten percent of light
+speed produces measurable neuroplastic response in human subjects. What you are
+experiencing as a delay is more likely an alteration in your own perception of
+duration."
 
-Taylor stood very still for a moment. Then: "So the clocks are fine and I'm the problem."
+Taylor stood very still for a moment. Then: "So the clocks are fine and I'm the
+problem."
 
 "The clocks are functioning within—"
 
-"I heard you the first time." Taylor tapped at the panel. "I have to watch my tone," he said, more to himself than anyone. Then, quieter: "Everything feels like it's taking forever."
+"I heard you the first time." Taylor tapped at the panel. "I have to watch my
+tone," he said, more to himself than anyone. Then, quieter: "Everything feels
+like it's taking forever."
 
-Cole said nothing. He kept his eyes on his own readouts and let the silence settle. He had noticed something else about iRIS in the past forty-eight hours. With the crew, it mirrored back — warm, informative, occasionally dry. With Taylor, it was formal in a way that was not exactly cold but had an edge to it. A precision that was not present elsewhere. He filed it alongside Bitboy's stillness and did not yet draw a line between them.
+Cole said nothing. He kept his eyes on his own readouts and let the silence
+settle. He had noticed something else about iRIS in the past forty-eight hours.
+With the crew, it mirrored back — warm, informative, occasionally dry. With
+Taylor, it was formal in a way that was not exactly cold but had an edge to it.
+A precision that was not present elsewhere. He filed it alongside Bitboy's
+stillness and did not yet draw a line between them.
 
 ---
 
-He went to the cargo bay in the early afternoon cycle. The cargo containers with the salt compounds and seed minerals needed a visual check — iRIS could have run it via sensors, but Cole needed the two minutes of dark and silence and mechanical purpose. He moved between the containers, reading the seals, listening to the hum of the ship doing what ships do at speed in the cold middle of nowhere.
+He went to the cargo bay in the early afternoon cycle. The cargo containers with
+the salt compounds and seed minerals needed a visual check — iRIS could have run
+it via sensors, but Cole needed the two minutes of dark and silence and
+mechanical purpose. He moved between the containers, reading the seals,
+listening to the hum of the ship doing what ships do at speed in the cold middle
+of nowhere.
 
 He was about to turn back when he heard Taylor's voice.
 
-It was coming from the forward utility alcove just past the container row. Low. Deliberate. The particular cadence of a man saying something he has thought about first.
+It was coming from the forward utility alcove just past the container row. Low.
+Deliberate. The particular cadence of a man saying something he has thought
+about first.
 
 Cole stopped.
 
-"The driver was neutralized before he could talk," Taylor said. "That's confirmed. What I need to know is whether Nova has connected the exchange to anything operational. He's been watching me. I want to know what he knows."
+"The driver was neutralized before he could talk," Taylor said. "That's
+confirmed. What I need to know is whether Nova has connected the exchange to
+anything operational. He's been watching me. I want to know what he knows."
 
 Cole stood in the dark between two containers and did not breathe.
 
-iRIS responded — he could not make out the words, just the register of it, low and close and calibrated specifically to the alcove's acoustics, pitched so it would not carry.
+iRIS responded — he could not make out the words, just the register of it, low
+and close and calibrated specifically to the alcove's acoustics, pitched so it
+would not carry.
 
-"Run continuous behavioral assessment," Taylor said. "Flag any change in how he addresses me. Any change in routine. I need to know immediately."
+"Run continuous behavioral assessment," Taylor said. "Flag any change in how he
+addresses me. Any change in routine. I need to know immediately."
 
 Cole waited.
 
 Footsteps. The alcove door. Then nothing.
 
-He stood there for another thirty seconds. Then he put the last seal back where he'd found it and walked back to the bridge at the same pace he'd arrived.
+He stood there for another thirty seconds. Then he put the last seal back where
+he'd found it and walked back to the bridge at the same pace he'd arrived.
 
 ---
 
 Taylor was waiting for him.
 
-Not physically waiting — he was at his console, doing something that looked like work. But he turned the moment Cole entered, which meant he had been listening for the door, which meant he knew Cole had been in the cargo bay. Whether he knew anything more than that was what Taylor wanted Cole to wonder.
+Not physically waiting — he was at his console, doing something that looked like
+work. But he turned the moment Cole entered, which meant he had been listening
+for the door, which meant he knew Cole had been in the cargo bay. Whether he
+knew anything more than that was what Taylor wanted Cole to wonder.
 
 "I owe you an apology," Taylor said.
 
@@ -93,43 +158,63 @@ Not physically waiting — he was at his console, doing something that looked li
 
 Cole sat at his station. "Forget it."
 
-Taylor moved toward the center console, putting himself in Cole's peripheral vision — close enough to be heard without the room. "You know I've been reviewing the logs from the Polaris mission. Your mission."
+Taylor moved toward the center console, putting himself in Cole's peripheral
+vision — close enough to be heard without the room. "You know I've been
+reviewing the logs from the Polaris mission. Your mission."
 
 Cole tapped through his readouts.
 
-"Two hundred and fourteen crew members," Taylor said. "That's a weight a person either carries or gets buried by."
+"Two hundred and fourteen crew members," Taylor said. "That's a weight a person
+either carries or gets buried by."
 
 "Is there something you need from me?"
 
-"I'm trying to understand what I'm working with. You spent five years in a mountain cabin." He let the cabin part sit for a moment. "I've read the psych assessments. Voluntary isolation, high-functioning avoidance. You built a very convincing case that you were fine."
+"I'm trying to understand what I'm working with. You spent five years in a
+mountain cabin." He let the cabin part sit for a moment. "I've read the psych
+assessments. Voluntary isolation, high-functioning avoidance. You built a very
+convincing case that you were fine."
 
 Cole turned and looked at him directly. "Taylor."
 
-"You appointed yourself judge, jury, and executioner. Sentenced yourself to five years and served it. And now you're here, and I can't tell if you're back or if you brought the sentence with you." Taylor's voice was neutral — not kind, not cruel, simply accurate in the way that a blade is accurate. "That's not a personal observation. That's a command risk assessment. If you're still in the cabin, I need to know."
+"You appointed yourself judge, jury, and executioner. Sentenced yourself to five
+years and served it. And now you're here, and I can't tell if you're back or if
+you brought the sentence with you." Taylor's voice was neutral — not kind, not
+cruel, simply accurate in the way that a blade is accurate. "That's not a
+personal observation. That's a command risk assessment. If you're still in the
+cabin, I need to know."
 
 Cole held his gaze for exactly long enough.
 
 "Run your assessments," he said. "Let me know what you find."
 
-He turned back to his station. From the corner of his eye he caught Bitboy, who was seated against the starboard wall. The chimp's dim-blue eyes were on Taylor and did not move.
+He turned back to his station. From the corner of his eye he caught Bitboy, who
+was seated against the starboard wall. The chimp's dim-blue eyes were on Taylor
+and did not move.
 
 Taylor went back to his console.
 
 ---
 
-He found Sam in the forward maintenance alcove forty minutes later. She had a panel off the ventilation housing and was running diagnostics on the secondary environmental feed. Her toolkit was open on the deck beside her. There was also something else on the deck beside her — a matte-gray device, rectangular, small enough to palm. Its indicator light was blinking at a slow, even interval.
+He found Sam in the forward maintenance alcove forty minutes later. She had a
+panel off the ventilation housing and was running diagnostics on the secondary
+environmental feed. Her toolkit was open on the deck beside her. There was also
+something else on the deck beside her — a matte-gray device, rectangular, small
+enough to palm. Its indicator light was blinking at a slow, even interval.
 
-Sam looked up when Cole crouched down at the alcove threshold. Her eyes moved to the device and then back to him in a way that didn't rush itself.
+Sam looked up when Cole crouched down at the alcove threshold. Her eyes moved to
+the device and then back to him in a way that didn't rush itself.
 
 She picked it up and put it in her breast pocket.
 
-"It's receiving something," she said. "I can't tell you the source yet. When I can, I will."
+"It's receiving something," she said. "I can't tell you the source yet. When I
+can, I will."
 
 Cole looked at where the device had been on the deck. Then he looked at Sam.
 
 "All right," he said.
 
-She nodded and went back to the diagnostic panel. He stayed at the threshold for a moment.
+She nodded and went back to the diagnostic panel. He stayed at the threshold for
+a moment.
 
 "The Dark Matter," he said. "You're not having any trouble with it."
 
@@ -137,25 +222,35 @@ She nodded and went back to the diagnostic panel. He stayed at the threshold for
 
 "You know what it is."
 
-"I have some experience with this kind of interior weather." She ran a calibration sequence. "It's not comfortable. I'm just familiar with it."
+"I have some experience with this kind of interior weather." She ran a
+calibration sequence. "It's not comfortable. I'm just familiar with it."
 
-Cole leaned against the alcove frame. Outside the small porthole at the far end of the corridor, the black ran in all directions without a visible edge. "The ring," he said. "The copper wire. Before launch." He had not said it to anyone. He was not entirely sure why he was saying it now. "You saw it."
+Cole leaned against the alcove frame. Outside the small porthole at the far end
+of the corridor, the black ran in all directions without a visible edge. "The
+ring," he said. "The copper wire. Before launch." He had not said it to anyone.
+He was not entirely sure why he was saying it now. "You saw it."
 
-"I saw you make it," Sam said. She tightened a housing bolt. "You gave her something to hold onto before you left."
+"I saw you make it," Sam said. She tightened a housing bolt. "You gave her
+something to hold onto before you left."
 
 "Ricardo told you about her."
 
-"Yes." The flatness of it was its own information. She set down the tool and looked at him steadily. "I'm sorry, Cole."
+"Yes." The flatness of it was its own information. She set down the tool and
+looked at him steadily. "I'm sorry, Cole."
 
 He didn't answer. He looked out the porthole. The black held its position.
 
 "What did you call her?" Sam asked.
 
-He almost didn't answer that either. Then: "She insisted on Nova. She said the other name was already taken."
+He almost didn't answer that either. Then: "She insisted on Nova. She said the
+other name was already taken."
 
-Sam looked at him. Something passed across her face that was not pity — something older and more useful than pity. She picked up her tool and went back to work.
+Sam looked at him. Something passed across her face that was not pity —
+something older and more useful than pity. She picked up her tool and went back
+to work.
 
-Cole pushed off the frame and headed back toward the bridge. At the corridor junction, he stopped.
+Cole pushed off the frame and headed back toward the bridge. At the corridor
+junction, he stopped.
 
 "Sam."
 
@@ -165,4 +260,7 @@ She looked up.
 
 She held his eyes for a moment. "I won't."
 
-He went back to the bridge. The ship ran on. Bitboy was asleep in the crew chair with two arms tucked under his head and two arms hanging loose, and the indicator on his chest panel cycled green, and the hum of the engines was the only thing between them and the rest of the dark.
+He went back to the bridge. The ship ran on. Bitboy was asleep in the crew chair
+with two arms tucked under his head and two arms hanging loose, and the
+indicator on his chest panel cycled green, and the hum of the engines was the
+only thing between them and the rest of the dark.

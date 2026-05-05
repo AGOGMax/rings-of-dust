@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 Chapters Fifteen–Seventeen — Seed / Reference Material
 
 [ This file collects source prose, placement notes, and writing direction
@@ -158,7 +158,7 @@ WHAT TO ESTABLISH:
 - One good concrete image: a shared briefing where Vance asks a question
   that implies doubt about an Alpha Corp directive. Taylor answers before
   the presenter can — clean, certain, slightly too eager. Vance looks at him
-  the way you look at a man who just volunteered for something he shouldn't have.
+the way you look at a man who just volunteered for something he shouldn't have.
 
 SUGGESTED LINE (Vance internal, not spoken aloud):
   "Glenn had the answer for everything. The problem with men like that
