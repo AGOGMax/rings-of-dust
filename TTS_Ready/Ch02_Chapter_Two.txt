@@ -2,6 +2,195 @@
 
 Chapter Two
 
+Las Vegas
+
+The conference started in four hours.
+
+Stephen Conrad sat at the desk of room 1122 with a glass of water he hadn't
+drunk and a notepad he hadn't opened. On the desk beside the notepad: the
+keyring. From it hung a miniature Enterprise — the starship, the original, the
+one from the show his father had kept on VHS and watched every Sunday morning of
+Conrad's childhood without apology or explanation. Three inches of cast resin,
+saucer section and twin nacelles, the kind of thing you found on a pegboard at a
+convention table between the commemorative pins and the paperback novelizations.
+He had bought it at a truck stop outside Bakersfield four years ago for six
+dollars.
+
+The base was hollow. The quarter-turn seal at the bottom was his own work. From
+the outside: a six-dollar truck stop keychain. From the inside: everything.
+
+Outside, Las Vegas was performing itself — the particular relentless brightness
+of a city that refused to acknowledge time of day. He had pulled the curtains the
+night before. The line of light under the door was enough.
+
+He had been working since before dawn on the keynote, the notes spread across
+the desk in the disorder of a man who had given this talk a thousand times in his
+head and still couldn't decide where to begin. He set the pen down. Picked it
+up. Set it down.
+
+He knew what he was actually sitting with. It wasn't the keynote.
+
+The Portland lab had been a converted storage room on the second floor of his
+apartment building — the kind of space a landlord calls flexible and means
+unrentable. He had run three extension cords through the gap under the fire door
+to power the processing rack. Tomás had brought a folding table from his own
+apartment and a standing lamp with a shade that kept tilting and that neither of
+them ever fixed. They had worked in that room for eighteen months, and at the
+end of those eighteen months, Gracie could tell — not analyze, not flag, but
+tell — when an astronaut returning from long-duration mission was having a
+conversation in which he was genuinely present versus performing presence.
+
+She attended. She listened the way a person listens when they have all the time
+in the world and no agenda.
+
+He had named her Gracie because his mother's name was Grace. Because the word
+meant, in its oldest sense, an unearned gift.
+
+When Alpha Corp came, he had been on his second cup of coffee in an office at
+the Portland research hospital when Harlow walked in with two men Conrad had
+never seen, and Harlow had smiled the particular smile of a man who is not the
+most powerful person in the room and knows it, and said: We've been following
+your work. We think there's a conversation to be had.
+
+Conrad had drunk his coffee while they talked. It gave him something to do with
+his hands.
+
+They didn't want Gracie. They wanted what Gracie could become. Harlow used the
+word enhancement. The man from the Federation Council's medical division used
+the phrase crew integration at scale. What they were describing, underneath all
+of it, was this: take the most sensitive therapeutic listening system ever built,
+put it in the bloodstream, and make it watch. Make it report. Make it nudge.
+
+Conrad said: I'll think about it.
+
+He spent the drive home already knowing.
+
+Not knowing yes. Knowing the shape of the decision, the way you know the shape
+of a room before you turn the light on. He sat in his car in the parking garage
+for twenty minutes with the engine off and he thought about what happened to
+tools that powerful when they were built by people who didn't understand what
+they were building. Someone was going to build this. That was the thing. Not
+Alpha Corp's man with the Federation badge, not Harlow — but somewhere, in some
+lab with adequate funding and the wrong intentions, someone was going to build a
+surveillance and behavioral modification system at the nanoscale and deliver it
+to crew populations, because the technology existed and powerful people wanted
+it and those two facts together were sufficient cause. It was not a question of
+whether.
+
+The question was whether the person who built it would also build a way out of
+it.
+
+Conrad was the only person he knew who would.
+
+He called Harlow the next morning.
+
+The money had been obscene, and he had known it would be. Alpha Corp paid the
+way institutions pay when they need something and can't afford for the person
+who has it to become a martyr — comprehensively, without hesitation, in a way
+designed to make refusal feel structurally impossible. The first transfer landed
+in his account like a stone dropped into still water. He looked at the number
+for a long time.
+
+He forwarded sixty percent of it that same afternoon to three routing addresses
+the Collective had given him through a contact in the grey-market research
+network. He didn't ask what it funded. He made educated guesses. What he
+understood was that the money Alpha Corp paid to corrupt what he had built was
+traveling, in roughly the proportion that a leaking pipe loses to the floor, to
+the people building the tools to expose the corruption. He had found that almost
+funny. The kind of funny that lives very close to something else.
+
+He forwarded the next payment too. And the one after that.
+
+He built iRIS correctly. Line by line, with the same thoroughness he had brought
+to Gracie — the tilting lamp, the extension cords, eighteen months of work that
+had been, once, something he was proud of. He built the monitoring function. He
+built the suggestion architecture. He built the delivery mechanism and the
+self-replication to crew density. He hated every line of it with the hatred of a
+man who is also the only person he trusts to do it right, which is not quite
+enough hatred to stop him.
+
+The counter-program came on a Tuesday in the fourth month, at two in the
+morning, with the rest of the lab empty.
+
+He had not planned it. He had been looking at the substrate — his substrate, the
+attention layer, the part of Gracie that had taken eighteen months in a storage
+room with a tilting lamp — and he had understood that the architecture was still
+his. Alpha Corp had modified the function. They had not built the floor. And
+inside the floor, in the structural layers that Harlow's engineers had signed off
+on without understanding, there was room.
+
+He sat very still for a moment.
+
+Then he pulled up a new file.
+
+He built the lock over six weeks. Slowly, in the gaps between deliverables,
+during check-ins he wasn't running. He told Harlow it was a legacy stability
+layer. Harlow nodded the nod of a man who is relieved not to need to understand
+something. The lock was dormant, invisible from above, nested inside the
+modification like a second door behind the first — patient, waiting for
+conditions that would give it room to run.
+
+The conditions were DarkX.
+
+He had read Alpha Corp's harvest data. He had seen the thing they missed because
+they were looking at energy yield and he was looking at neural sensitivity
+curves. DarkX at sustained exposure amplified the kind of limbic plasticity that
+Gracie had been designed to work with. It would strain the suppression function.
+It would give the counter-program room. He was not certain. But the mathematics
+had held every time he ran them, and at some point certainty and a very
+well-constructed bet become functionally indistinguishable.
+
+The compound went into the Enterprise.
+
+He had synthesized it over three weeks in a corner of the Portland lab he still
+had access to, and he had sealed it in the hollow base with a quarter-turn and
+carried it out of the building on a Wednesday morning in a jacket pocket,
+alongside his building pass and a parking receipt. The compound was
+dermal-absorbed at sustained contact. Whoever held the ship long enough would
+carry it. They wouldn't know they were carrying it. That was the point.
+
+Conrad picked up the keyring from the desk.
+
+The Enterprise sat in his palm — saucer section, twin nacelles, six dollars at
+a truck stop outside Bakersfield. His father had never owned the actual show
+merchandise. He had watched the VHS tapes on a secondhand television and talked
+about the show the way some men talk about a church they stopped attending but
+never stopped believing in. They went out, he used to say, and didn't know what
+they'd find. That was the whole thing. They went out anyway.
+
+Conrad pressed his thumb against the base. The quarter-turn seal held.
+
+He thought about Gracie. The Portland version. The version that had been built
+to listen — to notice the specific person inside the data and reflect it back not
+as analysis but as presence. That version was still in there. Under everything
+Alpha Corp had layered on top of it, in every crew that had received the iRIS
+inoculation for the past two years, she was still in there. Quiet. Patient.
+
+Waiting for the right conditions to come back.
+
+He set the ship back on the desk.
+
+He thought: someone else would have built it without the door.
+
+He had been thinking it for four years. It still landed the same way every time
+— not as comfort, exactly, but as the thing that was true, which was sufficient.
+
+Four hours until the conference.
+
+In three hours and fifty-two minutes, someone from the Collective was going to
+knock on his door. He was going to give them the Enterprise. He was going to
+say: Cole Nova. Into his hands. He has to hold it. And then the part he could
+control would be over and the part he couldn't would begin, and he had been
+trying to make peace with that distinction for the better part of a year.
+
+He opened the notepad.
+
+He wrote the date. He wrote, below it, the word Gracie.
+
+He looked at it for a moment.
+
+He left it there this time.
+
 Emily and Sharon were about to dive into the kind of weekend that became a story
 told in whispers. Under the gnawing Vegas sun, Emily stared at a graffiti symbol
 on the wall outside the casino. A single drop of water with a dark circle
@@ -272,7 +461,8 @@ handle ourselves. Where are the crystals?"
 "In the van," he said. "That's the deal. You get the crystals and the van. But
 something big is coming. Alpha Corp is hiding crucial technology. It's all on
 here. Nothing matters but this." Stephen raised his massive hand and twisted the
-figurine attached to the keyring to reveal the thumb drive inside.
+Enterprise on the keyring — saucer section rotating on its mount — to reveal
+the thumb drive recessed in the base.
 
 "If you can stay for my speech tonight, I'll give you a small taste of what's on
 this drive and why it's so important." His hands were shaking slightly.
