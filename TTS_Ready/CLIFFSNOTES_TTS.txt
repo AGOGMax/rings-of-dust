@@ -45,7 +45,7 @@ told, early in the story. She was not killed. She was taken by Alpha Corp,
 augmented with bionic hardware and neural conditioning, and deployed as an
 operative — a weapon pointed at Cole. She keeps his name alive the whole time.
 
-Emily Nova — Cole's younger sister. A civilian who has been peripherally
+Emily Nova — Cole's older sister. A civilian who has been peripherally
 connected to the Collective through Sharon. She
 becomes, across the story, one of the Collective's most effective field
 operatives — not because she was trained, but because she understood the stakes
@@ -71,11 +71,13 @@ mission delivers its payload to Alpha Corp rather than the Federation. He has a
 pocket watch engraved with the name Klaus — Marcus Verguld's grandfather,
 founder of Alpha Corp.
 
-Sam Drummond — Data Technician, Golden Dawn. She is Collective-adjacent,
-carrying a hidden patch that partially insulates her from iRIS's penetration.
-She arrives at the mission already knowing more than she should, adjusts to iRIS
-with suspicious ease, and has a 90-second transmission sequence in the first
-days of the mission that she executes without anyone catching it.
+Samantha "Sam" Drummond — Data Technician, Golden Dawn. She is a Collective
+plant, ranked Agent — placed on the Golden Dawn deliberately, carrying a hidden
+patch that partially insulates her from iRIS's penetration. She arrives already
+knowing more than she should, adjusts to iRIS with zero lag while everyone else
+takes forty-eight hours to recalibrate, and executes a 90-second covert
+transmission sequence in the first days of the mission without anyone catching
+it. After the mission, her rank will almost certainly be elevated to Navigator.
 
 Vance Black — Federation Operations. A true believer in the Federation who spent
 fifteen years inside a machine he didn't know Marcus was running. He drives six
