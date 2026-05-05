@@ -144,9 +144,14 @@ Sam, a data technician who had been silent until now, leaned forward. "We've
 been experimenting with the accumulations on the cells. We can extend the
 stability for a few more days, but it's not enough. We need their data."
 
-Taylor didn't look at her. He addressed the room. "Extending accumulation cycles
-based on experimental intuition isn't a strategy. It's a feeling. And feelings
-don't hold up at a briefing table." A half-beat pause. "Or in the field."
+Taylor turned toward her for the first time. "Samantha." He said it the way
+you say a word that isn't a greeting — flat, first name, in a room where
+everyone used rank or last name. A small and specific violation. Her jaw
+tightened once and then didn't again. She held his eyes and said nothing,
+which was its own answer. He turned back to the room. "Extending accumulation
+cycles based on experimental intuition isn't a strategy. It's a feeling. And
+feelings don't hold up at a briefing table." A half-beat pause. "Or in the
+field."
 
 Sam's eyes stayed on her screen. "Might want to patch that," she said. "Your
 firmware's running a few versions behind." She pulled up a new readout and

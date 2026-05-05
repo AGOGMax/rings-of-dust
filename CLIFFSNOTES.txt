@@ -66,26 +66,74 @@ spore, which means he remains clear-eyed throughout the mission and tracks the
 deceptions everyone else misses.
 
 Taylor Glenn — Crew Chief, Golden Dawn. Twenty years of Federation service, all
-of it controlled. He is an Alpha Corp plant, placed on the crew to ensure the
-mission delivers its payload to Alpha Corp rather than the Federation. He has a
-pocket watch engraved with the name Klaus — Marcus Verguld's grandfather,
-founder of Alpha Corp.
+of it controlled. He is an Alpha Corp plant, personally recruited by Klaus
+Verguld — Marcus's father and the founder of Alpha Corp — to ensure the mission
+delivers its payload to Alpha Corp rather than the Federation. He has a pocket
+watch engraved with the name Klaus. He and Vance Black were both recruited by
+Klaus, though Klaus kept his operatives compartmentalized — neither was supposed
+to know about the other.
 
 Samantha "Sam" Drummond — Data Technician, Golden Dawn. She is a Collective
 plant, ranked Agent — placed on the Golden Dawn deliberately, carrying a hidden
-patch that partially insulates her from iRIS's penetration. She arrives already
-knowing more than she should, adjusts to iRIS with zero lag while everyone else
-takes forty-eight hours to recalibrate, and executes a 90-second covert
-transmission sequence in the first days of the mission without anyone catching
-it. After the mission, her rank will almost certainly be elevated to Navigator.
+patch that partially insulates her from iRIS's penetration. Her name patch reads
+"Drummond." When she introduces herself to Cole and Ricardo at Federation Space
+Command, she gives her full name once — "Samantha Drummond" — and immediately
+follows it with "Sam," not as a request but as a statement. The crew calls her
+Sam. Taylor does not. He uses "Samantha" as a deliberate protocol violation —
+first names are not used in military or government briefing rooms, and everyone
+present understands what he is doing. She bristles, holds her cool, and does not
+give him the reaction. He does it twice: once in the Chapter Five pre-mission
+briefing in front of DeMint and the Alpha Corp contingent, when he uses her full
+name to dismiss her technical argument about energy stabilization; and again in
+Chapter Seventeen over the intercom while he is venting the cargo bay with the
+intent to kill the crew. The second time, she stops for one second and keeps
+moving toward the override panel. She arrives already knowing more than she
+should, adjusts to iRIS with zero lag while everyone else takes forty-eight
+hours to recalibrate, and executes a 90-second covert transmission sequence in
+the first days of the mission without anyone catching it. After the mission, her
+rank will almost certainly be elevated to Navigator.
 
-Vance Black — Federation Operations. A true believer in the Federation who spent
-fifteen years inside a machine he didn't know Marcus was running. He drives six
-hours into the Nevada desert to find evidence against Alpha Corp, finds an empty
-vault, and drives to a clinic in Venice Beach after Marcus shoots him with a
-concealed revolver. He discharges himself the next morning, retrieves Conrad's
-prototype from a Texas research station, and ultimately hands it to Emily
-voluntarily.
+Vance Black — Federation Operations. An Alpha Corp plant, recruited by Klaus
+Verguld alongside Taylor Glenn — though neither was told about the other. Klaus
+ran his operatives compartmentalized. Vance and Taylor had a rivalry neither
+could fully act on. Unlike Taylor, Vance is not loyal to Marcus. He was Klaus's
+man, not Marcus's, and Marcus knows it — Vance doesn't fit the working algorithm
+the way Taylor does. When Vance drives six hours into the Nevada desert and
+finds the empty vault, he calls Marcus to report what he found, believing
+confrontation is the one variable men like Marcus don't account for. Marcus
+shoots him with a concealed revolver. Then cries. Calls the police. Claims
+self-defense. It is not a performance that costs him anything — Marcus is
+psychotic in the clinical sense, and faking human emotion is a tool he uses the
+same way he uses everything else. In the user's written version of the book,
+Vance does not survive. He dies from the shooting. His role in the AI-generated
+chapters (Ch20, Ch22, Ch23) — surviving, opening the briefcase, testifying at
+the Grand Hall — has not yet been resolved into final canon.
+
+Klaus Verguld — Marcus's father. The architect behind the architect. Son of
+Wilhelm Verguld, who in the 1980s discovered a set of crystalline drives in an
+unindexed Directorate archive — drives that had been left by Dark X in a sealed
+Icelandic mine after the phenomenon absorbed three scientists and six soldiers
+and sealed itself in. Wilhelm built the network that would become Alpha Corp.
+Klaus inherited it, crossed the ocean under cover documents, and spent a decade
+driving a trash route through Culver City to disappear in plain sight while he
+assembled the structure his father had only sketched. He is not psychotic the
+way Marcus is. He is something colder: a man who has removed the need for
+emotion entirely and replaced it with patience measured in generations. He
+mourned his wife of ten years — Marcus's mother — exactly as long as the
+structure required. He kept Marcus in the dark for twenty-two years deliberately,
+because a boy raised in darkness who is then shown the light will accept the
+frame his father gives him for why the world was always lying. He watched Cole
+Nova bail on Marcus at seventeen, recognized the wound, and waited two years
+before beginning the recruitment conversation. He named Alpha Corp through a
+chain of intermediaries — he had no interest in his fingerprints on the
+letterhead. The actual project was never the energy market. The energy market was
+the cover. The actual project is the Dark X signal itself: older than the mine,
+older than the Saturn surveys, a frequency that does not belong to any
+institution yet standing. Marcus spent fifteen years believing himself to be the
+architect of Alpha Corp. He was the cover. In the epilogue, Klaus is already in
+the Dubai apartment when Marcus arrives. He has been there for three days. He
+tells Marcus: the ledger you were keeping was never the ledger. The structure
+continues. The cover changes. That is all that happened today.
 
 Marcus Verguld — The antagonist. Head of Alpha Corp. Has been managing the
 energy crisis as an inventory decision for years. Patient, precise, and
@@ -105,7 +153,7 @@ six dollars at a truck stop outside Bakersfield — which he handed to Emily and
 Sharon in Las Vegas. The compound is dermal-absorbed. Whoever holds the ship
 long enough carries it. His counter-program is the key that unlocks everything.
 
-Dr. Maximilian Chen (Max) — An independent physicist who discovered the flywheel
+Max "Ray" Vision — A former Alpha Corp researcher who discovered the flywheel
 principle: charging a DarkX fuel cell with another cell for thirty-three days
 produces a non-linear yield; at sixty days, the efficiency curve inverts and the
 cell gives back more than it costs; at one hundred eighty days, the yield
@@ -184,10 +232,18 @@ to fight back.
 
 Chapter Five
 
-Transition chapter. Cole and Ricardo travel toward Federation Space Command for
-mission prep. The world's energy crisis is rendered in detail — the rolling
-outages, the scarcity, the dependency. The stakes of what is on Saturn, and why
-Alpha Corp cannot be allowed to retrieve it alone, are established.
+Cole and Ricardo travel toward Federation Space Command for mission prep. The
+world's energy crisis is rendered in detail — the rolling outages, the scarcity,
+the dependency. Before Cole and Ricardo arrive, a briefing at Federation
+Headquarters shows DeMint and an Alpha Corp contingent trying to coordinate the
+energy response. Taylor and Sam are both already present. Sam argues that Alpha
+Corp should share the stabilization data — it could help solve the crisis. Taylor
+defends Alpha Corp's secrecy. When Sam presses the technical argument, Taylor
+uses her full first name — "Samantha" — as a dismissal, a protocol violation in
+a room where everyone uses rank or last name. Her jaw tightens once and doesn't
+again. She holds his eyes and says nothing. The Alpha Corp side doesn't blink.
+DeMint registers it. The stakes of what is on Saturn, and why Alpha Corp cannot
+be allowed to retrieve it alone, are established.
 
 Chapter Six — The Road
 
@@ -201,9 +257,13 @@ all by name. He says nothing. He drives.
 Chapter Seven — Mission Launch
 
 The crew is assembled at Federation Space Command. Chancellor DeMint introduces
-them to Vance Black, Operations. They sign documents and receive the iRIS
-injection — nanopowder delivered through the table's embedded system. Cole feels
-iRIS enter him: not through his ear, in it. Cold, authoritative, unmistakably
+them to Vance Black, Operations. Cole and Ricardo meet Taylor and Sam for the
+first time. Sam introduces herself by full name — "Samantha Drummond" — and
+immediately follows it with "Sam," offered once, not as a request but as a
+statement. Her name patch reads only "Drummond." Ricardo uses Sam from that
+moment on. Taylor never does. They sign documents and receive the iRIS injection
+— nanopowder delivered through the table's embedded system. Cole feels iRIS
+enter him: not through his ear, in it. Cold, authoritative, unmistakably
 feminine. He sits with the contrast: Gracie had been outside, in the device,
 quiet until he needed her. He had never thought of that quiet as a possession
 until it was gone. Ricardo, inoculated alongside him, grins: you're not alone in
@@ -350,15 +410,19 @@ thinks about Dr. Oren coming to work tomorrow.
 Chapter Seventeen — The Locked Bay
 
 Taylor's sabotage executes. He seals the cargo bay with Sam inside during a
-harvest sequence and begins venting the atmosphere. Cole has minutes. In
-intercut flashbacks: Vance at the Hall of Records finding the empty vault. Vance
-confronting Marcus. Marcus shooting him. Taylor receiving a message about
-Vance's death and showing a half-second of something that is not grief before
-returning to his console. Sam discovers the override but it requires manual
-intervention from inside the bay. Bitboy welds his mechanical arm to the lever
-and holds it. Cole makes the only available choice: he opens the harvester to
-let the DarkX into the bay and repressurize it with the substance itself. The
-chapter ends with Cole four inches from the plasma, his hand moving forward.
+harvest sequence and begins venting the atmosphere. Over the intercom, after
+addressing Cole, he says one more word: "Samantha." Same flat register as the
+Ch05 briefing room — first name, protocol violation, in a place where nobody
+uses first names. She stops moving for exactly one second and then keeps going
+toward the override panel. In intercut flashbacks: Vance at the Hall of Records
+finding the empty vault. Vance confronting Marcus. Marcus shooting him. Taylor
+receiving a message about Vance's death and showing a half-second of something
+that is not grief before returning to his console. Sam discovers the override
+but it requires manual intervention from inside the bay. Bitboy welds his
+mechanical arm to the lever and holds it. Cole makes the only available choice:
+he opens the harvester to let the DarkX into the bay and repressurize it with
+the substance itself. The chapter ends with Cole four inches from the plasma,
+his hand moving forward.
 
 Chapter Eighteen — The Four Coles
 
@@ -476,7 +540,8 @@ The Golden Dawn breaks atmosphere over the Pacific. The entry is textbook.
 Sharon has ridden the descent in the converted medical bay. Taylor is removed
 from the ship under escort at the runway, walking under his own power, nodding
 once to Cole as he passes. The pocket watch is found in his quarters — Klaus
-Verguld's pocket watch, engraved with the founding motto of Alpha Corp. Cole
+Verguld's pocket watch, Marcus's father, engraved with the founding motto of
+Alpha Corp. Cole
 goes to see Sharon at the Collective recovery facility north of San Diego. Emily
 is on the porch with coffee and the road atlas. Sharon tells Cole about the gaps
 — the access pathways disrupted by conditioning, the books all there on the
@@ -514,11 +579,23 @@ ago, which was: thank you for coming to get me. He says: always.
 EPILOGUE
 
 Marcus Verguld is in Dubai, in an apartment he has owned since 2019 under a
-shell company. He looks at the Gulf. He has been revising his assessment of the
-fundamental premise of his life — not as regret, but as arithmetic. He had not
-expected the woman to wake up. Sharon Teez's survival was not in his model. He
-goes to bed having decided something, for the first time in a long time, from
-somewhere other than the ledger.
+shell company. He looks at the Gulf. He has been revising the fundamental premise
+of his life — not as regret, but as arithmetic. He had not expected the woman to
+wake up. Sharon Teez's survival was not in his model. He thinks he is alone.
+Then Klaus speaks from across the table. Klaus has been in the apartment for
+three days. Marcus knew this and had not addressed it. Klaus tells him: you built
+the cover. You spent fifteen years building the energy dependency, the Federation
+machine, the managed recovery — and you began to believe in it. The ledger you
+were keeping was never the ledger. The actual project — the one Wilhelm found in
+the drives, the one older than the mine, older than Saturn's surveys — that
+project is unchanged. The signal is still there. The Federation cannot legislate
+something it does not know it found. You built a sophisticated machine for the
+wrong purpose. That is correctable. The structure continues. The cover changes.
+That is the sum total of what happened today. Marcus, who has spent fifteen years
+believing himself to be the architect, understands in this moment that he has
+always been the cover. He goes to bed. The sequel hook: Klaus and Marcus together.
+The stakes raised. The thing driving this family for three generations is not a
+corporation. It is a signal from outside the known, and it is still running.
 
 Sharon sits on the porch of the Sequoia cabin at night. The Sierras have their
 first snow on the high peaks. She looks at the stars with her left eye and her
