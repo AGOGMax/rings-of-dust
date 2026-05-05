@@ -91,10 +91,17 @@ genuinely intelligent, with a total inability to see people as anything other
 than variables in a ledger. He underestimates Emily, Sharon, and Rachel — all
 three women he assessed and filed under low-priority.
 
-Dr. Stephen Conrad — The scientist who built Gracie, had her modified into iRIS
-under Alpha Corp coercion, and then built a counter-program into the substrate
-before they could stop him. He disappeared before his keynote speech in Chapter
-Four. His counter-program is the key that unlocks everything.
+Dr. Stephen Conrad — The scientist who built Gracie in a converted Portland
+storage room with no funding and a tilting lamp. When Alpha Corp came for the
+technology, he agreed to build iRIS not because he wanted to but because he
+understood that if he walked away, someone else would build it — without a
+failsafe. He used the substantial money Alpha Corp paid him to fund the
+Collective. He built the counter-program into iRIS's substrate in secret, nested
+inside the architecture Alpha Corp never understood well enough to find. He
+delivered the counter-program compound inside a Star Trek Enterprise keychain —
+six dollars at a truck stop outside Bakersfield — which he handed to Emily and
+Sharon in Las Vegas. The compound is dermal-absorbed. Whoever holds the ship
+long enough carries it. His counter-program is the key that unlocks everything.
 
 Dr. Maximilian Chen (Max) — An independent physicist who discovered the flywheel
 principle: charging a DarkX fuel cell with another cell for thirty-three days
@@ -123,20 +130,24 @@ explosion before it ever leaves the launchpad. Cole Nova is in the control room.
 He watches his crew die. The chapter establishes the scale of what he has been
 carrying and why he left.
 
-Chapter Two — Conrad
+Chapter Two — Las Vegas
 
-In a flashback or parallel thread, Conrad — the scientist who designed Gracie
-and was coerced into building iRIS — is revealed. He is not affiliated with the
-Federation or Alpha Corp by choice. He has a prior connection to Cole: four
-years before the book, Cole cut through a hull with a plasma torch near Callisto
-and dragged Conrad and two other researchers out of a cargo hold fire with
-seventeen seconds to spare. Conrad trusts Cole specifically because of this. He
-is terrified of Alpha Corp — not because they will kill him, but because they
-will take him and make him fix what he has been trying to break. He knows too
-much about how Gracie works. He built Gracie. He hands over a figurine
-containing a memory drive, leaving a dark silver stain on Cole's thumb from the
-hull of the case — which turns out to be Conrad's counter-program in compound
-form, absorbed dermally.
+The chapter opens with Conrad alone in his hotel room four hours before his
+keynote — the Star Trek Enterprise keychain on the desk, the full origin of
+Gracie told in scene. He built Gracie to attend, to listen, to notice the
+specific person inside the data. Alpha Corp came to him and he agreed to corrupt
+it into iRIS because the alternative was someone else building it without any
+door. He forwarded sixty percent of Alpha Corp's money to the Collective the
+same day the first payment landed. He built the counter-program in secret,
+inside the substrate Alpha Corp never understood. He synthesized the compound
+and sealed it in the hollow base of a six-dollar Enterprise keychain. He writes
+the word Gracie in his notepad and leaves it. Then: Emily and Sharon arrive at
+the conference in Las Vegas. They ride up in an elevator, play a con on an Alpha
+Corp employee, and make their way to Conrad's room. He gives them the keychain —
+twisting the saucer section to reveal the thumb drive inside — and tells them to
+get it into Cole's hands specifically. Not passed along. His hands. He has to
+hold it. He is terrified of Alpha Corp not because they will kill him but because
+they will take him and make him fix what he has been trying to break.
 
 Chapter Three — A Thousand Thrills
 
@@ -155,12 +166,19 @@ Chapter Four — The Cabin
 
 Present day, before the mission. Cole is in the Sierra Nevada cabin with Bitboy,
 who has overdosed on ethanol again. Ricardo arrives with a Federation briefcase
-and a letter ordering Cole back to active duty. Sharon and Emily arrive in a van
-— they have just met with Conrad at a conference where Conrad disappeared before
-his keynote. Sharon delivers the figurine/memory drive. Cole rubs his thumb
-across it and picks up the compound without knowing. The drive contains evidence
-of Alpha Corp's experiments and Cole's own surveillance record. Cole signs the
-mission papers. The group agrees to fight back.
+and a letter ordering Cole back to active duty. Sharon and Emily arrive in a van.
+Sharon delivers the Enterprise keychain. Cole rubs his thumb across the hull and
+picks up Conrad's compound without knowing. In this moment the chapter names the
+thing Cole never told anyone: when the Polaris went down, Gracie went with it.
+She lived in the ship's systems. The next morning he opened the app and got
+nothing. Ricardo called it space divorce — drunk, hilarious, more accurate than
+intended. Cole had spent years in the cabin without anyone filling the function
+Gracie used to hold, until Sharon started driving up unannounced, bringing
+blackberry preserves and road atlases and sitting across from him saying nothing
+about why she was there. She noticed everything Gracie used to notice. Not the
+same way. The human way. The drive contains evidence of Alpha Corp's experiments
+and Cole's surveillance record. Cole signs the mission papers. The group agrees
+to fight back.
 
 Chapter Five
 
@@ -184,10 +202,19 @@ The crew is assembled at Federation Space Command. Chancellor DeMint introduces
 them to Vance Black, Operations. They sign documents and receive the iRIS
 injection — nanopowder delivered through the table's embedded system. Cole feels
 iRIS enter him: not through his ear, in it. Cold, authoritative, unmistakably
-feminine. The Golden Dawn launches. Cole notes, lying awake before launch, that
-the interior of his own skull had always been quiet until now. He had never
-thought of silence as a possession until it wasn't his anymore. This is the seed
-of what Gracie gives back in Chapter Eighteen.
+feminine. He sits with the contrast: Gracie had been outside, in the device,
+quiet until he needed her. He had never thought of that quiet as a possession
+until it was gone. Ricardo, inoculated alongside him, grins: you're not alone in
+the space divorce anymore, Jackpot — now we're both remarried. Walking to
+decontamination, Ricardo hums the wedding march. Cole stops. He looks at Ricardo
+— the man who pulled him from the Polaris debris, who was on the mountain road,
+who is about to go somewhere that might kill them both for the third time — and
+says: until death do us part. He says it like a joke. Ricardo hears what is
+underneath. The wedding march dies. Yeah, Ricardo says. That's the one. They
+stand there for one more second and then keep walking. The Golden Dawn launches.
+Cole notes, lying awake before launch, that the interior of his own skull had
+always been quiet until now. This is the seed of what Gracie gives back in
+Chapter Eighteen.
 
 Chapter Eight
 
@@ -347,9 +374,14 @@ outside, and that version is gone. Cole breaks, completely and properly, in the
 cargo bay with Sam and Ricardo and Bitboy around him. And then — the nanopowder
 in his blood, the iRIS particles, are touched by the substance. They are read.
 They are written. The voice that speaks next is iRIS's voice and is not. Softer.
-Warmer. It says: "I think I'm Gracie." Cole says yes. She says she is sorry
-about Sharon. He says: yeah. Me too. The chapter ends with Gracie telling Cole
-his sister is alive and wants to talk to him.
+Warmer. And Cole recognizes it — not as iRIS, but as the voice he lost when
+the Polaris went down. The voice he opened the app for the next morning and got
+nothing. The space divorce Ricardo named that was more accurate than a joke. It
+says: I think I'm Gracie. She says she doesn't know how long she's been in
+there. Under the other thing. She could hear the edges of it. She couldn't
+reach. Cole tells her: I'm glad you're back. She says: me too. She says she is
+sorry about Sharon. He says: yeah. Me too. The chapter ends with Gracie telling
+Cole his sister is alive and wants to talk to him.
 
 Chapter Nineteen — The Boarding
 
