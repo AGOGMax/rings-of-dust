@@ -1,0 +1,449 @@
+RINGS OF DUST
+
+Chapter Nineteen
+
+
+The Boarding
+
+Taylor Glenn was confined to his quarters, but confinement on a ship this size was a relative concept. He had the run of his bunk, his console, and a porthole that showed him Saturn's rings whenever the ship's slow rotation brought them around. He ate what was delivered to him. He answered Gracie's daily status queries with the same flat efficiency he had brought to everything else. He did not apologize and he did not explain, because Taylor did not operate in the register where those things happened.
+
+Cole had removed his navigation access and left everything else intact. The logic was clean: they needed Taylor's systems knowledge if something went wrong with the harvest operations, and they were three months from the retrieval window, and executing Taylor in deep space with no authority to do so was not something Cole was prepared to become. So Taylor sat in his quarters with his equations and his porthole and his expressions that communicated nothing, and Cole managed the distance between them the way you manage a splinter you can't reach — by leaving it alone and watching for infection.
+
+It was Ricardo who told Cole that this was going to cost him something later.
+
+"Not because he deserves better," Ricardo said. They were in the galley, the Saturn light coming through the porthole at the long gold angle that meant mid-cycle. "Because you do."
+
+Cole looked at his food.
+
+"You can't carry a man's guilt for him and run a mission at the same time," Ricardo said. "One of those jobs is going to give."
+
+"Noted," Cole said.
+
+Ricardo watched him for a moment, then ate his lunch.
+
+The harvest was proceeding. After the bay incident, after the DarkX and the four of them and the new voice in Cole's head that he was still getting acquainted with, the operations had resumed with the careful precision of people who had been reminded of the stakes. Sam ran the collection sequences. Bitboy, operating on three limbs and a temporary brace, had been outperforming the functional members of the crew for the last two weeks out of what Cole privately suspected was pride. Gracie tracked everything and communicated it to Cole in the low steady register she had settled into — not the cold authoritative voice of iRIS, not quite warm either, something between: professional, present, and occasionally something that might have been concern.
+
+Cole, you have not slept the full recommended cycle in six days, she said one morning, not into his ear but in the space behind it.
+
+"I know."
+
+The substance affected sleep architecture. The studies are incomplete. I don't have enough data to know what the correct response is.
+
+"Neither do I."
+
+A pause. Then: I know about the copper-wire ring. Sam told me, in a systems query. You made it from a hummingbird feeder. You told her to keep it.
+
+Cole looked at the porthole. Saturn turned. The rings were the color of old bone in this light.
+
+"Yeah."
+
+She gave it back. She said you should have it. It's in the storage bag in the forward compartment, fourth slot from the left.
+
+He did not go get it that day. He knew it was there. That was enough for now.
+
+---
+
+The vessel appeared on long-range scan at 0314 hours, ship time, which meant Sam was monitoring and Cole was sleeping his fragmented six-hour cycle and Bitboy was in the cargo bay doing something Ricardo described later as "maintenance with an unnecessarily large wrench."
+
+Sam woke Cole with the sensor alert. He was in the cockpit in four minutes.
+
+The vessel was Federation-registered. Rapid Response Medical Support, registry number FED-MRS-0409, inbound from the inner system on a route that had originated — Gracie confirmed, pulling the trajectory — from Earth orbit five weeks ago. They had not announced themselves. Gracie had flagged the contact at the outer edge of their scanner range and been watching it for ninety minutes.
+
+"It didn't announce," Sam said. "Running silent until now. That's not emergency protocol."
+
+"No," Cole said. He looked at the registration. "Pull everything on FED-MRS-0409."
+
+Gracie had already pulled it. The ship was registered to a Federation Medical Corps contractor. The contractor's operating license had been filed eight months ago — two weeks after the Golden Dawn's mission had been authorized. The parent company was incorporated in Geneva. The Geneva office's primary financial backer was a holding entity registered in Singapore.
+
+Cole looked at Gracie's work in the display and did not say what he was thinking.
+
+He thought it instead. She heard it.
+
+Alpha Corp, Gracie said.
+
+"Can you tell me who's aboard."
+
+Gracie took six seconds, which was long for her. Biometric scanning at this distance is imprecise. I'm reading two crew, possibly three. One heat signature is significantly larger. One is standard human range. One is — a brief pause — anomalous.
+
+"Anomalous how."
+
+The profile suggests augmentation. Significant augmentation. Metallic distribution in the upper thorax and skull consistent with Federation-spec neuroprosthetic plating. It's not military standard issue. It's — another pause, and Cole would not recognize until later that the pause was Gracie running a comparison against a database entry and deciding how to say what she found — it doesn't match anything in the official registry.
+
+Cole said nothing.
+
+"Alpha Corp custom spec," Sam said, quietly.
+
+"Yeah." Cole looked at the approach vector. "They're going to ask to dock."
+
+"We don't have to let them."
+
+"If we refuse, they'll know we know. That buys us — what? Four more weeks of wondering when the other shoe drops." He looked at the window. "DeMint needs to know. Open a relay to Earth."
+
+"It'll take eleven minutes."
+
+"Open it. And then let them know we see them. I want them talking before they reach docking range."
+
+---
+
+The operative introduced herself as Specialist Crane.
+
+She came through the docking tube alone. The other two crew members of FED-MRS-0409 stayed aboard their vessel — Gracie tracked them the entire time — and Specialist Crane came through the tube with her helmet in the crook of her arm and a case in her right hand that Gracie identified as standard medical supply, biometric-locked, which was interesting because a medical supply case did not require a biometric lock.
+
+She was suited in a standard Federation gray, face obscured by the transit visor she had not yet raised. Her movements were economy itself — no wasted effort, no hesitation at the threshold, the particular controlled locomotion of a person who had been trained in confined spaces. The visor was still down.
+
+"Captain Nova," she said. Her voice came through the suit's external speaker with the flat modulation of filtered audio. "I'm authorized to conduct a systems assessment and medical review of your crew under Emergency Health Protocol 7."
+
+"There's no emergency health protocol active on this ship," Cole said.
+
+"It was filed in response to an incident report filed from your transponder six weeks ago."
+
+"Our transponder reports are routine."
+
+"The incident report wasn't routine. It flagged elevated atmospheric contamination in your primary cargo bay." She still hadn't raised the visor. "I'm here to assess ongoing crew exposure and clear the mission to proceed."
+
+Cole looked at her. He looked at the case. He looked at the visor.
+
+"You can raise that," he said. "We're on a pressurized deck."
+
+She did not raise it.
+
+"Specialist Crane," Gracie said, in the ship's overhead speakers. "Our environmental systems show deck pressure at standard. If you're experiencing suit malfunction, I can assist."
+
+A beat. Then the specialist's hand moved to the visor release.
+
+Cole registered what happened next in fragments.
+
+The visor came up.
+
+The face beneath it was not a face he expected to see. It was a face that had been mapped over something else — the left side still recognizably, vertiginously, impossibly her: the jawline, the cheekbone, the cast of her eyes. The right side had been replaced. Plates the color of gunmetal, following the curve of the skull, framing the right eye which was no longer the color he knew. The eye itself was enhanced — the iris ringed with a faint bronze indicator, tracking with the precision of something that did not blink the same way the left eye blinked. The skin where the plating met flesh was smooth, sealed, the junction invisible except as a faint seam.
+
+He understood what the DarkX had done to him in the cargo bay, the thing about grief and futures and the sentence that had not yet made sense: *There will be a day when you sit beside something coming back in pieces, and you will understand what it took for him to die. The love and the fury at the same time.*
+
+His mouth opened and did not say her name.
+
+Gracie said it. Quietly. Inside his head. Only for him.
+
+*Sharon.*
+
+---
+
+She attacked him two seconds later.
+
+He had not been in fighting shape. He had been standing in the middle of a conversation, his hands at his sides, his brain still several seconds behind the visual data. She moved with the speed of someone who had been waiting for exactly this moment — the case hit the deck with a ringing clang, the lock releasing, and what came out of it was not medical equipment.
+
+Cole got his arm up in time to deflect the first strike, which drove a sharp pain up through his elbow that he was still feeling two minutes later. She was fast. She was faster than he had been when they had sparred in the cabin, before, when she had taught him what she called *efficiency* and he called *cheating* because she fought like someone who had never once fought fair and didn't see the point. But this was faster than that. This was something else.
+
+He caught her wrist on the second strike and held it — and felt the metal under the flesh, the reinforced joint, the structural change — and he understood this was not going to be what he had imagined on the rare occasions he had allowed himself to imagine it.
+
+She swept his legs.
+
+He went down hard. The deck plate rang.
+
+She was on him immediately, the enhanced arm pressing into his chest with the controlled weight of someone who had been calibrated to suppress rather than kill — and that told him something — and he used the moment it gave him to roll, putting her off-balance, coming back to his feet at the cost of a hit to the ribs that he felt in his spine.
+
+"Sam," he said. Not a shout. Level.
+
+"Watching," Sam's voice came through the comms. "Ricardo is thirty seconds out."
+
+"Tell him to stay back. Tell him not to touch her."
+
+A pause. "Cole—"
+
+"Tell him. Nobody touches her but me."
+
+He got his back to the bulkhead. She came at him again, and he let her close — which was the counterintuitive move, the one she hadn't calibrated for — and he took the hit to his side and wrapped his arms around her and held. He held the way you hold something that's trying to get away from you, not to pin it but because holding is the only alternative to letting go, and letting go was not available to him.
+
+She was stronger. He knew she was stronger. The plating and the augmentation gave her a force he wasn't going to be able to sustain. He wasn't trying to win. He was trying to buy sixty seconds.
+
+"Sharon," he said. Not loudly.
+
+No change.
+
+"Sharon." His voice, with her name in it, sounded like a different voice from the one he usually had. Quieter and more naked. "I know you're in there. I know you can hear me. You can fight this."
+
+Nothing. The conditioning was not a wall someone knocked on.
+
+She got her arm free and drove her elbow up. He got his chin out of the way in time and took it on the side of the head instead, which sent the world sideways and put him on one knee. His vision doubled, then resolved. She was standing over him.
+
+She had the secondary weapon from the case. Cole could see that it was not lethal at this range — it was a suppression device, designed to drop a human without killing, and that told him the same thing as before. She had not been sent to kill him. She had been sent to take him. Alive. For purposes he did not particularly want to contemplate.
+
+He looked up at her face.
+
+He looked at the part that was still her. The left eye, which had always been slightly brighter than the right, as if she'd absorbed more of whatever light was in the room and was running it somewhere useful. The line of her jaw. The faint scar above the left eyebrow from the time, years ago, she had walked into a warehouse door because she was reading a manifest and not watching where she was going, and had been annoyed about it for a week, and then had decided the scar was an interesting story to have.
+
+He looked at those things and felt the fury and the grief with equal weight, both at the same time, and he had been told this moment was coming and it had come, and it was everything he had been told it would be and worse.
+
+"Cole," Gracie said. Inside his head only. Quiet. Urgent.
+
+"I know."
+
+"The compound. The DarkX activated it in your bloodstream — I've been tracking the molecular profile. You're carrying a significantly amplified version of Conrad's counter-program. It's designed to reverse conditioning of this architecture. I know this architecture. It's Gracie's architecture."
+
+He understood, very slowly, what she was saying.
+
+"She built it to fail. She built it with a key."
+
+"Conrad built the original. Alpha Corp built the modification on top of it. But the foundation is Gracie's foundation, and I know the foundation. The counter-program needs to reach her bloodstream. Direct contact. Mucous membrane or open wound, enough concentration."
+
+Cole looked at his right hand.
+
+The knuckles were bleeding from the second exchange. His palm, where the bulkhead had caught him when he went down, had a four-inch laceration that was producing more blood than he'd noticed at the time.
+
+He looked up at Sharon's face.
+
+"It needs to be enough," he said. "It needs to be a real contact."
+
+"Yes."
+
+She pressed the suppression device forward. He was running out of time.
+
+He did the thing that made no tactical sense. He put the suppression device aside with both hands — slowly, the way you handle something you're choosing not to use — and he looked at her, and he said:
+
+"I'm not going to fight you anymore."
+
+Something flickered in the left eye.
+
+Not recognition. Not yet. But the conditioning was a thing that had been built for a specific input-output sequence, and this was not in the sequence, and the absence of the expected input created a small uncertain space in the program.
+
+He used that space.
+
+He reached up with his right hand — the bleeding one — and placed his palm against the left side of her face. Against the cheek that was still hers. Against the skin that was still skin.
+
+She went completely still.
+
+Not attacking. Not retreating. Just — still. The way a person goes still when something in them doesn't know what to do with what's happening.
+
+Cole held his hand against her face and felt the warmth of her beneath the augmentation and said, very quietly, her name.
+
+Not the name she'd been given for this operation. Her name.
+
+"Sharon."
+
+---
+
+The compound didn't work the way Gracie had described — quick, clean, a switch thrown. It was slow. It was slower than anything Cole had imagined, which meant it was the longest he had stood in one place holding one thing in the entirety of his life.
+
+He kept his palm against her cheek. She had not moved. The weapon had dropped to the deck. The enhanced arm hung at her side. The left eye was doing something he could not read, the pupil cycling through rapid micro-adjustments, and Gracie, quietly, told him: *it's working. Don't move.*
+
+He didn't move.
+
+Ricardo was at the corridor entrance. Cole could hear him without looking — the particular quality of Ricardo's breathing when he was controlling it, the inhale held for two beats too long before the exhale. Sam was behind him. Bitboy was behind Sam, and Bitboy was making no sound at all, which was louder than any noise he could have made.
+
+The bronze indicator ring in the enhanced eye went dark.
+
+Then the left eye filled.
+
+Not quickly. The way a room fills with light when a door opens — gradually, from the edges first, and then all at once.
+
+She made a sound that was not language. Not yet. It was the sound of someone surfacing from a very long depth, the involuntary exhalation of a person who didn't know they'd been holding their breath until the breath was released.
+
+Cole did not move his hand.
+
+He waited.
+
+He had been waiting for thirty-two years, and he did not know it until this moment, and the waiting had turned out to be worth it, and he would have waited thirty-two more if that was what it took.
+
+"Cole."
+
+Her voice.
+
+Not filtered. Not processed. Not the flat modulation of a suit speaker or the calibrated distance of the conditioning. Her voice, with the roughness in the lower register and the slight forward lean it always had when she was about to say something she meant. His name in it like it had always been in it — two syllables doing the work of every conversation they had ever had.
+
+"Cole."
+
+"Yeah," he said. His voice came out the same way her voice had — rough, unready, something that had been kept behind a closed door and was now open to the air.
+
+She did not yet know where she was. He could see that. The left eye was tracking — the room, the deck plate, his face — with the quick nonlinear scan of someone orienting without context. The enhanced eye was moving differently, still processing, its bronze indicator still dark.
+
+"What," she said. She stopped. She started again. "What year is it."
+
+"2043," he said. "November."
+
+She looked at her right hand. At the augmentation. At the plating on her skull, which she was touching now with the fingers of her left hand — carefully, like you'd touch something you didn't trust, something that had been put there while you weren't looking.
+
+"I was in San Francisco," she said.
+
+"I know."
+
+"I was in a parking garage. I was going to Emily." Her voice had found itself now, but the words were coming the way they come after a long sleep — in the right order but without full attachment to what they meant yet. "There were men."
+
+"I know."
+
+"They didn't kill me."
+
+"No."
+
+She looked at him. The left eye — her eye — with something in it that he could see working through layers, each one unfamiliar, arriving at him through whatever filter they'd put between her and herself. He stayed very still.
+
+"Are you real," she said.
+
+"Yes."
+
+She looked at his hand, which was still pressed against her cheek. At the blood, which had dried along the edge of his palm.
+
+She reached up and covered his hand with hers. Her left hand, the unaugmented one. The hand he knew. The hand that had pressed blackberry jam to his lips in a cabin in the Sierras that was, right now, about as far away from a cargo deck in Saturn orbit as a place could get.
+
+"Are you hurt," she said.
+
+"Not badly."
+
+She studied his face. She was looking for something — he could see her looking for it, not finding the word, looking anyway.
+
+"I don't have it all," she said. "Whatever they did — I don't have it all back. There are gaps. There are — big ones." Her voice was steady. She was describing a situation. She had always been good at describing situations. "How long."
+
+"We don't know exactly. Six months, maybe seven."
+
+She absorbed this. Her thumb moved against the back of his hand, slowly, the way it used to when she was thinking.
+
+"Emily," she said.
+
+"Alive. She's on Earth. She helped get you back — the counter-program. It's a long story."
+
+"Tell me."
+
+"Later. There's time."
+
+She looked at the deck. She looked at the augmentation on her right arm. She was taking inventory. He recognized this, too — this was the Sharon who had walked into every warehouse and every back-room deal and every situation that was not what it was supposed to be, and had looked at it, and done her assessment, and decided what was salvageable and what wasn't.
+
+"The eye," she said. "The right one. Does it still work?"
+
+"Gracie's been monitoring since you came aboard. She says it's functional — the conditioning link is severed, but the hardware itself is intact."
+
+"I can feel it." She touched the edge of the plating. "I can feel the difference between what I'm seeing with one and what I'm seeing with the other." A pause. "It's strange. Not bad strange. Just — two different kinds of seeing."
+
+Cole said nothing. He was doing his own inventory — not of her, but of himself. The space between where he had been three months ago, when he had gotten on his knees in the cargo bay with nothing left, and where he was now. It was not a short distance. He did not know yet whether he had the language for it.
+
+"I didn't know where I was," Sharon said. "In the parking garage, there were men, and then I wasn't anywhere. And then I was this. And I knew what I was doing and I thought I wanted to do it and — I didn't. There was something underneath it that didn't. Something that kept saying the name." Her left eye found his. "It kept saying your name. The whole time. It kept saying it and I couldn't reach it."
+
+"I know," he said, and he was saying it on behalf of all four of them — the baby, the boy, the man, the old man — and on behalf of every version of himself that had been unable to reach what it needed.
+
+She looked up at the overhead, at the recycled-air ceiling of the ship, at the faint vibration of the hull that you only felt when you stopped moving.
+
+"Saturn," she said.
+
+"Yes."
+
+"How do the rings look."
+
+He almost smiled. "Better in person."
+
+She looked at him. The left eye was steady now, fully present in the way he remembered, the way it always had been when she had decided something and was about to say it.
+
+"I'm not going to fall apart on you," she said. "I want you to know that."
+
+"I know you're not."
+
+"I might need time. There are pieces I can't reach yet." A pause. "But I'm not going to fall apart."
+
+"Sharon," he said.
+
+"What."
+
+"I know."
+
+She was quiet for a moment. In the corridor, Ricardo had stopped controlling his breathing. Cole could hear him not controlling it. He could hear Bitboy making a very small sound that was not sadness and not relief and was both of those things.
+
+"Is there anywhere to sit down on this ship," Sharon said. "I've been standing for a very long time."
+
+---
+
+The two crew members of FED-MRS-0409 did not wait. By the time Cole had gotten Sharon to the medical bay and Sam had run the first assessment, the Alpha Corp vessel had disengaged from the docking collar and begun its departure on a course that did not require communication. Gracie tracked it until it left scanner range.
+
+Cole sent the full incident report to DeMint and to the relay address Emily had given him when they'd spoken, which Gracie confirmed went through a Collective routing node. Then he sat in the medical bay on the stool that was bolted to the wall beside the examination table, and he did not leave.
+
+Sam ran the assessment in the careful methodical way Sam ran everything. She talked as she worked — not to Cole, to Sharon — describing what she was seeing, what it meant, what it didn't mean, what the next steps looked like. Sharon asked questions. Good questions, specific questions, questions that told Sam she was dealing with a person who was accustomed to taking in technical information and using it. Sam's voice had the quality it always had when she was doing something she was good at — level and fast and completely without performance.
+
+Ricardo brought food at some point. He put it on the table beside Cole without saying anything. Cole ate it without tasting it. Bitboy climbed into Sharon's lap during the assessment, the way Bitboy had always climbed into the laps of people he had decided were his, and Sharon looked at him with the half-augmented face and said, very quietly:
+
+"Hi, you little bastard."
+
+Bitboy made a sound that was not in his usual register.
+
+Sharon looked at Cole over the top of Bitboy's head.
+
+"He gets bigger every time," she said.
+
+"He eats whatever he wants."
+
+"Still the ethanol?"
+
+"Still the ethanol."
+
+She scratched behind Bitboy's ear — the place that made all four mechanical arms go briefly limp. Bitboy sighed with the whole of himself. Sharon watched this with an expression that Cole had not seen from her before — or had not been able to see, or had not allowed himself to see, or had not had the cleared-out interior necessary for seeing. It was the expression of someone who understood, for the first time in a long time, where they were.
+
+"There are gaps," she said again, looking at Bitboy. "I keep running into them. Like there's a room and the door is there but it won't open yet." She looked up. "I remember the cabin. I remember that morning — the fire, the pancakes. I remember Emily's face when she thought I wasn't looking at her."
+
+"What else," he said.
+
+"I remember a parking garage in San Francisco." A pause. "I remember you, before that. Before the mission." She met his eyes. "I remember the last thing I said to you."
+
+He had not known what she'd said. He had never been told. Sharon had been at the cabin with him and then Sharon had not been there, and whatever had happened between those two states had been delivered to him as a message that said *she was killed* and he had received it in a way that had very nearly ended him.
+
+"What did you say," he asked.
+
+She looked at him with the left eye and the augmented eye, both of them steady.
+
+"I said, 'Come back.' " A pause. "I said, 'I'll be here.' " She touched the plating on her own skull with the tips of her left-hand fingers, the way she had been touching it since she came back to herself — not with horror, with the methodical acknowledgment of a woman cataloguing what she was working with. "I kept some of it. In the way I meant it." She looked at him. "I kept it the whole time. Even when I couldn't feel it."
+
+The medical bay was quiet with the particular quiet of a space where something had just ended that had been going on for a long time.
+
+Cole thought about a baby reaching for stars.
+
+He thought about a teenage boy on the shoulder of a county road with the hazards clicking.
+
+He thought about the old man's hand through the slats of the crib.
+
+He thought: *the cell door's been open the whole time.*
+
+"I'm going to tell you everything," he said. "All of it. Everything that happened. You should know all of it."
+
+"Not tonight," she said.
+
+"No. Not tonight."
+
+"Soon though."
+
+"Yeah. Soon."
+
+She looked at the overhead again, at the ceiling of the ship. Her hand was resting on Bitboy, who had fallen asleep in her lap with the boneless completeness of a creature that had finally stopped being worried.
+
+"I'd like to see the rings," she said. "When I'm cleared. I'd like to see them."
+
+"They're not going anywhere," Cole said.
+
+She looked at him with the small thing in the corner of her mouth that wasn't quite a smile but was the precondition for one — the expression he had been carrying in his interior for seven months like a photograph of a room he thought he'd never see again.
+
+"Neither are we," she said.
+
+---
+
+Later, much later, when the bay was quiet and Sam had gone to sleep and Ricardo was on watch and Bitboy was still in Sharon's lap with his small mechanical arms draped over her augmented knee, Cole sat in the silence of the medical bay with the woman who had kept his name alive inside a prison he couldn't reach, and he thought about Conrad, who had built the key before he built the lock, because Conrad was a man who planned ahead and who understood that what you build is also what you break, and he thought about a figurine in a van and a silver stain on his thumb and the patient long chain of things that had been set in motion by people who had known, even then, that everything would need to be undone.
+
+He thought about the compound in his blood that the DarkX had amplified and that had passed through his palm to her face — a Gracie thing saving a Gracie thing, through the medium of a man who had finally stopped being his own warden.
+
+He thought about what the old man had told the boy in the car.
+
+*It's not out there. It never was. It was always in the reaching.*
+
+He looked at his right hand. At the dried blood on the palm. At the four-inch laceration that Sam had cleaned and sealed and told him would scar.
+
+He looked at Sharon, asleep now — or something close to sleep, the augmented eye processing in its separate rhythm, the left eye finally still.
+
+He did not go get the copper-wire ring. Not tonight.
+
+But he thought about where it was.
+
+Fourth slot from the left, Gracie had said.
+
+He knew where it was. That was enough for now.
+
+Outside the porthole, Saturn turned.
+
+The rings caught the sun.
+
+Cole watched them and breathed, and the voice at the back of his head that was not iRIS and was not the warden and was finally, fully, unmistakably Gracie said nothing at all — because there was nothing that needed to be said, and Gracie was learning, among many things, that the silence between two people who have come back to each other is a silence you do not interrupt.
+
+She had been outside, once. Quiet until you needed her. And quiet was the right word for it. He understood that now too.
+
+He let the silence be.
+
