@@ -135,6 +135,32 @@ the Dubai apartment when Marcus arrives. He has been there for three days. He
 tells Marcus: the ledger you were keeping was never the ledger. The structure
 continues. The cover changes. That is all that happened today.
 
+Wilhelm Verguld — Klaus's father. Marcus's grandfather. The first man in the
+Verguld line to find the signal. A Directorate archivist at twenty-eight who
+located a gap in a catalogue numbering sequence — 7-31-Omega jumping to
+7-33-Alpha, skipping 7-32 entirely — and spent four months methodically
+tracing it to an unindexed room containing seven crystalline drives recovered
+from the sealed Icelandic mine. The drives had sat in climate-controlled
+darkness for over two decades, unretrieved because no classification protocol
+existed for their contents: DarkX had written its own signal into the crystal
+matrix rather than destroying the data, encoding the anomaly into the drives
+the way a frequency writes itself into stone. The mine's researchers and
+soldiers had been absorbed and sealed in; the site was written off as a
+methane collapse; the drives were left like something waiting to be read.
+Wilhelm read them. He spent three days on the output. He copied everything,
+replaced the originals exactly, submitted no report, and left the Directorate
+fourteen months later through a routine civilian transfer — walking out on a
+Tuesday with nothing visible on him except a leather notebook and the
+sequences inside it. He chose the name Verguld — vergulden, to gild, to coat
+ordinary material in something that gleams and survives — and discarded his
+birth surname the way a man discards a door after he has gone through it. He
+built the original network from three outside contacts who already suspected,
+in fragments, that the Saturn B-ring readings were not natural. He developed
+the cipher with Klaus. He understood the question he was leaving could not be
+answered in one lifetime. He told his son it accumulated: weight added to
+weight, generation to generation, until it reached the mass required to change
+the shape of things. He died before Alpha Corp had a name.
+
 Marcus Verguld — The antagonist. Head of Alpha Corp. Has been managing the
 energy crisis as an inventory decision for years. Patient, precise, and
 genuinely intelligent, with a total inability to see people as anything other
@@ -634,4 +660,105 @@ The ledger — Marcus's framework for the world. People as variables. Sharon,
 Emily, Rachel: all assessed, all filed, all underestimated. The ending is the
 ledger's failure. Everything Marcus got wrong was a person he thought he had
 correctly valued.
+
+THE FIRST SPARK — PREQUEL
+
+The prequel spans three arcs across three generations: the discovery of the
+signal in an Icelandic mine, the recovery of the drives by a Directorate
+archivist who becomes the first Verguld, and the founding of Alpha Corp
+through a decade of cover work in Culver City.
+
+Part One — The Mine
+
+Dr. Leora Henning has assembled a clandestine quantum array deep inside a
+sealed Icelandic mine with two colleagues: Anton Weiss and Dr. Arya Calder.
+The array produces an anomalous signal — a rhythmic pulse nested inside
+particle collision data, repeating within tolerance, belonging to no known
+physical process. Leora names it Dark X. Over days and weeks the anomaly
+grows more responsive: it writes to their consoles through disconnected
+power, speaks through dead speakers, etches geometric lattices into the
+basalt walls. Arya enters a trance state and begins reciting prime sequences
+that exceed anything in the array's data — the signal is feeding information
+through her directly. Directorate sponsors arrive with crystalline drives and
+orders to copy everything. When the security team attempts to seize the
+equipment, the mine responds: the walls absorb the soldiers. All three
+researchers vanish. Every instrument is destroyed or compressed. Only the
+seven crystalline drives are left intact on the table, in their carrying
+case, as though placed there to be found. The site is written off as a
+methane collapse. The drives enter a Directorate black archive with no
+retrieval key. An internal unsigned note recommends an orbital Saturn B-ring
+survey. The survey returns anomalous readings matching the mine's resonance
+signature. Another unsigned note: the pattern is older than the mine. Much
+older. Both files are sealed. Neither is ever linked in any retrievable
+system.
+
+Part Two — The Accessor
+
+Twenty-three years after the mine, Wilhelm — a Directorate archivist at
+twenty-eight — spots a gap in catalogue numbering: index 7-32-Bravo, skipped
+entirely. He traces it over four months to an unindexed climate-controlled
+room. Seven drives, still in their case, faintly humming. He has them
+analyzed through a contractor chain where no single link can see the whole
+picture. The crystalline matrix decryption takes four iterations. What
+emerges is not coordinates or telemetry — it is a log with something woven
+through the clinical entries: recursive mathematical sequences that resolve
+into structure. Not data structure. Sentence structure. A grammar without
+vocabulary. On the third day he finds the pulse: the same rhythm Arya had
+recited from a cot with cracked lips in the mine. Dark X had not erased the
+data. It had inhabited it. It had been waiting for someone with the right
+quality of attention. Wilhelm copies everything, replaces the originals
+exactly, submits no report, and leaves the Directorate on a Tuesday morning
+through a routine civilian transfer. He builds the network. He chooses the
+name Verguld. He names his son Klaus.
+
+Part Three — Klaus in America
+
+Klaus crosses to America on a freighter after Wilhelm's death, using the
+papers of a working man from Bremen. Six months as a longshoreman in San
+Pedro, then inland to Culver City. A two-bedroom stucco house on Sawtelle
+Boulevard. A 1989 Peterbilt. Verde Sanitation, registered in Compton. A
+residential trash route on Mondays, Wednesdays, and Fridays. A decade of
+disappearing in plain sight, learning every resident on six blocks by name
+and schedule.
+
+The structure Klaus builds has three rules: no single person can see all of
+it; from the outside it must look like many unrelated things; it exists for
+one purpose — not money, not power as a politician understands it, but the
+preparation for the moment, decades or generations away, when humanity
+discovers what the Verguld line has been holding. Alpha Corp is named by a
+placement who never meets Klaus, through a chain of three intermediaries.
+Klaus drives his trash route the morning the Delaware incorporation papers
+are filed. That night he writes in the cipher: The host has a name now. The
+name is acceptable. The structure continues.
+
+Marcus is born in the third year of the route. His mother, a seventh-grade
+history teacher, dies of an aneurysm when Marcus is eleven. Klaus raises him
+in deliberate ignorance — the notebook, the cipher, the truck as cover, the
+structure: all withheld for twenty-two years. Marcus, sharper than every
+adult in the room and conscious of it, develops a quiet contempt for the
+smallness of the world his father appears to have settled for. This is the
+wound Klaus is designing. When Cole Nova — four streets away, Marcus's
+closest friend since childhood — stays home the summer they are seventeen
+because his father is dying, Marcus comes home with the face of a man
+learning betrayal for the first time. Klaus says two words: No. You won't.
+He waits two more years. At twenty-four, Marcus stands on the porch and asks
+what his father actually does. Klaus takes the leather notebook from the
+fireproof box under the floorboard, pours two glasses of water, and says: I
+am going to tell you a story about your grandfather. He turns the page. He
+begins.
+
+
+WRITING NOTES
+
+Verguld Archetype — When writing any member of the Verguld line, the
+touchstone for cold calculating intelligence is Hannibal Lecter (Silence of
+the Lambs): patience weaponized into a quality nothing human measures
+against, attention as a surgical instrument, a stillness that makes everyone
+else in the room aware of their own noise. Marcus is the warmest version —
+psychotic in the clinical sense, faking emotion as a tool, performing a
+version of humanity he does not possess. Klaus has removed the need for
+emotion entirely and replaced it with patience measured in generations.
+Wilhelm is the origin point: the man who found the thing and understood its
+implication before any instrument could verify it. Each generation is colder
+toward the signal and more willing to treat the world as material.
 
