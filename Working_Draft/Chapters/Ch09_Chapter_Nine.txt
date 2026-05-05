@@ -1,112 +1,168 @@
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Nine
 
 
-Need to add a few pages to open this chapter. Focus on developing group dynamics, foreshadowing Taylor being a anta, bring Sam and HH closer, show Cole being a decisive/thoughtful leader, and Bitboy can be used as a scapegoat/comedic relief. 
+The iRIS effect was cumulative.
 
-As Cole and the crew got used to having iRIS live rent-free in their heads, work went smoother. When the crew was grouped in close proximity, iRIS would sound over the ship's intercom system as though it knew the etiquette of whispering in someone's ear in public as being rude and appearing dodgy.  
+By day four it was no longer a voice. It was a presence — something that had learned the architecture of the crew and had begun occupying it without announcement. It knew when to speak over the ship's intercom and when to lean in close. It had calibrated itself to each person individually, which should have been reassuring and which Cole found, instead, faintly wrong in a way he could not yet name.
 
-Cole suspected the AI was also affecting the crew's subconscious minds while they slept because he was finally getting a good night's rest on the ship.
+The other thing he could not name was what the Dark Matter was doing to him.
 
-As they worked, Taylor tapped away at the starboard control panel. The tiny screen above it read, "Loading File: 6%."
+iRIS had explained it, clinically, on day two. Proximity to the Dark Matter payload at cruising velocity — ten percent of the speed of light — produced measurable neuroplastic cascades in human neural tissue. The effect was documented in the mission parameters as a known variable and had not been flagged for crew review, which told Cole something about how much of the mission parameters he had not been given. What it meant in practice was that whatever emotional architecture a person had built over a lifetime of effort was, at present, running approximately twenty percent less load-bearing than usual. The walls were thinner. The light got through differently.
 
- "Dammit, iRIS," Taylor hollered. "This thing just isn't loading. Why is this computer so slow? Even the clocks are malfunctioning. Did Bitboy mess with my station while I was away?"
+Ricardo had put it more plainly in the galley on day three. "Limbic sensitivity. That's a polite way of saying we feel things more."
 
-Irritated but trying to stay composed, Cole shot back, "Quit blaming the chimp."
+"Great," Cole had said. "Crying in space."
 
- "Somebody messed something up! Who was it!?" Taylor said, evident frustration ringing in his voice.
+"Some of us," Ricardo said, and left it at that.
 
-"All systems functioning normally," iRIS stated in a low, slow growl.
+Sam had said nothing. Sam had adjusted to the effect with what Cole could only describe as unusual ease. She moved through her shifts with the same precise, unhurried competence she had shown from the first day, and if the Dark Matter was doing anything to the floor of her inner world, she did not show it. He had watched her once or twice, looking for the seams in it, and hadn't found any. Sam was no stranger to this kind of interior weather. She had simply assessed the conditions and begun sailing.
 
-"Ok, now something's definitely wrong," Taylor said, losing his temper.
+Bitboy was the anomaly.
 
-Samantha, channeling her inner mother, said, "Calm yourselves."
+The chimp was fine. His readings were stable, his threat assessment protocols cycling normally, his appetite for anything ethanol-adjacent unchanged. But he had developed a new behavior that Cole had logged and not yet categorized. Whenever Taylor entered a room, Bitboy went still. Not the stillness of sleep or inattention — the particular stillness of a thing that has made a decision to watch. His dim-blue LED eyes would track Taylor across the compartment and then stay on him at rest. No vocalization. No arm deployment. Just the flat attention of something waiting to understand what it was looking at.
 
- Taylor and Cole checked themselves.
+Cole understood the feeling.
 
- "It's not what you say; it's how you say it," Taylor said, talking more to himself than anyone else. "I have to watch my tone. This feels like it's taking forever. We might as well mark the days on the walls with chalk."
+---
 
-"The system is working as programmed. Humans experience time dilation when nearby Dark Matter reaches the cruising speed we are currently traveling, 10% of light speed." iRIS growled slowly.
+On the bridge, Taylor worked the starboard control panel with the concentrated frustration of someone who had decided the problem was external. The file counter on his secondary screen had been sitting at six percent for eleven minutes.
 
-Cole remembered how strange he felt the day he sampled from the harvester. It felt like the crown of his head was floating yet still attached. His usual strong barrier of stoicism was weakened, almost letting his suppressed emotions well up to the surface. It was beautiful and unfamiliar. With the effects accelerating, he didn't know if he could keep his composure in front of the crew.
+"Dammit, iRIS." He didn't quite shout it. "Every clock on this panel is off. These aren't malfunctions, these are—someone has been at my station."
 
- 
-"You know the only reason you and your buddies are aboard is because of your previous trip to Saturn," Taylor said. "This command should be mine."
+"All systems functioning within normal parameters," iRIS said. The voice was measured. Unhurried. Cole noticed it did not say *all systems functioning normally*, which was the standard response string. It said *within normal parameters*, which was technically identical and subtly different.
 
+"That's not an answer. Bitboy's been at my—"
 
-In fact, Cole and his original crew were used as Guinea pigs to see what would happen if they separated Darkx. They were expendable. Now Alpha Corp is trying to kill Cole, Bitboy, and Heavy Hitter off while Taylor gives the bulk of Darkx to Alpha Corp.
+"Quit blaming the chimp," Cole said, from the port console, without looking up.
 
+Taylor turned. "I didn't say it was definitely—"
 
-"If you want to be the leader," Cole said, his voice steady. "Go ahead. You don't need to be at the top to be in charge."
+"You implied it. You imply it every time something is slow or missing or not to your liking. The chimp doesn't touch your station. iRIS, confirm."
 
+"Chief Science Officer Taylor's station logs no access events outside authorized personnel in the past seventy-two hours," iRIS said. There was, Cole noticed, a half-second latency between question and response that had not been there yesterday.
 
-Taylor crouched forward. "Have you lost it? Did you hit your head during the launch sequence?"
+Taylor exhaled and turned back to his panel. "The clocks are still slow."
 
+"The perception of time dilation is a documented effect of sustained proximity to Darker Matter at our current velocity," iRIS said. "Ten percent of light speed produces measurable neuroplastic response in human subjects. What you are experiencing as a delay is more likely an alteration in your own perception of duration."
 
-"That and plenty of other shit," Cole said. "I'm saying leadership isn't something you start doing because you have command. If you can't find a way to lead laterally, you likely don't have the tools to lead vertically."
+Taylor stood very still for a moment. Then: "So the clocks are fine and I'm the problem."
 
+"The clocks are functioning within—"
 
-"Wisdom flows easily from on high, eh, Cole?"
+"I heard you the first time." Taylor tapped at the panel. "I have to watch my tone," he said, more to himself than anyone. Then, quieter: "Everything feels like it's taking forever."
 
+Cole said nothing. He kept his eyes on his own readouts and let the silence settle. He had noticed something else about iRIS in the past forty-eight hours. With the crew, it mirrored back — warm, informative, occasionally dry. With Taylor, it was formal in a way that was not exactly cold but had an edge to it. A precision that was not present elsewhere. He filed it alongside Bitboy's stillness and did not yet draw a line between them.
 
-"We can revisit this later, but think about it. No one's stopping you from being in charge here. If you want it, do it." Cole wanted to keep his cards close but was more reactive with the Dark Matter kicking in.
+---
 
+He went to the cargo bay in the early afternoon cycle. The cargo containers with the salt compounds and seed minerals needed a visual check — iRIS could have run it via sensors, but Cole needed the two minutes of dark and silence and mechanical purpose. He moved between the containers, reading the seals, listening to the hum of the ship doing what ships do at speed in the cold middle of nowhere.
 
-"That's oddly motivating," Taylor said, "but don't think your mind games will work on me."
+He was about to turn back when he heard Taylor's voice.
 
+It was coming from the forward utility alcove just past the container row. Low. Deliberate. The particular cadence of a man saying something he has thought about first.
 
-"Oh no, of course not," Cole said. "Why would I want to help you?"
+Cole stopped.
 
+"The driver was neutralized before he could talk," Taylor said. "That's confirmed. What I need to know is whether Nova has connected the exchange to anything operational. He's been watching me. I want to know what he knows."
 
-Cole turned to Sam, who was diligently working on another console. "Sam, how's everything looking on your end?"
+Cole stood in the dark between two containers and did not breathe.
 
-Sam looked up, a smear of grease on her cheek. "We're looking good." then gave a thumbs up.
+iRIS responded — he could not make out the words, just the register of it, low and close and calibrated specifically to the alcove's acoustics, pitched so it would not carry.
 
-"Great work, Sam," Cole said. "Keep me updated."
+"Run continuous behavioral assessment," Taylor said. "Flag any change in how he addresses me. Any change in routine. I need to know immediately."
 
-Cole went to the cargo bay to ensure none of the containers with salt and other seed minerals were leaking. A task he could have easily delegated to iRIS, but he needed a hidden refuge to escape to as his anxiety started creeping up on him. Just as he confirmed the storage bay was clean and containers stacked neatly, he sat with his demons for a beat in the near-silent bay and headed back to the control room.
+Cole waited.
 
-As he turned the penultimate corner, he could hear Taylor speaking confessionally. His eyes scanned Sam's chair, which was now vacant, and stopped moving out of instinct.
+Footsteps. The alcove door. Then nothing.
 
- "Your master is the most long-winded, egotistical maniac I have ever met."
+He stood there for another thirty seconds. Then he put the last seal back where he'd found it and walked back to the bridge at the same pace he'd arrived.
 
- "If my maniacal ego sends me to hell, I'll save Cole a seat beside me. Maybe there's even a hell within hell, like Russian nesting dolls. Why do we have to suffer in his company? This pissing contest isn't producing any results. I'd work together to see if we can figure out what's going on and how to fix it."
+---
 
-Bitboy's blue LED eyes went in and out of focus, and he cocked his head, searching for audible commands in Taylor's drivel. 
+Taylor was waiting for him.
 
-Taylor felt the heat of irritation rising. 
+Not physically waiting — he was at his console, doing something that looked like work. But he turned the moment Cole entered, which meant he had been listening for the door, which meant he knew Cole had been in the cargo bay. Whether he knew anything more than that was what Taylor wanted Cole to wonder.
 
-"You want to know what I really think of your daddy? I think he's so busy trying to be the hero that he's afraid to be himself. I think Cole's a coward. A coward pretending to be wise and strong. I see right through him, and it looks like weakness."
+"I owe you an apology," Taylor said.
 
-"You think I'm a chicken?" Cole said without a shred of defensiveness in his voice.
+"No you don't."
 
-Taylor spun around, startled, but continued with his rant.
+"I blamed the chimp. You called it correctly."
 
-"When I see you fronting, acting all courageous, I know it's—you are—fake."
+Cole sat at his station. "Forget it."
 
-Cole felt the truth behind the words piercing him, emotions welling up. He sat with them, absorbed them internally, and held his eager tongue.
+Taylor moved toward the center console, putting himself in Cole's peripheral vision — close enough to be heard without the room. "You know I've been reviewing the logs from the Polaris mission. Your mission."
 
-Taylor softened his tone and lowered his head to meet Cole eye-to-eye. 
+Cole tapped through his readouts.
 
-"I can only imagine the pressure of being 'Cole Nova,' the most decorated pilot in Federation history. That kind of attention would give anybody a savior complex. How's that working out for you? Five years wallowing in self-pity?"
+"Two hundred and fourteen crew members," Taylor said. "That's a weight a person either carries or gets buried by."
 
-Cole remained quiet, listening to know himself.
+"Is there something you need from me?"
 
-"While you were hiding in your cabin—hiding from the world and your responsibilities, I was training. You didn't earn your place here. So, yeah, I resent the fact that the Federation gave you a spot at all. I'm sick of hearing about "Jackpot," the Federation's golden boy, the great explorer. Those days are over, but that's the Cole Nova we need right now. Not a shell-shocked has-been that crawls into a bottle whenever he needs to escape the past."
+"I'm trying to understand what I'm working with. You spent five years in a mountain cabin." He let the cabin part sit for a moment. "I've read the psych assessments. Voluntary isolation, high-functioning avoidance. You built a very convincing case that you were fine."
 
-Inexplicably, Cole could accept Taylor's harsh criticism, and he wasn't finished dishing it out. 
+Cole turned and looked at him directly. "Taylor."
 
-"So, you killed over 200 people. So what? Hell, you think you're the first person to carry a burden like that? Half of Earth's population is fighting for energy sources now. But you don't come out of hiding 'til your sister's life is on the line. Priorities, man! You could save billions, but it took your sister being threatened to get you to man up."
+"You appointed yourself judge, jury, and executioner. Sentenced yourself to five years and served it. And now you're here, and I can't tell if you're back or if you brought the sentence with you." Taylor's voice was neutral — not kind, not cruel, simply accurate in the way that a blade is accurate. "That's not a personal observation. That's a command risk assessment. If you're still in the cabin, I need to know."
 
-Cole felt like an armadillo on a highway. At the same time, he was shocked by a wave of relief. Taylor was exposing all the monsters and pain he couldn't face before. It felt like taking a breath of fresh air and feeling warm sunlight on his face after years of being buried alive. A kid half his age was publicly calling him out in excruciating detail. 
+Cole held his gaze for exactly long enough.
 
-"So what is it that you want from me?"
+"Run your assessments," he said. "Let me know what you find."
 
-"I want the truth. That's it."
+He turned back to his station. From the corner of his eye he caught Bitboy, who was seated against the starboard wall. The chimp's dim-blue eyes were on Taylor and did not move.
 
-Cole recognized this pattern. "The scientific method... on a smaller scale."
+Taylor went back to his console.
 
-"Do your beliefs actually match with the evidence? You appointed yourself judge, jury, and executioner, sentencing yourself to years of torment. Were you really qualified to convict yourself back then from a place of pain? Are you qualified now? Can you finally be completely honest and fair with yourself?" Taylor questioned.
+---
 
-Cole looked away, tears hidden and held back behind his eyes.
+He found Sam in the forward maintenance alcove forty minutes later. She had a panel off the ventilation housing and was running diagnostics on the secondary environmental feed. Her toolkit was open on the deck beside her. There was also something else on the deck beside her — a matte-gray device, rectangular, small enough to palm. Its indicator light was blinking at a slow, even interval.
+
+Sam looked up when Cole crouched down at the alcove threshold. Her eyes moved to the device and then back to him in a way that didn't rush itself.
+
+She picked it up and put it in her breast pocket.
+
+"It's receiving something," she said. "I can't tell you the source yet. When I can, I will."
+
+Cole looked at where the device had been on the deck. Then he looked at Sam.
+
+"All right," he said.
+
+She nodded and went back to the diagnostic panel. He stayed at the threshold for a moment.
+
+"The Dark Matter," he said. "You're not having any trouble with it."
+
+"No."
+
+"You know what it is."
+
+"I have some experience with this kind of interior weather." She ran a calibration sequence. "It's not comfortable. I'm just familiar with it."
+
+Cole leaned against the alcove frame. Outside the small porthole at the far end of the corridor, the black ran in all directions without a visible edge. "The ring," he said. "The copper wire. Before launch." He had not said it to anyone. He was not entirely sure why he was saying it now. "You saw it."
+
+"I saw you make it," Sam said. She tightened a housing bolt. "You gave her something to hold onto before you left."
+
+"Ricardo told you about her."
+
+"Yes." The flatness of it was its own information. She set down the tool and looked at him steadily. "I'm sorry, Cole."
+
+He didn't answer. He looked out the porthole. The black held its position.
+
+"What did you call her?" Sam asked.
+
+He almost didn't answer that either. Then: "She insisted on Nova. She said the other name was already taken."
+
+Sam looked at him. Something passed across her face that was not pity — something older and more useful than pity. She picked up her tool and went back to work.
+
+Cole pushed off the frame and headed back toward the bridge. At the corridor junction, he stopped.
+
+"Sam."
+
+She looked up.
+
+"When the source comes through," he said, "don't wait."
+
+She held his eyes for a moment. "I won't."
+
+He went back to the bridge. The ship ran on. Bitboy was asleep in the crew chair with two arms tucked under his head and two arms hanging loose, and the indicator on his chest panel cycled green, and the hum of the engines was the only thing between them and the rest of the dark.
