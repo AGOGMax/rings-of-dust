@@ -7,7 +7,7 @@ It is 2041. Seven years earlier, the Federation vessel Polaris was destroyed
 near Saturn during a DarkX extraction mission. Captain Cole Nova had gone
 into the cargo bay alone to collect a sample from an active harvester; the
 energy surge from the disturbed plasma triggered an explosion that destroyed
-the ship and its 375-person crew. DarkX is a plasma-state crystalline
+the ship and its 369-person crew. DarkX is a plasma-state crystalline
 substance found in Saturn's rings that produces extraordinary energy when
 harvested and charged. Alpha, under Marcus Verguld, has spent the seven
 intervening years controlling the DarkX supply — and, as it turns out,
@@ -15,6 +15,18 @@ deliberately managing the energy recovery to maintain dependency and profit.
 A junior researcher named Max Vision discovered what Alpha never wanted known:
 DarkX fuel cells compound in yield over time, and the shortage is entirely
 manufactured.
+
+Alpha's fraud is multilayered. They took Max's discovery — the 11-day
+seasoning process — filed patents, and then spent years receiving billions in
+government grants by presenting his recipe as their own ongoing research into
+"next-generation fuel cell technology." They destroyed 11 to 13 percent of
+viable production per batch for eleven consecutive years to maintain the supply
+gap. And they suppressed the long-cycle data entirely: cells allowed to run
+past 11 days compound non-linearly, reaching exponential yield at 180 days in
+zero gravity — a discovery the Collective will eventually call the antigravity
+project. One in every 740 fuel cells develops massive external crystal growth
+at harvest — a jackpot event, yielding 40 to 60 times a standard batch. Alpha
+tracked these separately and never included them in public supply figures.
 
 The Federation Council is the governing body overseeing space operations,
 law, and resource management. Chancellor Geoffrey DeMint runs it in good
@@ -38,7 +50,7 @@ going into cargo bays.
 
 Ricardo "Heavy Hitter" Corazon — Cole's closest friend and co-pilot. Large,
 calm, darkly funny. He was on the Falcon when the Polaris was destroyed and
-pulled Cole out of the void. He knew every one of the 375 Polaris crew by
+pulled Cole out of the void. He knew every one of the 369 Polaris crew by
 name. He has been carrying a secret — that the man who attacked Cole on a
 mountain road carried the ID of a Polaris crew member. He says nothing. He
 drives. Over the course of the Golden Dawn mission he and Sam Drummond develop
@@ -104,12 +116,13 @@ near-perfect ice cubes, poured in two glasses when sharing. It is the one
 human indulgence he allows himself. Appears in the main story via the pocket
 watch found in Taylor's quarters and in the epilogue, already sitting across
 from Marcus in the Dubai apartment when Marcus arrives — though the reader
-does not know Klaus is there until the reveal: Marcus sets down his glass (OJ,
-four ice cubes) too loud, and a second identical glass is lifted from across
-the table. He tells Marcus: the ledger you were keeping was never the ledger.
-The energy market was the cover. The actual project — the DarkX signal, older
-than the mine, older than the Saturn surveys — is unchanged. The structure
-continues.
+does not know Klaus is there until the reveal: Marcus reaches for his coffee
+and finds instead a glass of OJ with four ice cubes. He sets it down a little
+too loud. From across the table, a second identical glass is lifted by a hand
+that has been still long enough to have learned the silence of the room. He
+tells Marcus: the ledger you were keeping was never the ledger. The energy
+market was the cover. The actual project — the DarkX signal, older than the
+mine, older than the Saturn surveys — is unchanged. The structure continues.
 
 Marcus Verguld — The antagonist. Head of Alpha. Has spent years managing the
 energy crisis as an inventory decision. Patient, precise, genuinely intelligent,
@@ -129,17 +142,22 @@ a Star Trek Enterprise keychain — six dollars at a truck stop outside
 Bakersfield — and gave it to Emily and Sharon in Las Vegas.
 
 Max "Ray" Vision — Former Alpha researcher. Discovered the 11-day cycle:
-DarkX fuel cells, when allowed to season for 11 days under specific conditions,
-produce usable energy. This is the mechanism Alpha exploited to manufacture
-scarcity and manage the market. After sharing the discovery with Alpha, Max was
-fired and went underground — faked his death, fled to Panama, built the cover
-identity Michov Kargan and embedded himself in Alpha's Panama facility. The
-Collective found him there. In Panama, through access to real equipment, he
-figures out the flywheel: cells chained together over longer cycles compound
-non-linearly; at 180 days in zero gravity, the yield becomes effectively
-unlimited. He steals the proof of Alpha's manufactured scarcity from the Panama
-facility and delivers it to the Collective. "Ray Vision" — his full nickname —
-is an intentional nod.
+DarkX fuel cells, when allowed to season for 11 days under specific conditions
+(negative pressure, nitrogen atmosphere, heavier salt compound), produce
+usable energy and grow dark matter crystals internally. This is Max's recipe —
+the mechanism Alpha stole, patented, and exploited to manufacture scarcity and
+manage the market. After sharing the discovery with Alpha, Max was fired and
+went underground — faked his death, fled to Panama, built the cover identity
+Michov Kargan and embedded himself in Alpha's Panama facility. The Collective
+found him there via Red and Squirrel. In Panama, through access to real
+equipment, he discovers the flywheel: cells chained together over longer cycles
+compound non-linearly. At 33 days, yield is non-linear. At 60 days, the
+efficiency curve inverts. At 180 days in zero gravity, yield is exponential.
+He also uncovers the 1-in-740 jackpot anomaly and the government grants fraud.
+He names the zero-gravity discovery with Red and Squirrel at the extraction
+café: the antigravity project. He steals the proof from the Panama facility
+and delivers it to the Collective. "Ray Vision" — his full nickname — is an
+intentional nod.
 
 Rachel Vayes — Presents as a Federation news anchor and board member. Actually
 the Grand Admiral of the Collective, running the resistance for eleven years
@@ -155,12 +173,14 @@ which is the test she didn't know she was taking. She passes.
 
 Red — Female, Collective Technician (Junior). One half of the Collective's
 ground-level crystal-handling team. Appears in Ch08 (receiving the crystal
-shipment from Emily and Sharon at the county road turnout) and Ch10B (makes
-contact with Max at his apartment alongside Squirrel).
+shipment from Emily and Sharon at the county road turnout), Ch10B (makes
+contact with Max at his apartment alongside Squirrel), and Ch16 (receives the
+Panama drive from Max at the extraction café; coins the "antigravity project"
+code name alongside Squirrel).
 
 Squirrel — Male, Collective Technician (Senior). Red's partner. He speaks the
-code phrase at the Ch08 turnout, handles the thumb drive, and accompanies Red
-to Max's apartment in Ch10B. The one who lays out the timeline and urgency.
+code phrase at the Ch08 turnout, handles the thumb drive, accompanies Red to
+Max's apartment in Ch10B, and receives the Panama drive at the Ch16 café.
 
 Pilar — Collective plant, Federation Systems technician, twelve-year employee.
 Has been positioned inside Federation secure storage access for three years
@@ -170,10 +190,9 @@ prototype device for copying.
 
 Vance Black — Federation Operations. An Alpha plant, recruited by Klaus
 alongside Taylor, compartmentalized from him. Not loyal to Marcus — Klaus's
-man, not Marcus's, and Marcus knows it. Drives six hours to a Nevada Hall of
-Records facility looking for evidence, finds an empty vault, finds Rachel
-Vayes's authorization on the removal orders. Calls Marcus to tell him what he
-found. Marcus shoots him. He does not survive.
+man, not Marcus's, and Marcus knows it. Drives six hours to a Nevada research
+station looking for Conrad's prototype, finds it has already been moved. Calls
+Marcus to tell him what he found. Marcus shoots him. He does not survive.
 
 CHAPTER BY CHAPTER
 
@@ -187,7 +206,7 @@ blown into space with a cracked faceplate and a leaking oxygen supply. He
 records a final mission log, naming his crew and his sister Emily, floating
 untethered in the debris field. Ricardo and Bitboy, working the neighboring
 Falcon, navigate the wreckage and pull Cole from the void. The Polaris and
-its 375-person crew are gone. This is the event Cole has been carrying for
+its 369-person crew are gone. This is the event Cole has been carrying for
 seven years.
 
 Chapter Two — Las Vegas
@@ -209,7 +228,9 @@ eleven months while Cole was saving to leave for the summer. Cole stayed home.
 His father died in November. Cole was seventeen. Marcus left a note calling
 him a betrayer and went without him. Cole's sister Emily helped him study his
 way into the Space Academy. Their mother told them: the only life that
-survives losing someone is the one you built for yourself.
+survives losing someone is the one you built for yourself. Marcus never forgot
+the afternoon Emily put him on the ground in front of his friends — he simply
+decided when to use it.
 
 Chapter Four — The Cabin
 
@@ -281,10 +302,10 @@ Chapter Nine — Ship, First Weeks
 Four days into the mission, iRIS has become a constant presence. DarkX
 proximity causes heightened emotional sensitivity. Taylor acts suspicious,
 blames Bitboy for station malfunctions. Cole notices Sam adjusted to iRIS
-with zero lag — no forty-eight-hour recalibration, no unfocused look. He
-takes note without naming it. Sam discovers a matte-gray transmission device
-in her quarters and begins covertly tracking its signal. Bitboy watches Taylor
-with flat attention. Three hours after Cole finds Sam in the maintenance alcove,
+with zero lag — no forty-eight-hour recalibration, no unfocused look. He takes
+note without naming it. Sam discovers a matte-gray transmission device in her
+quarters and begins covertly tracking its signal. Bitboy watches Taylor with
+flat attention. Three hours after Cole finds Sam in the maintenance alcove,
 she brings him Taylor's iRIS query logs. Cole gets Taylor's side only — iRIS's
 responses are not visible. What Taylor's queries show: he ordered behavioral
 surveillance on Cole from day two; he queried confirmation that the Ch06 road
@@ -311,22 +332,22 @@ Chapter Ten-B — Max and the Collective
 
 Squirrel and Red find Max at his apartment. He has been watching headlights
 for three weeks. He knows the 11-day cycle — that's Alpha's harvest window, the
-mechanism they've been exploiting to manage the market. He has theories about
-what happens if you don't reset the cycle after eleven days. He can't prove any
-of it in his apartment. He needs equipment. He needs the right environment.
-The Collective has a facility. He packs the notebook and the fuel cell and
-follows them out.
+mechanism they've been exploiting to manage the market. He has hunches about
+what happens if you don't reset the cycle after eleven days. He can't prove
+any of it in his apartment. He needs equipment, a controlled environment,
+zero-gravity test conditions. The Collective has a facility. He packs the
+notebook and the fuel cell and follows them out.
 
 Chapter Eleven — DeMint and Vance
 
 DeMint receives an anonymous intelligence brief suggesting the Golden Dawn
 has hidden secondary objectives. Taylor Glenn was Alpha's recommendation for
-the crew. DeMint sends Vance Black to a Hall of Records facility in Nevada to
-retrieve Conrad's prototype communications device. Vance drives six hours into
-the desert and finds an empty vault. Rachel Vayes's authorization on the
-removal orders. He calls Marcus to tell him what he found. Marcus shoots him.
-Vance does not survive. Taylor, on the ship, reviews cargo bay footage
-repeatedly — he needs to know what Cole knows before they reach Saturn.
+the crew. DeMint sends Vance Black to a research station in Nevada to retrieve
+Conrad's prototype communications device. Vance finds the vault empty —
+someone has already moved it. He calls Marcus to tell him what he found.
+Marcus shoots him. Vance does not survive. Taylor, on the ship, reviews cargo
+bay footage repeatedly — he needs to know what Cole knows before they reach
+Saturn.
 
 Chapter Twelve — Sharon's Death Delivered
 
@@ -338,16 +359,22 @@ ring on Sharon's finger and the way she said his full name. He goes to Taylor
 much become liabilities in a war. That isn't a Collective truth or an Alpha
 truth. It's just what happens."
 
-Chapter Thirteen — Emily Drives
+Chapter Thirteen — Emily Leaves
 
-Emily is driving east through the desert toward Houston. She is running on
-near-no sleep. Near Lordsburg, New Mexico, she notices a man at a gas station
-on-ramp — work boots worn at the outer heel, the posture of someone who covers
-ground for work. She pulls over. His name is Orin. He has been behind her
-since Benson, forty miles back. He was visible at the pump because he was
-supposed to be noticed, and Emily was supposed to decide what to do with an
-undeclared asset. She spotted him and said it directly: Rachel sent you. He
-confirms. This is the test. She passes. They drive to Houston.
+Emily checks the car before she gets in — Sharon's rule. She finds a note on
+the driver's seat: Pier 9. R. She transfers her contacts to a new burner,
+drives to the pier. Rachel is there, leaning on the railing, watching the
+water. She tells Emily what she knows: Cole is on a ship whose AI backbone
+was installed by Alpha, with a crew member who answers to Alpha, and he is
+in danger he cannot manage indefinitely. Conrad built a counter-program
+failsafe. It exists as a physical prototype. The Collective needs it before
+Alpha does. Emily takes the card Rachel gives her with a number handwritten
+on it and the instruction to use the east entrance of Federation Space Command
+in Texas. She drives east on I-10. Somewhere past Indio, she catches herself
+thinking about the sound of water at the pier and the rumble strips hit. She
+pulls over at a gas station. She calls the number on the card. A woman's voice
+says: pull over and sleep three hours. The timeline holds. She does. She is
+asleep before the thought finishes.
 
 Chapter Fourteen — Copper Wire
 
@@ -359,30 +386,42 @@ eleven harvesters, 369 containers total. The harvest operations begin. The
 chapter ends with Cole preparing to start retrieval and the rings spread across
 every viewport.
 
-Chapter Fifteen — Houston
+Chapter Fifteen — Surprise, Arizona
 
-Emily arrives at Federation Space Command in Houston with Orin. Pilar — a
-Collective plant who has been a Federation systems technician for twelve years
-— walks them through maintenance corridors to the sub-basement secure storage
-wing. Pilar uses her credentials to open the vault where Conrad's original
-prototype device is stored. Emily places the copier on it, holds for twenty
-seconds, gets the green light. The duplicate goes in Emily's jacket. The
-prototype stays in the vault. Pilar locks it and walks them out.
+Emily wakes in a motel in Surprise, Arizona. She's been driving on almost no
+sleep. The burner buzzes — Rachel, with the mission update: Conrad's prototype
+is in Federation secure storage in Houston, sub-basement level. The Collective
+has an asset inside, Pilar, a twelve-year Federation Systems employee who has
+vault credentials and has been waiting three years for exactly this. Emily's
+job is to get to the east entrance before 6:30 AM and let Pilar walk her in.
+The copy takes twenty seconds. Emily looks at the road atlas: Surprise, Arizona
+to Houston, Texas. Eleven hundred miles. She drives. Near Lordsburg, New Mexico,
+she stops for gas and notices a man at the on-ramp — work boots worn at the
+outer heel, the posture of someone who covers ground for work. He's been behind
+her since Benson. She pulls over. His name is Orin — Collective Technician,
+North American Circuit. She spotted the undeclared asset and named it. That was
+the test. She passes. They drive to Houston. He tells her to sleep the full
+night. She does.
 
 Chapter Sixteen — Behind the Curtain
 
 Max, under the cover identity Michov Kargan, spends days embedded in Alpha's
-Panama facility. In Panama, with access to real equipment, he cracks the
-flywheel: cells chained together for sustained durations compound non-linearly.
-At 33 days, yield is non-linear. At 60 days, the efficiency curve inverts —
-the cell gives back more than it costs. At 180 days in zero gravity, the yield
-becomes exponential. You cannot manufacture a shortage of something that
-compounds in everyone's hands. He locates DISPOSAL_PROTOCOL_7: months of
-records documenting Alpha's deliberate destruction of viable DarkX product to
-maintain artificial scarcity. The crisis is an inventory decision. He pulls
-the drive during a nitrogen cycling alert, walks out at contractor pace, and
-is three blocks away before his hands start shaking. He thinks about Dr. Oren
-coming to work tomorrow.
+Panama facility. Reading the batch logs, he finds the long-cycle data Alpha
+buried: cells allowed to run past 11 days compound non-linearly. At 33 days,
+yield is non-linear. At 60 days, the efficiency curve inverts — the cell gives
+more than it costs. At 180 days in zero gravity, the yield is exponential. He
+finds the 1-in-740 jackpot anomaly: one in approximately 740 cells develops
+massive external crystal growth at harvest, with yield equivalent to 40-60
+standard batches. Alpha tracked these separately, never reported them. He finds
+the government grants fraud: seven years of applications, billions drawn from
+crisis relief funds, presenting Max's recipe as their own R&D. He finds
+DISPOSAL_PROTOCOL_7: deliberate destruction of 11-13% of production per batch
+for eleven years to maintain the supply gap. He pulls the drive during a
+nitrogen cycling alert, walks out at contractor pace, and is three blocks away
+before his hands start shaking. At the extraction café, he gives the drive to
+Red and Squirrel. When he explains what's on it — particularly the zero-gravity
+exponential yield — Red says: we need a name for this. Max says: antigravity
+project. That's what they call it.
 
 Chapter Seventeen — The Locked Bay
 
@@ -432,13 +471,17 @@ and the augmented right — holds on.
 
 Chapter Twenty — Houston Heist
 
-Emily arrives at Federation Space Command in Houston with Orin. Pilar walks
-her through maintenance corridors to the sub-basement vault where Conrad's
-prototype device has been held in Federation secure storage. Pilar opens it
-with her credentials. Emily copies it. Outside, Emily hears Cole's relay
-message: Sharon is here, she came back, she kept both of them. Emily cries in
-a diner in Houston with Orin eating a breakfast burrito across from her. Good
-mission, he says. Yeah, she says.
+Emily arrives at the east entrance of Federation Space Command in Houston at
+6:22 AM. Orin is waiting. Pilar walks them through maintenance corridors to
+the sub-basement vault. She uses her Federation credentials and a secondary
+Collective-issued card to open the door. Inside: Conrad's prototype device in
+an equipment locker. Emily places the copier on it — twenty seconds, green
+light. The duplicate goes in her jacket. The prototype stays in the vault.
+Pilar locks everything and they walk out. Outside, Emily relays to Cole.
+Cole's message comes back: Sharon is here. She came back. She kept both of
+them. She wants you to know that. Emily cries in a diner in Houston with Orin
+eating a breakfast burrito across from her. Good mission, he says. Yeah, she
+says.
 
 Chapter Twenty-One — Max's Cargo
 
@@ -463,14 +506,16 @@ account — and goes.
 Chapter Twenty-Three — Grand Hall
 
 The Federation Grand Hall hearing. Marcus testifies for three hours. Max
-enters the Panama files and explains the flywheel in language calibrated for
-people who need to act on it: the shortage is solvable, it has been solvable,
-it can be fixed in six months. Conrad's documentation is entered as evidence.
-Rachel Vayes is in the press gallery. What happens is not a speech. The room
-understands who she has been. Cole watches the pixelated image from Saturn
-orbit via Gracie's relay and sees Emily in the fourth row. He sends her a
-relay message. Gracie adds a note: Sharon wants her to bring the road atlas so
-she can argue with the route Emily took.
+enters the Panama files and explains the flywheel and the antigravity project
+in language calibrated for people who need to act on it: the shortage is
+solvable, it has been solvable, it can be fixed in six months. The 1-in-740
+jackpot anomaly and the government grants fraud enter the record. Conrad's
+documentation is entered as evidence. Rachel Vayes is in the press gallery.
+What happens is not a speech. The room understands who she has been. Cole
+watches the pixelated image from Saturn orbit via Gracie's relay and sees
+Emily in the fourth row. He sends her a relay message. Gracie adds a note:
+Sharon wants her to bring the road atlas so she can argue with the route
+Emily took.
 
 NOTE ON RACHEL'S REVEAL: The current "I am the Grand Admiral" public
 declaration is being reconsidered. Preferred direction: Keyser Soze — the
@@ -519,20 +564,19 @@ coming to get me. He says: always.
 
 EPILOGUE
 
-Marcus is in the Dubai apartment. He sits alone — or appears to. He has been
-thinking about the hearing, about Sharon waking up, about Rachel Vayes, about
-every assessment he made that was wrong. He reaches for his coffee and finds
-instead a glass of orange juice with four near-perfect ice cubes. He sets it
-down a little too loud. From across the table, a second identical glass —
-orange juice, four ice cubes — is lifted by a hand that has been still long
-enough to have learned the silence of the room. Klaus has been there for three
-days. Across the table, Klaus tells him: the ledger you were keeping was never
-the ledger. The energy market, the Federation dependency, the managed recovery
-— you built the cover and began to believe in it. The actual project — the
-signal, older than the mine, older than the Saturn surveys — is unchanged. The
-structure continues. The cover changes. That is the sum total of what happened
-today. Marcus understands in this moment that he was always the cover. He goes
-to bed.
+Marcus is in the Dubai apartment. He has been thinking about the hearing,
+about Sharon waking up, about Rachel Vayes, about every assessment he made
+that was wrong. He reaches for his coffee. His hand finds instead a glass of
+orange juice with four near-perfect ice cubes. He sets it down a little too
+loud. From across the table, a second identical glass — OJ, four ice cubes —
+is lifted by a hand that has been still long enough to have learned the silence
+of the room. Klaus has been there for three days. He tells Marcus: the ledger
+you were keeping was never the ledger. The energy market, the Federation
+dependency, the managed recovery — you built the cover and began to believe in
+it. The actual project — the signal, older than the mine, older than the Saturn
+surveys — is unchanged. The structure continues. The cover changes. That is the
+sum total of what happened today. Marcus understands in this moment that he was
+always the cover. He goes to bed.
 
 Sharon sits on the porch of the Sequoia cabin at night. The Sierras have their
 first snow on the high peaks. She looks at the stars with her left eye and her
@@ -554,8 +598,11 @@ DarkX's central lesson: it was always in the reaching.
 
 The flywheel — the principle that makes Alpha's model obsolete. You cannot
 manufacture a shortage of something that compounds in everyone's hands. The
-11-day cycle is Alpha's tool. The 33-day yield, the 60-day inversion, the
-180-day exponential zero-gravity output — that is Max's discovery. The same
+11-day cycle is Alpha's tool — stolen from Max, patented, presented as their
+own invention to extract billions in government grants. The 33-day yield, the
+60-day inversion, the 180-day exponential zero-gravity output — that is Max's
+discovery. The 1-in-740 jackpot is the anomaly Alpha hid. The code name the
+Collective gives to the full discovery: the antigravity project. The same
 principle as the Collective: every person who chooses it feeds the next.
 Compound, don't extract.
 
@@ -565,6 +612,6 @@ and shows him the cell door has been open the whole time. The warden off the
 clock is the precondition for everything that follows.
 
 The ledger — Marcus's framework for the world. People as variables. Sharon,
-Emily, Rachel: all assessed, all filed, all underestimated. The ending is the
-ledger's failure. Everything Marcus got wrong was a person he thought he had
-correctly valued.
+Emily, Rachel: all assessed, all underestimated. The ending is the ledger's
+failure. Everything Marcus got wrong was a person he thought he had correctly
+valued.

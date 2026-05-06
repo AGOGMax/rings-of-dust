@@ -42,7 +42,7 @@ Bitboy was the anomaly.
 
 The chimp was fine. His readings were stable, his threat assessment protocols
 cycling normally, his appetite for anything ethanol-adjacent unchanged. But he
-had developed a new behavior that Cole had logged and not yet categorized.
+had developed a new behavior that Cole had noticed and not yet named.
 Whenever Taylor entered a room, Bitboy went still. Not the stillness of sleep or
 inattention — the particular stillness of a thing that has made a decision to
 watch. His dim-blue LED eyes would track Taylor across the compartment and then
@@ -101,8 +101,8 @@ Cole said nothing. He kept his eyes on his own readouts and let the silence
 settle. He had noticed something else about iRIS in the past forty-eight hours.
 With the crew, it mirrored back — warm, informative, occasionally dry. With
 Taylor, it was formal in a way that was not exactly cold but had an edge to it.
-A precision that was not present elsewhere. He filed it alongside Bitboy's
-stillness and did not yet draw a line between them.
+A precision that was not present elsewhere. He held it next to Bitboy's stillness and did not yet draw a line between
+them.
 
 ---
 
@@ -139,7 +139,7 @@ reviewing the logs from the Polaris mission. Your mission."
 
 Cole tapped through his readouts.
 
-"Two hundred and fourteen crew members," Taylor said. "That's a weight a person
+"Three hundred and sixty-nine crew members," Taylor said. "That's a weight a person
 either carries or gets buried by."
 
 "Is there something you need from me?"
