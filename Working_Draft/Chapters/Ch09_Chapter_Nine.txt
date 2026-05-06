@@ -113,33 +113,8 @@ mechanical purpose. He moved between the containers, reading the seals,
 listening to the hum of the ship doing what ships do at speed in the cold middle
 of nowhere.
 
-He was about to turn back when he heard Taylor's voice.
-
-It was coming from the forward utility alcove just past the container row. Low.
-Deliberate. The particular cadence of a man saying something he has thought
-about first.
-
-Cole stopped.
-
-"The driver was neutralized before he could talk," Taylor said. "That's
-confirmed. What I need to know is whether Nova has connected the exchange to
-anything operational. He's been watching me. I want to know what he knows."
-
-Cole stood in the dark between two containers and did not breathe.
-
-iRIS responded — he could not make out the words, just the register of it, low
-and close and calibrated specifically to the alcove's acoustics, pitched so it
-would not carry.
-
-"Run continuous behavioral assessment," Taylor said. "Flag any change in how he
-addresses me. Any change in routine. I need to know immediately."
-
-Cole waited.
-
-Footsteps. The alcove door. Then nothing.
-
-He stood there for another thirty seconds. Then he put the last seal back where
-he'd found it and walked back to the bridge at the same pace he'd arrived.
+He finished the check and walked back to the bridge at the same pace he'd
+arrived.
 
 ---
 
@@ -260,7 +235,49 @@ She looked up.
 
 She held his eyes for a moment. "I won't."
 
-He went back to the bridge. The ship ran on. Bitboy was asleep in the crew chair
-with two arms tucked under his head and two arms hanging loose, and the
-indicator on his chest panel cycled green, and the hum of the engines was the
-only thing between them and the rest of the dark.
+---
+
+Three hours later, Sam found him at the nav console.
+
+She had the device in one hand and a data pad in the other. She set the pad
+in front of him without preamble.
+
+"Taylor's iRIS query log," she said. "The system records every input
+interaction — requests, directives, behavioral flags. You get his side. Not
+iRIS's responses." She paused. "His side is enough."
+
+Cole looked at the pad. The timestamps were mission-accurate.
+
+Day two. First entry.
+
+*Run continuous behavioral assessment on Nova. Flag any change in his
+communication patterns, his interaction frequency with crew. If his behavior
+toward me shifts in any way, I need to know immediately. Report daily.*
+
+Second entry.
+
+*Road incident pre-departure — I need the contractor confirmed neutralized
+before any outside contact was made. Confirm this.*
+
+Third entry.
+
+*Cargo situation. What does he currently know about the bay? I need his
+awareness level before we reach Saturn. I can't move until I know what he
+knows.*
+
+Cole set the pad down. He looked at the porthole. The dark outside held its
+position.
+
+"How long have you had this?" he said.
+
+"Day three I had the behavioral flags. The road query came through this
+morning." She held his eyes. "There's more. I can walk you through all of it."
+
+"Show me all of it," he said.
+
+She sat down.
+
+The ship ran on. Bitboy was asleep in the crew chair with two arms tucked
+under his head and two arms hanging loose, and the indicator on his chest
+panel cycled green, and the hum of the engines was the only thing between
+them and the rest of the dark.

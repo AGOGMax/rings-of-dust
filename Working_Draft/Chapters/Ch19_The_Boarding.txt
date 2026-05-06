@@ -102,7 +102,7 @@ thinking.
 
 He thought it instead. She heard it.
 
-Alpha Corp, Gracie said.
+Alpha, Gracie said.
 
 "Can you tell me who's aboard."
 
@@ -122,7 +122,7 @@ doesn't match anything in the official registry.
 
 Cole said nothing.
 
-"Alpha Corp custom spec," Sam said, quietly.
+"Alpha custom spec," Sam said, quietly.
 
 "Yeah." Cole looked at the approach vector. "They're going to ask to dock."
 
@@ -306,7 +306,7 @@ He understood, very slowly, what she was saying.
 
 "She built it to fail. She built it with a key."
 
-"Conrad built the original. Alpha Corp built the modification on top of it. But
+"Conrad built the original. Alpha built the modification on top of it. But
 the foundation is Gracie's foundation, and I know the foundation. The
 counter-program needs to reach her bloodstream. Direct contact. Mucous membrane
 or open wound, enough concentration."
@@ -549,7 +549,7 @@ for a very long time."
 ---
 
 The two crew members of FED-MRS-0409 did not wait. By the time Cole had gotten
-Sharon to the medical bay and Sam had run the first assessment, the Alpha Corp
+Sharon to the medical bay and Sam had run the first assessment, the Alpha
 vessel had disengaged from the docking collar and begun its departure on a
 course that did not require communication. Gracie tracked it until it left
 scanner range.

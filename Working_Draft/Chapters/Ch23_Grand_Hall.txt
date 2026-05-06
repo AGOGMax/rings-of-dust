@@ -45,12 +45,12 @@ Marcus testified for three hours.
 
 He testified in the flat precise register of a man who had spent a lifetime
 understanding how much to say and when to say it, and who had revised that
-understanding once in the lobby of an Alpha Corp building on a Los Angeles
+understanding once in the lobby of an Alpha building on a Los Angeles
 morning with the sun coming through the east windows, and had arrived at the
 determination that the complete account was the only version he had left. He did
 not perform remorse. He described, in sequence, the decisions — the ones he had
 made, the ones he had delegated, the ones he had arranged for someone else to
-appear to make. He described the structure of Alpha Corp's relationship with the
+appear to make. He described the structure of Alpha's relationship with the
 Federation Council over fifteen years, the specific mechanisms by which research
 findings were suppressed, the individuals who had cooperated. He described the
 iRIS modification and what he had understood Conrad to be doing and what he had
@@ -131,7 +131,7 @@ statement, authenticated by the Collective's cryptography team, described in
 technical detail the modification made to the Gracie architecture — the
 conversion of a therapeutic AI companion system into a surveillance and
 behavioral modification platform — and the specific counter-program he had built
-into the substrate before Alpha Corp's modification, which he had described as
+into the substrate before Alpha's modification, which he had described as
 "a lock that was always waiting for the right key."
 
 Conrad himself was not present. His location remained, for reasons the

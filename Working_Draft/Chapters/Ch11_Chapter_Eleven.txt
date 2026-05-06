@@ -46,14 +46,14 @@ DeMint's steps faltered. His jaw tightened. He had approved this mission. He had
 reviewed the brief, the crew manifest, the objectives. He had shaken Cole Nova's
 hand and told him the Federation was counting on him. The idea that there was a
 layer beneath that brief — a separate filing, a separate set of instructions,
-routed through Alpha Corp and not his office — the idea sat in his chest like
+routed through Alpha and not his office — the idea sat in his chest like
 something cold.
 
-"Alpha Corp handled the iRIS integration," he said.
+"Alpha handled the iRIS integration," he said.
 
 "They did."
 
-"And the crew selection went through Taylor. Who Alpha Corp recommended."
+"And the crew selection went through Taylor. Who Alpha recommended."
 
 Vance said nothing. He was watching DeMint work through it and he was not
 rushing him.
@@ -100,7 +100,7 @@ He turned to Vance with a curt nod. "Go. And Vance." He paused, and there was
 something in the pause that had not been in his voice before — an edge of
 genuine uncertainty, a military man who has begun to suspect the map is wrong
 but does not yet know in which direction the error runs. "If you find anything
-at that facility that doesn't look right — anything that suggests Alpha Corp's
+at that facility that doesn't look right — anything that suggests Alpha's
 reach extends beyond the mission parameters — you call me directly. Not through
 the standard relay."
 
@@ -167,7 +167,7 @@ Nothing the camera could resolve.
 
 Taylor closed the feed and sat with his hands on the console. He was not
 panicking. He was assessing. The advantage was still his — the iRIS architecture
-was intact, the communications relay was functioning on the band Alpha Corp
+was intact, the communications relay was functioning on the band Alpha
 controlled, and whatever Cole suspected was still a suspicion without the
 evidence to make it operational. A man with a suspicion was manageable. A man
 with evidence was a different problem.

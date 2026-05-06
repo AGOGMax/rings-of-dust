@@ -45,7 +45,7 @@ There wasn't anything more. This was a protocol. Max understood protocols.
 
 ---
 
-Alpha Corp Panama occupied a forty-story tower on the eastern edge of the Casco
+Alpha Panama occupied a forty-story tower on the eastern edge of the Casco
 district, where the old colonial architecture stopped and the twenty-first
 century asserted itself in glass and exposed steel. The building's ground floor
 lobby was the size of a small airport terminal, and it had been designed to
@@ -151,7 +151,7 @@ Max turned to the terminal and began to read.
 
 The proprietary stabilization process was not what he had imagined.
 
-He had imagined it the way everyone outside Alpha Corp imagined it: some closely
+He had imagined it the way everyone outside Alpha imagined it: some closely
 held technical innovation, years of refinement, a process that would require
 significant reverse-engineering to reproduce. He had assumed the secrecy meant
 complexity. He had assumed that walls of that height protected something
@@ -171,7 +171,7 @@ this way ten thousand times in a row.
 
 Max worked through this understanding methodically. It did not make him angry.
 He noted it the way he noted anything: as a data point. The data point was this:
-Alpha Corp's hold on the DarkX market was not a product of superior science. It
+Alpha's hold on the DarkX market was not a product of superior science. It
 was a product of superior lawyers. They had acquired, at the right moment, the
 patents that covered the obvious implementation paths. They had signed the right
 supply agreements. They had structured the right exclusivity contracts with the
@@ -198,7 +198,7 @@ the dataset. He filtered for it.
 Three hundred and twelve entries in an eighteen-month window.
 
 Each entry recorded a quantity of crystallized DarkX product, a timestamp, and a
-status code. The status codes were internal Alpha Corp nomenclature he didn't
+status code. The status codes were internal Alpha nomenclature he didn't
 immediately know, but they were consistent, which meant they were systematic,
 which meant he could decode them from context. He spent forty minutes doing
 this. When he had the schema, he read the entries again.
@@ -208,14 +208,14 @@ rejection. The quantities attached to it were not anomalously small or large.
 They tracked, with a consistency that was striking in its precision, at roughly
 eleven to thirteen percent of each batch's usable yield.
 
-Alpha Corp was destroying product.
+Alpha was destroying product.
 
 Not spoilage. Not error. Consistent, scheduled, deliberate destruction of viable
 DarkX crystals representing eleven to thirteen percent of everything this
 facility produced.
 
 Max sat with this for thirty seconds. He thought about the supply charts he had
-memorized in the weeks since leaving Alpha Corp. Global DarkX supply had run at
+memorized in the weeks since leaving Alpha. Global DarkX supply had run at
 approximately four to eight percent below projected demand for eleven
 consecutive years. The energy crisis was, in the language of economists, a
 demand-side problem: there was not enough supply to meet demand at any
@@ -304,7 +304,7 @@ disappeared from view. The door opened. He walked through and descended two
 flights of stairs into a service level that smelled of refrigerant and insulated
 cable.
 
-The loading bay exit was at the west end. A man in a gray Alpha Corp uniform was
+The loading bay exit was at the west end. A man in a gray Alpha uniform was
 moving a pallet loader toward the freight elevator, his back to the door. Max
 walked past him at a consistent pace, badge in hand though there was no reader
 on this door, and pushed through the bay door into the late afternoon.
@@ -365,7 +365,7 @@ That was the design. Not malice toward Oren, specifically. Just the ordinary
 architecture of a machine that works better when its parts don't know what the
 other parts are doing.
 
-Max thought about the junior researcher at Alpha Corp who had first noticed that
+Max thought about the junior researcher at Alpha who had first noticed that
 a certain class of feedstock was yielding anomalous results. He thought about
 the report that researcher had almost certainly written. He thought about where
 that report had gone and who had read it and what decision had been made about

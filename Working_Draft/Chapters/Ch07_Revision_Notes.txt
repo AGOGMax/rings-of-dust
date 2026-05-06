@@ -68,7 +68,7 @@ her bag lining. KEEP THIS. It's clean and doesn't draw attention.
 
 ADD: A beat — brief, easily missed — where Sam is secretly sending a
 transmission. Mirror structure: Taylor is checking his SmartCom for
-incoming messages from Alpha Corp (~line 160). Sam should have her own
+incoming messages from Alpha (~line 160). Sam should have her own
 version of this. The reader who catches both gets the full picture:
 two crew members with outside allegiances, neither knowing about the other.
 
@@ -256,14 +256,14 @@ PLANT FROM HERE:
      Give them texture now so they mean something when they return.
 
   b) Sam's secret comms — she is transmitting to the Collective from
-     inside the Golden Dawn. This mirrors Taylor transmitting to Alpha Corp.
+     inside the Golden Dawn. This mirrors Taylor transmitting to Alpha.
      Both happen in the same chapter, neither knows about the other.
      The reader sees both. This is the dramatic irony that runs the
      entire mission arc.
 
 STRUCTURAL NOTE: Two plants to add near the end of Ch7:
   1. Taylor checking his SmartCom (already there, line ~160) —
-     this is his Alpha Corp check-in. Needs one beat more specificity:
+     this is his Alpha check-in. Needs one beat more specificity:
      he's not just checking vibration mode, he's confirming receipt
      of a message he was expecting.
   2. Sam — a parallel beat. She slips away for 90 seconds. Or she
