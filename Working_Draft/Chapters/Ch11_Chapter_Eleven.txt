@@ -191,8 +191,8 @@ hundred and sixty-two percent."
 "Cross-reference: any change in Nova's communication frequency with crew members
 following the cargo bay visit."
 
-A half-second pause. "Interaction with Dr. Okafor increased thirty-one percent
-in the four-hour window following. Duration: eleven minutes. No SmartCom signal
+A half-second pause. "Interaction with Sam increased thirty-one percent in the
+four-hour window following. Duration: eleven minutes. No SmartCom signal
 detected during the interaction."
 
 Taylor looked at the corridor feed. Cole's route from the cargo bay to the
@@ -208,7 +208,7 @@ Nothing the camera could resolve.
 He pulled the acoustic log for the same window.
 
 "iRIS. Acoustic record. Maintenance alcove, forward section. Eleven-minute
-window. Dr. Okafor's interaction."
+window. Sam's interaction."
 
 iRIS played it back.
 
