@@ -715,3 +715,272 @@ Nevadas holding a beer.
 CONTEXT AFTER:
 "Hold your damn horses," Sharon said. "Some of us give our bodies love
 from time to time."
+
+
+REVISION 13
+Chapter 7 — Crew Quarters
+Sam's duffel patch updated: fist-in-circle → sunglasses (Special Agent)
+
+What this changed: The existing patch in Sam's duffel lining — "black
+background, white stencil of a fist inside a circle" — was updated to the
+Collective Special Agent insignia: a pair of sunglasses.
+
+CONTEXT BEFORE:
+Sam watched him claim the top bunk and said nothing. She unzipped her duffel
+and set her gear on the lower bunk with the unhurried calm of someone who had
+long ago stopped competing for things she didn't want.
+
+NEW PROSE:
+Tucked between her rolled socks and a backup hard drive was a weathered
+patch — black background, white stencil of a pair of sunglasses — that she'd
+sewn onto the inside lining of her bag where no inspection would find it.
+She pressed it flat with one thumb before closing the duffel.
+
+CONTEXT AFTER:
+Taylor unpacked with the efficient, deliberate movements of a man who had
+done this in identical rooms for twenty years.
+
+
+REVISION 14
+Chapter 16 — Behind the Curtain
+Red's sunglasses emblem (Agent insignia planted in safe house scene)
+
+What this added: Max notices a small embroidered patch — dark thread on dark
+fabric, a pair of sunglasses — on the inside band of Red's jacket collar
+during the Marbella safe house briefing.
+
+CONTEXT BEFORE:
+Red was at the window, watching the street below. The safe house was a two-room
+flat above a laundry operation in the Marbella district, which was the kind of
+neighborhood that was neither nice enough to attract attention nor rough enough
+to generate it. Laundry was going below. Max could hear the drums through the
+floor.
+
+NEW PROSE:
+He noticed, without quite knowing why, that the inside band of Red's jacket
+collar carried a small embroidered patch — dark thread on dark fabric, a pair
+of sunglasses rendered in outline, almost invisible unless the light caught it
+a certain way.
+
+CONTEXT AFTER:
+"Your specialization is fuel-cell stabilization engineering," Red said without
+turning around.
+
+
+REVISION 15
+Chapter 16 — Behind the Curtain
+Squirrel's sunglasses emblem (Agent insignia planted in Barcelona café)
+
+What this added: At the café extraction, when Squirrel pockets the drive and
+his jacket falls closed, Max catches a brief glimpse of the same emblem he
+saw in the safe house — a pair of sunglasses stitched in dark thread.
+
+CONTEXT BEFORE:
+Max put the drive on the table between them, face down, the way you set down
+something that has weight.
+
+NEW PROSE:
+Squirrel's hand moved over it without a gesture. It was in his jacket before
+anyone at the adjacent tables would have had reason to notice an exchange. Max
+caught a brief glimpse of the jacket's inner lining as it fell closed — the
+same small embroidered outline he'd first noticed in the safe house, a pair of
+sunglasses in dark thread, sewn flat against the fabric.
+
+CONTEXT AFTER:
+"What's on it," Red said. She was still watching the street.
+
+
+REVISION 16
+Chapter 21 — Max's Cargo
+Squirrel's sunglasses emblem (second plant, Barcelona park)
+
+What this added: When Squirrel sets down the newspaper in the park before
+"Not you. Mikof Forsinko. Who doesn't exist." — the lining of his jacket
+shifts and Max notices the emblem again, for the third time now.
+
+CONTEXT BEFORE:
+"Did you get it?" Squirrel said. He said it to the newspaper.
+
+NEW PROSE:
+Squirrel set the newspaper on the bench. The lining of his jacket shifted as
+he moved, and Max caught what he'd caught in Marbella and twice in Panama and
+did not mention — the embroidered outline stitched against the inner fabric,
+dark on dark, a pair of sunglasses barely visible in the crease.
+
+CONTEXT AFTER:
+"Not you," he said. "Mikof Forsinko. Who doesn't exist."
+
+
+REVISION 17
+Chapter 22 — The Black Site
+Orin's wrench emblem (Technician insignia, canvas jacket)
+
+What this added: In Emily's interior reflection on the people who chose to
+build a different thing, Orin's canvas jacket now carries a small wrench
+emblem stitched above the left breast pocket.
+
+CONTEXT BEFORE:
+She thought about Max in a park next to a fountain with a concrete heron.
+
+NEW PROSE:
+About Orin in a canvas jacket that had seen more use than a jacket that age
+should show — a small wrench emblem stitched in dark thread above the left
+breast pocket, nearly invisible unless you knew to look.
+
+CONTEXT AFTER:
+She thought about all the people who had been choosing, one at a time, to
+build a different thing.
+
+
+REVISION 18
+Chapter 25 — The Bowling Alley
+Sam's compass patch: 2nd Navigator promotion
+
+What this added: In the Cosmic Lanes parking lot, after Ricardo picks up
+Sam's jacket during the Bitboy evacuation, Sam puts it on and finds a small
+folded cloth in the pocket — a compass face, needle pointing north, stitched
+in dark thread on black. She closes her fist around it. She will explain it
+to Ricardo later.
+
+CONTEXT BEFORE:
+Sam was laughing. She had been laughing since the vending machine sound. She
+was leaning against Ricardo with the ring on her finger and the jacket over
+her shoulders and the look of a woman who had been told who she was signing
+up for and had decided yes, all of this, yes.
+
+NEW PROSE:
+She put her hand in the jacket pocket.
+
+Her fingers found a small square of folded cloth. She opened it. She already
+knew what it was before she saw it — a compass face, the needle pointing north,
+stitched in dark thread on a black background. She held it in her closed fist.
+
+Ricardo said something. She laughed and held the ring up to the California sky
+and let him have the moment, and she did not explain the thing in her other
+hand. She would explain it to him later, when she could find the words for what
+it meant that someone, somewhere, had been watching closely enough to know
+she'd earned it.
+
+CONTEXT AFTER:
+Sam was looking at her bowling ball.
+
+
+REVISION 19
+Chapter 13 — Pier 9
+Rachel Keyser Söze moment 2: acoustic positioning (planting texture)
+
+What this added: A single sentence noting Rachel's position on the railing
+— not the scenic end, but the acoustic center where the wind eats ambient
+sound. Plants the suggestion that Rachel has used this spot many times with
+intention, before she confirms "I've been using it for two years."
+
+CONTEXT BEFORE:
+Rachel was already there, leaning against the pier railing with the
+particular stillness of someone accustomed to waiting in visible spaces
+without being noticed.
+
+NEW PROSE:
+She had positioned herself at the exact midpoint of the railing — not at the
+end where the view was best, but at the precise acoustic center where the
+wind off the water ate ambient sound.
+
+CONTEXT AFTER:
+"You kicked a hornet's nest," Rachel said. "A big one."
+
+
+REVISION 20
+Chapter 13 — Pier 9
+Rachel Keyser Söze moment 3: Sharon's file (planting texture)
+
+What this added: A brief beat before Rachel recites Sharon's complete file
+— Emily registers that Rachel already knew the name before Emily said it.
+
+CONTEXT BEFORE:
+"Her name was Sharon."
+
+NEW PROSE:
+Rachel did not shift or soften. She had heard the name before Emily said it —
+Emily could feel that, the way you can feel when someone already knows the
+answer to the question you're asking.
+
+CONTEXT AFTER:
+"I know her name." Rachel said it with a directness that was not unkind.
+"Sharon Teez. Collective-adjacent since the patent wars."
+
+
+REVISION 21
+Chapter 13 — Pier 9
+Rachel Keyser Söze moment 5: parking garage (planting texture)
+
+What this added: Before "Based on what I saw in that parking garage" — Emily
+has a sudden, cold awareness of a car at the garage exit she hadn't registered
+while running. She registers it now.
+
+CONTEXT BEFORE:
+"Something will go wrong," Rachel said. "That's not the question. The question
+is whether you're the kind of person who keeps going when it does."
+
+NEW PROSE:
+Emily had a sudden, cold awareness: there had been a car parked at the garage
+exit she had not registered at the time. She had been running. She had not had
+the attention to spare. She had not registered it.
+
+She registered it now.
+
+CONTEXT AFTER:
+"Based on what I saw in that parking garage, I think you already know the
+answer to that."
+
+
+REVISION 22
+Chapter 22 — The Black Site
+Rachel Keyser Söze moment 4: Marcus's conclusion (planting texture)
+
+What this added: After "I should have seen that sooner" — a brief beat noting
+that Marcus said it the way a person states a conclusion they arrived at
+privately, not a concession made in real time. He had been there for a while.
+
+CONTEXT BEFORE:
+"Of course she will." He looked at Emily. "That's what Rachel does. That's
+what I always did."
+
+NEW PROSE:
+He said it the way a person says something they have already arrived at
+privately — not the sound of a concession being made in real time, but the
+sound of a conclusion being stated aloud for the first time. He had been
+there for a while.
+
+CONTEXT AFTER:
+Emily thought about the pier. The water, the dead signal, the late afternoon
+light.
+
+
+REVISION 23
+Chapter 23 — Grand Hall
+Rachel Keyser Söze: announcement removed
+
+What this changed: Removed the explicit Grand Admiral title declaration from
+Rachel's statement at the hearing ("I am the Grand Admiral of the Collective").
+Rachel now stands and says only her name. The room understands. DeMint's
+recognition carries the weight. Cole's POV updated to match: he watches the
+room understand, not the title being said.
+
+CONTEXT BEFORE:
+DeMint looked at her.
+
+OLD LINE (removed):
+"My name is Rachel Vayes. I am the Grand Admiral of the Collective."
+
+NEW PROSE:
+"My name is Rachel Vayes."
+
+DeMint said nothing. He had the look of a man who had arrived at an answer and
+was now simply waiting to see how long it would take for the question to catch
+up.
+
+The room did not erupt. It went very quiet in a very specific way, the way a
+room goes quiet when the thing that everyone already suspected is confirmed
+without being stated.
+
+CONTEXT AFTER:
+"I have been operating in this capacity for eleven years."
