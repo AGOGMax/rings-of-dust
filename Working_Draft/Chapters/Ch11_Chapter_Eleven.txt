@@ -118,6 +118,46 @@ the machine. Then he straightened his collar and went to get his car.
 
 ---
 
+On the Meridian — operating under a commercial mineral survey designation at a
+position two hundred thousand kilometers inside the Jupiter approach band — the
+communications officer had been running the filtered signal sweep for six hours.
+
+The sweep was a method she had developed herself: a pattern of rotational
+frequency shifts that moved through the Alpha-controlled relay bands the way a
+hand moves through tall grass. Not avoiding the structure. Using it. The gaps
+between transmissions more informative than the transmissions themselves.
+
+What she found at 04:23 ship time was consistent with what she had expected.
+
+The Golden Dawn's primary relay was silent in the direction of Earth. The
+approach band had a degradation window at this vector. Taylor — she knew the
+comms architecture, and she knew who was running it — would not waste Alpha's
+transmission budget on open channels.
+
+The Alpha management relay, however, was active. Brief, encrypted, routed
+through three nodes. She had the first two nodes and not the third. She logged
+the transmission time and moved on.
+
+She composed her own report. Seven sentences. Coded in the Collective's rotating
+structure, which meant that without the current key, the message looked like a
+routine mineral survey update — the kind of thing that moved through the relay
+band a hundred times a day without anyone checking. She routed it through two of
+the same Federation nodes Alpha was using.
+
+The report said, in the structure that was not a mineral survey:
+
+*Sharon Teez — Collective-adjacent, confirmed. Killed in transit. The loss is
+real. Grieve it.*
+
+*Emily Nova — untrained, currently mobile, moving toward Houston under
+Federation radar. Probability of completion: uncertain. She has been
+underestimated by everyone who has assessed her. This is the operational
+advantage. Hold it.*
+
+She filed the survey report and went back to the sweep.
+
+---
+
 And far away, on the Golden Dawn, Officer Taylor sat at his post in the hour
 after the ship's night cycle began and the crew had dispersed to their quarters.
 The screens blinked back at him, steady and green, the diagnostics returning
