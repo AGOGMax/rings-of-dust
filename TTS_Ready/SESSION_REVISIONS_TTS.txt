@@ -380,3 +380,338 @@ of him and described, with the precision of a man who had been refining this
 explanation in his head for two years, the flywheel principle, its
 implications for the current energy crisis, and what Disposal Protocol Seven
 represented in terms of the calculated management of its solution.
+
+
+REVISION 6
+Chapter 12 — Chapter Twelve
+Ricardo/Sam reactor bay: jammer reveal + flirtation
+
+What this replaced: Ricardo's line "I'd finish it anyway." and a plain
+exit from Sam. Scene now has Sam revealing the jammer to Ricardo before
+they discuss the mission, followed by the flirtation exchange.
+
+CONTEXT BEFORE:
+Ricardo frowned. The question had lived in the back of his head for a while
+and he had managed not to look at it directly. "You think we've been lied to."
+
+"I think we've been given a specific portion of the truth. Which is different
+from a lie. But it produces similar navigational problems." She looked at her
+hands. "What would you do, if the mission turned out to be something other
+than what we signed on for?"
+
+NEW PROSE:
+Sam reached into her pocket. The matte-gray device came out small and flat in
+her hand. She pressed the lower-left corner. A single red pulse — then steady.
+
+"iRIS can't hear us," she said. She looked at Ricardo. "That's the other thing
+it does."
+
+Ricardo looked at the device. He looked at her.
+
+"How long have you—"
+
+"A while." She set it on the floor between them, indicator facing up. "I'll
+explain more when there's time. Right now I want to know what you'd do."
+
+Ricardo considered it, genuinely, without deflection. He sat down across from
+her. "Make sure everyone gets home," he said. "The objective, the brief — I
+don't care what those turn out to be. That's what I signed on for." He paused.
+He looked at her. "That includes you. By the way."
+
+Sam looked at him. The look had precision to it — not surprised, registering.
+The kind of look you give something you've been waiting to confirm.
+
+"I know," she said.
+
+He held the look a beat longer than the sentence required.
+
+"Good."
+
+CONTEXT AFTER:
+They sat with that for a moment.
+
+"Cole's not here," Ricardo said.
+
+"No."
+
+
+REVISION 7
+Chapter 12 — Chapter Twelve
+Sam finds Cole: jammer reveal + Cole's realization of active sabotage
+
+What this added: Sam activates the jammer before telling Cole about Sharon,
+establishing iRIS as the active sabotage mechanism. Cole realizes with three
+words: "It's not a malfunction."
+
+CONTEXT BEFORE:
+Cole was in the forward crew quarters standing at the narrow porthole with
+his back to the room when Sam knocked on the frame.
+
+He didn't turn around. "Come in."
+
+NEW PROSE:
+She closed the door behind her. She took the device from her pocket and
+pressed the lower-left corner. The indicator pulsed once and held steady.
+
+"iRIS can't hear this room," she said. She set it on the shelf beside her,
+face-up. "I wanted you to know that."
+
+Cole's hands did not move from the porthole frame. He looked out at the
+black.
+
+"It's not a malfunction," he said. It was not a question.
+
+"No," Sam said. "It's not."
+
+She looked at his back.
+
+"I picked up a message about an hour ago. From the same routing I can't
+fully trace yet. But the content was—" She stopped. She started again,
+differently. "It was about Sharon."
+
+CONTEXT AFTER:
+Cole's hands on the porthole frame went very still.
+
+"She was killed four days ago," Sam said.
+
+
+REVISION 8
+Chapter 12 — Chapter Twelve
+Cole confronts Taylor: internal grief-lock mechanism
+
+What this added: Cole's internal calculation when he enters the bridge
+(distance, four-seconds-to-cross arithmetic, the list from his father's
+death) and the near-lunge moment when Taylor says "Sharon was carrying
+information."
+
+CONTEXT BEFORE:
+"Captain." He said it without looking. The word landed like a test.
+
+NEW PROSE (first addition — between "close enough to be clear" and
+"I have a question"):
+He was aware, with precision, of the distance between himself and Taylor. Of
+the console between them. Of how long it would take to cross it. His body
+had already filed its assessment without being asked, and he noted it the
+way he noted a calculation — not because he intended to act on it, but
+because he needed to know what it was saying.
+
+He had learned, when his father died — the slow specific kind of death that
+teaches you more about grief than you ever wanted to know — that the first
+hours of it could arrive wearing the texture of rage. The two were almost
+indistinguishable if you weren't paying attention. He had learned to pay
+attention. To build the list. First: what do I know. Second: what do I need.
+Third: in what order. The list was the lock. The lock was what kept the door
+closed.
+
+He had a list. He was building it.
+
+NEW PROSE (second addition — after "Sharon was carrying information."):
+Something moved through Cole that was faster than thought. He felt his weight
+shift onto his front foot. He felt the distance across the console compress,
+in his body's own arithmetic, into something achievable.
+
+He did not move.
+
+He pressed it back — the same way he had pressed it back in the weeks after
+his father died, when the grief kept arriving in the wrong shape and wearing
+the wrong face, and you had to put it somewhere it couldn't reach the rest of
+you. Into the compartment. Close the door. The list. What do I know. What do
+I need. In what order. He held the list in front of it like a wall.
+
+CONTEXT AFTER:
+"That's not an answer."
+
+"It's the truest thing I can say to you right now."
+
+
+REVISION 9
+Chapter 12 — Chapter Twelve
+Emily's "are you alright?" — the antithesis of alright
+
+What this replaced: A brief interior beat. Now a full flash-through of
+Emily's actual state: Sharon dead, Cole unreachable, alone in the specific
+way that isn't solitude.
+
+CONTEXT BEFORE:
+"Are you all right, Ms. Nova?"
+
+NEW PROSE:
+Emily looked out the window. The yellow lines kept coming. The dark kept
+holding its position on either side.
+
+She thought about the parking garage stairwell. The look on Sharon's face
+when she had said go — the specific economy of it, the way it meant every
+version of go at once. She thought about the sound she had not been able to
+un-hear in the hours since. She thought about her brother somewhere past
+Saturn's rings, out of reach, carrying a mission that someone had designed
+to detonate, and she was the only person moving toward him from this side
+and she was in the back of a taxi she had paid for with a traceable card and
+she had been awake for thirty-one hours and she had said the wrong thing in
+Marcus's office and she did not know yet what it had cost.
+
+She thought about what the question actually was. Not protocol. The voice
+had shifted — the particular register of someone who had heard something in
+Emily's voice that Emily had not put there on purpose. Something that had
+come through in the gaps of being awake too long and too alone.
+
+Are you all right.
+
+She was not. Nothing was. Sharon was dead and Cole didn't know it yet and
+Marcus knew which direction she was running and she was alone in the specific
+way that is not solitude — not quiet, not private, but the kind of alone that
+arrives when you run out of people to call and the ones you had are gone or
+unreachable or both.
+
+She thought about what she had said to Marcus in his office — the thing she
+had said without thinking, the thing she had known the moment it left her
+mouth was a mistake. Cole's heart is gonna break when he hears about Sharon.
+
+CONTEXT AFTER:
+"I don't know yet," she said.
+
+The line closed.
+
+
+REVISION 10
+Chapter 11 — Chapter Eleven
+Taylor queries iRIS for Cole/Sam audio — rain and thunder
+
+What this added: After viewing the alcove camera feed, Taylor pulls the
+acoustic log of the Cole/Sam interaction. The jammer has filled it with
+rain and thunder. Taylor realizes he is dealing with a professional.
+
+CONTEXT BEFORE:
+He pulled the alcove camera feed. Standard resolution, partial occlusion
+from the ventilation housing — Sam at the diagnostic panel, Cole at the
+threshold. Body language. Nothing transferred between them that the camera
+could resolve.
+
+Nothing the camera could resolve.
+
+NEW PROSE:
+He pulled the acoustic log for the same window.
+
+"iRIS. Acoustic record. Maintenance alcove, forward section. Eleven-minute
+window. Dr. Okafor's interaction."
+
+iRIS played it back.
+
+What came back was rain.
+
+The sound of it was specific and complete — not static, not compression
+artifacts, not the digital smear of a corrupted file. Rain. The kind that
+arrives in sheets and fills a room with its own frequency. And beneath it,
+low and certain, something that might have been thunder.
+
+Taylor sat very still.
+
+"iRIS. Confirm log source."
+
+"Maintenance alcove acoustic sensor feed. Forward section. Log
+authenticated."
+
+He looked at the screen. The timestamp matched the camera footage. The log
+was legitimate. What was in it was not alcove ambient.
+
+The device did not jam the audio. It replaced it — filled eleven minutes of
+recording with something that would read, on a first pass, as interference.
+Not active suppression. Designed to look like a corrupted file. Designed to
+not trigger an anomaly flag.
+
+CONTEXT AFTER:
+Taylor closed the feed and sat with his hands on the console. He was not
+panicking. He was assessing. The iRIS architecture was intact. The
+communications relay was functioning on the band Alpha controlled. But the
+man with a suspicion now had a professional running interference for him.
+
+A man with a suspicion was manageable. A man with a professional was a
+different problem.
+
+
+REVISION 11
+Chapter 11 — Chapter Eleven
+Collective ship (Meridian) coded commentary
+
+What this added: Between the DeMint/Vance section and the Taylor section,
+a new POV: the Collective support vessel Meridian. Grief for Sharon.
+Hope for Emily as underdog. Both Alpha and Collective ships filling the
+communication gap the Federation can't close.
+
+CONTEXT BEFORE:
+Then he straightened his collar and went to get his car.
+
+NEW PROSE:
+On the Meridian — operating under a commercial mineral survey designation at
+a position two hundred thousand kilometers inside the Jupiter approach band
+— the communications officer had been running the filtered signal sweep for
+six hours.
+
+The sweep was a method she had developed herself: a pattern of rotational
+frequency shifts that moved through the Alpha-controlled relay bands the way
+a hand moves through tall grass. Not avoiding the structure. Using it. The
+gaps between transmissions more informative than the transmissions
+themselves.
+
+What she found at 04:23 ship time was consistent with what she had expected.
+
+The Golden Dawn's primary relay was silent in the direction of Earth. The
+approach band had a degradation window at this vector. Taylor — she knew the
+comms architecture, and she knew who was running it — would not waste
+Alpha's transmission budget on open channels.
+
+The Alpha management relay, however, was active. Brief, encrypted, routed
+through three nodes. She had the first two nodes and not the third. She
+logged the transmission time and moved on.
+
+She composed her own report. Seven sentences. Coded in the Collective's
+rotating structure, which meant that without the current key, the message
+looked like a routine mineral survey update. She routed it through two of
+the same Federation nodes Alpha was using.
+
+The report said, in the structure that was not a mineral survey:
+
+Sharon Teez — Collective-adjacent, confirmed. Killed in transit. The loss
+is real. Grieve it.
+
+Emily Nova — untrained, currently mobile, moving toward Houston under
+Federation radar. Probability of completion: uncertain. She has been
+underestimated by everyone who has assessed her. This is the operational
+advantage. Hold it.
+
+She filed the survey report and went back to the sweep.
+
+CONTEXT AFTER:
+And far away, on the Golden Dawn, Officer Taylor sat at his post in the hour
+after the ship's night cycle began...
+
+
+REVISION 12
+Chapter 4 — Chapter Four
+Sharon/Cole meet-cute (port authority recognition flash)
+
+What this added: When Sharon steps out of the van at Cole's cabin, a
+brief memory flash of their first encounter — Port Authority Fourteen,
+a manifest dispute, a look she'd been thinking about for four years.
+
+CONTEXT BEFORE:
+He watched Sharon and sent an effortlessly booming whistle through the
+quiet valley around them.
+
+NEW PROSE:
+Sharon stepped out of the van and stretched and looked up at the porch
+and had, for approximately two seconds, the particular sensation of a
+memory reassembling itself from the parts she'd filed in the wrong
+drawer. A transit bay at Port Authority Fourteen. A manifest dispute that
+was not his problem. A port official who had been publicly wrong, and a
+man who could not help making that his problem anyway — had walked forty
+feet out of his way, involved a stranger, cited the exact weight
+classification code from memory, and then looked at her with an expression
+that was not gratitude and not satisfaction but something quieter and more
+specific. The look of a person who had been right about something and
+wanted nothing from it. She had been thinking about that look, off and on,
+for four years. She had not expected it to be on a porch in the Sierra
+Nevadas holding a beer.
+
+CONTEXT AFTER:
+"Hold your damn horses," Sharon said. "Some of us give our bodies love
+from time to time."
