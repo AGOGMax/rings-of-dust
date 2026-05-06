@@ -1,0 +1,382 @@
+RINGS OF DUST
+Session Revisions — Major New Prose
+
+This file documents all significant new or rewritten prose from this revision
+session, with the lines immediately before and after each section for context.
+Replace this file at the start of each new major revision session.
+
+
+REVISION 1
+Chapter 15 — Surprise, Arizona
+Rachel's phone call (Pilar replaces Vance Black)
+
+What this replaced: A scene in which Rachel called to say that Vance Black,
+a Federation Operations officer, was already en route to Houston with a
+biometric case. Emily's role was to intercept that handoff. Vance was
+described as wearing a white polo and designer glasses.
+
+Why it changed: Vance Black is dead. He was shot by Marcus in Chapter 11.
+The scene was rebuilt around Pilar — a Collective plant inside Federation
+Systems, twelve-year employee, vault credentials, three years waiting.
+
+CONTEXT BEFORE:
+The road atlas was on the nightstand where she had left it. Sharon had kept
+one in the glove box of every car she had ever owned. Emily had bought this
+one at the Indio gas station. She had used it to plot last night's stretch.
+The pen marks she had made on the Texas page were already starting to feel
+like a conversation she needed to finish.
+
+The burner buzzed.
+
+She answered on the second ring.
+
+NEW PROSE:
+"It's in Houston." Rachel's voice was the same as the pier: below the wind,
+precise, no wasted syllables. "Conrad's prototype. Federation secure storage,
+sub-basement level, east wing of Space Command. It's been there for eight
+months."
+
+Emily sat on the edge of the bed.
+
+"We have someone inside," Rachel said. "Twelve-year Federation Systems
+employee. She's been positioned for this for three years — she has vault
+credentials, she knows the access protocol, she's been waiting for someone to
+hand it to." A pause. "Her name is Pilar. She'll walk you in, she'll open the
+vault, and she'll walk you out. What she can't do is seen carrying the
+device. That's your part."
+
+"What does my part actually involve."
+
+"A copier device, twenty seconds, a green light." Rachel's tone was level.
+"You place it on the prototype surface. You hold it. You remove it. The
+duplicate goes in your jacket. The prototype stays in the vault. Pilar locks
+the door and neither of you was there."
+
+Emily looked at the road atlas. Surprise, Arizona to Houston, Texas. She ran
+her thumb along the spine of the page.
+
+"That's eleven hundred miles."
+
+"Yes."
+
+"Rachel." She kept her voice even. "I'm not trained for this."
+
+There was a silence that was not unkind. "I know what you are and aren't.
+Pilar handles everything technical. What I need you to do is be present and
+mobile and not stop before you get there." Another pause. "You've been doing
+that part since the parking garage."
+
+The line clicked.
+
+Emily sat with the phone in her hand. Outside, a truck reversed in the
+parking lot, beeping. The light through the curtains was the flat gray of
+early dawn, not yet gold, the sky still deciding.
+
+She thought about the east entrance. Maintenance access. A woman named Pilar
+she had never met — twelve years inside the Federation, three years waiting
+for this exact moment. She thought about what she knew how to do.
+
+CONTEXT AFTER:
+She had never fired a gun. She had once driven a delivery van for Sharon
+through a rainstorm at four in the morning and gotten four cases of prohibited
+optical components from a dock warehouse to a client's garage without a
+single form on file. She had extracted herself from a parking garage in Los
+Angeles while the man who had had Sharon shot was still in the building. She
+had driven here from a gas station in the dark, alone, on three hours of
+sleep, on a road she'd never been on.
+
+None of that was training. All of it was experience.
+
+
+REVISION 2
+Chapter 16 — Behind the Curtain
+Long-cycle data discovery (EXTENDED_HORIZON_ANALYSIS)
+
+What this added: The flywheel principle — the full discovery of what happens
+to DarkX fuel cells past the eleven-day harvest window. New canon: 33 days
+is non-linear yield. 60 days is efficiency inversion. 180 days in zero
+gravity is exponential. This is Max's discovery, the one the Collective will
+call the antigravity project.
+
+CONTEXT BEFORE:
+The energy crisis, as a technical problem, had been solvable for at least a
+decade.
+
+Max read the sentence twice. He made a small mark in the margin. Kept reading.
+
+NEW PROSE:
+The long-cycle data was buried three directories deep under a project
+designation he did not recognize: EXTENDED_HORIZON_ANALYSIS. He found it
+because he was methodical and because the indexing structure had a gap between
+Q2 and Q4 that suggested Q3 had been archived rather than deleted — and
+archived data, in his experience, was where the things you weren't supposed
+to find actually lived.
+
+Inside were 47 cell-monitoring records from cells that had not been
+terminated at the eleven-day window. Some were accidents — containment
+failures, scheduling errors, batch records that had fallen through the log.
+Some were deliberate: an internal research project, nine months long, that
+had been run in a sealed sub-lab and then classified at a level that should
+have prevented its appearance in a pull-access terminal.
+
+Someone had made an indexing error. Or someone had wanted it findable. Max
+did not know which and did not have time to determine it.
+
+He read the yield curves.
+
+At thirty-three days, the output was non-linear. Not by a small margin. The
+cells that had been allowed to run past the harvest window were not depleting
+— they were amplifying. The dark matter crystalline structure, when left
+undisturbed in the nitrogen environment past the eleven-day threshold, did
+not plateau. It continued. The energy return per gram of feedstock at
+thirty-three days was roughly four times what the standard eleven-day harvest
+produced.
+
+At sixty days, the data showed something else. The efficiency curve inverted.
+The cell was producing more than the feedstock cost to run it. Not marginally.
+Not within rounding error. Substantially more.
+
+At the bottom of the file was a theoretical projection: 180 days in zero
+gravity. The calculation was careful and conservative and it arrived at a
+yield figure that Max read three times before he accepted that the zeros were
+not a typo.
+
+He sat with this for a moment.
+
+Alpha had known about this for at least nine months. They had run the data,
+understood what it meant, and classified it.
+
+He scrolled to the end of the file. The last entry was a single line, a
+recommendation from the lead researcher: Proceed to Saturn field test.
+Recommend full gravity-isolation protocol.
+
+The entry had no response logged. No approval. No denial. Just the
+recommendation, sitting there, with a timestamp from eleven months ago, never
+acted on.
+
+The anomaly records were easier to find once he knew what to look for.
+
+The batch logs used a status field he had initially skimmed past. When he
+filtered for it, he got one entry for approximately every seven hundred and
+forty standard batches.
+
+Each of these entries documented a cell that had, at the standard eleven-day
+harvest, presented with significant external crystal growth. One researcher,
+in a handwritten annotation attached to a 2036 batch record, had used a
+different word.
+
+Jackpot.
+
+The yield from a single jackpot event was equivalent to forty to sixty
+standard harvests. Alpha tracked these separately. They did not appear in the
+public supply figures.
+
+Max cross-referenced the anomaly records against the grant filings. Alpha had
+filed, over the previous seven years, nine separate government research grants
+for the development of what their applications described as next-generation
+fuel-cell stabilization technology. Combined, the grants totaled several
+billion dollars, drawn from energy crisis relief funds allocated by the
+Federation Council.
+
+The technology they were describing in the grant applications was Max's
+process. His recipe. His parameters. Renamed. Reformatted. Resubmitted with
+incremental variations small enough to constitute new filings and large enough
+to maintain the appearance of ongoing research.
+
+Alpha had been paid billions of dollars to develop technology that already
+existed.
+
+CONTEXT AFTER:
+He noted this the way he noted everything: as a data point. He added it to
+the notebook.
+
+It took him two and a half shifts to find the batch destruction logs.
+
+
+REVISION 3
+Chapter 16 — Behind the Curtain
+Extraction cafe and the naming of the Antigravity Project
+
+What this added: The scene at the extraction cafe where Max gives the drive
+to Red and Squirrel and explains what is on it. The moment Red says they need
+a name for the zero-gravity discovery. Max says: antigravity project. This
+is the origin of the code name used by the Collective throughout the rest of
+the book and the name of the real-world project (agproject.io).
+
+CONTEXT BEFORE:
+The extraction point was a cafe awning two blocks ahead. He could see
+Squirrel's jacket through the crowd.
+
+He kept walking.
+
+NEW PROSE:
+At the cafe, Squirrel did not look at him when he sat down. Red had a coffee
+in front of her and was watching the street. Max put the drive on the table
+between them, face down, the way you set down something that has weight.
+
+Squirrel's hand moved over it without a gesture. It was in his jacket before
+anyone at the adjacent tables would have had reason to notice an exchange.
+
+"What's on it," Red said. She was still watching the street.
+
+"The long-cycle data," Max said. "What happens if you don't reset at eleven
+days. Thirty-three. Sixty. A hundred and eighty." He paused. "In zero
+gravity, the yield is exponential. They've known for nine months. It's buried
+under an access tier that shouldn't have been reachable from my clearance
+level."
+
+Red looked at him for the first time.
+
+"There's also documentation of the government grants," Max said. "Seven years
+of applications. Billions drawn from the crisis relief funds. They described
+my process as their own ongoing research." He looked at the table. "And the
+destruction logs. They've been disposing of eleven to thirteen percent of
+production per batch for eleven years to maintain the supply gap."
+
+The table was quiet for a moment. Outside, a motorcycle passed on the street.
+
+Red looked at Squirrel. Something moved between them — not surprise. The
+particular stillness of people who have been building toward something for a
+long time and have just been handed the piece that makes it load-bearing.
+
+"The zero-gravity yield," Squirrel said. "That's the piece they're most
+afraid of."
+
+"Yes," Max said. "You can't manufacture a shortage of something that
+compounds in everyone's hands."
+
+Squirrel turned the coffee cup once. "We're going to need a name for this.
+When we move it through the network, when the parallel release goes out." He
+looked at Max. "Something that says what it is."
+
+Max thought about the yield curve at a hundred and eighty days. About a fuel
+cell in zero gravity giving back more than physics should allow — compounding,
+escalating, refusing to stop.
+
+"Antigravity project," he said.
+
+CONTEXT AFTER:
+Red looked at him. "That works," she said. She went back to watching the
+street. "That's what we'll call it."
+
+
+REVISION 4
+Chapter 22 — The Black Site
+Marcus escapes before the task force arrives
+
+What this replaced: A scene in which Marcus was arrested. He gave Emily the
+full account, she made the call, DeMint's task force came upstairs and took
+him into custody.
+
+Why it changed: Marcus is too embedded. He has plants inside the Federation,
+the NSA, and the task force itself. He knew they were coming. He gave Emily
+everything she needed — the full account, the complete testimony — and then
+walked out through a secondary exit before the task force arrived. He went
+directly to Dubai. This makes the Klaus epilogue land harder: Marcus didn't
+escape justice. He walked into a worse cage.
+
+CONTEXT BEFORE:
+She stepped back to the door. She put her hand on the frame.
+
+"Emily," Marcus said. She looked at him.
+
+"When your brother gets back," he said. "Tell him — tell him he was the right
+choice. Not for the reasons I chose him. For the reasons it turned out he was."
+
+Emily looked at him for a long moment. She looked at the desk, the tablet
+face-down, the window still hard with morning light. Marcus was sitting the
+way he always sat — controlled, unhurried, a man who had already finished his
+business and was now simply waiting for the conversation to end.
+
+She left the door open behind her.
+
+NEW PROSE:
+In the hallway, she walked back toward the elevator at the same pace she had
+come. She pressed the down button and waited.
+
+Orin was in the lobby when she came down. He was not reading the building
+directory. He was watching the street.
+
+"He's gone," he said.
+
+Emily looked at him.
+
+"Red confirmed it four minutes ago. Secondary exit on the east side of the
+building." He paused. "He was already moving before you walked in."
+
+Emily stood in the lobby. The task force was upstairs finding a room with a
+face-down tablet and a window facing east and a chair pushed back from the
+desk the precise distance of a man who stood up without rushing.
+
+"He knew the whole time," she said.
+
+"Yes."
+
+She thought about the twenty minutes. The full account delivered without
+remorse. I'm not contrite. I'm realistic. He had given her everything she
+needed and then he had left, because for Marcus, closing the account and
+walking away from it were the same motion. He had told her the machine was
+done. He had not told her he was staying with it.
+
+She thought: that was also Marcus.
+
+CONTEXT AFTER:
+She looked at the lobby's glass doors. The street outside was going about its
+business. A coffee cart operator was unlocking his cart's shutters, the metal
+rattling in the early morning. A woman in a yellow jacket walked past with a
+dog.
+
+"What do we do now," Emily said.
+
+
+REVISION 5
+Chapter 23 — Grand Hall
+DeMint reads Vance Black's written record (replaces Vance testifying alive)
+
+What this replaced: Vance Black standing in a Federation dress uniform and
+testifying about the Hall of Records, the empty vault, and being shot.
+
+Why it changed: Vance is dead. He cannot testify. His written account is
+entered into the record posthumously. DeMint reads it himself, standing,
+because he is the one who sent Vance on the mission that killed him.
+
+CONTEXT BEFORE:
+Marcus testified for three hours. When he described the Polaris, the room
+was very quiet. DeMint said nothing during this portion. He looked at the
+table. He looked at the table for a very long time.
+
+NEW PROSE:
+The written record of Vance Black was entered at 10:22 AM.
+
+DeMint read it himself, standing.
+
+He described what he had ordered — the mission to the Nevada research
+station, the retrieval of Conrad's prototype — and then read aloud, in
+sequence, what Vance had found: the cleared archive, the transferred records,
+the authorization signature. He read the paragraphs Vance had written about
+the drive back, about what he had believed he was doing and why. He read the
+final entry, which was dated the evening of the same day: the transcript of a
+phone call, a location, a caliber, a range.
+
+He set the folder down.
+
+He did not describe Marcus firing the shot in the way designed to produce
+gasps. The record described it the way you describe a fact. The room was quiet
+in a different way during this portion.
+
+DeMint said nothing after he finished reading. He looked at the table. He
+looked at the table for a very long time. He had sent Vance. He had believed,
+when he sent him, that he was doing the right thing by sending a careful man
+to retrieve evidence. He had not known, until seventy-two hours ago, what that
+phone call had cost. The expression on his face was not betrayal and it was
+not relief. It was the expression of a man revising a very long account of the
+world he thought he was operating in.
+
+CONTEXT AFTER:
+The Panama files were entered into the record at 1:47 PM.
+
+Max Vision sat at the witness table with a copy of his notebook open in front
+of him and described, with the precision of a man who had been refining this
+explanation in his head for two years, the flywheel principle, its
+implications for the current energy crisis, and what Disposal Protocol Seven
+represented in terms of the calculated management of its solution.

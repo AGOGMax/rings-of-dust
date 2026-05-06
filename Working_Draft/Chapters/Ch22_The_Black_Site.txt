@@ -19,8 +19,8 @@ The kind of building that a fifteen-year relationship between Alpha and the
 Federation Council had kept invisible.
 
 The DeMint task force had been in position since four in the morning. Six agents
-in civilian clothes, two in Federation uniform, Vance Black on the phone with
-DeMint every twenty minutes from a vehicle a block east. Rachel had arranged her
+in civilian clothes, two in Federation uniform, Red coordinating with
+DeMint's team by comms from a vehicle a block east. Rachel had arranged her
 own people on the perimeter — Emily did not know how many, and Orin had stopped
 explaining things she didn't need to know for operational reasons she trusted
 implicitly now.
@@ -54,7 +54,7 @@ Marcus was inside.
 
 She knew this because Orin had confirmed it twelve minutes ago from the
 vehicle-mounted thermal scanner that the Collective team had repositioned at
-three-thirty, and because the building's security logs, which Vance's task force
+three-thirty, and because the building's security logs, which DeMint's task force
 had been monitoring since midnight, showed Marcus's biometric entry at 11:47 PM.
 He had been here all night.
 
@@ -93,9 +93,9 @@ had not chosen to look like it.
 
 "I know DeMint's task force has been in position since four." He set the tablet
 face-down on the desk. "I know there are Collective operatives on the perimeter.
-I know Vance Black is a block east, which tells me either the Collective and
-DeMint have reached an accommodation, or Vance has made a decision about his
-future that he's not yet told DeMint about." He folded his hands. "I know the
+I know the Collective and DeMint have reached an
+accommodation — which means Rachel has been running something much larger and
+much longer than I understood." He folded his hands. "I know the
 proof from Panama went into the parallel network forty-seven hours ago. It's
 been in about two hundred thousand people's hands since yesterday morning." He
 paused. "It's a good document. Your scientist is thorough."
@@ -210,7 +210,8 @@ world in managed scarcity, and Rachel spending fifteen years building something
 inside the machine's walls, using its blind spots, placing people in its joints.
 
 She thought about Sharon in a parking garage making sure Emily got out. About
-Vance opening a briefcase. About Max in a park next to a fountain with a
+Vance Black driving six hours to find an empty vault. About Max in a park next
+to a fountain with a
 concrete heron. About Orin in a canvas jacket that had seen more use than a
 jacket that age should show.
 
@@ -221,7 +222,7 @@ a different thing.
 
 Marcus nodded.
 
-She took out the burner. She dialed the relay number Vance had given her — the
+She took out the burner. She dialed the relay number Orin had given her — the
 one that went directly to DeMint's field coordinator, bypassed the standard
 relay, left no log. It rang once.
 
@@ -263,23 +264,43 @@ choice. Not for the reasons I chose him. For the reasons it turned out he was."
 
 Emily looked at him for a long moment.
 
-She said: "I'll let him tell you himself. At the hearing."
+She said nothing. She looked at the desk, the tablet face-down, the window still
+hard with morning light. Marcus was sitting the way he always sat — controlled,
+unhurried, a man who had already finished his business and was now simply
+waiting for the conversation to end.
 
 She left the door open behind her.
 
 ---
 
 In the hallway, she walked back toward the elevator at the same pace she'd come.
-The task force was coming up — she could hear the elevator cars, two of them,
-and the particular silence of a floor that is about to change. She pressed the
-down button for the second elevator and waited.
+She pressed the down button and waited.
 
-Orin was in the lobby when she came down. He was reading the building directory
-with the expression of a man who had found it interesting.
+Orin was in the lobby when she came down. He was not reading the building
+directory. He was watching the street.
 
-"He's cooperating," Emily said.
+"He's gone," he said.
 
-"I know. Vance just relayed."
+Emily looked at him.
+
+"Red confirmed it four minutes ago. Secondary exit on the east side of the
+building." He paused. "He was already moving before you walked in."
+
+Emily stood in the lobby. The task force was upstairs finding a room with a
+face-down tablet and a window facing east and a chair pushed back from the desk
+the precise distance of a man who stood up without rushing.
+
+"He knew the whole time," she said.
+
+"Yes."
+
+She thought about the twenty minutes. The full account delivered without
+remorse. *I'm not contrite. I'm realistic.* He had given her everything she
+needed and then he had left, because for Marcus, closing the account and walking
+away from it were the same motion. He had told her the machine was done. He had
+not told her he was staying with it.
+
+She thought: that was also Marcus.
 
 She looked at the lobby's glass doors. The street outside was going about its
 business. A coffee cart operator was unlocking his cart's shutters, the metal
@@ -300,8 +321,7 @@ Six weeks felt, at this particular moment, like the right amount of time. Long
 enough to breathe. Long enough to stop moving and let the moving catch up with
 her. Long enough to sit somewhere quiet and think about all of it — the pier,
 the desert, the motel in Surprise, the eleven hundred miles, the burner phone,
-the road atlas, the man with the briefcase who drove himself to a clinic in
-Venice Beach.
+the road atlas, the concrete heron listing east in a park in Panama City.
 
 Long enough to go see Sharon.
 

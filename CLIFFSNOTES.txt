@@ -190,9 +190,12 @@ prototype device for copying.
 
 Vance Black — Federation Operations. An Alpha plant, recruited by Klaus
 alongside Taylor, compartmentalized from him. Not loyal to Marcus — Klaus's
-man, not Marcus's, and Marcus knows it. Drives six hours to a Nevada research
-station looking for Conrad's prototype, finds it has already been moved. Calls
-Marcus to tell him what he found. Marcus shoots him. He does not survive.
+man, not Marcus's, and Marcus knows it. DeMint sends him to a Nevada research
+station to retrieve Conrad's prototype. He finds the vault empty — someone has
+already moved it. He calls Marcus to report what he found, because he believes
+Marcus will want to know. Marcus shoots him. He does not survive the call. His
+written account, authenticated posthumously, is read into the Federation Grand
+Hall record by DeMint.
 
 CHAPTER BY CHAPTER
 
@@ -494,28 +497,32 @@ plane he writes in his notebook: the work is done.
 
 Chapter Twenty-Two — The Black Site
 
-Emily enters the Alpha building in Los Angeles where Marcus has been waiting.
-He is not going to run. He gives her the complete account — not with remorse,
-with arithmetic. He describes the iRIS modification. He says: you're stronger
-than I thought. She says: you never understood me. You assessed my value to
-your operation. That's all you were ever doing. She makes the call. DeMint's
-task force comes upstairs. Marcus is taken. He asks before he goes whether
-Sharon is alive. Emily tells him yes. He nods — the nod of a man closing an
-account — and goes.
+Emily enters the Alpha building in Los Angeles. Marcus is at the desk by the
+window. He knows the task force is outside, knows the Collective has the
+perimeter, knows the Panama proof has been in two hundred thousand hands for
+two days. He gives Emily the complete account — not with remorse, with
+arithmetic. He asks about Cole and Sharon. When Emily makes the call, the task
+force comes upstairs and finds an empty room. Marcus was already gone before
+she walked in — secondary exit, east side of the building, everything arranged
+in advance. He is not running. He is simply no longer present. Orin tells
+Emily downstairs. She thinks: he gave her everything she needed and then he
+left. That was also Marcus.
 
 Chapter Twenty-Three — Grand Hall
 
-The Federation Grand Hall hearing. Marcus testifies for three hours. Max
-enters the Panama files and explains the flywheel and the antigravity project
-in language calibrated for people who need to act on it: the shortage is
-solvable, it has been solvable, it can be fixed in six months. The 1-in-740
-jackpot anomaly and the government grants fraud enter the record. Conrad's
-documentation is entered as evidence. Rachel Vayes is in the press gallery.
-What happens is not a speech. The room understands who she has been. Cole
-watches the pixelated image from Saturn orbit via Gracie's relay and sees
-Emily in the fourth row. He sends her a relay message. Gracie adds a note:
-Sharon wants her to bring the road atlas so she can argue with the route
-Emily took.
+The Federation Grand Hall hearing. Marcus testifies for three hours. DeMint
+reads Vance Black's written record into evidence — the Nevada vault, the
+missing prototype, the phone call, the location and caliber. The room goes
+quiet in a particular way. Max enters the Panama files and explains the
+flywheel and the antigravity project in language calibrated for people who
+need to act on it: the shortage is solvable, it has been solvable, it can be
+fixed in six months. The 1-in-740 jackpot anomaly and the government grants
+fraud enter the record. Conrad's documentation is entered as evidence. Rachel
+Vayes is in the press gallery. What happens is not a speech. The room
+understands who she has been. Cole watches the pixelated image from Saturn
+orbit via Gracie's relay and sees Emily in the fourth row. He sends her a
+relay message. Gracie adds a note: Sharon wants her to bring the road atlas
+so she can argue with the route Emily took.
 
 NOTE ON RACHEL'S REVEAL: The current "I am the Grand Admiral" public
 declaration is being reconsidered. Preferred direction: Keyser Soze — the
@@ -529,9 +536,10 @@ Sharon has ridden the descent in the converted medical bay. Taylor is removed
 from the ship under escort at the runway, walking under his own power, nodding
 once to Cole as he passes. The pocket watch is found in Taylor's quarters —
 engraved with the Verguld name, confirming Taylor served Klaus's structure and
-not just Marcus. Cole goes to see Sharon at the Collective recovery facility
-north of San Diego. Emily is on the porch with coffee and a road atlas. Sharon
-tells Cole about the gaps — the access pathways disrupted by conditioning, the
+not just Marcus. DeMint is on the runway apron when the Golden Dawn taxis in;
+he tells Cole about the watch himself. Cole goes to see Sharon at the
+Collective recovery facility north of San Diego. Emily is on the porch with
+coffee and a road atlas. Sharon tells Cole about the gaps — the access pathways disrupted by conditioning, the
 books on the shelves with the order scrambled. She is not frightened. She is
 cataloguing. He says: we can do this slow. She says: I know. I'm telling you
 the map before we start traveling. Bitboy enters the room. Sharon says: hi,
@@ -564,10 +572,12 @@ coming to get me. He says: always.
 
 EPILOGUE
 
-Marcus is in the Dubai apartment. He has been thinking about the hearing,
-about Sharon waking up, about Rachel Vayes, about every assessment he made
-that was wrong. He reaches for his coffee. His hand finds instead a glass of
-orange juice with four near-perfect ice cubes. He sets it down a little too
+Marcus is in the Dubai apartment — he was never caught. He walked out of the
+Los Angeles building before the task force arrived, having given Emily
+everything she needed and taken nothing with him. He has been thinking about
+the hearing, about Sharon waking up, about Rachel Vayes, about every
+assessment he made that was wrong. He reaches for his coffee. His hand finds instead a glass of orange juice
+with four near-perfect ice cubes. He sets it down a little too
 loud. From across the table, a second identical glass — OJ, four ice cubes —
 is lifted by a hand that has been still long enough to have learned the silence
 of the room. Klaus has been there for three days. He tells Marcus: the ledger
