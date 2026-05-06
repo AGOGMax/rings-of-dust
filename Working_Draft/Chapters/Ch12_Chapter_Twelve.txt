@@ -29,11 +29,32 @@ from a lie. But it produces similar navigational problems." She looked at her
 hands. "What would you do, if the mission turned out to be something other than
 what we signed on for?"
 
-Ricardo considered it, genuinely, without deflection. He sat down across from
-her. "I'd finish it anyway. Because the crew is real. Because what happens when
-we get that yield to the Federation is real, whatever the story around it is."
+Sam reached into her pocket. The matte-gray device came out small and flat in
+her hand. She pressed the lower-left corner. A single red pulse — then steady.
 
-Sam nodded slowly. "Yeah."
+"iRIS can't hear us," she said. She looked at Ricardo. "That's the other thing
+it does."
+
+Ricardo looked at the device. He looked at her.
+
+"How long have you—"
+
+"A while." She set it on the floor between them, indicator facing up. "I'll
+explain more when there's time. Right now I want to know what you'd do."
+
+Ricardo considered it, genuinely, without deflection. He sat down across from
+her. "Make sure everyone gets home," he said. "The objective, the brief — I
+don't care what those turn out to be. That's what I signed on for." He paused.
+He looked at her. "That includes you. By the way."
+
+Sam looked at him. The look had precision to it — not surprised, registering.
+The kind of look you give something you've been waiting to confirm.
+
+"I know," she said.
+
+He held the look a beat longer than the sentence required.
+
+"Good."
 
 They sat with that for a moment.
 
@@ -44,10 +65,7 @@ They sat with that for a moment.
 "He's been in the forward crew quarters since second shift." Ricardo's jaw
 tightened. "Something happened today."
 
-"I know," Sam said. She stood up. She patted the pocket where the matte-gray
-device lived, checked the indicator, and looked at Ricardo with the particular
-steadiness of a person who is not going to explain everything but is going to
-say enough. "I need to find him."
+"I know," Sam said. She picked up the device and stood. "I need to find him."
 
 ---
 
@@ -56,11 +74,23 @@ back to the room when Sam knocked on the frame.
 
 He didn't turn around. "Come in."
 
-She closed the door behind her. She stood for a moment, calibrating.
+She closed the door behind her. She took the device from her pocket and pressed
+the lower-left corner. The indicator pulsed once and held steady.
 
-"The device picked something up," she said. "About an hour ago. A message from
-the same routing I can't fully trace yet. But the content was—" She stopped. She
-started again, differently. "It was about Sharon."
+"iRIS can't hear this room," she said. She set it on the shelf beside her,
+face-up. "I wanted you to know that."
+
+Cole's hands did not move from the porthole frame. He looked out at the black.
+
+"It's not a malfunction," he said. It was not a question.
+
+"No," Sam said. "It's not."
+
+She looked at his back.
+
+"I picked up a message about an hour ago. From the same routing I can't fully
+trace yet. But the content was—" She stopped. She started again, differently.
+"It was about Sharon."
 
 Cole's hands on the porthole frame went very still.
 
@@ -128,6 +158,22 @@ did not turn around immediately. He gave it a beat.
 Cole moved to the center console and stood. He was not close enough to be
 threatening. He was close enough to be clear.
 
+He was aware, with precision, of the distance between himself and Taylor. Of
+the console between them. Of how long it would take to cross it. His body had
+already filed its assessment without being asked, and he noted it the way he
+noted a calculation — not because he intended to act on it, but because he
+needed to know what it was saying.
+
+He had learned, when his father died — the slow specific kind of death that
+teaches you more about grief than you ever wanted to know — that the first
+hours of it could arrive wearing the texture of rage. The two were almost
+indistinguishable if you weren't paying attention. He had learned to pay
+attention. To build the list. First: what do I know. Second: what do I need.
+Third: in what order. The list was the lock. The lock was what kept the door
+closed.
+
+He had a list. He was building it.
+
 "I have a question," Cole said.
 
 Taylor turned his chair. His face was composed — the careful composition of a
@@ -147,6 +193,18 @@ like he was choosing the weight of each word, "is that this mission has more
 stakeholders than the crew manifest reflects. And that people who get caught
 between those stakeholders — people who are carrying information that more than
 one party wants — those people are at risk. Sharon was carrying information."
+
+Something moved through Cole that was faster than thought. He felt his weight
+shift onto his front foot. He felt the distance across the console compress, in
+his body's own arithmetic, into something achievable.
+
+He did not move.
+
+He pressed it back — the same way he had pressed it back in the weeks after his
+father died, when the grief kept arriving in the wrong shape and wearing the
+wrong face, and you had to put it somewhere it couldn't reach the rest of you.
+Into the compartment. Close the door. The list. What do I know. What do I need.
+In what order. He held the list in front of it like a wall.
 
 "That's not an answer."
 
@@ -238,11 +296,35 @@ maintenance access. Someone will be there."
 "Someone who knows what you're carrying." The voice shifted slightly — not
 warmer exactly, but more direct. "Are you all right, Ms. Nova?"
 
-Emily looked out the window. The yellow lines kept coming. The dark kept holding
-its position on either side. She thought about what she had said to Marcus in
-his office — the thing she had said without thinking, the thing she had known
-the moment it left her mouth was a mistake. *Cole's heart is gonna break when he
-hears about Sharon.*
+Emily looked out the window. The yellow lines kept coming. The dark kept
+holding its position on either side.
+
+She thought about the parking garage stairwell. The look on Sharon's face when
+she had said *go* — the specific economy of it, the way it meant every version
+of *go* at once. She thought about the sound she had not been able to un-hear
+in the hours since. She thought about her brother somewhere past Saturn's rings,
+out of reach, carrying a mission that someone had designed to detonate, and she
+was the only person moving toward him from this side and she was in the back of
+a taxi she had paid for with a traceable card and she had been awake for
+thirty-one hours and she had said the wrong thing in Marcus's office and she
+did not know yet what it had cost.
+
+She thought about what the question actually was. Not protocol. The voice had
+shifted — the particular register of someone who had heard something in Emily's
+voice that Emily had not put there on purpose. Something that had come through
+in the gaps of being awake too long and too alone.
+
+*Are you all right.*
+
+She was not. Nothing was. Sharon was dead and Cole didn't know it yet and Marcus
+knew which direction she was running and she was alone in the specific way that
+is not solitude — not quiet, not private, but the kind of alone that arrives
+when you run out of people to call and the ones you had are gone or unreachable
+or both.
+
+She thought about what she had said to Marcus in his office — the thing she had
+said without thinking, the thing she had known the moment it left her mouth was
+a mistake. *Cole's heart is gonna break when he hears about Sharon.*
 
 "I don't know yet," she said.
 

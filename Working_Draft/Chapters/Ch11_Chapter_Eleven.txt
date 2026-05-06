@@ -165,12 +165,41 @@ Body language. Nothing transferred between them that the camera could resolve.
 
 Nothing the camera could resolve.
 
+He pulled the acoustic log for the same window.
+
+"iRIS. Acoustic record. Maintenance alcove, forward section. Eleven-minute
+window. Dr. Okafor's interaction."
+
+iRIS played it back.
+
+What came back was rain.
+
+The sound of it was specific and complete — not static, not compression
+artifacts, not the digital smear of a corrupted file. Rain. The kind that
+arrives in sheets and fills a room with its own frequency. And beneath it,
+low and certain, something that might have been thunder.
+
+Taylor sat very still.
+
+"iRIS. Confirm log source."
+
+"Maintenance alcove acoustic sensor feed. Forward section. Log authenticated."
+
+He looked at the screen. The timestamp matched the camera footage. The log was
+legitimate. What was in it was not alcove ambient.
+
+The device did not jam the audio. It replaced it — filled eleven minutes of
+recording with something that would read, on a first pass, as interference. Not
+active suppression. Designed to look like a corrupted file. Designed to not
+trigger an anomaly flag.
+
 Taylor closed the feed and sat with his hands on the console. He was not
-panicking. He was assessing. The advantage was still his — the iRIS architecture
-was intact, the communications relay was functioning on the band Alpha
-controlled, and whatever Cole suspected was still a suspicion without the
-evidence to make it operational. A man with a suspicion was manageable. A man
-with evidence was a different problem.
+panicking. He was assessing. The iRIS architecture was intact. The
+communications relay was functioning on the band Alpha controlled. But the man
+with a suspicion now had a professional running interference for him.
+
+A man with a suspicion was manageable. A man with a professional was a
+different problem.
 
 He needed to know, precisely, what Cole had heard in that cargo bay.
 
