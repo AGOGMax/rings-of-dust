@@ -1,0 +1,527 @@
+RINGS OF DUST
+Session Revisions — 2026-05-07
+
+This file documents all new and rewritten prose from the May 7 revision
+session. Each revision shows the before prose, the after prose, and a
+brief note on what changed and why. Intended for TTS review.
+
+
+------------------------------------------------------------------------
+REVISION 24
+All Chapters — Polaris Crew Count Corrected to 369
+------------------------------------------------------------------------
+
+What changed: Every reference to the Polaris crew death count was wrong
+in various files. The number 375 appeared in CLIFFSNOTES FRESH, the
+Synopsis, Chapter One working draft, Chapter One TTS, and several archive
+files. The correct number is 369. All instances have been corrected.
+
+Note: Chapter Nine already had the correct number. Taylor's line reading
+"three hundred and sixty-nine crew members" was already right.
+
+No before/after prose needed — this was a number correction across files.
+
+
+------------------------------------------------------------------------
+REVISION 25
+Chapter Nine — Sam and the Copper Ring
+------------------------------------------------------------------------
+
+What changed: Sam claimed she physically watched Cole make the copper
+wire ring before the mission. This is a continuity error. Sam was a
+Collective plant who first appeared at Fleet Command during crew
+selection. She was not in Cole's personal life before the mission.
+
+The fix: Sam's knowledge of the ring now routes through Ricardo, which
+is consistent with her role.
+
+CONTEXT BEFORE:
+Cole leaned against the alcove frame. Outside the small porthole at the
+far end of the corridor, the black ran in all directions without a
+visible edge.
+
+OLD PROSE:
+"The ring," he said. "The copper wire. Before launch." He had not said
+it to anyone. He was not entirely sure why he was saying it now. "You
+saw it."
+
+"I saw you make it," Sam said. She tightened a housing bolt. "You gave
+her something to hold onto before you left."
+
+"Ricardo told you about her."
+
+NEW PROSE:
+"The ring," he said. "The copper wire. Before launch." He had not said
+it to anyone. He was not entirely sure why he was saying it now.
+
+Sam set down the calibration tool. "Ricardo told me," she said. "You
+gave her something to hold onto before you left."
+
+"He told you about her."
+
+CONTEXT AFTER:
+"Yes." The flatness of it was its own information. She set down the tool
+and looked at him steadily. "I'm sorry, Cole."
+
+
+------------------------------------------------------------------------
+REVISION 26
+Chapter Nine — Cole and Sam, End of the Alcove Scene
+------------------------------------------------------------------------
+
+What changed: The exchange ending the alcove scene was broken. Sam asked
+"What did you call her?" and Cole answered with a deflection about
+Sharon insisting on the name Nova. The question was ambiguous — it
+could mean the ring or Sharon — and Cole's answer didn't address it.
+The user noted it made no sense.
+
+The fix: The exchange is replaced with a forward-looking beat. Sam says
+she can't wait to meet Sharon when they get back. Cole says he can't
+wait to introduce them. This is warmer, character-consistent, and
+carries dramatic irony — neither of them knows Sharon is already on the
+Alpha vessel shadowing their course.
+
+OLD PROSE:
+"What did you call her?" Sam asked.
+
+He almost didn't answer that either. Then: "She insisted on Nova. She
+said the other name was already taken."
+
+Sam looked at him. Something passed across her face that was not pity,
+something older and more useful than pity. She picked up her tool and
+went back to work.
+
+NEW PROSE:
+"I can't wait to meet her when we get back," Sam said. "I bet you two
+are an adorable couple."
+
+Cole looked at her. The corner of his mouth moved, not quite a smile,
+but close enough. "I can't wait to introduce you," he said.
+
+Sam picked up her tool and went back to work.
+
+CONTEXT AFTER:
+Cole pushed off the frame and headed back toward the bridge. At the
+corridor junction, he stopped.
+
+"Sam."
+
+She looked up.
+
+"When the source comes through," he said, "don't wait."
+
+She held his eyes for a moment. "I won't."
+
+
+------------------------------------------------------------------------
+REVISION 27
+Chapter Ten — Emily and Marcus, Full Rewrite
+------------------------------------------------------------------------
+
+What changed: The chapter had several structural problems. Emily did not
+recognize Marcus until late in the scene, after the display screen
+reveal. Her opening line was transactional rather than explosive. Marcus
+ran a blackmail angle that was wrong for his character. He referenced
+receiving the Golden Dawn payload, when in fact he wants the Saturn
+crystal batch. And there was no tracker scene after Emily and Rachel
+left the room.
+
+The fix: Emily recognizes Marcus the moment he says his name. She comes
+out swinging. Marcus wants Conrad's information from Vegas, not
+blackmail leverage. He reveals the Saturn situation and Cole's danger,
+which is the moment Emily's calculation shifts from offense to exit.
+After they leave, Marcus orders a tracker placed on Emily. The chapter
+ends with Emily dropping the card at the elevator plant.
+
+------------------------------------------------------------------------
+
+BEFORE — Emily's opening line (wrong register):
+"How much are you going to pay me to stay quiet about your goons?"
+
+BEFORE — Recognition comes too late (after the display screen):
+Emily looked at the man standing at the desk. She knew that face. Not
+from files or briefings. From a specific afternoon when Cole had a
+bloody lip and this boy's knee on his chest...
+
+BEFORE — Blackmail angle (wrong):
+"Now, Emily. Look, business is just business. I won't let you blackmail
+me because that simply does not work."
+
+BEFORE — Marcus receiving crystals (wrong, he wants Saturn batch):
+"We expected a drive with this info to be delivered along with the
+crystals you dropped off," Marcus said.
+
+------------------------------------------------------------------------
+
+AFTER — FULL CHAPTER:
+
+Rachel walked Emily into the building without speaking. Through the
+lobby, into an elevator, three floors up, then into a long dark hallway
+that ran in both directions. A cheerful fat Buddha statue sat underlit
+at each end. Small, warm lights shone sharply downward from the ceiling
+in focused beams, leaving the walls in dark. Two men in dark suits
+peeled off the wall as they entered, one ahead, one behind. They did not
+announce themselves. They did not look at Emily. That was the point. At
+the end of the hall, a large set of double wooden doors stood decorated
+with brass hardware and long polished bar handles. Rachel gripped one,
+breathed, and pushed forward.
+
+The guards took up positions outside the doors. Emily noted the
+placement without turning: flanking the exit, not the entrance.
+
+The room was wide and dim, the kind of dim that came from choosing not
+to turn on half the lights. Floor-to-ceiling windows pulled cloud and
+sky into the far wall. Along both sides, a dozen televisions ran news
+feeds and sports scores at ambient volume. On one screen, a news anchor
+sat composed at her desk. Emily looked at her. Then at Rachel. Rachel's
+color shifted slightly and Emily filed that away.
+
+The man was kicked back in a swivel chair with his feet on the wide
+mahogany desk, the posture of someone who had designed this impression.
+A glass of orange juice sat at the desk's corner. Four ice cubes. Emily
+counted them without meaning to.
+
+He got to his feet.
+
+"Emily Nova." He moved toward her with the wide, unhurried stride of a
+man who had never once been made to hurry. "I'm Marcus Verguld."
+
+She knew that face.
+
+Not from files. From a specific afternoon: Cole with a bloody lip and
+this boy's knee on his chest, and her grabbing the collar and putting
+him on the ground in front of his friends. He had looked up from the
+dirt like he genuinely could not believe what had just happened to him.
+She had not given him time to decide what to do about it.
+
+He had grown up. The dirt was better carpeted now.
+
+"I've kicked your ass before," Emily said. "Be aware that I will do it
+again."
+
+Something moved behind Marcus's eyes, not embarrassment. The quiet
+recalibration of someone whose assessment had just been revised upward
+by a measurable amount.
+
+"You have a good memory," he said. He settled back onto the edge of the
+desk and looked at her with the unhurried attention of a man who had
+nowhere else to be. "Sit down."
+
+"I'd rather stand."
+
+He studied her a moment. Then he looked at Rachel, who stood near the
+doors with her face arranged carefully toward the middle distance.
+
+"You were in Las Vegas," Marcus said. "You and Sharon."
+
+Sharon's name in his mouth with the same flat weight as Las Vegas and
+Conrad, as if Sharon were a coordinate and not a person, not someone who
+had been in a parking garage in San Francisco three days ago while Emily
+was three states away and not there. Emily did not move.
+
+"You met with Steven Conrad. He gave you something." He turned toward her
+fully. "I want to know what it was."
+
+"I don't know what you're talking about."
+
+"The keychain," Marcus said. "Small plastic figurine, the Enterprise. You
+held it. You drove it to Cole's cabin and put it in his hands." His voice
+had the quality of a man reading from a list he had memorized a long time
+ago. "What's inside it."
+
+She thought about the hollow base. Conrad's specific instruction, calm
+and level: it has to reach Cole's hands. He must hold it. She had thought
+that was sentiment. She had thought Conrad was being theatrical about a
+trinket.
+
+She genuinely did not know.
+
+"He farts in his sleep," Emily said, "and he's two months late on the
+phone bill, and he has an unhealthy relationship with a four-armed monkey
+that drinks hand sanitizer. I don't know anything about a keychain."
+
+Marcus looked at her with the expression of a man who was neither amused
+nor annoyed, simply cataloguing.
+
+He turned to the desk. A few finger taps on the glass surface inlaid in
+it. The banks of screens on the walls changed.
+
+Emily recognized it immediately.
+
+The encrypted drive. The research archive she and Sharon had been handed
+in Vegas, the file structure, the visual signature of the export format,
+the specific documentation of things that were not supposed to exist. She
+recognized all of it.
+
+She had put this in the hands of the people who needed it. It was already
+where it was supposed to be.
+
+Marcus was showing it to her like a card.
+
+"We expected this through certain channels," he said. "It found other
+channels. Contingency plans were made." He glanced at her. "You recognize
+it."
+
+"I've never seen that in my life."
+
+"No." And she understood he did not mean I don't believe you. He meant
+that's the right answer, and I haven't decided yet if it's the true one.
+He was filing it separately from what he thought she knew.
+
+He moved to the window. The clouds moved behind him.
+
+"The Golden Dawn launched twelve days ago," he said. "Harvest sequence
+underway. The last major raw crystal batch coming off Saturn's rings, the
+one that changes the market permanently, if it arrives intact." He paused.
+"There is a vessel considerably larger than the Golden Dawn that has been
+pacing Cole's course since he crossed the inner belt. Cole doesn't know
+it's there."
+
+The room changed.
+
+Not the room. Her position in it. The calculation restructured itself
+around a single fixed point.
+
+"What do you want," she said.
+
+"What Conrad gave you. What he told you and Sharon in that hotel room
+that you haven't told anyone." He came away from the window. "That is the
+piece I don't have. And until I have it, I can't tell you what happens to
+that mission when the larger vessel makes its move."
+
+The room was very quiet.
+
+Emily thought about Cole at nine, looking up at her from the dirt. She
+thought about Sharon's hand across a table in Vegas. She thought about
+Sharon in a parking garage in San Francisco and the message that came
+afterward and the specific quality of a grief that hadn't been allowed to
+land yet because there had been too many miles to drive, too many things
+to do, and now she was standing in this room and the grief was still
+waiting and she was still not done.
+
+She thought: the only way to help him is to get out of this room.
+
+"I don't know what was in the keychain," she said. "I handed it to Cole
+and I drove away. Conrad didn't explain it to me."
+
+Marcus watched her for a long moment.
+
+"I believe the keychain part," he said. "The rest of it, I'm reserving
+judgment on." He moved back to the desk. "You're more useful to me as a
+question mark than as a problem. So you're going to walk out of here
+tonight."
+
+He held out a small card. Plain. No logo. A number printed on one side.
+
+"If anything comes back to you, about what Conrad gave you, about what
+he built, about any of it. There's a number."
+
+Emily looked at it.
+
+She took the card.
+
+"Ms. Vayes will see you out."
+
+---
+
+After the doors had closed and the elevator had engaged and the sound of
+footsteps on tile had faded from the corridor:
+
+"Put one on her before she reaches the street," Marcus said. "The small
+one. She won't feel it."
+
+The man standing in the far corner of the room, not the guards, the other
+one, the one who had been there before Emily arrived, nodded once and
+moved toward the secondary exit.
+
+Marcus sat back down. He picked up the orange juice. He looked at the
+screens, still lit with the contents of the drive, and he thought about
+Conrad. A man he had underestimated twice and did not intend to
+underestimate a third time. He thought about what a careful man builds
+into a children's toy when he knows someone might come looking.
+
+He drank the juice.
+
+The ice was already melting.
+
+---
+
+In the elevator, Rachel held her face toward the floor numbers. Her eyes
+moved once toward the security camera mounted in the upper corner.
+
+"Careful," she said.
+
+Emily took the hint.
+
+The parking garage was cold. Emily slipped the card behind the potted
+plant on the landing without breaking stride. She understood what it was.
+He did not believe she knew anything, believed it enough to let her walk,
+but he wanted a thread.
+
+She was not going to be the thread.
+
+She turned to Rachel. A taxi was pulling into the garage entrance.
+
+"What is Marcus going to do to Cole?"
+
+Rachel's face held nothing. "Nothing happened," she said quietly. "For
+both of us. Nothing happened."
+
+Emily felt something that was not quite disgust, more the particular
+exhaustion of having been in a room with a man who understood the price
+of everything and had very deliberately not paid it.
+
+"Nothing happened," she said.
+
+She got in the taxi.
+
+
+------------------------------------------------------------------------
+REVISION 28
+Chapter Nineteen — The Boarding, Specialist Crane Removed
+------------------------------------------------------------------------
+
+What changed: Sharon no longer has a cover identity called Specialist
+Crane. She is not embedded in the Golden Dawn crew. She is stowed aboard
+Alpha's vessel as a deployed asset. When Alpha makes their move after
+the Saturn harvest, Sharon comes through the boarding tube alone, no
+cover story, no name. Bitboy's threat assessment triggers before anyone
+can see her face. Ricardo gets the funny line. Then Cole asks for the
+visor. Then the reveal.
+
+The scene from the face reveal onward is unchanged. This revision
+replaces only the approach and setup.
+
+OLD PROSE — lines 142 through 181:
+
+The operative introduced herself as Specialist Crane.
+
+She came through the docking tube alone. The other two crew members of
+FED-MRS-0409 stayed aboard their vessel. Gracie tracked them the entire
+time. And Specialist Crane came through the tube with her helmet in the
+crook of her arm and a case in her right hand that Gracie identified as
+standard medical supply, biometric-locked, which was interesting because
+a medical supply case did not require a biometric lock.
+
+She was suited in a standard Federation gray, face obscured by the
+transit visor she had not yet raised. Her movements were economy itself,
+no wasted effort, no hesitation at the threshold, the particular
+controlled locomotion of a person who had been trained in confined
+spaces. The visor was still down.
+
+"Captain Nova," she said. Her voice came through the suit's external
+speaker with the flat modulation of filtered audio. "I'm authorized to
+conduct a systems assessment and medical review of your crew under
+Emergency Health Protocol Seven."
+
+"There's no emergency health protocol active on this ship," Cole said.
+
+"It was filed in response to an incident report filed from your
+transponder six weeks ago."
+
+"Our transponder reports are routine."
+
+"The incident report wasn't routine. It flagged elevated atmospheric
+contamination in your primary cargo bay." She still hadn't raised the
+visor. "I'm here to assess ongoing crew exposure and clear the mission
+to proceed."
+
+Cole looked at her. He looked at the case. He looked at the visor.
+
+"You can raise that," he said. "We're on a pressurized deck."
+
+She did not raise it.
+
+"Specialist Crane," Gracie said, in the ship's overhead speakers. "Our
+environmental systems show deck pressure at standard. If you're
+experiencing suit malfunction, I can assist."
+
+A beat. Then the specialist's hand moved to the visor release.
+
+NEW PROSE — same position, same ending point:
+
+She came through the docking tube alone. The two crew of FED-MRS-0409
+stayed aboard their vessel. Gracie was tracking them. She came through
+carrying a case in her right hand that Gracie had already flagged:
+standard supply dimensions, biometric-locked.
+
+Alpha Corp matte-black. No insignia. No rank markings. Visor down.
+
+She stopped at the threshold and said nothing.
+
+Cole looked at her. "You want to start somewhere."
+
+No answer. The visor stayed down.
+
+Bitboy moved first.
+
+He had positioned himself at the cargo bay entry when the docking clamp
+deployed. Cole had not put him there. He had simply arrived and stood,
+which was the thing Bitboy did when his threat-assessment protocols had
+flagged something his vocoder couldn't yet express. Now he walked forward
+two paces, stopped, and fixed the figure with the flat amber attention of
+his operational scan. His LED eyes cycled. His threat panel lit.
+
+It read:
+
+SHE SMELLS LIKE SHARON.
+
+Ricardo looked at the panel.
+
+He looked at Cole.
+
+He looked back at the panel.
+
+"I want it on record," Ricardo said, "that I have no idea how to file
+that in any existing threat category."
+
+Cole was already looking at the visor.
+
+"Take it off," he said.
+
+The figure did not move.
+
+"Gracie."
+
+I have been running the biometric match since she crossed the docking
+threshold. A pause. The weight of it landing before the words did. Cole.
+Ask her again.
+
+"Take off the visor." His voice had gone quieter than it should have been
+in a room with a standing threat. "Please."
+
+A beat.
+
+The hand came up. The visor released.
+
+Cole registered what happened next in fragments.
+
+The visor came up.
+
+(Scene continues as written from this point forward.)
+
+
+------------------------------------------------------------------------
+REVISION 29
+Synopsis — Sharon Line Updated
+------------------------------------------------------------------------
+
+What changed: The synopsis described Sharon as deployed aboard the Golden
+Dawn as Specialist Crane. That cover identity is gone. Updated to reflect
+the new architecture: Sharon is stowed on Alpha's vessel as a deployed
+asset.
+
+OLD LINE:
+Sharon Teez, Cole's partner, was shot and taken by Alpha Corp, augmented
+with bionic hardware and neural conditioning, and deployed aboard the
+Golden Dawn as Specialist Crane.
+
+NEW LINE:
+Sharon Teez, Cole's partner, was shot and taken by Alpha Corp, augmented
+with bionic hardware and neural conditioning, and stowed aboard Alpha
+Corp's vessel, the ship shadowing the Golden Dawn, as a deployed asset.
+
+
+------------------------------------------------------------------------
+END OF SESSION REVISIONS — 2026-05-07
+------------------------------------------------------------------------

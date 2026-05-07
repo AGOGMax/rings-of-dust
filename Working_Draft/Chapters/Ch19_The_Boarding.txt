@@ -139,46 +139,57 @@ reach docking range."
 
 ---
 
-The operative introduced herself as Specialist Crane.
+She came through the docking tube alone. The two crew of FED-MRS-0409
+stayed aboard their vessel — Gracie was tracking them — and she came through
+carrying a case in her right hand that Gracie had already flagged: standard
+supply dimensions, biometric-locked.
 
-She came through the docking tube alone. The other two crew members of
-FED-MRS-0409 stayed aboard their vessel — Gracie tracked them the entire time —
-and Specialist Crane came through the tube with her helmet in the crook of her
-arm and a case in her right hand that Gracie identified as standard medical
-supply, biometric-locked, which was interesting because a medical supply case
-did not require a biometric lock.
+Alpha Corp matte-black. No insignia. No rank markings. Visor down.
 
-She was suited in a standard Federation gray, face obscured by the transit visor
-she had not yet raised. Her movements were economy itself — no wasted effort, no
-hesitation at the threshold, the particular controlled locomotion of a person
-who had been trained in confined spaces. The visor was still down.
+She stopped at the threshold and said nothing.
 
-"Captain Nova," she said. Her voice came through the suit's external speaker
-with the flat modulation of filtered audio. "I'm authorized to conduct a systems
-assessment and medical review of your crew under Emergency Health Protocol 7."
+Cole looked at her. "You want to start somewhere."
 
-"There's no emergency health protocol active on this ship," Cole said.
+No answer. The visor stayed down.
 
-"It was filed in response to an incident report filed from your transponder six
-weeks ago."
+Bitboy moved first.
 
-"Our transponder reports are routine."
+He had positioned himself at the cargo bay entry when the docking clamp
+deployed — Cole had not put him there, he had simply arrived and stood,
+which was the thing Bitboy did when his threat-assessment protocols had
+flagged something his vocoder couldn't yet express. Now he walked forward
+two paces, stopped, and fixed the figure with the flat amber attention of
+his operational scan. His LED eyes cycled. His threat panel lit.
 
-"The incident report wasn't routine. It flagged elevated atmospheric
-contamination in your primary cargo bay." She still hadn't raised the visor.
-"I'm here to assess ongoing crew exposure and clear the mission to proceed."
+It read:
 
-Cole looked at her. He looked at the case. He looked at the visor.
+**SHE SMELLS LIKE SHARON.**
 
-"You can raise that," he said. "We're on a pressurized deck."
+Ricardo looked at the panel.
 
-She did not raise it.
+He looked at Cole.
 
-"Specialist Crane," Gracie said, in the ship's overhead speakers. "Our
-environmental systems show deck pressure at standard. If you're experiencing
-suit malfunction, I can assist."
+He looked back at the panel.
 
-A beat. Then the specialist's hand moved to the visor release.
+"I want it on record," Ricardo said, "that I have no idea how to file
+that in any existing threat category."
+
+Cole was already looking at the visor.
+
+"Take it off," he said.
+
+The figure did not move.
+
+"Gracie."
+
+*I've been running the biometric match since she crossed the docking
+threshold.* A pause — the weight of it landing before the words did.
+*Cole. Ask her again.*
+
+"Take off the visor." His voice had gone quieter than it should have been
+in a room with a standing threat. "Please."
+
+A beat. The hand came up. The visor released.
 
 Cole registered what happened next in fragments.
 
