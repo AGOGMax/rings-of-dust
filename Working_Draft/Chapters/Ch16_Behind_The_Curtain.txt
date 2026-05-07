@@ -210,22 +210,41 @@ did not know which and did not have time to determine it.
 
 He read the yield curves.
 
-At thirty-three days, the output was non-linear. Not by a small margin. The
-cells that had been allowed to run past the harvest window were not depleting
-— they were amplifying. The dark matter crystalline structure, when left
-undisturbed in the nitrogen environment past the eleven-day threshold, did
-not plateau. It continued. The energy return per gram of feedstock at
-thirty-three days was roughly four times what the standard eleven-day harvest
-produced.
+The data had a structure he recognized immediately — the standard eleven-day
+harvest window, the expected depletion curve, the nominal yield per cell. He
+had run these numbers himself for three years. He skimmed past them.
 
-At sixty days, the data showed something else. The efficiency curve inverted.
-The cell was producing more than the feedstock cost to run it. Not marginally.
-Not within rounding error. Substantially more.
+What stopped him was the linked-cell column.
 
-At the bottom of the file was a theoretical projection: 180 days in zero
-gravity. The calculation was careful and conservative and it arrived at a
-yield figure that Max read three times before he accepted that the zeros were
-not a typo.
+A subset of the test batches had been run with the cells in contact —
+physically coupled, the housing ports connected so the crystalline
+environments communicated. The research team had included this as a secondary
+variable. It was not the main study.
+
+It was everything.
+
+At thirty-three days of continuous linkage, the internal crystal formation
+rate was not elevated by a small margin. It was ten times the standard. The
+dark matter structure, when cells were left coupled past the eleven-day
+harvest threshold, did not stabilize or deplete — it accelerated. Tenfold.
+And the acceleration did not plateau. It continued, at that elevated rate,
+for as long as the cells remained connected.
+
+He read that line twice.
+
+*For as long as the cells remained connected.*
+
+At one hundred and eighty days of continuous linkage, the data changed
+character entirely.
+
+The crystal growth no longer accumulated internally. Every eleven days —
+with the regularity of a clock — the coupled cells produced a synchronized
+external flush: dense, structured crystalline formations extending through
+the cell housing outward, equivalent each cycle to forty to sixty standard
+harvests. Not a single event. A recurring one. Every eleven days, for as
+long as the linkage held.
+
+When you disconnected the cells, the flushes stopped.
 
 He sat with this for a moment.
 
@@ -234,15 +253,16 @@ understood what it meant, and classified it.
 
 He scrolled to the end of the file. The last entry was a single line, a
 recommendation from the lead researcher: *Proceed to Saturn field test.
-Recommend full gravity-isolation protocol.*
+Recommend continuous-linkage protocol.*
 
 The entry had no response logged. No approval. No denial. Just the
-recommendation, sitting there, with a timestamp from eleven months ago, never
-acted on.
+recommendation, sitting there, with a timestamp from eleven months ago,
+never acted on.
 
 ---
 
-The anomaly records were easier to find once he knew what to look for.
+The anomaly records were now legible to him in a way they hadn't been twenty
+minutes ago.
 
 The batch logs used a status field he had initially skimmed past — not a flag
 exactly, more a secondary classification for high-variance yields. He had
@@ -252,21 +272,31 @@ The field appeared at irregular intervals. Not random — irregular. When he
 filtered for it, he got one entry for approximately every seven hundred and
 forty standard batches.
 
-Each of these entries documented a cell that had, at the standard eleven-day
-harvest, presented with significant external crystal growth rather than the
-usual internal vapor-to-crystal conversion. Not small formations. Significant
-ones — dense, structured, extending outside the cell housing in configurations
-that the batch records described, with notable consistency, as *anomalous
-yield event.*
+Each of these entries documented a cell that had, during processing or
+extended storage, been left in sustained contact with an adjacent cell.
+In transit packaging. In staging queues where cells were stacked port-to-port
+without separation buffers. No one had designed this. No one had intended it.
+But cells that had been in continuous contact for long enough — through months
+of shipping backlogs, warehouse holding, staging delays — had, at their
+eleven-day review interval, produced external crystal formations. Dense,
+structured, extending through the cell housing outward. Not internal yield.
+External flush.
 
 One researcher, in a handwritten annotation attached to a 2036 batch record,
 had used a different word.
 
 *Jackpot.*
 
-The yield from a single jackpot event was equivalent to forty to sixty
-standard harvests. Alpha tracked these separately. They did not appear in the
-public supply figures.
+The yield from a single flush event was equivalent to forty to sixty standard
+harvests. Alpha tracked these separately. They did not appear in the public
+supply figures.
+
+They had been watching for the conditions that produced a jackpot event for
+years. They had not understood what those conditions were. The linked-cell
+research file had been sealed for eleven months. The connection had never
+been made.
+
+Max had just made it.
 
 Max cross-referenced the anomaly records against the grant filings he had
 found in the public database last week. Alpha had filed, over the previous
@@ -523,10 +553,14 @@ sunglasses in dark thread, sewn flat against the fabric.
 
 "What's on it," Red said. She was still watching the street.
 
-"The long-cycle data," Max said. "What happens if you don't reset at eleven
-days. Thirty-three. Sixty. A hundred and eighty." He paused. "In zero gravity,
-the yield is exponential. They've known for nine months. It's buried under an
-access tier that shouldn't have been reachable from my clearance level."
+"The long-cycle data," Max said. "What happens if you link the cells together
+and don't reset them at eleven days. Thirty-three days of continuous linkage:
+ten times the internal crystal yield, ongoing, as long as they stay connected.
+A hundred and eighty days: external crystal flushes every eleven days —
+recurring, each one equivalent to forty to sixty standard harvests — until
+you disconnect them." He paused. "They've known for nine months. It's buried
+under an access tier that shouldn't have been reachable from my clearance
+level."
 
 Red looked at him for the first time.
 

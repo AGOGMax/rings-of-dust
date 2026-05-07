@@ -204,21 +204,24 @@ Squirrel waited.
 "I've been thinking about the flywheel since I left the building," Max said.
 "The curve." He turned the math over in the way he always turned the math over,
 the way he had been turning it over since the oak table and the fuel cell and
-the first data point that shouldn't have been possible. "The first thirty-three
-days produce a non-linear yield but it's still recoverable — if you wanted to,
-you could reverse-engineer the curve, understand the mechanics, sell it
-incrementally. The sixty-day inversion is harder to monetize in the traditional
-sense because you start getting more than you put in, and markets are not
-designed for that. But the hundred-eighty-day exponential—"
+the first data point that shouldn't have been possible. "Link the cells
+together and hold them past the eleven-day window. Thirty-three days of
+continuous linkage: ten times the internal yield, ongoing, as long as they
+stay connected. That's recoverable — if you wanted to, you could
+reverse-engineer it, license the protocol, manage the rollout. Keep control
+of who gets to link their cells and when. You could monetize that for decades."
 
 He stopped.
 
-"The hundred-and-eighty-day exponential is what they're really afraid of," he
-said. "Not the proof. Not the protocol records. The flywheel. Because if the
-flywheel is real and it's reproducible, it doesn't matter how long they hold
-their inventory. The curve makes their shelf meaningless." He looked at his
-hands. "Everything compounds. Once people understand that the compound works in
-their favor, not against them, the shortage model collapses."
+"But the hundred-and-eighty-day threshold is what they're really afraid of,"
+he said. "Not the proof. Not the protocol records. The flywheel. Because at
+a hundred and eighty days of continuous linkage, the cells start producing
+external crystal flushes every eleven days. Recurring. Each one equivalent to
+forty to sixty standard harvests. Not a single event — a cycle. And the cycle
+continues for as long as the cells stay linked." He looked at his hands. "You
+cannot manufacture a shortage of something that produces its own abundance on
+a clock. Once people understand that the flushes work in their favor — that
+they just have to hold the linkage — the scarcity model has nowhere to go."
 
 Squirrel was watching him.
 
@@ -349,10 +352,12 @@ He turned away from the window.
 
 He closed his eyes.
 
-He thought about the flywheel. He thought about the 33-day yield, the 60-day
-inversion, the exponential at 180. He thought about the moment the curve became
-self-sustaining — the moment you stopped putting more in than you were getting
-out, the moment the system fed itself.
+He thought about the flywheel. He thought about the 33-day internal yield —
+ten times the standard, ongoing, as long as the linkage held. He thought about
+the 180-day threshold, and the external flushes that came every eleven days
+after that, regular as a clock, for as long as you kept the cells connected.
+He thought about what it meant that the cycle was self-sustaining — that once
+the linkage was maintained, the system did not deplete. It fed itself.
 
 He thought about what Squirrel had said: *everything compounds.*
 
