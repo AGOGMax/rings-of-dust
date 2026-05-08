@@ -1,0 +1,832 @@
+RINGS OF DUST — THE MERIDIAN INTERSTITIALS
+Working Draft | May 2026
+─────────────────────────────────────────────────────────────────────
+
+Placement: these scenes slot between chapters as noted. They follow
+the crew of the Meridian — a Collective surveillance vessel running
+under commercial mineral survey designation FHV-Orbital Code 7, at
+a position 200,000 km inside the Jupiter approach band. They have
+been out here a while.
+
+CREW:
+  Maren — communications officer; three years on the Meridian; dry,
+    precise; sunglasses patch on her collar (not hidden; nobody has
+    officially complained)
+  Dayo — commander; patient; compass on his shoulder epaulette like
+    he's daring someone to ask
+  Loa — systems and engineering; ring patch tattooed on her inner
+    wrist in fabric ink, which is not how patches work but she's been
+    here longer than anyone and nobody argues with Loa
+  Petyr — nav and signals; newest crew; recently got his droplet;
+    still figuring out what it means; says the code phrase too often
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN I — LISTENING POST
+Slot: before Chapter One
+
+Maren had been running the filtered sweep for four months before
+anything interesting happened.
+
+"Interesting" was relative. Everything that moved through
+Alpha-controlled relay bands was interesting in the way a locked
+door was interesting: the interest was in the fact of the lock,
+not in what you could hear through the wood.
+
+But the mission manifest had gone live three days ago, and now
+there was a name on it.
+
+She pulled up the crew file for the fourth time and read it the way
+she'd read it the first three times — looking for something she'd
+missed, finding the same thing. Cole Nova. Captain. Sole survivor
+of the Polaris incident. Five years of voluntary isolation.
+Currently: recalled to active duty by Chancellor DeMint for one
+final harvest run.
+
+"That's a hell of a thing to ask of a man," she said to no one in
+particular.
+
+Petyr was at the nav station, reviewing signal logs with the
+focused intensity of someone who had recently received his droplet
+and was trying to justify the symbolism to himself. He had said
+the code phrase three times in the last week. Two of those times
+there had been no reason to say it. The third time he had said it
+to the refrigerator.
+
+"No raindrop thinks it's the flood," he had told the refrigerator.
+
+The refrigerator had not confirmed.
+
+"Petyr," Maren said.
+
+"Yeah."
+
+"Cole Nova is on the Golden Dawn manifest."
+
+A pause. "Who's Cole Nova?"
+
+She turned around and looked at him for a long moment. "Get your
+patch out of wherever you've sewn it and read the briefing that
+came with it."
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN II — FIVE DAYS AFTER COLE ACCEPTS
+Slot: after Chapter Four
+
+Dayo read the relay intercept three times.
+
+It wasn't the content — the content was vague in the way that
+long-distance intelligence usually was, the shape of a thing but
+not its texture. Emily Nova had gone to a cabin in Sequoia with
+the Enterprise figurine. The cabin was confirmed as Cole Nova's
+address for the last five years.
+
+"She got him," said Loa from the engineering station, not looking
+up.
+
+"She was always going to get him," Dayo said.
+
+"You don't know that."
+
+"I know she's the only person in his network with a clear enough
+picture of what's at stake and enough of him to make it matter.
+Of course she got him."
+
+Petyr had found his droplet by now. It was on the inside of his
+left wrist — a small fabric oval, a water droplet in gunmetal
+thread on navy. He kept turning his wrist over to look at it.
+
+"Can I ask something," Petyr said.
+
+"You're going to either way," Loa said.
+
+"What's a droplet mean. Like, actually. I read the brief but the
+brief was—"
+
+"Spare," Maren said.
+
+"It said I had demonstrated awareness and willingness. Which is a
+pretty low bar for a clandestine network."
+
+Dayo set down his coffee. "What would a higher bar look like to
+you."
+
+Petyr thought about it. "Demonstrated capability. Demonstrated
+commitment. Something you do rather than just — something—"
+
+"A droplet means you're wet," Dayo said. "You've gotten close
+enough to something true that you can't entirely go back to how
+you saw things before. You've seen the lock on the door. You know
+there's a room." He paused. "A droplet is not a rank. It's a
+confirmation of a state you're already in. You don't earn a
+droplet. You receive one because someone assessed that you were
+already carrying it without knowing what it was."
+
+Petyr looked at his wrist. "Oh."
+
+"A compass," Dayo continued, "is different. A compass means you
+move when the network moves. You're in the field. You can receive
+direction and give it. You've demonstrated something beyond
+knowing."
+
+"What's above a compass?"
+
+Maren and Loa exchanged a look.
+
+"We don't put them in order," Maren said.
+
+"Why not?"
+
+"Because the network doesn't run vertically." She turned back to
+her panel. "It runs in all directions at once. That's the whole
+point."
+
+Petyr looked at his wrist again. He seemed to find this both
+clarifying and unsatisfying, which Dayo privately thought was
+the correct response to most true things.
+
+"Cole Nova launches in approximately seventy-two hours," Dayo
+said. "Maren. Continuous passive intercept on the Golden Dawn's
+outbound relay bands. Everything."
+
+"Already running," she said. "Have been for a week."
+
+He had known she would be. That was what a compass looked like
+from the inside.
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN III — LAUNCH DAY
+Slot: after Chapter Seven
+
+The Golden Dawn launched at 07:14.
+
+Maren watched the departure feed on the relay — low-resolution,
+because Alpha's communication architecture didn't waste bandwidth
+on aesthetics — and said nothing. The ship was a clean shape
+against Saturn's distant brightness, already moving.
+
+"Collective watchers in the decommissioned shuttle confirmed all
+crew aboard," she said.
+
+"Including Taylor," Loa said.
+
+"Including Taylor."
+
+Dayo had been standing at the viewport for ten minutes. Working
+through something at the pace he worked through things, which was
+slower than Maren preferred and faster than Petyr could follow.
+
+"Sam Drummond is on that ship," he said.
+
+"She is."
+
+"Sunglasses patch?"
+
+"Inside the duffel lining. Second seam pocket." Maren allowed
+herself a small approving sound. "Good placement."
+
+"The sunglasses thing is funny," Petyr said.
+
+Everyone looked at him.
+
+"I mean — the patch is called sunglasses because you're seeing
+things you're not supposed to see. And she literally—" he
+gestured. "She's on a ship with an Alpha asset and she's watching
+things she's not supposed to watch. It's on-the-nose."
+
+"The symbols are always on-the-nose," Loa said. "That's how you
+know they're real and not just decorations."
+
+"What does a ring mean?"
+
+Silence.
+
+"What," Petyr said.
+
+"We," Maren said carefully, "are not a rank-structure podcast."
+
+"But you brought up what the sunglasses means—"
+
+"I confirmed what you already knew. There's a difference." She
+turned back to her panel. "The Golden Dawn is on course. Taylor
+is running his first behavioral assessment on Nova as of oh-eight-
+forty."
+
+That quieted the room.
+
+"He's going to try to run this like a controlled experiment," Dayo
+said. "Monitor the captain, track proximity to the cargo, keep
+Alpha's relay open and the Federation relay degraded." A pause.
+"Taylor is not a stupid man."
+
+"No," Maren agreed.
+
+"He's going to make Sam's job very hard."
+
+Maren thought about Sam Drummond with her sunglasses patch in her
+duffel lining, watching a ship that watched back, running
+interference from inside with nothing but a gray receiver and
+better instincts than anyone had ever properly assessed.
+
+"She can handle hard," Maren said.
+
+She said it the way you say things you've decided to believe and
+intend to keep believing.
+
+─────────────────────────────────────────────────────────────────────
+
+ALPHA I — FED-MRS-0409
+PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
+DAY 2, POST-ACQUISITION
+Slot: after Chapter Eight
+
+Initial assessment complete.
+
+Subject sustained moderate trauma during acquisition. A sniper
+round at range was not within authorized parameters of the
+operation; Greenbaum's improvisation created unnecessary urgency.
+Injury: left arm, significant soft-tissue damage, secondary
+laceration consistent with a fall. Stable.
+
+Cognitive baseline established. Collective-adjacent background
+confirmed; subject was already operating above civilian expectation
+for this type of acquisition. Subject did not cooperate and is
+not expected to cooperate. Note for procedure: cooperation is
+not required.
+
+Primary augmentation: right-side chassis integration. External
+visual prosthetic to follow. Expected timeline to operational
+deployment: seventeen days.
+
+Dr. Vasic has raised the question of whether to preserve
+subjective awareness throughout the integration process. The
+efficiency argument is against preservation. The tactical argument
+is for it.
+
+If the subject goes under and does not come back, what arrives at
+the Golden Dawn is a delivery mechanism.
+
+If the subject stays present — aware, fighting, unable to stop
+the integration — what arrives at the Golden Dawn is a weapon
+that Cole Nova will spend precious seconds trying to save rather
+than fight.
+
+The tactical argument wins.
+
+Preservation protocol: active.
+
+Note appended by Dr. Vasic: I want it on record that I did not
+design this application and I am registering my objection in
+writing.
+
+Note appended by Station Commander Holt: Noted. Disregarded.
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN IV — THE NIGHT AFTER THE FARM ROAD
+Slot: after Chapter Eight
+
+Maren had been on the Meridian for three years. She had run sweeps
+through six significant operations. She had logged intercepts that
+became the evidentiary backbone of what was now being built toward
+the Grand Hall.
+
+She had not cried on the job before.
+
+"Confirm," Dayo said. He wasn't asking. He knew she had confirmed.
+
+"Sniper shot, parking garage, San Francisco. Sharon Teez. Not
+expected to survive." She stopped. Started again. "Confirmed
+taken by the Alpha vehicle. Not confirmed dead. But the
+augmentation vessel is on its way to intercept the Golden Dawn's
+course." Another stop. "They're going to use her."
+
+No one spoke.
+
+"I ran with her for six months," Loa said finally. She had her
+back to the room. "Before we stopped having reasons to be in the
+same city."
+
+Maren hadn't known that.
+
+"She had a droplet," Loa said. "She never asked what it meant.
+She just understood it. Immediately. She said: 'Okay, you're
+people who do something about it instead of just watching.' And
+then she asked how she could help."
+
+Petyr was very still. He was learning that stillness was the
+appropriate response to some things, which was better than the
+alternatives.
+
+"Emily Nova is alive," Maren said, because someone had to say it.
+"She was taken to an Alpha facility and she got out. She's alive.
+Rachel has her."
+
+"Then we have something to work with," Dayo said.
+
+On the wall beside Maren's station — where no modification to
+standard vessel interior guidelines had been officially authorized,
+but where such authorizations had never been specifically enforced
+either — there was a small stencil. A water droplet, gunmetal on
+gray. Sharon had not put it there. But the person who had put it
+there had known her.
+
+Maren touched it briefly before she went back to her panel.
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN V — EMILY IN THE CAR
+Slot: after Chapter Ten
+
+Three days after the farm road.
+
+"She's moving," Maren said.
+
+Dayo was eating an uninspired sandwich and did not look up.
+"East?"
+
+"East. Indio fuel stop, continuing. The field authorization shadow
+confirmed she's aware of it — she identified Orin herself."
+
+Petyr looked up. "She identified a surveillance tail herself?
+She's not trained."
+
+"She pulled over. Asked him directly."
+
+A beat.
+
+"That's actually the correct move," Petyr said slowly.
+
+"Yes."
+
+"Most people don't—"
+
+"No," Maren said. "They don't."
+
+Loa was writing something on her forearm in marker. This was a
+habit she had when she was processing something. The writing was
+too small to read from across the room and Maren had stopped
+trying.
+
+"Are we pulling for Emily Nova?" Petyr said. He meant it as
+a genuine question, which told Maren he still hadn't quite
+learned to distinguish between the operations the Collective
+ran and the people at the center of them.
+
+"Sharon Teez's last confirmed communication was to Emily Nova's
+relay," Dayo said. He'd finished the sandwich. He stared at the
+wrapper. "She told us Emily was better than the situation required
+of her. Sharon had been in the field for four years. She'd run
+with people we trusted completely." He folded the wrapper. "If
+that was Sharon's assessment, it's our assessment."
+
+"We're pulling for Emily Nova," Maren confirmed.
+
+Petyr nodded. He wrote something small on the edge of his nav
+panel — the same private script Loa used on her forearm. Maren
+didn't read it. Some things were for the person writing them.
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN VI — THE CONFIRMATION
+Slot: after Chapter Eleven
+
+What Maren had not put in her seven-sentence relay was what
+happened after she hit send.
+
+She sat for eleven minutes.
+
+Dayo found her there when he came on shift. He read the
+confirmation on her screen and stood for a moment — not rushing,
+not looking away, locating the feeling precisely, putting it
+somewhere it could be carried.
+
+"Her droplet's on the wall," Maren said.
+
+"I know."
+
+"I put it there when we left San Francisco. I didn't ask anyone."
+
+"You didn't need to ask." He sat in the secondary comms chair.
+"Petyr asleep?"
+
+"Yes."
+
+"Good." He paused. "A droplet means you're already carrying it
+without knowing what it was. What Sharon had — before the patent
+wars, before anyone put a patch on her arm — was bigger than a
+droplet. She was already running her own version of the network
+before the network found her."
+
+Maren said nothing.
+
+"A compass goes to people who move. A star goes to people who
+can see the whole structure. There's a patch I have in a locked
+box in my quarters that I've never worn because the person you
+give it to has to have demonstrated something that can't be
+planned for." He stopped. "Sharon had it. I was going to send it
+when the mission was done. When she was safe."
+
+Maren thought about what the wreath looked like in that box.
+She had never opened it, but she knew it existed.
+
+"We're going to get the data out," she said. Not a comfort.
+A statement of intent.
+
+"Yes," Dayo said. "We are."
+
+Outside the viewport, Saturn's rings caught refracted sunlight
+and held it — a thin, bright edge in the dark.
+
+"The network needs people who choose it," Maren said.
+
+"Sharon chose it before she knew there was a name for it," Dayo
+said. "That's the thing about people like her. The network
+doesn't recruit them. They arrive."
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN VII — EMILY DRIVES I-10
+Slot: after Chapter Thirteen
+
+Loa had a theory about Emily Nova that she delivered while running
+diagnostics, which was when she delivered all her theories.
+
+"She's managing something physical," she said. "The rest schedule
+isn't anxiety. It's a protocol. She's been on it a while."
+
+Maren had noticed the same pattern. "What does that have to do
+with anything."
+
+"Nothing. Operationally." Loa ran a calibration pass. "I just
+think it's worth knowing she's doing this with something working
+against her from the inside, and she's doing it better than
+people who don't have that going on." A pause. "Sharon said she
+was better than the situation required. I think Sharon meant
+more than the situation."
+
+Petyr had started a running log on his personal tablet. He called
+it Mineral Survey Notes, which was technically accurate since they
+were on a mineral survey vessel. Nobody had told him to do this.
+Nobody had told him not to. He wrote: *E. Nova confirmed Houston
+trajectory. Orin walking distance. Clear passage expected.* Then
+he wrote: *She pulled over for Orin instead of driving away. She
+figured out he was friendly before she had reason to know. I
+don't know what rank that is.*
+
+He showed it to Maren later.
+
+She read it. "There's a reason we don't put them in order."
+
+"I know. You explained."
+
+"A compass tells you where north is. A compass doesn't tell you
+whether north is where you need to go." She handed back his
+tablet. "Emily Nova has been pointing herself in the right
+direction since before she knew the network existed. That's not
+rank. That's orientation."
+
+"There should be a patch for that."
+
+Maren thought about it. "There is. It's called a droplet. But
+the droplet isn't the end state. The droplet just means you're
+wet." She paused. "She's soaked."
+
+─────────────────────────────────────────────────────────────────────
+
+ALPHA II — FED-MRS-0409
+PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
+DAY 14, PRE-DEPLOYMENT
+Slot: after Chapter Fifteen
+
+The primary augmentation is complete.
+
+Right-side chassis integration held. Integration was delayed
+forty-eight hours due to sustained subject resistance — prolonged
+resistance at this stage is atypical; Dr. Vasic has noted it as
+an anomaly. Cognitive coherence maintained at approximately
+sixty-three percent in baseline assessments, twelve percent above
+projection.
+
+External visual prosthetic operational. Enhanced tracking. Range
+approximately three times standard.
+
+Dr. Vasic's final note before sign-off on augmentation phase:
+Subject remained oriented throughout. Maintained a repeated verbal
+anchor — the same two phrases, spoken quietly, when integration
+stress was highest. We have logged them. They appear to be a
+message to someone specific rather than generalized distress.
+Subject believes the recipient will receive them. She is probably
+wrong about that.
+
+Subject was kept oriented so she could be deployed as a weapon.
+The remaining orientation — the coherence Dr. Vasic noted as
+anomalous — is a side effect. Recommend deployment within
+forty-eight hours of the Golden Dawn's arrival in Saturn
+orbital approach.
+
+Approved. — Station Commander Holt
+
+Dr. Vasic, final annotation: She asked me, at one point, what I
+was doing this for. I told her it was contractual. She looked at
+me for a long time and said, "That's not what I asked." I have
+been thinking about this for two weeks. I am still thinking about
+it.
+
+Note from Station Commander Holt: Dr. Vasic's ongoing commentary
+on this subject is noted and requested to cease.
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN VIII — PANAMA AND HOUSTON, SAME WEEK
+Slot: after Chapter Sixteen
+
+On the day Max Forster walked out of Alpha's Panama tower with a
+drive in his coat and six blocks between him and the park, Maren
+was running a signal sweep and eating a very good blood orange
+someone had included in the last supply rotation, and she was
+genuinely happy for about four minutes.
+
+This was unusual enough that she mentioned it to Loa.
+
+"Max Forster just walked out," she said.
+
+"Already?"
+
+"Drive in hand. Nitrogen alarm gave him the window. Six blocks."
+
+Loa closed her eyes briefly. "He's good."
+
+"He's good." Maren bit into the orange. "Squirrel has the drive."
+
+"What's on it."
+
+"Flywheel analysis, the full Protocol Seven archive, the grant
+fraud records going back seven years." A pause. "Also he named
+it the Antigravity project."
+
+"That's a good name," Loa said.
+
+"It's a great name."
+
+Petyr, who had been listening: "What does the flywheel mean
+for—"
+
+"It means," Maren said, "that the shortage ends. Not eventually.
+As soon as the math gets out. The compound works in your favor
+if you have enough of it. Alpha knew this. They sat on it for
+nine months." She finished the orange. "The energy crisis has
+been an inventory decision."
+
+Petyr was quiet. His hand went to his droplet.
+
+"Is that why—" he started, then stopped.
+
+"Probably," Maren said. She didn't know his specific reason for
+being here. She had never asked. That was how the network worked
+— you didn't arrive at someone else's reason, you arrived at your
+own, and then discovered you were in a room with other people
+who had done the same. "Probably your reason and the flywheel
+are connected somewhere upstream."
+
+"Same week," Loa said quietly.
+
+Maren looked up.
+
+"Max is out. Emily is in Houston. Same week." She gestured at
+her panel, where Houston's Space Command facility was logged
+as a monitoring point. "The network moves all at once or it
+doesn't move."
+
+"It's moving," Maren said.
+
+On the wall: the droplet. Gunmetal on gray. Sharon's.
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN IX — THE BOARDING
+Slot: after Chapter Nineteen
+
+There was no good way to watch the thermal signature data and
+know what it meant.
+
+Maren had been tracking FED-MRS-0409 for nine days. The biometric
+data she'd pulled from relay intercepts had confirmed what she'd
+already suspected and confirmed it in a way she wished it hadn't.
+
+"Boarding in progress," she said. Her voice came out steady.
+She had decided it would.
+
+No one spoke.
+
+The augmentation signature was in the upper thorax and skull.
+Significant modification. The signature was Sharon Teez and it
+was also not Sharon Teez, and the two facts occupied the same
+space without resolving.
+
+Petyr said, "Is that—"
+
+"Yes," Maren said.
+
+Dayo was standing. He'd been standing for twenty minutes.
+
+What the relay data could not confirm was whether the counter-
+program had completed its transfer through Cole's system. The
+compound variables were outside her modeling range. She had run
+the math twice and stopped the second time, because the math
+didn't account for what she actually believed, and she had learned
+— slowly, over three years — that there were things the math
+didn't account for that were nonetheless real.
+
+"The bronze indicator ring is the augmentation's central power
+relay," Loa said, from memory. "If Conrad's counter-program
+transferred—"
+
+"The ring goes dark," Maren said.
+
+"Can we read that from here."
+
+"No."
+
+Silence.
+
+"I've been on this ship for three years," Petyr said suddenly.
+Nobody told him to stop. "I got my droplet because someone in
+Osaka read a paper I wrote about grid distribution inequities
+and decided I was already carrying it. I have never been in the
+field. I have never run an operation. I watch things happen from
+very far away." He paused. "Does it get easier."
+
+"No," Loa said.
+
+"Does it matter," he said, "that we're watching."
+
+The silence this time was different.
+
+"Yes," Dayo said. "That's the answer. The watching is part of
+how it holds together. Someone has to be here for the people
+who are there."
+
+He did not elaborate. He didn't need to.
+
+Maren went back to her panel.
+
+At 04:49 ship time, the augmentation biometric signature on
+FED-MRS-0409 changed.
+
+The bronze indicator ring — the central power relay, detectable
+even at this range as a low-level electromagnetic output — went
+dark.
+
+Maren stared at her readout for four seconds.
+
+Then she said: "Clear."
+
+It wasn't standard terminology. It wasn't in any Collective
+communication protocol she'd ever been issued. But Loa looked
+up, and Dayo turned, and Petyr exhaled like he'd been holding
+it for the better part of a month.
+
+"Clear," Loa confirmed, reading the same data.
+
+Dayo said nothing. He sat down and put his hands flat on the
+console and looked at them for a long moment.
+
+On the wall: the droplet. Gunmetal on gray. Sharon's.
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN X — GRAND HALL
+Slot: during Chapter Twenty-Three
+
+They weren't supposed to watch it live. The Meridian was a
+surveillance vessel on a long-range posting, and watching a
+Federation Grand Hall broadcast on a commercial mineral survey
+ship was the kind of thing that showed up in signal logs and
+required creative annotation.
+
+Dayo authorized it anyway. He wrote the annotation himself:
+*routine signal calibration exercise, full-spectrum Federation
+broadcast, civilian.*
+
+Petyr read it over his shoulder. "Is that going to hold up."
+
+"Probably not," Dayo said. "But after today, what it held up to
+is going to matter less."
+
+They watched on the secondary relay — four people crowded around
+a screen rated for survey data, which meant the picture had
+artifacts and Marcus Verguld's face, when it appeared, looked
+slightly smeared. Nobody complained.
+
+The Marcus testimony played for two hours and fifty-one minutes.
+Maren listened to every word. She had read most of it in
+fragments — relay intercepts, source documents, eleven years of
+Rachel's work feeding into the network — but hearing it flat and
+complete and authenticated, in the Grand Hall, in Marcus's own
+voice, was different from reading it in pieces.
+
+When the Polaris section played, none of them said anything.
+369 names existed in the Meridian's data archive. Maren had
+looked at the list once, early in the posting. She had not been
+able to finish.
+
+The Max Forster testimony landed differently. He was holding his
+notebook. He looked like exactly what he was: a scientist who
+had found something true and was telling as many people as
+possible. "The crisis is not a fact of nature. It is a decision."
+The Hall went quiet in a way the broadcast compression couldn't
+quite capture but Maren could read in the ambient sound levels.
+
+When Rachel stood up, Petyr made a sound.
+
+It wasn't a word. It was involuntary, and then he put his hand
+over his mouth and looked at the screen.
+
+"My name is Rachel Vayes."
+
+Eleven years. Maren had known the cover was running. She had
+never known the person running it — that wasn't how the network
+worked — but she had known what eleven years inside Alpha's
+structure cost. She had made her own estimate of what kind of
+person could run that and stay that person.
+
+Rachel Vayes stood in the press gallery and looked exactly like
+that kind of person.
+
+"Granted," DeMint said.
+
+The room stood.
+
+"I have something to tell you," Petyr said.
+
+Maren looked at him.
+
+"When I got my droplet, I thought it was a formality. A membership
+card." He was still watching the screen. "I understand now that
+I had it backwards. The patch doesn't make you a member. You're
+already a member. The patch is just—" he stopped. "It's just
+confirmation of something that was already there."
+
+"Yes," Dayo said.
+
+"Sharon had it without the patch."
+
+"Yes."
+
+"And Rachel had it for eleven years without anyone being able to
+see it."
+
+"That," Maren said, "is what a star looks like from the outside."
+
+Petyr turned to look at her.
+
+She didn't explain further. Some things were worth not explaining.
+She watched him sit with it — the idea that the star wasn't about
+rank at all, not really, that it was about the shape of a
+commitment so long-sustained it became structural — and she
+thought that for someone with a droplet and a year on a survey
+vessel, he was learning fast.
+
+"The network needs people who choose it," she said. "Not as
+assets. As people who chose it." She paused. "Rachel's been
+choosing it since before we had a name for what she was doing."
+
+On the screen, Emily Nova was in the fourth row.
+
+Maren saw her at the same moment, probably, that Cole did.
+
+─────────────────────────────────────────────────────────────────────
+
+RANK STRUCTURE — FOR REFERENCE
+Not for publication; working notes only
+
+  DROPLET — You're already carrying it. The network confirms a
+    state you arrived in on your own. Not an act. A recognition.
+    Code: "No raindrop thinks it's the flood."
+
+  SUNGLASSES — Active information role. You see more than you're
+    supposed to see. You carry that without breaking cover.
+
+  COMPASS — Active field participation. You move when the network
+    moves. You can receive direction and give it.
+
+  RING — Field coordination. You run operations. You know multiple
+    nodes. (Loa. Inner wrist, fabric ink.)
+
+  STAR — Structural. You can see the whole architecture. A long-
+    sustained commitment. Not awarded; recognized. (Rachel Vayes.
+    Not visible until the Grand Hall.)
+
+  WREATH — Command. The patch Dayo keeps in a locked box. He was
+    going to give it to Sharon when the mission was done.
+
+The patches are never displayed in the order above. The network
+does not run vertically. But the progression matters: from wet
+to moving to seeing to building. A droplet gets you in the door.
+A wreath means you are the door.
+
+Sharon Teez died with a droplet and should have had the wreath.
+Some people arrive before the network has the language for them.
