@@ -31,10 +31,11 @@ already arrived at his own conclusions.
 but the origin was spoofed back through four separate station nodes. Whoever
 sent it knows our infrastructure well enough to disappear inside it."
 
-DeMint read the key line again. The Golden Dawn manifest does not reflect the
+DeMint read the key line again. *The Golden Dawn manifest does not reflect the
 crew's full operational directive. A secondary objective was filed with Alpha
 Corp prior to launch and withheld from Federation oversight. The payload
-transfer is a secondary concern. The primary concern is what comes back with it.
+transfer is a secondary concern. The primary concern is what comes back with
+it.*
 
 "This is an accusation," DeMint said. "Against a sanctioned mission."
 
@@ -45,14 +46,14 @@ DeMint's steps faltered. His jaw tightened. He had approved this mission. He had
 reviewed the brief, the crew manifest, the objectives. He had shaken Cole Nova's
 hand and told him the Federation was counting on him. The idea that there was a
 layer beneath that brief — a separate filing, a separate set of instructions,
-routed through Alpha Corp and not his office — the idea sat in his chest like
+routed through Alpha and not his office — the idea sat in his chest like
 something cold.
 
-"Alpha Corp handled the iRIS integration," he said.
+"Alpha handled the iRIS integration," he said.
 
 "They did."
 
-"And the crew selection went through Taylor. Who Alpha Corp recommended."
+"And the crew selection went through Taylor. Who Alpha recommended."
 
 Vance said nothing. He was watching DeMint work through it and he was not
 rushing him.
@@ -99,7 +100,7 @@ He turned to Vance with a curt nod. "Go. And Vance." He paused, and there was
 something in the pause that had not been in his voice before — an edge of
 genuine uncertainty, a military man who has begun to suspect the map is wrong
 but does not yet know in which direction the error runs. "If you find anything
-at that facility that doesn't look right — anything that suggests Alpha Corp's
+at that facility that doesn't look right — anything that suggests Alpha's
 reach extends beyond the mission parameters — you call me directly. Not through
 the standard relay."
 
@@ -114,6 +115,48 @@ sound. The door slid shut with a soft hiss.
 The brief sat on the console. Vance picked it up and folded it twice, carefully,
 and put it in his inside jacket pocket. He stood for a moment in the dim glow of
 the machine. Then he straightened his collar and went to get his car.
+
+---
+
+On the Meridian — operating under a commercial mineral survey designation at a
+position two hundred thousand kilometers inside the Jupiter approach band — the
+communications officer had been running the filtered signal sweep for six hours.
+
+The sweep was a method she had developed herself: a pattern of rotational
+frequency shifts that moved through the Alpha-controlled relay bands the way a
+hand moves through tall grass. Not avoiding the structure. Using it. The gaps
+between transmissions more informative than the transmissions themselves.
+
+What she found at 04:23 ship time was consistent with what she had expected.
+
+The Golden Dawn's primary relay was silent in the direction of Earth. The
+approach band had a degradation window at this vector. Taylor — she knew the
+comms architecture, and she knew who was running it — would not waste Alpha's
+transmission budget on open channels.
+
+The Alpha management relay, however, was active. Brief, encrypted, routed
+through three nodes. She had the first two nodes and not the third. She logged
+the transmission time and moved on.
+
+She composed her own report. Seven sentences. Coded in the Collective's rotating
+structure, which meant that without the current key, the message looked like a
+routine mineral survey update — the kind of thing that moved through the relay
+band a hundred times a day without anyone checking. She routed it through two of
+the same Federation nodes Alpha was using.
+
+The report said, in the structure that was not a mineral survey:
+
+*Sharon Teez — Collective-adjacent, confirmed. Killed in transit. The loss is
+real. Grieve it.*
+
+*Emily Nova — untrained, currently mobile, moving toward Houston under
+Federation radar. Probability of completion: uncertain. She has been
+underestimated by everyone who has assessed her. This is the operational
+advantage. Hold it.*
+
+She filed the survey report and went back to the sweep.
+
+---
 
 And far away, on the Golden Dawn, Officer Taylor sat at his post in the hour
 after the ship's night cycle began and the crew had dispersed to their quarters.
@@ -162,12 +205,41 @@ Body language. Nothing transferred between them that the camera could resolve.
 
 Nothing the camera could resolve.
 
+He pulled the acoustic log for the same window.
+
+"iRIS. Acoustic record. Maintenance alcove, forward section. Eleven-minute
+window. Sam's interaction."
+
+iRIS played it back.
+
+What came back was rain.
+
+The sound of it was specific and complete — not static, not compression
+artifacts, not the digital smear of a corrupted file. Rain. The kind that
+arrives in sheets and fills a room with its own frequency. And beneath it,
+low and certain, something that might have been thunder.
+
+Taylor sat very still.
+
+"iRIS. Confirm log source."
+
+"Maintenance alcove acoustic sensor feed. Forward section. Log authenticated."
+
+He looked at the screen. The timestamp matched the camera footage. The log was
+legitimate. What was in it was not alcove ambient.
+
+The device did not jam the audio. It replaced it — filled eleven minutes of
+recording with something that would read, on a first pass, as interference. Not
+active suppression. Designed to look like a corrupted file. Designed to not
+trigger an anomaly flag.
+
 Taylor closed the feed and sat with his hands on the console. He was not
-panicking. He was assessing. The advantage was still his — the iRIS architecture
-was intact, the communications relay was functioning on the band Alpha Corp
-controlled, and whatever Cole suspected was still a suspicion without the
-evidence to make it operational. A man with a suspicion was manageable. A man
-with evidence was a different problem.
+panicking. He was assessing. The iRIS architecture was intact. The
+communications relay was functioning on the band Alpha controlled. But the man
+with a suspicion now had a professional running interference for him.
+
+A man with a suspicion was manageable. A man with a professional was a
+different problem.
 
 He needed to know, precisely, what Cole had heard in that cargo bay.
 

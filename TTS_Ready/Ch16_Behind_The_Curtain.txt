@@ -5,21 +5,24 @@ Chapter Sixteen
 Behind the Curtain
 
 The badge was laminated. Max turned it over in his hands, noting the weight, the
-specific sheen of the photo beneath the protective coating. The name read MICHOV
-KARGAN. The face in the photo was his.
+specific sheen of the photo beneath the protective coating. The name read MIKOF
+FORSINKO. The face in the photo was his.
 
-"The contractor database entry went live six hours ago," Chip said. "Backstory
+"The contractor database entry went live six hours ago," Squirrel said. "Backstory
 is clean. Eighteen months of consulting work for two Alpha-adjacent firms in São
 Paulo, both of which are real and both of which have been — let's say — made
 receptive to confirming the relationship if anyone calls."
 
-Dale was at the window, watching the street below. The safe house was a two-room
+Red was at the window, watching the street below. The safe house was a two-room
 flat above a laundry operation in the Marbella district, which was the kind of
 neighborhood that was neither nice enough to attract attention nor rough enough
 to generate it. Laundry was going below. Max could hear the drums through the
-floor.
+floor. He noticed, without quite knowing why, that the inside band of Red's
+jacket collar carried a small embroidered patch — dark thread on dark fabric, a
+pair of sunglasses rendered in outline, almost invisible unless the light caught
+it a certain way.
 
-"Your specialization is fuel-cell stabilization engineering," Dale said without
+"Your specialization is fuel-cell stabilization engineering," Red said without
 turning around. "That gets you lab access at the mid-tier. Not the vault. But
 the vault isn't where you need to be."
 
@@ -27,7 +30,7 @@ Max set the badge down on the table next to his notebook. "And if someone runs a
 technical deep-dive? Asks me to explain something I don't actually know?"
 
 "Then you explain that the methodology you worked with in São Paulo was
-proprietary and you're under NDA." Chip sat down across from him. "But that
+proprietary and you're under NDA." Squirrel sat down across from him. "But that
 won't happen. You're a consultant, not a hire. They want your output, not your
 credentials. The whole point of bringing in outside contractors is that nobody
 has to own the gaps."
@@ -39,11 +42,13 @@ career from the other side. Now he was using it.
 
 "Okay," he said.
 
-Chip looked at him for a moment, as if waiting for something more.
+Squirrel looked at him for a moment, as if waiting for something more.
 
 There wasn't anything more. This was a protocol. Max understood protocols.
 
-Alpha Corp Panama occupied a forty-story tower on the eastern edge of the Casco
+---
+
+Alpha Panama occupied a forty-story tower on the eastern edge of the Casco
 district, where the old colonial architecture stopped and the twenty-first
 century asserted itself in glass and exposed steel. The building's ground floor
 lobby was the size of a small airport terminal, and it had been designed to
@@ -53,7 +58,7 @@ lighting in long pale columns. Every surface was clean in a way that suggested
 staff had been specifically tasked with the maintenance of cleanliness, which is
 different from surfaces that are simply clean.
 
-Max scanned in at the exterior gate with the Michov Kargan badge. The reader
+Max scanned in at the exterior gate with the Mikof Forsinko badge. The reader
 beeped once, green, and he was through.
 
 He noted: seven badge readers between the exterior gate and the elevator bank.
@@ -81,6 +86,8 @@ obedient. The importance kept them loyal.
 
 He rode the elevator to the fourteenth floor.
 
+---
+
 Dr. Yusuf Oren was shorter than Max had expected from the name, which was not a
 rational thing to notice but Max noticed it anyway. He was perhaps fifty-five,
 with close-cut gray hair and the particular quality of attention that marks
@@ -88,7 +95,7 @@ scientists who have spent decades actually listening to the problems in front of
 them rather than performing the act of listening. He came around his desk to
 shake Max's hand rather than waiting for Max to come to him.
 
-"Michov. Good to have you." He gestured toward a chair. "Coffee?"
+"Mikof. Good to have you." He gestured toward a chair. "Coffee?"
 
 "Please."
 
@@ -143,9 +150,11 @@ territorial gesture, genuinely collegial — and returned to his own work.
 
 Max turned to the terminal and began to read.
 
+---
+
 The proprietary stabilization process was not what he had imagined.
 
-He had imagined it the way everyone outside Alpha Corp imagined it: some closely
+He had imagined it the way everyone outside Alpha imagined it: some closely
 held technical innovation, years of refinement, a process that would require
 significant reverse-engineering to reproduce. He had assumed the secrecy meant
 complexity. He had assumed that walls of that height protected something
@@ -165,7 +174,7 @@ this way ten thousand times in a row.
 
 Max worked through this understanding methodically. It did not make him angry.
 He noted it the way he noted anything: as a data point. The data point was this:
-Alpha Corp's hold on the DarkX market was not a product of superior science. It
+Alpha's hold on the DarkX market was not a product of superior science. It
 was a product of superior lawyers. They had acquired, at the right moment, the
 patents that covered the obvious implementation paths. They had signed the right
 supply agreements. They had structured the right exclusivity contracts with the
@@ -177,7 +186,140 @@ It was a wall of paperwork.
 The energy crisis, as a technical problem, had been solvable for at least a
 decade.
 
-Max filed this understanding away and kept reading.
+Max read the sentence twice. He made a small mark in the margin. Kept
+reading.
+
+---
+
+The long-cycle data was buried three directories deep under a project
+designation he did not recognize: EXTENDED_HORIZON_ANALYSIS. He found it
+because he was methodical and because the indexing structure had a gap between
+Q2 and Q4 that suggested Q3 had been archived rather than deleted — and
+archived data, in his experience, was where the things you weren't supposed
+to find actually lived.
+
+Inside were 47 cell-monitoring records from cells that had not been
+terminated at the eleven-day window. Some were accidents — containment
+failures, scheduling errors, batch records that had fallen through the log.
+Some were deliberate: an internal research project, nine months long, that
+had been run in a sealed sub-lab and then classified at a level that should
+have prevented its appearance in a pull-access terminal.
+
+Someone had made an indexing error. Or someone had wanted it findable. Max
+did not know which and did not have time to determine it.
+
+He read the yield curves.
+
+The data had a structure he recognized immediately — the standard eleven-day
+harvest window, the expected depletion curve, the nominal yield per cell. He
+had run these numbers himself for three years. He skimmed past them.
+
+What stopped him was the linked-cell column.
+
+A subset of the test batches had been run with the cells in contact —
+physically coupled, the housing ports connected so the crystalline
+environments communicated. The research team had included this as a secondary
+variable. It was not the main study.
+
+It was everything.
+
+At thirty-three days of continuous linkage, the internal crystal formation
+rate was not elevated by a small margin. It was ten times the standard. The
+dark matter structure, when cells were left coupled past the eleven-day
+harvest threshold, did not stabilize or deplete — it accelerated. Tenfold.
+And the acceleration did not plateau. It continued, at that elevated rate,
+for as long as the cells remained connected.
+
+He read that line twice.
+
+*For as long as the cells remained connected.*
+
+At one hundred and eighty days of continuous linkage, the data changed
+character entirely.
+
+The crystal growth no longer accumulated internally. Every eleven days —
+with the regularity of a clock — the coupled cells produced a synchronized
+external flush: dense, structured crystalline formations extending through
+the cell housing outward, equivalent each cycle to forty to sixty standard
+harvests. Not a single event. A recurring one. Every eleven days, for as
+long as the linkage held.
+
+When you disconnected the cells, the flushes stopped.
+
+He sat with this for a moment.
+
+Alpha had known about this for at least nine months. They had run the data,
+understood what it meant, and classified it.
+
+He scrolled to the end of the file. The last entry was a single line, a
+recommendation from the lead researcher: *Proceed to Saturn field test.
+Recommend continuous-linkage protocol.*
+
+The entry had no response logged. No approval. No denial. Just the
+recommendation, sitting there, with a timestamp from eleven months ago,
+never acted on.
+
+---
+
+The anomaly records were now legible to him in a way they hadn't been twenty
+minutes ago.
+
+The batch logs used a status field he had initially skimmed past — not a flag
+exactly, more a secondary classification for high-variance yields. He had
+assumed it was a quality tier. He looked at it more carefully now.
+
+The field appeared at irregular intervals. Not random — irregular. When he
+filtered for it, he got one entry for approximately every seven hundred and
+forty standard batches.
+
+Each of these entries documented a cell that had, during processing or
+extended storage, been left in sustained contact with an adjacent cell.
+In transit packaging. In staging queues where cells were stacked port-to-port
+without separation buffers. No one had designed this. No one had intended it.
+But cells that had been in continuous contact for long enough — through months
+of shipping backlogs, warehouse holding, staging delays — had, at their
+eleven-day review interval, produced external crystal formations. Dense,
+structured, extending through the cell housing outward. Not internal yield.
+External flush.
+
+One researcher, in a handwritten annotation attached to a 2036 batch record,
+had used a different word.
+
+*Jackpot.*
+
+The yield from a single flush event was equivalent to forty to sixty standard
+harvests. Alpha tracked these separately. They did not appear in the public
+supply figures.
+
+They had been watching for the conditions that produced a jackpot event for
+years. They had not understood what those conditions were. The linked-cell
+research file had been sealed for eleven months. The connection had never
+been made.
+
+Max had just made it.
+
+Max cross-referenced the anomaly records against the grant filings he had
+found in the public database last week. Alpha had filed, over the previous
+seven years, nine separate government research grants for the development of
+what their applications described as *next-generation fuel-cell stabilization
+technology.* Combined, the grants totaled several billion dollars, drawn from
+energy crisis relief funds allocated by the Federation Council.
+
+The technology they were describing in the grant applications was Max's
+process. His recipe. His parameters — the negative-pressure chambers, the
+nitrogen cycling, the eleven-day window. Renamed. Reformatted. Resubmitted
+with incremental variations small enough to constitute new filings and large
+enough to maintain the appearance of ongoing research.
+
+Alpha had been paid billions of dollars to develop technology that already
+existed. Technology that a junior researcher had discovered by accident in an
+apartment. Technology that the company had then taken, patented, and presented
+to the Federation Council as the product of years of sophisticated R&D.
+
+He noted this the way he noted everything: as a data point. He added it to
+the notebook.
+
+---
 
 It took him two and a half shifts to find the batch destruction logs.
 
@@ -190,7 +332,7 @@ the dataset. He filtered for it.
 Three hundred and twelve entries in an eighteen-month window.
 
 Each entry recorded a quantity of crystallized DarkX product, a timestamp, and a
-status code. The status codes were internal Alpha Corp nomenclature he didn't
+status code. The status codes were internal Alpha nomenclature he didn't
 immediately know, but they were consistent, which meant they were systematic,
 which meant he could decode them from context. He spent forty minutes doing
 this. When he had the schema, he read the entries again.
@@ -200,14 +342,14 @@ rejection. The quantities attached to it were not anomalously small or large.
 They tracked, with a consistency that was striking in its precision, at roughly
 eleven to thirteen percent of each batch's usable yield.
 
-Alpha Corp was destroying product.
+Alpha was destroying product.
 
 Not spoilage. Not error. Consistent, scheduled, deliberate destruction of viable
 DarkX crystals representing eleven to thirteen percent of everything this
 facility produced.
 
 Max sat with this for thirty seconds. He thought about the supply charts he had
-memorized in the weeks since leaving Alpha Corp. Global DarkX supply had run at
+memorized in the weeks since leaving Alpha. Global DarkX supply had run at
 approximately four to eight percent below projected demand for eleven
 consecutive years. The energy crisis was, in the language of economists, a
 demand-side problem: there was not enough supply to meet demand at any
@@ -234,6 +376,8 @@ He had three minutes before the batch log session would auto-expire and require
 re-authentication.
 
 He worked efficiently.
+
+---
 
 The alarm was not his.
 
@@ -278,9 +422,11 @@ before it locks."
 
 He walked at the pace of a man who intended to return.
 
+---
+
 Corridor B was clear. He turned left at the junction and kept his pace even,
 noting the badge readers on the doors he passed: the first was already showing
-amber, cycling toward red. He did not use Michov Kargan's card on that one.
+amber, cycling toward red. He did not use Mikof Forsinko's card on that one.
 
 The second door, forty feet further, was still green. He scanned through and
 kept moving.
@@ -292,7 +438,7 @@ disappeared from view. The door opened. He walked through and descended two
 flights of stairs into a service level that smelled of refrigerant and insulated
 cable.
 
-The loading bay exit was at the west end. A man in a gray Alpha Corp uniform was
+The loading bay exit was at the west end. A man in a gray Alpha uniform was
 moving a pallet loader toward the freight elevator, his back to the door. Max
 walked past him at a consistent pace, badge in hand though there was no reader
 on this door, and pushed through the bay door into the late afternoon.
@@ -324,8 +470,7 @@ phenomenon. He put his hands in his pockets, feeling the drive in the right one
 and the notebook's corner digging into his ribs from where he had it wedged
 under his arm.
 
-Six blocks east. That was the extraction point. He had forty minutes before Chip
-and Dale's window closed.
+Six blocks east. That was the extraction point. He had forty minutes before Red and Squirrel's window closed.
 
 He started walking.
 
@@ -353,7 +498,7 @@ That was the design. Not malice toward Oren, specifically. Just the ordinary
 architecture of a machine that works better when its parts don't know what the
 other parts are doing.
 
-Max thought about the junior researcher at Alpha Corp who had first noticed that
+Max thought about the junior researcher at Alpha who had first noticed that
 a certain class of feedstock was yielding anomalous results. He thought about
 the report that researcher had almost certainly written. He thought about where
 that report had gone and who had read it and what decision had been made about
@@ -391,7 +536,61 @@ competent, genuinely dedicated people who went home at the end of each shift and
 slept well, because the machine they worked inside had been constructed so that
 none of them ever had to know what the machine was for.
 
-The extraction point was a café awning two blocks ahead. He could see Chip's
+The extraction point was a café awning two blocks ahead. He could see Squirrel's
 jacket through the crowd.
 
 He kept walking.
+
+At the café, Squirrel did not look at him when he sat down. Red had a coffee
+in front of her and was watching the street. Max put the drive on the table
+between them, face down, the way you set down something that has weight.
+
+Squirrel's hand moved over it without a gesture. It was in his jacket before
+anyone at the adjacent tables would have had reason to notice an exchange. Max
+caught a brief glimpse of the jacket's inner lining as it fell closed — the
+same small embroidered outline he'd first noticed in the safe house, a pair of
+sunglasses in dark thread, sewn flat against the fabric.
+
+"What's on it," Red said. She was still watching the street.
+
+"The long-cycle data," Max said. "What happens if you link the cells together
+and don't reset them at eleven days. Thirty-three days of continuous linkage:
+ten times the internal crystal yield, ongoing, as long as they stay connected.
+A hundred and eighty days: external crystal flushes every eleven days —
+recurring, each one equivalent to forty to sixty standard harvests — until
+you disconnect them." He paused. "They've known for nine months. It's buried
+under an access tier that shouldn't have been reachable from my clearance
+level."
+
+Red looked at him for the first time.
+
+"There's also documentation of the government grants," Max said. "Seven years
+of applications. Billions drawn from the crisis relief funds. They described
+my process as their own ongoing research." He looked at the table. "And the
+destruction logs. They've been disposing of eleven to thirteen percent of
+production per batch for eleven years to maintain the supply gap."
+
+The table was quiet for a moment. Outside, a motorcycle passed on the street.
+
+Red looked at Squirrel. Something moved between them — not surprise. The
+particular stillness of people who have been building toward something for a
+long time and have just been handed the piece that makes it load-bearing.
+
+"The zero-gravity yield," Squirrel said. "That's the piece they're most afraid
+of."
+
+"Yes," Max said. "You can't manufacture a shortage of something that
+compounds in everyone's hands."
+
+Squirrel turned the coffee cup once. "We're going to need a name for this.
+When we move it through the network, when the parallel release goes out."
+He looked at Max. "Something that says what it is."
+
+Max thought about the yield curve at a hundred and eighty days. About a fuel
+cell in zero gravity giving back more than physics should allow — compounding,
+escalating, refusing to stop.
+
+"Antigravity project," he said.
+
+Red looked at him. "That works," she said. She went back to watching the
+street. "That's what we'll call it."

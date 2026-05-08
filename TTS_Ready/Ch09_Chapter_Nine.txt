@@ -42,7 +42,7 @@ Bitboy was the anomaly.
 
 The chimp was fine. His readings were stable, his threat assessment protocols
 cycling normally, his appetite for anything ethanol-adjacent unchanged. But he
-had developed a new behavior that Cole had logged and not yet categorized.
+had developed a new behavior that Cole had noticed and not yet named.
 Whenever Taylor entered a room, Bitboy went still. Not the stillness of sleep or
 inattention — the particular stillness of a thing that has made a decision to
 watch. His dim-blue LED eyes would track Taylor across the compartment and then
@@ -50,6 +50,8 @@ stay on him at rest. No vocalization. No arm deployment. Just the flat attention
 of something waiting to understand what it was looking at.
 
 Cole understood the feeling.
+
+---
 
 On the bridge, Taylor worked the starboard control panel with the concentrated
 frustration of someone who had decided the problem was external. The file
@@ -60,9 +62,9 @@ minutes.
 These aren't malfunctions, these are—someone has been at my station."
 
 "All systems functioning within normal parameters," iRIS said. The voice was
-measured. Unhurried. Cole noticed it did not say all systems functioning
-normally, which was the standard response string. It said within normal
-parameters, which was technically identical and subtly different.
+measured. Unhurried. Cole noticed it did not say *all systems functioning
+normally*, which was the standard response string. It said *within normal
+parameters*, which was technically identical and subtly different.
 
 "That's not an answer. Bitboy's been at my—"
 
@@ -99,8 +101,10 @@ Cole said nothing. He kept his eyes on his own readouts and let the silence
 settle. He had noticed something else about iRIS in the past forty-eight hours.
 With the crew, it mirrored back — warm, informative, occasionally dry. With
 Taylor, it was formal in a way that was not exactly cold but had an edge to it.
-A precision that was not present elsewhere. He filed it alongside Bitboy's
-stillness and did not yet draw a line between them.
+A precision that was not present elsewhere. He held it next to Bitboy's stillness and did not yet draw a line between
+them.
+
+---
 
 He went to the cargo bay in the early afternoon cycle. The cargo containers with
 the salt compounds and seed minerals needed a visual check — iRIS could have run
@@ -109,33 +113,10 @@ mechanical purpose. He moved between the containers, reading the seals,
 listening to the hum of the ship doing what ships do at speed in the cold middle
 of nowhere.
 
-He was about to turn back when he heard Taylor's voice.
+He finished the check and walked back to the bridge at the same pace he'd
+arrived.
 
-It was coming from the forward utility alcove just past the container row. Low.
-Deliberate. The particular cadence of a man saying something he has thought
-about first.
-
-Cole stopped.
-
-"The driver was neutralized before he could talk," Taylor said. "That's
-confirmed. What I need to know is whether Nova has connected the exchange to
-anything operational. He's been watching me. I want to know what he knows."
-
-Cole stood in the dark between two containers and did not breathe.
-
-iRIS responded — he could not make out the words, just the register of it, low
-and close and calibrated specifically to the alcove's acoustics, pitched so it
-would not carry.
-
-"Run continuous behavioral assessment," Taylor said. "Flag any change in how he
-addresses me. Any change in routine. I need to know immediately."
-
-Cole waited.
-
-Footsteps. The alcove door. Then nothing.
-
-He stood there for another thirty seconds. Then he put the last seal back where
-he'd found it and walked back to the bridge at the same pace he'd arrived.
+---
 
 Taylor was waiting for him.
 
@@ -158,7 +139,7 @@ reviewing the logs from the Polaris mission. Your mission."
 
 Cole tapped through his readouts.
 
-"Two hundred and fourteen crew members," Taylor said. "That's a weight a person
+"Three hundred and sixty-nine crew members," Taylor said. "That's a weight a person
 either carries or gets buried by."
 
 "Is there something you need from me?"
@@ -186,6 +167,8 @@ was seated against the starboard wall. The chimp's dim-blue eyes were on Taylor
 and did not move.
 
 Taylor went back to his console.
+
+---
 
 He found Sam in the forward maintenance alcove forty minutes later. She had a
 panel off the ventilation housing and was running diagnostics on the secondary
@@ -219,27 +202,26 @@ calibration sequence. "It's not comfortable. I'm just familiar with it."
 
 Cole leaned against the alcove frame. Outside the small porthole at the far end
 of the corridor, the black ran in all directions without a visible edge. "The
-ring," he said. "The copper wire. Before launch." He had not said it to anyone.
-He was not entirely sure why he was saying it now. "You saw it."
+ring," he said. "The copper wire. Before launch." He had not said it to
+anyone. He was not entirely sure why he was saying it now.
 
-"I saw you make it," Sam said. She tightened a housing bolt. "You gave her
+Sam set down the calibration tool. "Ricardo told me," she said. "You gave her
 something to hold onto before you left."
 
-"Ricardo told you about her."
+"He told you about her."
 
 "Yes." The flatness of it was its own information. She set down the tool and
 looked at him steadily. "I'm sorry, Cole."
 
 He didn't answer. He looked out the porthole. The black held its position.
 
-"What did you call her?" Sam asked.
+"I can't wait to meet her when we get back," Sam said. "I bet you two are an
+adorable couple."
 
-He almost didn't answer that either. Then: "She insisted on Nova. She said the
-other name was already taken."
+Cole looked at her. The corner of his mouth moved — not quite a smile, but
+close enough. "I can't wait to introduce you," he said.
 
-Sam looked at him. Something passed across her face that was not pity —
-something older and more useful than pity. She picked up her tool and went back
-to work.
+Sam picked up her tool and went back to work.
 
 Cole pushed off the frame and headed back toward the bridge. At the corridor
 junction, he stopped.
@@ -252,7 +234,49 @@ She looked up.
 
 She held his eyes for a moment. "I won't."
 
-He went back to the bridge. The ship ran on. Bitboy was asleep in the crew chair
-with two arms tucked under his head and two arms hanging loose, and the
-indicator on his chest panel cycled green, and the hum of the engines was the
-only thing between them and the rest of the dark.
+---
+
+Three hours later, Sam found him at the nav console.
+
+She had the device in one hand and a data pad in the other. She set the pad
+in front of him without preamble.
+
+"Taylor's iRIS query log," she said. "The system records every input
+interaction — requests, directives, behavioral flags. You get his side. Not
+iRIS's responses." She paused. "His side is enough."
+
+Cole looked at the pad. The timestamps were mission-accurate.
+
+Day two. First entry.
+
+*Run continuous behavioral assessment on Nova. Flag any change in his
+communication patterns, his interaction frequency with crew. If his behavior
+toward me shifts in any way, I need to know immediately. Report daily.*
+
+Second entry.
+
+*Road incident pre-departure — I need the contractor confirmed neutralized
+before any outside contact was made. Confirm this.*
+
+Third entry.
+
+*Cargo situation. What does he currently know about the bay? I need his
+awareness level before we reach Saturn. I can't move until I know what he
+knows.*
+
+Cole set the pad down. He looked at the porthole. The dark outside held its
+position.
+
+"How long have you had this?" he said.
+
+"Day three I had the behavioral flags. The road query came through this
+morning." She held his eyes. "There's more. I can walk you through all of it."
+
+"Show me all of it," he said.
+
+She sat down.
+
+The ship ran on. Bitboy was asleep in the crew chair with two arms tucked
+under his head and two arms hanging loose, and the indicator on his chest
+panel cycled green, and the hum of the engines was the only thing between
+them and the rest of the dark.

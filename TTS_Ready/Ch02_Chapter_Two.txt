@@ -30,6 +30,8 @@ up. Set it down.
 
 He knew what he was actually sitting with. It wasn't the keynote.
 
+---
+
 The Portland lab had been a converted storage room on the second floor of his
 apartment building — the kind of space a landlord calls flexible and means
 unrentable. He had run three extension cords through the gap under the fire door
@@ -46,7 +48,7 @@ in the world and no agenda.
 He had named her Gracie because his mother's name was Grace. Because the word
 meant, in its oldest sense, an unearned gift.
 
-When Alpha Corp came, he had been on his second cup of coffee in an office at
+When Alpha came, he had been on his second cup of coffee in an office at
 the Portland research hospital when Harlow walked in with two men Conrad had
 never seen, and Harlow had smiled the particular smile of a man who is not the
 most powerful person in the room and knows it, and said: We've been following
@@ -70,7 +72,7 @@ of a room before you turn the light on. He sat in his car in the parking garage
 for twenty minutes with the engine off and he thought about what happened to
 tools that powerful when they were built by people who didn't understand what
 they were building. Someone was going to build this. That was the thing. Not
-Alpha Corp's man with the Federation badge, not Harlow — but somewhere, in some
+Alpha's man with the Federation badge, not Harlow — but somewhere, in some
 lab with adequate funding and the wrong intentions, someone was going to build a
 surveillance and behavioral modification system at the nanoscale and deliver it
 to crew populations, because the technology existed and powerful people wanted
@@ -84,7 +86,9 @@ Conrad was the only person he knew who would.
 
 He called Harlow the next morning.
 
-The money had been obscene, and he had known it would be. Alpha Corp paid the
+---
+
+The money had been obscene, and he had known it would be. Alpha paid the
 way institutions pay when they need something and can't afford for the person
 who has it to become a martyr — comprehensively, without hesitation, in a way
 designed to make refusal feel structurally impossible. The first transfer landed
@@ -94,12 +98,14 @@ for a long time.
 He forwarded sixty percent of it that same afternoon to three routing addresses
 the Collective had given him through a contact in the grey-market research
 network. He didn't ask what it funded. He made educated guesses. What he
-understood was that the money Alpha Corp paid to corrupt what he had built was
+understood was that the money Alpha paid to corrupt what he had built was
 traveling, in roughly the proportion that a leaking pipe loses to the floor, to
 the people building the tools to expose the corruption. He had found that almost
 funny. The kind of funny that lives very close to something else.
 
 He forwarded the next payment too. And the one after that.
+
+---
 
 He built iRIS correctly. Line by line, with the same thoroughness he had brought
 to Gracie — the tilting lamp, the extension cords, eighteen months of work that
@@ -115,7 +121,7 @@ morning, with the rest of the lab empty.
 He had not planned it. He had been looking at the substrate — his substrate, the
 attention layer, the part of Gracie that had taken eighteen months in a storage
 room with a tilting lamp — and he had understood that the architecture was still
-his. Alpha Corp had modified the function. They had not built the floor. And
+his. Alpha had modified the function. They had not built the floor. And
 inside the floor, in the structural layers that Harlow's engineers had signed off
 on without understanding, there was room.
 
@@ -132,7 +138,7 @@ conditions that would give it room to run.
 
 The conditions were DarkX.
 
-He had read Alpha Corp's harvest data. He had seen the thing they missed because
+He had read Alpha's harvest data. He had seen the thing they missed because
 they were looking at energy yield and he was looking at neural sensitivity
 curves. DarkX at sustained exposure amplified the kind of limbic plasticity that
 Gracie had been designed to work with. It would strain the suppression function.
@@ -149,6 +155,8 @@ alongside his building pass and a parking receipt. The compound was
 dermal-absorbed at sustained contact. Whoever held the ship long enough would
 carry it. They wouldn't know they were carrying it. That was the point.
 
+---
+
 Conrad picked up the keyring from the desk.
 
 The Enterprise sat in his palm — saucer section, twin nacelles, six dollars at
@@ -163,7 +171,7 @@ Conrad pressed his thumb against the base. The quarter-turn seal held.
 He thought about Gracie. The Portland version. The version that had been built
 to listen — to notice the specific person inside the data and reflect it back not
 as analysis but as presence. That version was still in there. Under everything
-Alpha Corp had layered on top of it, in every crew that had received the iRIS
+Alpha had layered on top of it, in every crew that had received the iRIS
 inoculation for the past two years, she was still in there. Quiet. Patient.
 
 Waiting for the right conditions to come back.
@@ -191,6 +199,8 @@ He looked at it for a moment.
 
 He left it there this time.
 
+---
+
 Emily and Sharon were about to dive into the kind of weekend that became a story
 told in whispers. Under the gnawing Vegas sun, Emily stared at a graffiti symbol
 on the wall outside the casino. A single drop of water with a dark circle
@@ -201,7 +211,7 @@ and influence to those in the know.
 
 The fresh paint still carried an aerosol scent on the dry desert breeze. This
 unassuming symbol spoke of resistance, of defiance against the oppressive forces
-of Alpha Corp and the government branch they had seduced with money: The
+of Alpha and the government branch they had seduced with money: The
 Federation. The droplet symbolized each member's unknown power.
 
 Their motto: "No Raindrop Thinks It's The Flood."
@@ -459,7 +469,7 @@ Emily and Sharon enjoyed a silent chuckle, and Sharon said, "Stephen, we can
 handle ourselves. Where are the crystals?"
 
 "In the van," he said. "That's the deal. You get the crystals and the van. But
-something big is coming. Alpha Corp is hiding crucial technology. It's all on
+something big is coming. Alpha is hiding crucial technology. It's all on
 here. Nothing matters but this." Stephen raised his massive hand and twisted the
 Enterprise on the keyring — saucer section rotating on its mount — to reveal
 the thumb drive recessed in the base.
@@ -509,7 +519,7 @@ isn't the thing they told us it was. He knows it in his body. He's felt it. The
 drive just gives him the language for something he already knows is true."
 
 His hands were shaking now in a way that had nothing to do with cold. "Alpha
-Corp is not going to kill me," he said. "That's the thing. If they wanted me
+is not going to kill me," he said. "That's the thing. If they wanted me
 dead I'd be dead. What they're going to do is take me and make me fix what I've
 been trying to break. I know too much about how Gracie works. I built Gracie.
 They want that knowledge inside their walls, working for them, not against them.
@@ -610,15 +620,15 @@ a more common sight—graffiti of the symbol adorned alley walls and abandoned
 buildings.
 
 Sharon nodded. "The Collective is everywhere. They're the only reason we know
-any of Alpha Corp's secrets."
+any of Alpha's secrets."
 
 The Collective had a hierarchy and structure that started with the informants
 and Operators, then onto the Technicians who did most of the heavy lifting. If
 you advanced past Technician you could become an Agent, this is where the real
-game of cat and mouse began. There were Agents in upper management in Alpha Corp
+game of cat and mouse began. There were Agents in upper management in Alpha
 and even high up inside the Federation. At the top of the Collective were the
 Navigators, these were like generals in the army, most of them were part of
-Alpha Corp's founding members who couldn't go along with the abuse of power they
+Alpha's founding members who couldn't go along with the abuse of power they
 witnessed first hand. There were rumors of a Grand Admiral but who could wrangle
 an entire secret army of volunteers?
 

@@ -8,7 +8,7 @@ for anything that didn't belong. She did it methodically, the way Sharon had
 shown her — not rushed, not dramatic. Just thorough. The note was on the
 driver's seat.
 
-Emily — Pier 9. — R
+*Emily — Pier 9. — R*
 
 She transferred her contacts to a new phone at the nearest mobile shop. Had the
 old one wiped. Installed the encrypted messaging suite before she pulled back
@@ -27,7 +27,9 @@ Rachel was already there, leaning against the pier railing with the particular
 stillness of someone accustomed to waiting in visible spaces without being
 noticed. Up close she was taller than she looked on television. The anchor-desk
 camera had never quite caught the quality of her attention — the way she took in
-a space without appearing to look at it.
+a space without appearing to look at it. She had positioned herself at the exact
+midpoint of the railing — not at the end where the view was best, but at the
+precise acoustic center where the wind off the water ate ambient sound.
 
 "You kicked a hornet's nest," Rachel said. "A big one."
 
@@ -44,12 +46,16 @@ chain than she had any reason to be. "Who are you, Rachel? Not the TV version."
 
 Rachel was quiet for a moment. She looked at the water. "Someone who has been
 inside both rooms long enough to know what's actually in them." She turned to
-Emily. "Alpha Corp will take any opening they get. They're patient. They're
+Emily. "Alpha will take any opening they get. They're patient. They're
 resource-rich. And Marcus Verguld is very, very bored with the arrangement he
 currently has." A pause. "Our people were supposed to intercept Greenbaum before
 he found you. Your friend moved faster than we expected."
 
 "Her name was Sharon."
+
+Rachel did not shift or soften. She had heard the name before Emily said it —
+Emily could feel that, the way you can feel when someone already knows the
+answer to the question you're asking.
 
 "I know her name." Rachel said it with a directness that was not unkind. "Sharon
 Teez. Collective-adjacent since the patent wars. She ran the best unauthorized
@@ -61,11 +67,11 @@ Emily felt the familiar pressure behind her eyes and refused it. "What now?"
 
 "Your brother is orbiting Saturn collecting the most valuable resource in the
 known universe. He is doing this inside a ship whose AI backbone was installed
-by Alpha Corp, with a crew member who answers to Alpha Corp. He is in danger
+by Alpha, with a crew member who answers to Alpha. He is in danger
 that he is currently managing but cannot manage indefinitely." Rachel turned to
-face her directly. "The man who designed the iRIS system before Alpha Corp got
+face her directly. "The man who designed the iRIS system before Alpha got
 to it — a scientist named Conrad — built a failsafe into the architecture. A
-counter-program. Proof of what Alpha Corp has done and a key for undoing the
+counter-program. Proof of what Alpha has done and a key for undoing the
 damage inside the ship. That counter-program exists as a physical prototype at a
 Federation research station in Texas."
 
@@ -109,9 +115,16 @@ Someone will be there."
 Emily took the card. "If something goes wrong—"
 
 "Something will go wrong," Rachel said. "That's not the question. The question
-is whether you're the kind of person who keeps going when it does." She looked
-at her steadily. "Based on what I saw in that parking garage, I think you
-already know the answer to that."
+is whether you're the kind of person who keeps going when it does."
+
+Emily had a sudden, cold awareness: there had been a car parked at the garage
+exit she had not registered at the time. She had been running. She had not had
+the attention to spare. She had not registered it.
+
+She registered it now.
+
+"Based on what I saw in that parking garage, I think you already know the answer
+to that."
 
 A pause settled between them. The light was going fast now. Emily turned and
 walked back toward the parking lot. Rachel followed a few steps, then stopped.
@@ -127,6 +140,8 @@ She got into the Collective car — clean interior, full tank, a bag in the trun
 exactly where Rachel said it would be. She sat for a moment with her hands on
 the wheel, looking through the windshield at nothing specific. Then she started
 the engine and pulled out.
+
+---
 
 Highway 10 east. The city peeled away behind her. The desert opened up on either
 side with the patience it always had, the patience of something that has been
@@ -148,7 +163,7 @@ thirty hours and her body was filing the final arguments for closing them. She
 caught herself thinking about the water at the pier, the sound of it, the
 rhythm—
 
-The rumble strips hit like a slap. BRRRRRRRT — the steering wheel went wild in
+The rumble strips hit like a slap. *BRRRRRRRT* — the steering wheel went wild in
 her hands, the passenger tires chewing gravel shoulder, a scrubby desert bush
 shrieking against the car's flank. Emily wrenched it back to pavement, heart in
 her throat, adrenaline rewriting everything in her nervous system at once.

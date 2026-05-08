@@ -70,6 +70,8 @@ forward compartment, fourth slot from the left.
 
 He did not go get it that day. He knew it was there. That was enough for now.
 
+---
+
 The vessel appeared on long-range scan at 0314 hours, ship time, which meant Sam
 was monitoring and Cole was sleeping his fragmented six-hour cycle and Bitboy
 was in the cargo bay doing something Ricardo described later as "maintenance
@@ -100,7 +102,7 @@ thinking.
 
 He thought it instead. She heard it.
 
-Alpha Corp, Gracie said.
+Alpha, Gracie said.
 
 "Can you tell me who's aboard."
 
@@ -120,7 +122,7 @@ doesn't match anything in the official registry.
 
 Cole said nothing.
 
-"Alpha Corp custom spec," Sam said, quietly.
+"Alpha custom spec," Sam said, quietly.
 
 "Yeah." Cole looked at the approach vector. "They're going to ask to dock."
 
@@ -135,46 +137,59 @@ know. Open a relay to Earth."
 "Open it. And then let them know we see them. I want them talking before they
 reach docking range."
 
-The operative introduced herself as Specialist Crane.
+---
 
-She came through the docking tube alone. The other two crew members of
-FED-MRS-0409 stayed aboard their vessel — Gracie tracked them the entire time —
-and Specialist Crane came through the tube with her helmet in the crook of her
-arm and a case in her right hand that Gracie identified as standard medical
-supply, biometric-locked, which was interesting because a medical supply case
-did not require a biometric lock.
+She came through the docking tube alone. The two crew of FED-MRS-0409
+stayed aboard their vessel — Gracie was tracking them — and she came through
+carrying a case in her right hand that Gracie had already flagged: standard
+supply dimensions, biometric-locked.
 
-She was suited in a standard Federation gray, face obscured by the transit visor
-she had not yet raised. Her movements were economy itself — no wasted effort, no
-hesitation at the threshold, the particular controlled locomotion of a person
-who had been trained in confined spaces. The visor was still down.
+Alpha Corp matte-black. No insignia. No rank markings. Visor down.
 
-"Captain Nova," she said. Her voice came through the suit's external speaker
-with the flat modulation of filtered audio. "I'm authorized to conduct a systems
-assessment and medical review of your crew under Emergency Health Protocol 7."
+She stopped at the threshold and said nothing.
 
-"There's no emergency health protocol active on this ship," Cole said.
+Cole looked at her. "You want to start somewhere."
 
-"It was filed in response to an incident report filed from your transponder six
-weeks ago."
+No answer. The visor stayed down.
 
-"Our transponder reports are routine."
+Bitboy moved first.
 
-"The incident report wasn't routine. It flagged elevated atmospheric
-contamination in your primary cargo bay." She still hadn't raised the visor.
-"I'm here to assess ongoing crew exposure and clear the mission to proceed."
+He had positioned himself at the cargo bay entry when the docking clamp
+deployed — Cole had not put him there, he had simply arrived and stood,
+which was the thing Bitboy did when his threat-assessment protocols had
+flagged something his vocoder couldn't yet express. Now he walked forward
+two paces, stopped, and fixed the figure with the flat amber attention of
+his operational scan. His LED eyes cycled. His threat panel lit.
 
-Cole looked at her. He looked at the case. He looked at the visor.
+It read:
 
-"You can raise that," he said. "We're on a pressurized deck."
+**SHE SMELLS LIKE SHARON.**
 
-She did not raise it.
+Ricardo looked at the panel.
 
-"Specialist Crane," Gracie said, in the ship's overhead speakers. "Our
-environmental systems show deck pressure at standard. If you're experiencing
-suit malfunction, I can assist."
+He looked at Cole.
 
-A beat. Then the specialist's hand moved to the visor release.
+He looked back at the panel.
+
+"I want it on record," Ricardo said, "that I have no idea how to file
+that in any existing threat category."
+
+Cole was already looking at the visor.
+
+"Take it off," he said.
+
+The figure did not move.
+
+"Gracie."
+
+*I've been running the biometric match since she crossed the docking
+threshold.* A pause — the weight of it landing before the words did.
+*Cole. Ask her again.*
+
+"Take off the visor." His voice had gone quieter than it should have been
+in a room with a standing threat. "Please."
+
+A beat. The hand came up. The visor released.
 
 Cole registered what happened next in fragments.
 
@@ -191,15 +206,17 @@ left eye blinked. The skin where the plating met flesh was smooth, sealed, the
 junction invisible except as a faint seam.
 
 He understood what the DarkX had done to him in the cargo bay, the thing about
-grief and futures and the sentence that had not yet made sense: There will be a
+grief and futures and the sentence that had not yet made sense: *There will be a
 day when you sit beside something coming back in pieces, and you will understand
-what it took for him to die. The love and the fury at the same time.
+what it took for him to die. The love and the fury at the same time.*
 
 His mouth opened and did not say her name.
 
 Gracie said it. Quietly. Inside his head. Only for him.
 
-Sharon.
+*Sharon.*
+
+---
 
 She attacked him two seconds later.
 
@@ -212,8 +229,8 @@ releasing, and what came out of it was not medical equipment.
 Cole got his arm up in time to deflect the first strike, which drove a sharp
 pain up through his elbow that he was still feeling two minutes later. She was
 fast. She was faster than he had been when they had sparred in the cabin,
-before, when she had taught him what she called efficiency and he called
-cheating because she fought like someone who had never once fought fair and
+before, when she had taught him what she called *efficiency* and he called
+*cheating* because she fought like someone who had never once fought fair and
 didn't see the point. But this was faster than that. This was something else.
 
 He caught her wrist on the second strike and held it — and felt the metal under
@@ -300,7 +317,7 @@ He understood, very slowly, what she was saying.
 
 "She built it to fail. She built it with a key."
 
-"Conrad built the original. Alpha Corp built the modification on top of it. But
+"Conrad built the original. Alpha built the modification on top of it. But
 the foundation is Gracie's foundation, and I know the foundation. The
 counter-program needs to reach her bloodstream. Direct contact. Mucous membrane
 or open wound, enough concentration."
@@ -349,6 +366,8 @@ Not the name she'd been given for this operation. Her name.
 
 "Sharon."
 
+---
+
 The compound didn't work the way Gracie had described — quick, clean, a switch
 thrown. It was slow. It was slower than anything Cole had imagined, which meant
 it was the longest he had stood in one place holding one thing in the entirety
@@ -357,7 +376,7 @@ of his life.
 He kept his palm against her cheek. She had not moved. The weapon had dropped to
 the deck. The enhanced arm hung at her side. The left eye was doing something he
 could not read, the pupil cycling through rapid micro-adjustments, and Gracie,
-quietly, told him: it's working. Don't move.
+quietly, told him: *it's working. Don't move.*
 
 He didn't move.
 
@@ -538,8 +557,10 @@ things.
 "Is there anywhere to sit down on this ship," Sharon said. "I've been standing
 for a very long time."
 
+---
+
 The two crew members of FED-MRS-0409 did not wait. By the time Cole had gotten
-Sharon to the medical bay and Sam had run the first assessment, the Alpha Corp
+Sharon to the medical bay and Sam had run the first assessment, the Alpha
 vessel had disengaged from the docking collar and begun its departure on a
 course that did not require communication. Gracie tracked it until it left
 scanner range.
@@ -597,8 +618,8 @@ to you."
 
 He had not known what she'd said. He had never been told. Sharon had been at the
 cabin with him and then Sharon had not been there, and whatever had happened
-between those two states had been delivered to him as a message that said she
-was killed and he had received it in a way that had very nearly ended him.
+between those two states had been delivered to him as a message that said *she
+was killed* and he had received it in a way that had very nearly ended him.
 
 "What did you say," he asked.
 
@@ -621,7 +642,7 @@ clicking.
 
 He thought about the old man's hand through the slats of the crib.
 
-He thought: the cell door's been open the whole time.
+He thought: *the cell door's been open the whole time.*
 
 "I'm going to tell you everything," he said. "All of it. Everything that
 happened. You should know all of it."
@@ -649,6 +670,8 @@ he'd never see again.
 
 "Neither are we," she said.
 
+---
+
 Later, much later, when the bay was quiet and Sam had gone to sleep and Ricardo
 was on watch and Bitboy was still in Sharon's lap with his small mechanical arms
 draped over her augmented knee, Cole sat in the silence of the medical bay with
@@ -665,7 +688,7 @@ through the medium of a man who had finally stopped being his own warden.
 
 He thought about what the old man had told the boy in the car.
 
-It's not out there. It never was. It was always in the reaching.
+*It's not out there. It never was. It was always in the reaching.*
 
 He looked at his right hand. At the dried blood on the palm. At the four-inch
 laceration that Sam had cleaned and sealed and told him would scar.

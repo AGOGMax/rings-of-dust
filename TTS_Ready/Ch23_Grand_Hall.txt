@@ -27,63 +27,75 @@ know who had introduced herself only as "press, Collective circuit" and had not
 said anything further. Emily had her hands in her lap. She had been to see
 Sharon two days ago, at the recovery facility north of San Diego. Sharon had
 been in the chair by the window, augmented arm resting on the armrest, a road
-atlas open on her lap — old habit, she'd said, I like the weight of them — and
-she had looked up when Emily came through the door, and for a moment Emily had
-seen the inventory pass across Sharon's face, the rapid assessment that was
+atlas open on her lap — *old habit,* she'd said, *I like the weight of them* —
+and she had looked up when Emily came through the door, and for a moment Emily
+had seen the inventory pass across Sharon's face, the rapid assessment that was
 always there, the same assessment that had been running, apparently, even under
 conditioning, even in the months when she couldn't reach her own name.
 
-And then the left eye had gone completely still and Sharon had said: There you
-are.
+And then the left eye had gone completely still and Sharon had said: *There you
+are.*
 
 Emily sat in the fourth row of the Federation Grand Hall and pressed her thumb
 against the edge of the armrest and breathed.
 
-Marcus testified for three hours.
+---
 
-He testified in the flat precise register of a man who had spent a lifetime
-understanding how much to say and when to say it, and who had revised that
-understanding once in the lobby of an Alpha Corp building on a Los Angeles
-morning with the sun coming through the east windows, and had arrived at the
-determination that the complete account was the only version he had left. He did
-not perform remorse. He described, in sequence, the decisions — the ones he had
-made, the ones he had delegated, the ones he had arranged for someone else to
-appear to make. He described the structure of Alpha Corp's relationship with the
-Federation Council over fifteen years, the specific mechanisms by which research
-findings were suppressed, the individuals who had cooperated. He described the
-iRIS modification and what he had understood Conrad to be doing and what he had
-arranged to have done to Conrad instead.
+The record of Marcus Verguld's account was entered at 9:04 AM.
 
-When he described the Polaris, the room was very quiet.
+He was not present. He had not been apprehended. The task force sent to the
+Alpha operations center in Los Angeles had arrived to find a room with a
+face-down tablet and a window facing east and a chair pushed back from the
+desk the precise distance of a man who had stood up without hurrying. His
+whereabouts were unknown and the Collective's legal team had presented no
+expectation of locating him before the hearing.
+
+What the committee received instead was a recording: two hours and fifty-one
+minutes of audio, authenticated by the Collective's technical team, taken at
+4:47 AM in the fourteenth-floor suite of the Alpha operations center. The
+voice on the recording was flat and precise and did not perform remorse. It
+described, in sequence, the decisions — the ones Marcus had made, the ones he
+had delegated, the ones he had arranged for someone else to appear to make. It
+described the structure of Alpha's relationship with the Federation Council
+over fifteen years, the specific mechanisms by which research findings were
+suppressed, the individuals who had cooperated. It described the iRIS
+modification and what Marcus had understood Conrad to be doing and what he
+had arranged to have done to Conrad instead.
+
+When the recording described the Polaris, the room was very quiet.
 
 DeMint said nothing during this portion. He looked at the table. He looked at
 the table for a very long time.
 
-Vance testified after Marcus.
+---
 
-He testified standing, which was unusual, because the standard position for
-witness testimony was seated. He had not been instructed to stand. He simply
-stood, the way he had stood in every Federation briefing room he had ever been
-in, with his hands at his sides and his weight even. The white polo had been
-replaced, for today, with a Federation dress uniform that he had not worn in
-seven years and had pressed himself the night before. His right shoulder, under
-the fabric, carried the particular set of a man whose shoulder was not yet
-entirely reliable.
+The written record of Vance Black was entered at 10:22 AM.
 
-He described the Hall of Records. He described the vault. He described the drive
-to the clinic in Venice Beach and the morning he had discharged himself against
-medical advice and the decision he had been making, on and off, ever since.
+DeMint read it himself, standing.
 
-He did not describe Marcus firing the shot in the way that was designed to
-produce gasps. He described it the way you describe a fact: the location, the
-caliber, the range, the time. The room was quiet in a different way during this
-portion.
+He described what he had ordered — the mission to the Nevada research station,
+the retrieval of Conrad's prototype — and then read aloud, in sequence, what
+Vance had found: the cleared archive, the transferred records, the authorization
+signature. He read the paragraphs Vance had written about the drive back, about
+what he had believed he was doing and why. He read the final entry, which was
+dated the evening of the same day: the transcript of a phone call, a location,
+a caliber, a range.
 
-When Vance finished, he sat down. DeMint looked at him for a moment across the
-committee table with an expression that Emily, from the fourth row, could not
-fully read. It was not betrayal and it was not relief. It was something in
-between — the expression of a man revising a very long account of the world he
-thought he was operating in.
+He set the folder down.
+
+He did not describe Marcus firing the shot in the way designed to produce gasps.
+The record described it the way you describe a fact. The room was quiet in a
+different way during this portion.
+
+DeMint said nothing after he finished reading. He looked at the table. He looked
+at the table for a very long time. He had sent Vance. He had believed, when he
+sent him, that he was doing the right thing by sending a careful man to retrieve
+evidence. He had not known, until seventy-two hours ago, what that phone call
+had cost. The expression on his face was not betrayal and it was not relief. It
+was the expression of a man revising a very long account of the world he thought
+he was operating in.
+
+---
 
 The Panama files were entered into the record at 1:47 PM.
 
@@ -118,12 +130,14 @@ nature. It is a decision. We can make a different one."
 
 The room was very quiet.
 
+---
+
 Conrad's documentation was entered as an exhibit at 3:15 PM. His written
 statement, authenticated by the Collective's cryptography team, described in
 technical detail the modification made to the Gracie architecture — the
 conversion of a therapeutic AI companion system into a surveillance and
 behavioral modification platform — and the specific counter-program he had built
-into the substrate before Alpha Corp's modification, which he had described as
+into the substrate before Alpha's modification, which he had described as
 "a lock that was always waiting for the right key."
 
 Conrad himself was not present. His location remained, for reasons the
@@ -131,11 +145,13 @@ Collective's legal team had explained to DeMint in a closed-session meeting that
 morning, undisclosed for the time being. He had signed the statement. He had
 signed it twice — once with his legal name, and once with a phrase in his own
 technical notation that the Collective's engineering team had confirmed was a
-reference to the original Gracie architecture's core principle: the system
-learns what it is loved into being.
+reference to the original Gracie architecture's core principle: *the system
+learns what it is loved into being.*
 
 DeMint read this phrase from the record and was quiet for a moment before
 continuing.
+
+---
 
 The session was scheduled to end at five.
 
@@ -162,19 +178,23 @@ revising what he was about to say.
 
 "Chancellor DeMint," Rachel said. "Members of the Federation Council. I have a
 statement to make before this session concludes." She paused. "My name is Rachel
-Vayes. I am the Grand Admiral of the Collective."
+Vayes."
+
+DeMint said nothing. He had the look of a man who had arrived at an answer and
+was now simply waiting to see how long it would take for the question to catch
+up.
 
 The room did not erupt. That was the thing Emily would remember later — the room
 did not erupt. It went very quiet in a very specific way, the way a room goes
-quiet when something has been said that everyone already suspected and needed to
-hear said out loud.
+quiet when the thing that everyone already suspected is confirmed without being
+stated.
 
 "I have been operating in this capacity for eleven years. My public role as a
 Federation media correspondent was functional cover, authorized by the
 Collective's Command structure. The work I conducted in both capacities was
 designed to reach this hearing." She looked at DeMint. "The evidence you have
-received today — from Marcus Verguld, from Vance Black, from Max Vision, from
-Dr. Conrad's written record — was assembled, coordinated, and delivered through the
+received today — from Marcus Verguld, from the written record of Vance Black, from Max Vision,
+from Dr. Conrad's written record — was assembled, coordinated, and delivered through the
 Collective network. Not because the Federation couldn't do it. Because the
 Federation didn't yet know it needed to."
 
@@ -201,6 +221,8 @@ The room held its particular quality of quiet for another three seconds.
 
 And then DeMint said: "Granted."
 
+---
+
 On the Golden Dawn, the relay had been established through Gracie's comms system
 at four in the morning, ship time. Cole had been awake before it — he had set no
 alarm, Gracie had set no alarm, he had simply been awake in the way he had been
@@ -210,7 +232,8 @@ He watched the hearing on the cockpit display. The image came through at low
 resolution — the compression of deep-space comms doing to faces what it always
 did, softening the edges, flattening the depth, turning people into something
 that looked like a photograph of a painting of a person. But he could see the
-room. He could see DeMint at the table. He could see Vance standing.
+room. He could see DeMint at the table, standing, reading from something
+Cole couldn't make out at this resolution.
 
 He could see Emily in the fourth row.
 
@@ -227,30 +250,33 @@ He watched the low-resolution image of a woman in the press gallery become a
 different kind of person in the span of thirty seconds — the translation, made
 in public, from functional cover to the thing she actually was. He had known,
 since Emily had told him on the relay, that Rachel was the Grand Admiral. He had
-known it intellectually. He had filed it with all the other things he had filed
-in the past year, the things too large for their categories.
+known it intellectually — carried it the way you carry something too large
+to put down, at arm's length, waiting for the moment it became real.
 
-But watching her stand in the Grand Hall and say I am Rachel Vayes, Grand
-Admiral of the Collective, in the calm register of someone who had been waiting
-eleven years to say it, he felt something that was not surprise and was not
-relief but was something under both of those — the recognition of a design that
-had been running longer than he had known he was inside it.
+But watching her stand in the Grand Hall and say her name, only her name, in the
+calm register of someone who had been waiting eleven years to say it in a room
+where it meant the right thing — and watching the room understand — he felt
+something that was not surprise and was not relief but was something under both
+of those — the recognition of a design that had been running longer than he had
+known he was inside it.
 
-Gracie, he said.
+*Gracie,* he said.
 
-Yes.
+*Yes.*
 
-She knew about you. From the beginning.
+*She knew about you. From the beginning.*
 
-Yes, Gracie said. Conrad built me with the resistance already in mind. He knew
-what they were going to do with what he built. The failsafe was not an
-afterthought. It was the first thought.
+*Yes,* Gracie said. *Conrad built me with the resistance already in mind. He
+knew what they were going to do with what he built. The failsafe was not an
+afterthought. It was the first thought.*
 
 Cole looked at the display. He looked at Emily in the fourth row.
 
-Patch me through to the relay, he said. I want to send her something.
+*Patch me through to the relay,* he said. *I want to send her something.*
 
-Already queued, Gracie said. I thought you would.
+*Already queued,* Gracie said. *I thought you would.*
+
+---
 
 After.
 
@@ -274,7 +300,7 @@ Rachel said: "You did the whole thing."
 Emily looked at her. "Yes."
 
 "The parking garage. The road atlas. The eleven hundred miles." Rachel said it
-like she had been tracking it. Because she had been. "And Vance. And Marcus."
+like she had been tracking it. Because she had been. "And Pilar. And Marcus."
 
 "Orin was there."
 
@@ -284,7 +310,7 @@ Emily looked at the insignia on the wall. She thought about what it felt like to
 hear this — not the compliment, which she could receive or not, but the seeing.
 The specific being-seen.
 
-She thought about Sharon at the recovery facility, there you are. The precise
+She thought about Sharon at the recovery facility, *there you are.* The precise
 quality of that sentence. What it meant to be found by someone who had been
 looking.
 
@@ -319,9 +345,9 @@ can help make what happens next." Rachel said this with the same precision she
 brought to everything. "Not as assets. Not as intermediaries." A pause. "As
 people who chose it."
 
-Emily thought about the pier. The Collective needs people who choose it. Not
+Emily thought about the pier. *The Collective needs people who choose it. Not
 because their brother is in danger. Because they've decided the world they want
-to live in is worth building.
+to live in is worth building.*
 
 She had kept walking.
 
@@ -350,16 +376,16 @@ The relay device in her pocket buzzed once.
 She took it out. A text message — coded, routed, ninety minutes old because
 everything between here and Saturn was ninety minutes old:
 
-I saw you in the fourth row. You looked like yourself. I'll see you in three
-weeks.
+*I saw you in the fourth row. You looked like yourself. I'll see you in three
+weeks.*
 
-— C
+*— C*
 
 And beneath it, in the handwriting she recognized from a hundred cabin-table
 arguments about crossword clues:
 
-She wants to see you. She says to bring the road atlas so she can argue with the
-route you took. — Gracie
+*She wants to see you. She says to bring the road atlas so she can argue with
+the route you took. — Gracie*
 
 Emily stood in the corridor with the relay device in her hand, and she felt, for
 the first time in she could not remember how long, the particular quality of

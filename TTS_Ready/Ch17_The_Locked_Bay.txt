@@ -24,8 +24,10 @@ It was almost ordinary.
 
 Cole watched the drone feeds and thought about nothing in particular and waited.
 
+---
+
 FLASHBACK — SEVEN YEARS EARLIER
-Alpha Corp Regional Briefing, Sector Five Annex
+Alpha Regional Briefing, Sector Five Annex
 
 The room was the kind of room that didn't have windows. Taylor had been in
 dozens of them. Identical white acoustic panels, an oval table, a presenter at
@@ -93,6 +95,8 @@ On the way out, he did not look at Vance Black.
 
 Vance did not look at him either.
 
+---
+
 The intercom clicked on at 14:07.
 
 "Crew, this is Taylor. We've got a pressure integrity flag on the cargo bay
@@ -118,6 +122,8 @@ Sam closed her station. Ricardo secured the drone telemetry panel. Bitboy was
 already near the cargo bay entrance, his LED eyes a steady amber.
 
 They went.
+
+---
 
 FLASHBACK — FOUR MONTHS BEFORE LAUNCH
 Hall of Federation Records, Sublevel Three
@@ -152,7 +158,7 @@ read alarm on it they stopped giving you information and started managing you.
 He walked to the lobby and sat down in one of the chairs they kept there for
 people waiting on appointments. He sat for perhaps four minutes. He had come
 here with leverage — the research was proof, it was documentation that the
-foundation of Alpha Corp's entire extraction claim was built on a survey that
+foundation of Alpha's entire extraction claim was built on a survey that
 had been altered, and if he brought that to DeMint he would have something real
 to trade for protection, for a path out of this that did not end in the way he
 increasingly suspected it was going to end.
@@ -179,6 +185,8 @@ people like Marcus assumed everyone was as calculating as they were.
 He started composing the message.
 
 That was who Vance was.
+
+---
 
 The cargo bay was cold. It ran a few degrees below the rest of the ship — the
 crystalized DarkX in the storage housing required it, and Taylor had cited this
@@ -210,8 +218,7 @@ a conclusion he had already reached at some earlier point and was only now
 choosing to share.
 
 Cole said nothing. He looked at Sam. Sam was already moving toward the manual
-override panel — she had located it three days ago, filed the location without
-saying why.
+override panel — she had found it three days ago and said nothing.
 
 The intercom clicked again.
 
@@ -228,6 +235,8 @@ sudden catastrophic Hollywood version. This was slow. Careful. A man who knew
 what he was doing.
 
 Taylor was venting the bay.
+
+---
 
 FLASHBACK — THREE WEEKS INTO THE MISSION
 Taylor at his console, 0340 ship time
@@ -264,13 +273,11 @@ Taylor went back to work.
 
 Sam was at her station four meters away, cross-indexing the iRIS synchronization
 logs with the drone schedule. She had been watching him without appearing to
-watch him, the way she did most things. She saw his hands settle. She saw the
-half-second. She filed it the same way she filed everything — without visible
-reaction, without any change in what she was doing.
-
-She said nothing.
+watch him, the way she did most things. She saw his hands settle. She saw the half-second.
 
 She noted the time and went back to the logs.
+
+---
 
 "Sam." Cole kept his voice level.
 
