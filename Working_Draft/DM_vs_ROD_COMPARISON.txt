@@ -1,0 +1,595 @@
+RINGS OF DUST vs. DARK MATTER — COMPARISON DOCUMENT
+Working Draft | May 2026
+
+PURPOSE: Identify what each version does better, chapter by chapter,
+so the finished work can pull the best of both. Three scenes from
+DM are flagged for immediate insertion into ROD. Additional structural
+differences are noted throughout.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER ONE
+─────────────────────────────────────────────────────────────────────
+
+ROD: Tight, kinetic, efficient. The Polaris explosion is earned and
+spare — Cole adrift, the final log to Emily, Ricardo and Bitboy
+pulling him out. The 369 crew count lands with appropriate weight.
+Cole's first DarkX contact is understated. No over-explanation.
+
+DM: Earlier drafts used a crew count of 375. The downward correction
+to 369 was a good call — smaller, more specific, harder to round off.
+DM's opening may have been slightly more interior and slower to the
+action. ROD wins here on pacing.
+
+VERDICT: ROD is the better version. Retain as-is.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER TWO
+─────────────────────────────────────────────────────────────────────
+
+ROD: Conrad's POV chapter in Room 1122 is the book's load-bearing
+exposition. The Gracie/iRIS architecture, the hollow Enterprise,
+the encrypted drive, Sharon's Collective adjacency — it's all here,
+delivered cleanly. Emily and Sharon's social-engineering play
+(elevator circulatory dysfunction scam on Greenbaum) is charming
+and shows competence without requiring explanation.
+
+DM: Structure similar, but the Gracie counter-program may have been
+less developed or placed differently. ROD's version is specific about
+what the program does and why the Enterprise toy specifically was
+chosen — this precision matters because the payoff in Ch18/19
+requires the groundwork to be exact.
+
+VERDICT: ROD is the better version. The specificity of the counter-
+program architecture earns the boarding scene later. Retain as-is.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER THREE — A THOUSAND THRILLS
+─────────────────────────────────────────────────────────────────────
+
+ROD: Cole's origin. Marcus Verguld as a childhood figure Emily
+handles physically. The father's cancer. The Academy push. The
+chapter works because it gives Marcus a specific relational history
+before he appears in Chapter Ten — Emily has already put him on the
+ground once, and that history makes her "I've kicked your ass before"
+land as earned rather than theatrical.
+
+DM: Origin scene may have been present but Marcus's role in it less
+specific. The connection between childhood Marcus and adult Marcus —
+the continuous unbroken thread of who he is — may not have been as
+clearly drawn. ROD's version means that when Marcus does the quiet
+eye-recalibration in Ch10, the reader has already seen what Emily
+is referring to.
+
+VERDICT: ROD is the better version. The Marcus throughline from
+Ch03 to Ch10 is elegant architecture. Retain as-is.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER FOUR
+─────────────────────────────────────────────────────────────────────
+
+ROD: The cabin scene is exactly the right length and temperature. The
+Enterprise contact is understated. Ricardo, Emily, Sharon arriving
+together gives it critical mass. "We do this together" lands. The
+Bitboy hand sanitizer detail earns its comic weight without asking
+for it.
+
+DM: Similar scene. The DM version may not have had the counter-program
+absorption as a specific beat — Cole picking up the toy would have
+been incidental rather than load-bearing. ROD made this contact
+intentional and specific, which is necessary for the payoff.
+
+VERDICT: ROD is the better version. Retain as-is.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER FIVE
+─────────────────────────────────────────────────────────────────────
+
+ROD: Max's flywheel discovery is well-placed here. The economics
+of what he's found — the 33-day and 180-day thresholds — are
+explained clearly without becoming a lecture. The Federation HQ
+insertion (Taylor's "Samantha" power move / Sam's non-response) is
+efficient. Max lifting the fuel cell is clean and small.
+
+DM: The flywheel math may have been introduced later or less
+specifically. Placing it here, in parallel with Cole heading toward
+the mission, sets up the dual-track structure that runs throughout:
+the institutional proof (Max/Squirrel) moving on a separate timeline
+from the personal proof (Cole/iRIS/Gracie).
+
+VERDICT: ROD is the better version. The early placement of the
+flywheel is a structural improvement.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER SIX
+─────────────────────────────────────────────────────────────────────
+
+ROD: The copper ring beat is the emotional center of this chapter and
+it earns its weight — Cole making something with his hands, giving
+Sharon a physical anchor before he leaves. The Kowalski egg story
+is the right kind of strange (a soldier burying money in a jar, the
+jar being the point). The road attack is well-staged. Ricardo's
+recognition of Davis and Brandon T. is appropriately withheld.
+
+DM ADVANTAGE — THE HEAVY HITTER SCENE:
+DM had a scene AFTER "Cole watched Emily and Sharon in the rearview
+mirror until they were too small to recognize" and BEFORE the road
+attack — a banter beat between Cole and Ricardo, possibly involving
+Ricardo's history with a certain type of woman (the "plump women"
+/ "Heavy Hitter" exchange from DM). This scene served as comic relief
+and texture between the tenderness of the ring moment and the violence
+of the attack. The tonal gap in ROD between line 92 (watching Emily
+and Sharon disappear) and the first sign of the SUV is noticeable —
+there is a beat missing, a breath of normalcy before the road goes
+wrong, and DM had it.
+
+ACTION: INSERT the Heavy Hitter / plump women banter scene into
+Ch06, AFTER line 92 ("Cole watched them until they were too small
+to recognize.") and BEFORE the first sign of the black SUV. Match
+DM's comic register — two men in a truck cab, road ahead, Ricardo
+being exactly Ricardo.
+
+VERDICT: ROD has the better bones. DM has a scene that belongs
+in the gap. Import and insert.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER SEVEN
+─────────────────────────────────────────────────────────────────────
+
+ROD: Federation HQ chapter does a lot of work cleanly. Vance Black
+is introduced as a credible institutional authority. The iRIS
+inoculation scene is specific and unsettling ("occupation") in a
+way that a generic "welcome aboard" would not be. Sam's Collective
+patch inside the duffel is the right kind of small. Bitboy on amber.
+"Until death do us part." The launch. The decommissioned shuttle
+watchers.
+
+DM: May have had Vance more actively present here, less as a gatekeeper
+and more as a character. The Vance/Taylor dynamic may have been
+established more explicitly before launch. ROD trusts the reader to
+register Taylor's hostility without over-explaining what it means,
+which is the right call.
+
+VERDICT: ROD is the better version. Retain as-is.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER EIGHT
+─────────────────────────────────────────────────────────────────────
+
+ROD: This chapter does enormous structural work and it mostly lands.
+The Sprinter van crystal transfer gives Squirrel and Red their first
+on-page appearance, which roots the Collective as operational rather
+than abstract. The Greenbaum sequence is the book's first sustained
+action scene and it shows Emily and Sharon's competence — their banter
+with Greenbaum is sharp, their read of the situation correct. The
+lot scene (sniper, chaos, Sharon down, the second vehicle) is
+effectively constructed. The most important function of this chapter
+is the divergence it creates: Emily believes Sharon is dead, and is
+told so explicitly by Rachel. Sharon is alive. Alpha's second vehicle
+takes her. This is the pivot everything in Ch19 depends on.
+
+The Rachel Vayes introduction here — her voice, her specific deal
+structure, her admission that Greenbaum went off-script — establishes
+her as a person who is inside the machine and uncomfortable there.
+This makes her Ch23 stand more earned.
+
+POTENTIAL NOTE: The chapter's prose register is slightly more
+conventional than the book's later chapters — the van sequence and
+the lot escape have more physical staging than psychological interior.
+This is not a flaw but a tonal distinction worth noting. The book
+tightens stylistically after Ch09; Ch08 reflects an earlier draft
+sensibility in places.
+
+DM: The crystal transfer and Greenbaum encounter were likely present
+in similar form. The key DM difference to verify: how explicitly was
+Sharon's "death" staged, and did DM have the second vehicle detail
+that plants Sharon's abduction? If DM was less specific about the
+second vehicle — if Sharon's fate was simply left ambiguous — ROD's
+version is stronger for making the mechanics of the abduction visible
+to the attentive reader even at the moment it appears to be a death.
+
+VERDICT: ROD is structurally correct on this chapter. The divergence
+point is well-executed. Minor prose revision for tonal consistency
+with the later chapters would strengthen it without changing the
+architecture.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER NINE
+─────────────────────────────────────────────────────────────────────
+
+ROD: The cumulative iRIS effect is handled elegantly. The chapter
+does not explain the DarkX proximity effect as a problem — it presents
+it as a fact, which keeps it from feeling expository. Taylor's clock
+complaint and iRIS's response ("the perception of time dilation...")
+is precise and slightly cold. Bitboy's watching behavior. Sam's
+device in the ventilation alcove. Taylor's iRIS query logs — the
+behavioral monitoring order, the road contractor confirmation, the
+cargo bay awareness question — all three land in a specific sequence
+that escalates correctly. The Sam/Cole conversation at the alcove
+threshold ("Ricardo told me. You gave her something to hold onto.")
+is the best scene in this chapter.
+
+DM: Taylor's surveillance apparatus may have been more bluntly
+revealed in DM, without the mediation of Sam's quiet competence as
+the delivery mechanism. ROD's version — Sam receiving the data,
+filtering it, and presenting only what Cole needs when she has it
+confirmed — is a better structural choice. It tells us who Sam is
+at the same time it tells us what Taylor has been doing.
+
+VERDICT: ROD is the better version. The Sam/Cole threshold exchange
+in particular is a character scene that earns its place.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER TEN
+─────────────────────────────────────────────────────────────────────
+
+ROD (REWRITTEN): The Emily/Marcus meeting is the strongest version
+of this scene. The childhood recognition beats every version of
+"Marcus as powerful stranger" because it immediately deflates the
+architectural power of his office — she has already put him on the
+ground, and she says so. Marcus's response (the quiet recalibration,
+not embarrassment) establishes his character as ROD's Hannibal
+archetype: he doesn't feel diminished, he revises upward. The
+revelation of the shadowing ship is planted efficiently. Emily's
+card drop in the parking garage on the way out is a perfect small
+action that shows exactly who she is.
+
+DM EARLIER VERSION: The earlier version of this meeting may have
+been a more standard confrontation — Marcus as information-holder,
+Emily as information-seeker. The childhood history was either absent
+or underutilized. Without it, the scene is a table of leverage,
+which is less interesting than what ROD does with it.
+
+VERDICT: ROD (rewritten version) is definitively better. The meeting
+earns its place in the book because it's about history, not just
+transaction. Retain as-is.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER TEN-B — MAX AND THE FLYWHEEL
+─────────────────────────────────────────────────────────────────────
+
+ROD: Max extracted to safe house, Squirrel and Red debrief. Max
+explains the gap between what Alpha sees (output) and what he found
+(the principle). Red gives him the address. This is a transitional
+chapter — it keeps Max moving and sets up his Panama infiltration
+without rushing it.
+
+DM: The Max/Squirrel/Red arc may have moved faster or been structured
+differently. ROD's insertion of this beat gives Max a distinct
+character moment before the Panama operation — his observation that
+Alpha "missed the actual discovery" is a scientist's specific and
+telling frustration, not just an operative's.
+
+VERDICT: ROD is the better version. Max's voice is clearly
+established here.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER ELEVEN
+─────────────────────────────────────────────────────────────────────
+
+ROD: DeMint dispatches Vance to Conrad's desert station. Sam sweeps
+the cargo bay. Taylor watches the footage. The chapter is solid but
+relatively contained — Vance arrives at the station and begins asking
+the right questions, but we don't follow him inside.
+
+DM ADVANTAGE — THE BLACK SITE SCENE:
+DM had an explicit scene in which Vance arrives at a desert location
+that functions as a former drive-in theater repurposed as an Alpha
+black site. He goes underground. He reaches a records vault. A clerk
+tells him the vault was cleared by Alpha Corp trucks, authorized by
+a woman named Rachel Vayes. This is a dramatically superior version
+of "Vance is asking questions" — it shows his investigative competence
+actively, gives the Rachel Vayes name its first in-book appearance
+with specific weight attached, and earns Vance's eventual fate by
+showing us what he was close to uncovering.
+
+ACTION: INSERT the Vance black site scene into Ch11, AFTER line 117
+("Then he straightened his collar and went to get his car."). Use
+DM's version — the desert drive-in facility, the underground records
+room, the clerk, the specific detail of the Alpha trucks and the
+Rachel Vayes authorization. This is a scene ROD needs.
+
+DM ADVANTAGE — VANCE CONFRONTS MARCUS:
+DM also had the scene that follows Vance's black site discovery
+immediately: Vance goes to Marcus. The exchange: "How is my favorite
+little snitch?" Marcus reveals he knows Cole is on the Golden Dawn.
+He shoots Vance in the stomach, then the forehead. Vance is revealed
+as Marcus's man — not Taylor's, not Klaus's — which makes his death
+Marcus's specific act of housekeeping, not institutional elimination.
+
+This scene is critical for several reasons:
+1. It shows Marcus committing violence directly, not delegating it,
+   which shifts his register from political operator to something
+   colder.
+2. "My favorite little snitch" establishes that Vance's questions
+   were noticed and that Marcus had been ahead of him.
+3. It explains why Vance's written record (read aloud in the Grand
+   Hall in Ch23) is being read posthumously — and makes the moment
+   of that reading more resonant because we were in the room when
+   it was decided.
+4. It gives Rachel Vayes's Ch23 testimony added weight — she knows
+   Marcus ordered Vance killed because the Rachel Vayes name in
+   the vault clearance record is what led Vance to him.
+
+ACTION: INSERT the Vance/Marcus confrontation IMMEDIATELY AFTER the
+black site scene, still in Ch11. Two scenes back to back: discovery
+then death. The reader learns what Vance found and watches Marcus
+respond in the same chapter.
+
+VERDICT: ROD without these scenes is missing two critical beats.
+Ch11 in DM is a significantly stronger chapter. Import both scenes.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER TWELVE
+─────────────────────────────────────────────────────────────────────
+
+ROD: Sam and Ricardo discovering the jammer is efficient and lands
+quietly, which is the right register — a technical discovery that
+has large implications but is presented as a mechanical fact. The
+delivery of Sharon's death is handled well; we're not given grief-
+staging, just Cole's controlled response and what he does next.
+The Taylor confrontation ("People who know too much become
+liabilities") works because it is polite and specific and obviously
+wrong in a way that both men understand. iRIS blocking comms during
+the confrontation is a clean tell.
+
+DM: The jammer discovery may have been similar. Sharon's death
+delivery may have been more explicitly staged. ROD's restraint here
+is correct — the book earns the right to deliver this news flatly
+because we've been in this crew's interiority long enough.
+
+NOTE: With the Ch11 Vance scenes inserted, this chapter now follows
+Marcus's two shots. The Sharon news arrives on the heels of the
+reader processing Marcus's violence. That's a good sequence — it
+means Ch12 opens with the reader's nerves already raw.
+
+VERDICT: ROD is the better version. Retain as-is. (Ch11 insertion
+makes Ch12 land harder.)
+
+─────────────────────────────────────────────────────────────────────
+CHAPTER THIRTEEN
+─────────────────────────────────────────────────────────────────────
+
+ROD: Emily on the pier. Drive east. Rumble strips. Gas station.
+"Not yet. But I think I'm going to be." Three hours of sleep. This
+is a quiet chapter, interior and spare, and it works because the
+book needs a breath at this point. Emily is not being heroic; she
+is just moving. That is the right register for where the story is.
+
+DM: May have had a slightly longer or differently structured version
+of this beat. ROD's compression is correct — anything more would
+over-explain what doesn't need explaining.
+
+VERDICT: ROD is the better version. Retain as-is.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTERS FOURTEEN THROUGH EIGHTEEN — BROADER NOTES
+─────────────────────────────────────────────────────────────────────
+
+Ch14 (Cole in bunk / Saturn / Flashback to Cody dying):
+ROD handles the Collective reveal well — Sharon laying out the three
+black crystals is the right note for that memory. The Saturn
+description ("cold pearl with a knife laid across its belt") is the
+best image in the book. iRIS asking "Are you well?" quietly is a
+necessary early signal. DM may not have had the Cody backstory this
+fully developed — ROD's version earns the Collective's presence as
+a structural force rather than just a plot mechanism.
+
+Ch15 (Surprise, AZ / Orin):
+ROD's approach to the Collective's vetting process — Orin tailing
+Emily as a field assessment, Emily noticing and asking directly,
+Orin explaining without ceremony — is clean. The "clearance three
+means authorized field participation" line is a good institutional
+detail that doesn't over-explain. DM may have introduced Orin
+differently. ROD's version is better because it shows both Emily's
+competence (she noticed) and the Collective's respect for that
+competence (Orin tells her the truth).
+
+Ch16 (Max as Mikof Forsinko / Panama):
+This is a strong chapter in ROD. The Dr. Oren relationship is the
+moral complexity that elevates Max from operative to person. The
+four discoveries Max makes in the batch logs are correctly sequenced
+— each one broader than the last, building to the fraudulent grants
+as the final register of what Alpha actually is. DM may have had
+a simpler infiltration. ROD's emotional cost (Max's guilt about
+what his operation will cost Oren) is the right addition.
+
+Ch17 (The Locked Bay / flashbacks):
+ROD's chapter structure — the locked bay present-tense intercut with
+Taylor's history via flashback — is the most complex formal choice
+in the book, and it mostly works. The Alpha briefing seven years
+prior gives Taylor an origin that makes him more frightening than
+a simple villain. "Vance Black, deceased" closed like a resolved
+footnote is the strongest single Taylor moment in the book. DM's
+version of this chapter may have been more action-driven and less
+interiorized. ROD's structural choice is the better one.
+
+Ch18 (The Four Coles / DarkX vision / Gracie reborn):
+This is the book's most ambitious chapter and ROD earns it. The four
+versions of Cole are specific and non-interchangeable. The substance
+refusing to show him Sharon ("it doesn't lie") is a correct and
+necessary detail — it prevents the chapter from being wish-fulfillment.
+"You don't need a pardon. You need to stop being the warden" is the
+line the entire book has been building toward. The Gracie reveal ("I
+think I'm Gracie") needs the earlier groundwork (Ch02 Conrad, Ch07
+iRIS inoculation, iRIS latency in Ch09) to land, and it has it.
+DM's version of this chapter may have been a simpler DarkX vision.
+ROD's version is the correct level of ambition.
+
+─────────────────────────────────────────────────────────────────────
+CHAPTERS NINETEEN THROUGH TWENTY-FIVE — BROADER NOTES
+─────────────────────────────────────────────────────────────────────
+
+Ch19 (The Boarding):
+ROD (rewritten) is structurally superior to any DM version in which
+Sharon appears as "Specialist Crane" embedded in the Golden Dawn
+crew. The Specialist Crane architecture (Sharon using a cover
+identity to infiltrate the crew) had several problems:
+  — It required the crew to not recognize her, which strains
+    credibility given Cole's relationship with her.
+  — It made Sharon active and competent in her own right, which is
+    a problem if the arc requires her to be a weapon.
+  — It reduced the Boarding to a reveal rather than a rescue.
+
+ROD's version (Sharon stowed in the weapons hold of the Alpha vessel,
+augmented against her will, deployed through the docking tube) is
+correct because:
+  — Bitboy's SHE SMELLS LIKE SHARON panel is only possible if
+    she arrives from outside.
+  — The half-augmentation (right side still hers) lets Cole have
+    something to place his palm against.
+  — The counter-program transfer via contact is the physical
+    completion of the abstract process that began in Ch04.
+  — "I said, 'Come back.'" works only if she has been somewhere
+    that was not with them — not if she was Specialist Crane the
+    whole time.
+Ricardo's filing-category line ("I have no idea how to file that in
+any existing threat category") is the correct tonal punctuation.
+
+VERDICT: ROD is definitively better on Sharon's architecture. The
+Specialist Crane cover identity should never be restored.
+
+Ch20 (Houston Heist):
+Both versions likely similar. ROD's version is clean. Cole's relay
+"She's here" coming through Gracie (not through standard comms) is
+the correct payoff for the Gracie restoration arc — the fact that
+Cole can now reach Emily through a channel Taylor doesn't control
+is the operational proof that Ch18 worked.
+
+Ch21 (Max's Cargo):
+The concrete heron listing four degrees east is one of the book's
+best images. Max's delivery to Squirrel works because the chapter
+gives him the full weight of what he's carrying before he sets it
+down. The "You can stop now" beat is earned. DM may have had this
+chapter in a simpler form — ROD's version is emotionally complete.
+
+Ch22 (The Black Site / Marcus unremorseful):
+Marcus's accounting to Emily is the chapter that confirms the
+Hannibal Lecter register — he is not confessing, he is giving a
+ledger. "I'm not contrite. I'm realistic." "Yes" (to Emily's
+accusation about utility analysis) is the correct answer because
+agreeing is more frightening than denying. The four-minute departure
+before Emily arrives ("That was also Marcus") is the perfect final
+beat — he controls the timeline to the end. ROD nailed this chapter.
+
+Ch23 (Grand Hall):
+Rachel's 4:43 PM stand is the chapter's emotional peak and it earns
+its position because eleven years of cover means the reader has been
+watching her operate at a cost we didn't fully understand. Max's
+testimony line ("The shortage is solvable. The crisis is not a fact
+of nature. It is a decision.") is the intellectual thesis of the book
+stated plainly from a person who has proven they earned the right
+to say it. Conrad's statement arriving as a written record (he is
+not there to deliver it himself) is the right register for a man
+who built his work to outlast his presence in it.
+
+Ch24 (Earth Return / Klaus watch / reunion):
+Taylor removed quietly on the runway — no scene, two men — is correct.
+He should not get a dramatic exit. The Klaus pocket watch reveal
+(Taylor was Klaus's man, not Marcus's) recontextualizes everything
+the book has done with Marcus and prepares for the epilogue. The
+reunion scene (porch, Sharon in window chair, "Hi," Bitboy's greeting)
+earns every word of its brevity. The blackberry preserves detail is
+the right kind of specific.
+
+Ch25 (Bowling Alley):
+Ricardo's proposal — moissanite ring with ethical sourcing explanation,
+full cost transparency, everything — is the correct note for Ricardo
+as a character. He cannot help being who he is even in a romantic
+gesture. Sam's "Yes" after all the documentation is the funnier
+answer for being quieter. Cole's "This is the one" about the copper
+ring is the thematic completion of Ch06. Sharon's "Yes" is the
+correct end to that thread. The three epilogues form the right shape:
+Marcus's machine continuing (Klaus), the machine correcting its
+errors (Taylor placed), and Sharon's private landing (porch, two ways
+of seeing).
+
+─────────────────────────────────────────────────────────────────────
+SUMMARY: KEY STRUCTURAL DIFFERENCES
+─────────────────────────────────────────────────────────────────────
+
+  ELEMENT              DM VERSION           ROD VERSION
+  ─────────────────────────────────────────────────────
+  Sharon on ship       Specialist Crane     Weapons hold / augmented
+                       cover identity;      against will; deployed
+                       embedded in crew     through docking tube
+  ─────────────────────────────────────────────────────
+  Boarding scene       Identity reveal;     Physical rescue via
+                       action-focused       counter-program transfer;
+                                            emotionally complete
+  ─────────────────────────────────────────────────────
+  Cargo bay voice      Unclear / generic    Gracie reborn; counter-
+                                            program restoration arc
+  ─────────────────────────────────────────────────────
+  Marcus archetype     Operational villain  Hannibal Lecter register;
+                                            fakes warmth; childhood
+                                            history with Emily
+  ─────────────────────────────────────────────────────
+  Taylor's loyalty     Marcus's man         Klaus's man; machine
+                                            predates Marcus
+  ─────────────────────────────────────────────────────
+  Vance Black arc      Active; black site   Truncated in current
+                       scene; Marcus        ROD; scenes missing
+                       confrontation;
+                       direct shooting
+  ─────────────────────────────────────────────────────
+  Ch06 texture         Heavy Hitter banter  Gap between ring beat
+                       between ring beat    and road attack
+                       and road attack
+  ─────────────────────────────────────────────────────
+  Crew count           375 (early DM)       369 (corrected)
+  ─────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────────────────
+IMMEDIATE ACTIONS — IMPORT FROM DM INTO ROD
+─────────────────────────────────────────────────────────────────────
+
+THREE SCENES TO INSERT, IN ORDER:
+
+(A) HEAVY HITTER / PLUMP WOMEN BANTER — Ch06
+    Location: After Ch06 line 92 ("Cole watched Emily and Sharon in
+    the rearview mirror until they were too small to recognize.")
+    Before: First sign of the black SUV.
+    What it does: Restores a breath of normalcy and characterization
+    between the tenderness of the ring moment and the violence of
+    the road attack. Ricardo being Ricardo in a truck cab before
+    everything goes wrong.
+
+(B) VANCE'S BLACK SITE VISIT — Ch11
+    Location: After Ch11 line 117 ("Then he straightened his collar
+    and went to get his car.")
+    Content: Desert drive-in theater facility. Underground records
+    room. Clerk tells Vance the vault was cleared by Alpha Corp trucks
+    authorized by a woman named Rachel Vayes. First in-book appearance
+    of Rachel's name with specific operational weight.
+    What it does: Shows Vance actively discovering the thread. Makes
+    his death meaningful rather than administrative. Plants Rachel
+    Vayes before she stands up in Ch23.
+
+(C) VANCE CONFRONTS MARCUS / MARCUS SHOOTS VANCE — Ch11
+    Location: Immediately following scene (B), same chapter.
+    Content: Vance goes to Marcus. "How is my favorite little snitch?"
+    Marcus reveals he knows Cole is on the Golden Dawn. Shoots Vance
+    in the stomach. Then the forehead. Vance was Marcus's man — not
+    Taylor's, not Klaus's. Marcus's.
+    What it does: Shows Marcus committing direct violence. Establishes
+    "my favorite little snitch" as his read of Vance's role. Makes
+    the Grand Hall reading of Vance's written record land harder.
+    The death has to be on the page for the testimony to mean what
+    it needs to mean in Ch23.
+
+─────────────────────────────────────────────────────────────────────
+OVERALL VERDICT
+─────────────────────────────────────────────────────────────────────
+
+ROD is the stronger draft at the structural level. The Sharon
+architecture, the Gracie/iRIS counter-program, Marcus as Hannibal
+Lecter, the Klaus layer, the Four Coles sequence, and the boarding
+scene are all improvements on DM that should not be reversed.
+
+DM has three scenes that belong in ROD: the Ch06 banter, the Ch11
+black site, and the Ch11 Vance/Marcus shooting. These are not
+structural changes — they are scene insertions that fill gaps ROD
+currently has. They add texture, earn character deaths, and set up
+payoffs the book currently delivers without full preparation.
+
+Once the three scenes are inserted, the finished draft is complete.
