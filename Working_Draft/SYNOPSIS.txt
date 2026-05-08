@@ -7,12 +7,21 @@ THE MACHINE
 For decades, Alpha Corp has not been in the energy business. It has
 been in the scarcity business.
 
-The original crisis was real. Dr. Steven Conrad's experiment failed
-at the edge of Saturn's rings. The Polaris exploded. 369 people died.
-The infrastructure that had made deep-space dark crystal harvesting
-possible collapsed, and the world that had grown dependent on it
-went dark in ways that took years to catalog. None of that was
-manufactured.
+The original crisis was real. Alpha Corp sent the Polaris to the
+edge of Saturn's rings — an expendable mission, a test run, a crew
+of 369 treated as acceptable losses in the effort to prove whether
+dark crystal harvesting could work at scale. The Polaris exploded.
+369 people died. The infrastructure that had made deep-space dark
+crystal harvesting possible collapsed, and the world that had grown
+dependent on it went dark in ways that took years to catalog. None
+of that was manufactured.
+
+Dr. Steven Conrad is a separate matter entirely. He built Gracie —
+an AI architecture, the first of her kind — sold her to Alpha Corp,
+and watched her stripped-down version become iRIS, the intelligence
+system now aboard every Federation vessel. His crime against Alpha
+and the crime Alpha committed against the Polaris crew are not the
+same story.
 
 What came next was.
 
