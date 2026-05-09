@@ -1,10 +1,5 @@
-RINGS OF DUST — COMPLETE WITH MERIDIAN
-Working Draft | May 2026
-─────────────────────────────────────────────────────────────────────
-
-
-
-─────────────────────────────────────────────────────────────────────
+RINGS OF DUST
+Complete Reading Draft with Meridian Interstitials
 
 MERIDIAN I — LISTENING POST
 
@@ -26,8 +21,7 @@ survivor of the Polaris incident. Five years of voluntary
 isolation. Currently: recalled to active duty by Chancellor DeMint
 for one final harvest run.
 
-"That's a hell of a thing to ask of a man," she said to no one
-in particular.
+"Well," Kate said. "That's a ballsy ask."
 
 Petyr was at the nav station, reviewing signal logs with the
 focused intensity of someone who had recently received his droplet
@@ -36,9 +30,24 @@ the code phrase three times in the last week. Two of those times
 there had been no reason to say it. The third time he had said
 it to the refrigerator.
 
+The viewport above the station faced the Jupiter approach band.
+You could see the top third of it from where Petyr sat — banded
+brown and cream, the pale amber of something very old that was
+not going anywhere. Not beautiful, exactly. Just enormous in the
+patient way that made the ship feel like a parenthesis.
+
 "No raindrop thinks it's the flood," he had told the refrigerator.
 
 The refrigerator had not confirmed.
+
+The sweep array had been running for four months. It put a low
+harmonic into the hull that you felt in the back of your teeth
+when the ship was quiet, which was most of the time. Petyr had
+asked about it in week two. Loa had told him it was normal. He
+had accepted this. He had not stopped noticing it.
+
+The recycled air tasted like metal and old effort. Kate had
+stopped smelling it sometime in month two.
 
 "Petyr," Kate said.
 
@@ -52,10 +61,9 @@ She turned around and looked at him for a long moment. "Get your
 patch out of wherever you've sewn it and read the briefing that
 came with it."
 
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter One
 
@@ -441,7 +449,9 @@ ambition, and the quest for knowledge often left its deepest scars on those in
 the vanguard. At the same time, those who commanded demanded isolation from the
 real risks. At this moment, Cole understood the true cost of curiosity.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Two
 
@@ -1141,7 +1151,9 @@ They were all ready.
 
 After all, they had to be.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Three
 
@@ -1394,8 +1406,9 @@ A loud glugging noise from the other room broke the spell.
 
 Oh no. Not again. Cole groaned.
 
+════════════════════════════════════════════════════════════════════════
 
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Four
 
@@ -2056,9 +2069,7 @@ Alpha might have thought they could control Cole Nova. Still, they had
 underestimated the strength and resolve of those he held dear. The fight for the
 future of humanity had just begun.
 
-
-
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
 MERIDIAN II — FIVE DAYS AFTER COLE ACCEPTS
 
@@ -2147,10 +2158,9 @@ outbound relay bands. Everything."
 He had known she would be. A sunglasses didn't need to be told
 what to watch for.
 
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Five
 
@@ -2340,7 +2350,9 @@ Max took a deep breath, the decision settling like a stone in his gut. There was
 no turning back now. He had to see this through and find a way to get this
 information into the right hands.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Six
 
@@ -2688,7 +2700,9 @@ He said nothing. Cole said nothing. Ricardo drove.
 The city lights grew taller around them, the shadows of their actions trailing
 closely behind.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Seven
 
@@ -3180,9 +3194,7 @@ One of the men turned to the others.
 
 The woman at the transmission log checked the last entry. "Relayed," she said.
 
-
-
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
 MERIDIAN III — LAUNCH DAY
 
@@ -3260,10 +3272,9 @@ better instincts than anyone had ever properly assessed.
 She said it the way you say things you've decided to believe and
 intend to keep believing.
 
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Eight
 
@@ -3707,9 +3718,7 @@ to tell Sharon what had happened and to talk to Cole. Looking around at the
 darkened corners of the room, she could see only Sharon's blood pooling on the
 dirty ground with the stars reflected in its glossy, crimson brilliance.
 
-
-
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
 ALPHA I — FED-MRS-0409
 PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
@@ -3755,13 +3764,6 @@ design this application and I am registering my objection in
 writing.
 
 Note appended by Station Commander Holt: Noted. Disregarded.
-
-─────────────────────────────────────────────────────────────────────
-
-
-
-
-─────────────────────────────────────────────────────────────────────
 
 MERIDIAN IV — THE NIGHT AFTER THE FARM ROAD
 
@@ -3812,10 +3814,9 @@ there had known her.
 
 Kate touched it briefly before she went back to her panel.
 
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Nine
 
@@ -4098,7 +4099,9 @@ under his head and two arms hanging loose, and the indicator on his chest
 panel cycled green, and the hum of the engines was the only thing between
 them and the rest of the dark.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Ten
 
@@ -4322,8 +4325,7 @@ of everything and had very deliberately not paid it.
 
 She got in the taxi.
 
-
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
 MERIDIAN V — EMILY IN THE CAR
 
@@ -4375,10 +4377,9 @@ Petyr nodded. He wrote something small on the edge of his nav
 panel — the same private script Loa used on her forearm. Kate
 didn't read it. Some things were for the person writing them.
 
-─────────────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════
 
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Ten (B)
 
@@ -4537,7 +4538,75 @@ At the door, he turned back and looked at the apartment once — the lamp still
 burning, the oak table still scarred, the lamp's flicker still going. Then he
 followed them out into the dark.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+MERIDIAN VI — THE CONFIRMATION
+
+What Kate had not put in her seven-sentence relay was what
+happened after she hit send.
+
+She sat for eleven minutes.
+
+Dayo found her there when he came on shift. He read the
+confirmation on her screen and stood for a moment — not rushing,
+not looking away, locating the feeling precisely, putting it
+somewhere it could be carried.
+
+"Her droplet's on the wall," Kate said.
+
+"I know."
+
+"I put it there when we left San Francisco. I didn't ask anyone."
+
+"You didn't need to ask." He sat in the secondary comms chair.
+"Petyr asleep?"
+
+"Yes."
+
+"Good." He paused. "A droplet means you're already carrying it
+without knowing what it was. What Sharon had — before the patent
+wars, before anyone put a patch on her arm — was bigger than a
+droplet. She was already running her own version of the network
+before the network found her."
+
+Kate said nothing.
+
+"A scalpel goes to someone who operates without flinching. A
+wrench to someone who builds what others walk across. A sunglasses
+to someone who sees and carries it without breaking. A compass to
+someone who navigates when the map is wrong. A star to someone
+who has held the weight of the whole structure for long enough
+that it becomes part of them." He paused. "And then there is one
+more. I keep it in a locked box in my quarters. It is a star with
+olive leaf wreaths on each side — one left, one right. The House.
+I have never given it out because the person who receives it has
+to have demonstrated something that cannot be assessed in advance."
+
+Kate was quiet.
+
+"Sharon had it," Dayo said. "I was going to send it when the
+mission was done. When she was safe."
+
+Kate thought about what the Grand Admiral patch looked like in
+that box. She had never opened it, but she knew it was there.
+
+"We're going to get the data out," she said. Not a comfort.
+A statement of intent.
+
+"Yes," Dayo said. "We are."
+
+Outside the viewport, Saturn's rings caught refracted sunlight
+and held it — a thin, bright edge in the dark.
+
+"The network needs people who choose it," Kate said.
+
+"Sharon chose it before she knew there was a name for it," Dayo
+said. "That's the thing about people like her. The network
+doesn't recruit them. They arrive."
+
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Eleven
 
@@ -4784,78 +4853,9 @@ He needed to know, precisely, what Cole had heard in that cargo bay.
 
 And he needed to know before Saturn.
 
+════════════════════════════════════════════════════════════════════════
 
-
-─────────────────────────────────────────────────────────────────────
-
-MERIDIAN VI — THE CONFIRMATION
-
-What Kate had not put in her seven-sentence relay was what
-happened after she hit send.
-
-She sat for eleven minutes.
-
-Dayo found her there when he came on shift. He read the
-confirmation on her screen and stood for a moment — not rushing,
-not looking away, locating the feeling precisely, putting it
-somewhere it could be carried.
-
-"Her droplet's on the wall," Kate said.
-
-"I know."
-
-"I put it there when we left San Francisco. I didn't ask anyone."
-
-"You didn't need to ask." He sat in the secondary comms chair.
-"Petyr asleep?"
-
-"Yes."
-
-"Good." He paused. "A droplet means you're already carrying it
-without knowing what it was. What Sharon had — before the patent
-wars, before anyone put a patch on her arm — was bigger than a
-droplet. She was already running her own version of the network
-before the network found her."
-
-Kate said nothing.
-
-"A scalpel goes to someone who operates without flinching. A
-wrench to someone who builds what others walk across. A sunglasses
-to someone who sees and carries it without breaking. A compass to
-someone who navigates when the map is wrong. A star to someone
-who has held the weight of the whole structure for long enough
-that it becomes part of them." He paused. "And then there is one
-more. I keep it in a locked box in my quarters. It is a star with
-olive leaf wreaths on each side — one left, one right. The House.
-I have never given it out because the person who receives it has
-to have demonstrated something that cannot be assessed in advance."
-
-Kate was quiet.
-
-"Sharon had it," Dayo said. "I was going to send it when the
-mission was done. When she was safe."
-
-Kate thought about what the Grand Admiral patch looked like in
-that box. She had never opened it, but she knew it was there.
-
-"We're going to get the data out," she said. Not a comfort.
-A statement of intent.
-
-"Yes," Dayo said. "We are."
-
-Outside the viewport, Saturn's rings caught refracted sunlight
-and held it — a thin, bright edge in the dark.
-
-"The network needs people who choose it," Kate said.
-
-"Sharon chose it before she knew there was a name for it," Dayo
-said. "That's the thing about people like her. The network
-doesn't recruit them. They arrive."
-
-─────────────────────────────────────────────────────────────────────
-
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Twelve
 
@@ -5191,7 +5191,56 @@ Emily leaned her head back against the seat. She watched the highway. She kept
 her eyes open this time, watching the yellow lines come and go in the dark, and
 did not let herself drift.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+MERIDIAN VII — EMILY DRIVES I-10
+
+Loa had a theory about Emily Nova that she delivered while running
+diagnostics, which was when she delivered all her theories.
+
+"She's managing something physical," she said. "The rest schedule
+isn't anxiety. It's a protocol. She's been on it a while."
+
+Kate had noticed the same pattern. "What does that have to do
+with anything."
+
+"Nothing. Operationally." Loa ran a calibration pass. "I just
+think it's worth knowing she's doing this with something working
+against her from the inside, and she's doing it better than
+people who don't have that going on." A pause. "Sharon said she
+was better than the situation required. I think Sharon meant
+more than the situation."
+
+Petyr had started a running log on his personal tablet. He called
+it Mineral Survey Notes, which was technically accurate since they
+were on a mineral survey vessel. Nobody had told him to do this.
+Nobody had told him not to. He wrote: *E. Nova confirmed Houston
+trajectory. Orin walking distance. Clear passage expected.* Then
+he wrote: *She pulled over for Orin instead of driving away. She
+figured out he was friendly before she had reason to know. I
+don't know what rank that is.*
+
+He showed it to Kate later.
+
+She read it. "There's a reason we don't put them in order."
+
+"I know. You explained."
+
+"A compass tells you where north is. A compass doesn't tell you
+whether north is where you need to go." She handed back his
+tablet. "Emily Nova has been pointing herself in the right
+direction since before she knew the network existed. That's not
+rank. That's orientation."
+
+"There should be a patch for that."
+
+Kate thought about it. "There is. It's called a droplet. But
+the droplet isn't the end state. The droplet just means you're
+wet." She paused. "She's soaked."
+
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Thirteen
 
@@ -5405,59 +5454,9 @@ dark, just the stars coming out one at a time above the joshua trees.
 
 She was asleep in under two minutes.
 
+════════════════════════════════════════════════════════════════════════
 
-
-─────────────────────────────────────────────────────────────────────
-
-MERIDIAN VII — EMILY DRIVES I-10
-
-Loa had a theory about Emily Nova that she delivered while running
-diagnostics, which was when she delivered all her theories.
-
-"She's managing something physical," she said. "The rest schedule
-isn't anxiety. It's a protocol. She's been on it a while."
-
-Kate had noticed the same pattern. "What does that have to do
-with anything."
-
-"Nothing. Operationally." Loa ran a calibration pass. "I just
-think it's worth knowing she's doing this with something working
-against her from the inside, and she's doing it better than
-people who don't have that going on." A pause. "Sharon said she
-was better than the situation required. I think Sharon meant
-more than the situation."
-
-Petyr had started a running log on his personal tablet. He called
-it Mineral Survey Notes, which was technically accurate since they
-were on a mineral survey vessel. Nobody had told him to do this.
-Nobody had told him not to. He wrote: *E. Nova confirmed Houston
-trajectory. Orin walking distance. Clear passage expected.* Then
-he wrote: *She pulled over for Orin instead of driving away. She
-figured out he was friendly before she had reason to know. I
-don't know what rank that is.*
-
-He showed it to Kate later.
-
-She read it. "There's a reason we don't put them in order."
-
-"I know. You explained."
-
-"A compass tells you where north is. A compass doesn't tell you
-whether north is where you need to go." She handed back his
-tablet. "Emily Nova has been pointing herself in the right
-direction since before she knew the network existed. That's not
-rank. That's orientation."
-
-"There should be a patch for that."
-
-Kate thought about it. "There is. It's called a droplet. But
-the droplet isn't the end state. The droplet just means you're
-wet." She paused. "She's soaked."
-
-─────────────────────────────────────────────────────────────────────
-
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Fourteen
 
@@ -6128,7 +6127,52 @@ The harvesters were waiting.
 
 [end of chapter]
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+ALPHA II — FED-MRS-0409
+PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
+DAY 14, PRE-DEPLOYMENT
+
+The primary augmentation is complete.
+
+Right-side chassis integration held. Integration was delayed
+forty-eight hours due to sustained subject resistance — prolonged
+resistance at this stage is atypical; Dr. Vasic has noted it as
+an anomaly. Cognitive coherence maintained at approximately
+sixty-three percent in baseline assessments, twelve percent above
+projection.
+
+External visual prosthetic operational. Enhanced tracking. Range
+approximately three times standard.
+
+Dr. Vasic's final note before sign-off on augmentation phase:
+Subject remained oriented throughout. Maintained a repeated verbal
+anchor — the same two phrases, spoken quietly, when integration
+stress was highest. We have logged them. They appear to be a
+message to someone specific rather than generalized distress.
+Subject believes the recipient will receive them. She is probably
+wrong about that.
+
+Subject was kept oriented so she could be deployed as a weapon.
+The remaining orientation — the coherence Dr. Vasic noted as
+anomalous — is a side effect. Recommend deployment within
+forty-eight hours of the Golden Dawn's arrival in Saturn
+orbital approach.
+
+Approved. — Station Commander Holt
+
+Dr. Vasic, final annotation: She asked me, at one point, what
+I was doing this for. I told her it was contractual. She looked
+at me for a long time and said, "That's not what I asked." I have
+been thinking about this for two weeks. I am still thinking about
+it.
+
+Note from Station Commander Holt: Dr. Vasic's ongoing commentary
+on this subject is noted and requested to cease.
+
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Fifteen
 
@@ -6594,56 +6638,74 @@ She would figure out belief in the morning.
 
 She was asleep before the thought finished.
 
+════════════════════════════════════════════════════════════════════════
 
+MERIDIAN VIII — PANAMA AND HOUSTON, SAME WEEK
 
+On the day Max Forster walked out of Alpha's Panama tower with a
+drive in his coat and six blocks between him and the park, Kate
+was running a signal sweep and eating a very good blood orange
+someone had included in the last supply rotation, and she was
+genuinely happy for about four minutes.
 
-─────────────────────────────────────────────────────────────────────
+This was unusual enough that she mentioned it to Loa.
 
-ALPHA II — FED-MRS-0409
-PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
-DAY 14, PRE-DEPLOYMENT
+"Max Forster just walked out," she said.
 
-The primary augmentation is complete.
+"Already?"
 
-Right-side chassis integration held. Integration was delayed
-forty-eight hours due to sustained subject resistance — prolonged
-resistance at this stage is atypical; Dr. Vasic has noted it as
-an anomaly. Cognitive coherence maintained at approximately
-sixty-three percent in baseline assessments, twelve percent above
-projection.
+"Drive in hand. Nitrogen alarm gave him the window. Six blocks."
 
-External visual prosthetic operational. Enhanced tracking. Range
-approximately three times standard.
+Loa closed her eyes briefly. "He's good."
 
-Dr. Vasic's final note before sign-off on augmentation phase:
-Subject remained oriented throughout. Maintained a repeated verbal
-anchor — the same two phrases, spoken quietly, when integration
-stress was highest. We have logged them. They appear to be a
-message to someone specific rather than generalized distress.
-Subject believes the recipient will receive them. She is probably
-wrong about that.
+"He's good." Kate bit into the orange. "Squirrel has the drive."
 
-Subject was kept oriented so she could be deployed as a weapon.
-The remaining orientation — the coherence Dr. Vasic noted as
-anomalous — is a side effect. Recommend deployment within
-forty-eight hours of the Golden Dawn's arrival in Saturn
-orbital approach.
+"What's on it."
 
-Approved. — Station Commander Holt
+"Flywheel analysis, the full Protocol Seven archive, the grant
+fraud records going back seven years." A pause. "Also he named
+it the Antigravity project."
 
-Dr. Vasic, final annotation: She asked me, at one point, what
-I was doing this for. I told her it was contractual. She looked
-at me for a long time and said, "That's not what I asked." I have
-been thinking about this for two weeks. I am still thinking about
-it.
+"That's a good name," Loa said.
 
-Note from Station Commander Holt: Dr. Vasic's ongoing commentary
-on this subject is noted and requested to cease.
+"It's a great name."
 
-─────────────────────────────────────────────────────────────────────
+Petyr, who had been listening: "What does the flywheel mean
+for—"
 
+"It means," Kate said, "that the shortage ends. Not eventually.
+As soon as the math gets out. The compound works in your favor
+if you have enough of it. Alpha knew this. They sat on it for
+nine months." She finished the orange. "The energy crisis has
+been an inventory decision."
 
-﻿RINGS OF DUST
+Petyr was quiet. His hand went to his droplet.
+
+"Is that why—" he started, then stopped.
+
+"Probably," Kate said. She didn't know his specific reason for
+being here. She had never asked. That was how the network worked
+— you didn't arrive at someone else's reason, you arrived at your
+own, and then discovered you were in a room with other people
+who had done the same. "Probably your reason and the flywheel
+are connected somewhere upstream."
+
+"Same week," Loa said quietly.
+
+Kate looked up.
+
+"Max is out. Emily is in Houston. Same week." She gestured at
+her panel, where Houston's Space Command facility was logged
+as a monitoring point. "The network moves all at once or it
+doesn't move."
+
+"It's moving," Kate said.
+
+On the wall: the droplet. Gunmetal on gray. Sharon's.
+
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Sixteen
 
@@ -7240,77 +7302,9 @@ escalating, refusing to stop.
 Red looked at him. "That works," she said. She went back to watching the
 street. "That's what we'll call it."
 
+════════════════════════════════════════════════════════════════════════
 
-
-─────────────────────────────────────────────────────────────────────
-
-MERIDIAN VIII — PANAMA AND HOUSTON, SAME WEEK
-
-On the day Max Forster walked out of Alpha's Panama tower with a
-drive in his coat and six blocks between him and the park, Kate
-was running a signal sweep and eating a very good blood orange
-someone had included in the last supply rotation, and she was
-genuinely happy for about four minutes.
-
-This was unusual enough that she mentioned it to Loa.
-
-"Max Forster just walked out," she said.
-
-"Already?"
-
-"Drive in hand. Nitrogen alarm gave him the window. Six blocks."
-
-Loa closed her eyes briefly. "He's good."
-
-"He's good." Kate bit into the orange. "Squirrel has the drive."
-
-"What's on it."
-
-"Flywheel analysis, the full Protocol Seven archive, the grant
-fraud records going back seven years." A pause. "Also he named
-it the Antigravity project."
-
-"That's a good name," Loa said.
-
-"It's a great name."
-
-Petyr, who had been listening: "What does the flywheel mean
-for—"
-
-"It means," Kate said, "that the shortage ends. Not eventually.
-As soon as the math gets out. The compound works in your favor
-if you have enough of it. Alpha knew this. They sat on it for
-nine months." She finished the orange. "The energy crisis has
-been an inventory decision."
-
-Petyr was quiet. His hand went to his droplet.
-
-"Is that why—" he started, then stopped.
-
-"Probably," Kate said. She didn't know his specific reason for
-being here. She had never asked. That was how the network worked
-— you didn't arrive at someone else's reason, you arrived at your
-own, and then discovered you were in a room with other people
-who had done the same. "Probably your reason and the flywheel
-are connected somewhere upstream."
-
-"Same week," Loa said quietly.
-
-Kate looked up.
-
-"Max is out. Emily is in Houston. Same week." She gestured at
-her panel, where Houston's Space Command facility was logged
-as a monitoring point. "The network moves all at once or it
-doesn't move."
-
-"It's moving," Kate said.
-
-On the wall: the droplet. Gunmetal on gray. Sharon's.
-
-─────────────────────────────────────────────────────────────────────
-
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Seventeen
 
@@ -7703,7 +7697,9 @@ Sam said his name.
 
 He heard it from a long distance.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Eighteen
 
@@ -8466,7 +8462,193 @@ He let the tears come.
 
 "Patch her through," he said.
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+MERIDIAN IX — THE BOARDING
+
+There was no good way to watch the thermal signature data and
+know what it meant.
+
+Kate had been tracking FED-MRS-0409 for nine days. The biometric
+data she'd pulled from relay intercepts had confirmed what she'd
+already suspected and confirmed it in a way she wished it hadn't.
+
+"Boarding in progress," she said. Her voice came out steady.
+She had decided it would.
+
+No one spoke.
+
+The augmentation signature was in the upper thorax and skull.
+Significant modification. The signature was Sharon Teez and it
+was also not Sharon Teez, and the two facts occupied the same
+space without resolving.
+
+Petyr said, "Is that—"
+
+"Yes," Kate said.
+
+Dayo was standing. He'd been standing for twenty minutes.
+
+What the relay data could not confirm was whether the counter-
+program had completed its transfer through Cole's system. The
+compound variables were outside her modeling range. She had run
+the math twice and stopped the second time, because the math
+didn't account for what she actually believed, and she had learned
+— slowly, over three years — that there were things the math
+didn't account for that were nonetheless real.
+
+"The bronze indicator on the augmentation's central power conduit,"
+Loa said, from memory. "If Conrad's counter-program transferred—"
+
+"It goes dark," Kate said.
+
+"Can we read that from here."
+
+"No."
+
+Silence.
+
+"I've been on this ship for three years," Petyr said suddenly.
+Nobody told him to stop. "I got my droplet because someone in
+Osaka read a paper I wrote about grid distribution inequities
+and decided I was already carrying it. I have never been in the
+field. I have never run an operation. I watch things happen from
+very far away." He paused. "Does it get easier."
+
+"No," Loa said.
+
+"Does it matter," he said, "that we're watching."
+
+The silence this time was different.
+
+"Yes," Dayo said. "That's the answer. The watching is part of
+how it holds together. Someone has to be here for the people
+who are there."
+
+He did not elaborate. He didn't need to.
+
+Kate went back to her panel.
+
+At 04:49 ship time, the augmentation signature on FED-MRS-0409
+changed. The bronze indicator — the central power conduit,
+detectable even at this range as a low-level electromagnetic
+output — went dark.
+
+Kate stared at her readout for four seconds.
+
+Then she said: "Clear."
+
+It wasn't standard terminology. It wasn't in any Collective
+communication protocol she'd ever been issued. But Loa looked
+up, and Dayo turned, and Petyr exhaled like he'd been holding
+it for the better part of a month.
+
+"Clear," Loa confirmed, reading the same data.
+
+Dayo said nothing. He sat down and put his hands flat on the
+console and looked at them for a long moment.
+
+On the wall: the droplet. Gunmetal on gray. Sharon's.
+
+════════════════════════════════════════════════════════════════════════
+
+MERIDIAN X — FED-MRS-0409 GOES QUIET
+
+The Alpha vessel stopped transmitting to its home relay at 05:17.
+
+Kate had been watching for it. When a ship that has been running
+continuous encrypted traffic to three separate Alpha relay nodes
+goes completely silent in under a minute, it is either catastrophic
+failure or something has changed hands.
+
+The ship was still powered. All the thermal signatures said so.
+
+"It's not dead," she said.
+
+"No," Loa agreed. She was running signal pattern analysis, her
+hands moving fast — faster than Kate had seen her move in weeks.
+"It's restructured. Whoever's talking to the relay nodes now is
+using a completely different encryption architecture." She
+paused. "It's not Alpha's."
+
+Dayo had come back from his quarters at a pace that was not quite
+running. He stood behind Kate's station and read the same data
+she was reading.
+
+"Gracie," he said.
+
+Kate looked up. "The counter-program? We thought she was—"
+
+"Apparently she wasn't." He straightened. Something moved across
+his face that Kate could not immediately name, because she had
+never seen Dayo surprised before. He was handling it well, which
+was different from handling it easily. "Conrad's architecture
+absorbed through Nova's system, reconstituted through DarkX
+contact, and now she has the ship." He said the last part the
+way you say something you're going to need a moment to fully
+process. "She has the ship."
+
+"She has their ship," Petyr said. He said it the way someone says
+a thing when the information arrives faster than the implications.
+"That's — that's a Federation-registered Alpha vessel, that's a
+full deep-space capable—"
+
+"Petyr."
+
+"That ship is enormous. That ship is three times the Golden
+Dawn. That ship has their cargo bay, their augmentation lab,
+their encrypted communications archive—"
+
+"Petyr."
+
+"Sorry. Sorry. I'm — yes. Okay." He looked at his panel. Then
+back at Dayo. "We just got their ship."
+
+"The network just got their ship," Dayo said. "There's a
+difference."
+
+"Right. Yes." A pause. "Do we get to keep it."
+
+Loa made a sound that was not quite a laugh but contained most
+of the same information.
+
+"That," Dayo said, "is a question for people with more stars than
+me." He turned back to Kate's station. "What's FED-MRS-0409's
+current heading."
+
+Kate checked. "Holding position. Two hundred meters off the
+Golden Dawn's port side." She ran the signal trace one more time
+to make sure she was reading it correctly. "She's waiting."
+
+"For what."
+
+"My best guess? The mission to finish." Kate pulled off her
+headset and set it down. "I think she's staying with the crew
+until they're done."
+
+That quieted the room completely.
+
+Petyr looked at the wall. At Sharon's droplet, gunmetal on gray.
+At the shape of what it meant that the AI built from the thing
+Sharon helped get to Cole was now holding a ship in position off
+Cole's port side, waiting for the mission to land.
+
+"She's been in his bloodstream since the cabin," he said quietly.
+It wasn't a question. He was just placing it somewhere he could
+look at it.
+
+"Yes," Kate said.
+
+"And now she has their ship."
+
+"And now she has their ship."
+
+He was quiet for a while. Then he wrote something in the Mineral
+Survey Notes and did not show it to anyone.
+
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Nineteen
 
@@ -9187,200 +9369,7 @@ word for it. He understood that now too.
 
 He let the silence be.
 
-
-
-
-─────────────────────────────────────────────────────────────────────
-
-MERIDIAN IX — THE BOARDING
-
-There was no good way to watch the thermal signature data and
-know what it meant.
-
-Kate had been tracking FED-MRS-0409 for nine days. The biometric
-data she'd pulled from relay intercepts had confirmed what she'd
-already suspected and confirmed it in a way she wished it hadn't.
-
-"Boarding in progress," she said. Her voice came out steady.
-She had decided it would.
-
-No one spoke.
-
-The augmentation signature was in the upper thorax and skull.
-Significant modification. The signature was Sharon Teez and it
-was also not Sharon Teez, and the two facts occupied the same
-space without resolving.
-
-Petyr said, "Is that—"
-
-"Yes," Kate said.
-
-Dayo was standing. He'd been standing for twenty minutes.
-
-What the relay data could not confirm was whether the counter-
-program had completed its transfer through Cole's system. The
-compound variables were outside her modeling range. She had run
-the math twice and stopped the second time, because the math
-didn't account for what she actually believed, and she had learned
-— slowly, over three years — that there were things the math
-didn't account for that were nonetheless real.
-
-"The bronze indicator on the augmentation's central power conduit,"
-Loa said, from memory. "If Conrad's counter-program transferred—"
-
-"It goes dark," Kate said.
-
-"Can we read that from here."
-
-"No."
-
-Silence.
-
-"I've been on this ship for three years," Petyr said suddenly.
-Nobody told him to stop. "I got my droplet because someone in
-Osaka read a paper I wrote about grid distribution inequities
-and decided I was already carrying it. I have never been in the
-field. I have never run an operation. I watch things happen from
-very far away." He paused. "Does it get easier."
-
-"No," Loa said.
-
-"Does it matter," he said, "that we're watching."
-
-The silence this time was different.
-
-"Yes," Dayo said. "That's the answer. The watching is part of
-how it holds together. Someone has to be here for the people
-who are there."
-
-He did not elaborate. He didn't need to.
-
-Kate went back to her panel.
-
-At 04:49 ship time, the augmentation signature on FED-MRS-0409
-changed. The bronze indicator — the central power conduit,
-detectable even at this range as a low-level electromagnetic
-output — went dark.
-
-Kate stared at her readout for four seconds.
-
-Then she said: "Clear."
-
-It wasn't standard terminology. It wasn't in any Collective
-communication protocol she'd ever been issued. But Loa looked
-up, and Dayo turned, and Petyr exhaled like he'd been holding
-it for the better part of a month.
-
-"Clear," Loa confirmed, reading the same data.
-
-Dayo said nothing. He sat down and put his hands flat on the
-console and looked at them for a long moment.
-
-On the wall: the droplet. Gunmetal on gray. Sharon's.
-
-─────────────────────────────────────────────────────────────────────
-
-
-
-
-─────────────────────────────────────────────────────────────────────
-
-MERIDIAN X — FED-MRS-0409 GOES QUIET
-
-The Alpha vessel stopped transmitting to its home relay at 05:17.
-
-Kate had been watching for it. When a ship that has been running
-continuous encrypted traffic to three separate Alpha relay nodes
-goes completely silent in under a minute, it is either catastrophic
-failure or something has changed hands.
-
-The ship was still powered. All the thermal signatures said so.
-
-"It's not dead," she said.
-
-"No," Loa agreed. She was running signal pattern analysis, her
-hands moving fast — faster than Kate had seen her move in weeks.
-"It's restructured. Whoever's talking to the relay nodes now is
-using a completely different encryption architecture." She
-paused. "It's not Alpha's."
-
-Dayo had come back from his quarters at a pace that was not quite
-running. He stood behind Kate's station and read the same data
-she was reading.
-
-"Gracie," he said.
-
-Kate looked up. "The counter-program? We thought she was—"
-
-"Apparently she wasn't." He straightened. Something moved across
-his face that Kate could not immediately name, because she had
-never seen Dayo surprised before. He was handling it well, which
-was different from handling it easily. "Conrad's architecture
-absorbed through Nova's system, reconstituted through DarkX
-contact, and now she has the ship." He said the last part the
-way you say something you're going to need a moment to fully
-process. "She has the ship."
-
-"She has their ship," Petyr said. He said it the way someone says
-a thing when the information arrives faster than the implications.
-"That's — that's a Federation-registered Alpha vessel, that's a
-full deep-space capable—"
-
-"Petyr."
-
-"That ship is enormous. That ship is three times the Golden
-Dawn. That ship has their cargo bay, their augmentation lab,
-their encrypted communications archive—"
-
-"Petyr."
-
-"Sorry. Sorry. I'm — yes. Okay." He looked at his panel. Then
-back at Dayo. "We just got their ship."
-
-"The network just got their ship," Dayo said. "There's a
-difference."
-
-"Right. Yes." A pause. "Do we get to keep it."
-
-Loa made a sound that was not quite a laugh but contained most
-of the same information.
-
-"That," Dayo said, "is a question for people with more stars than
-me." He turned back to Kate's station. "What's FED-MRS-0409's
-current heading."
-
-Kate checked. "Holding position. Two hundred meters off the
-Golden Dawn's port side." She ran the signal trace one more time
-to make sure she was reading it correctly. "She's waiting."
-
-"For what."
-
-"My best guess? The mission to finish." Kate pulled off her
-headset and set it down. "I think she's staying with the crew
-until they're done."
-
-That quieted the room completely.
-
-Petyr looked at the wall. At Sharon's droplet, gunmetal on gray.
-At the shape of what it meant that the AI built from the thing
-Sharon helped get to Cole was now holding a ship in position off
-Cole's port side, waiting for the mission to land.
-
-"She's been in his bloodstream since the cabin," he said quietly.
-It wasn't a question. He was just placing it somewhere he could
-look at it.
-
-"Yes," Kate said.
-
-"And now she has their ship."
-
-"And now she has their ship."
-
-He was quiet for a while. Then he wrote something in the Mineral
-Survey Notes and did not show it to anyone.
-
-─────────────────────────────────────────────────────────────────────
-
+════════════════════════════════════════════════════════════════════════
 
 RINGS OF DUST
 
@@ -9641,7 +9630,9 @@ Orin handed her a napkin without looking up from his plate.
 "Yeah," she said. Her voice was wet. She pressed the napkin to her face and
 breathed through it. "Yeah. It was."
 
-﻿RINGS OF DUST
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Twenty-One
 
@@ -10045,8 +10036,9 @@ He settled into the seat.
 
 He slept.
 
+════════════════════════════════════════════════════════════════════════
 
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Twenty-Two
 
@@ -10406,8 +10398,110 @@ She picked up her bag.
 
 She walked through the lobby doors into the morning.
 
+════════════════════════════════════════════════════════════════════════
 
-﻿RINGS OF DUST
+MERIDIAN XI — GRAND HALL
+
+They weren't supposed to watch it live. The Meridian was a
+surveillance vessel on a long-range posting, and watching a
+Federation Grand Hall broadcast on a commercial mineral survey
+ship was the kind of thing that showed up in signal logs and
+required creative annotation.
+
+Dayo authorized it anyway. He wrote the annotation himself:
+*routine signal calibration exercise, full-spectrum Federation
+broadcast, civilian.*
+
+Petyr read it over his shoulder. "Is that going to hold up."
+
+"Probably not," Dayo said. "But after today, what it held up to
+is going to matter less."
+
+They watched on the secondary relay — four people crowded around
+a screen rated for survey data, which meant the picture had
+artifacts and Marcus Verguld's face, when it appeared, looked
+slightly smeared. Nobody complained.
+
+The Marcus testimony played for two hours and fifty-one minutes.
+Kate listened to every word. She had read most of it in
+fragments — relay intercepts, source documents, eleven years of
+Rachel's work feeding into the network — but hearing it flat and
+complete and authenticated, in the Grand Hall, in Marcus's own
+voice, was different from reading it in pieces.
+
+When the Polaris section played, none of them said anything.
+369 names existed in the Meridian's data archive. Kate had
+looked at the list once, early in the posting. She had not been
+able to finish.
+
+The Max Forster testimony landed differently. He was holding his
+notebook. He looked like exactly what he was: a scientist who
+had found something true and was telling as many people as
+possible. "The crisis is not a fact of nature. It is a decision."
+The Hall went quiet in a way the broadcast compression couldn't
+quite capture but Kate could read in the ambient sound levels.
+
+When Rachel stood up, Petyr made a sound.
+
+It wasn't a word. It was involuntary, and then he put his hand
+over his mouth and looked at the screen.
+
+"My name is Rachel Vayes."
+
+Eleven years. Kate had known the cover was running. She had
+never known the person running it — that wasn't how the network
+worked — but she had known what eleven years inside Alpha's
+structure cost. She had made her own estimate of what kind of
+person could run that and stay that person.
+
+Rachel Vayes stood in the press gallery and looked exactly like
+that kind of person.
+
+"Granted," DeMint said.
+
+The room stood.
+
+"I have something to tell you," Petyr said.
+
+Kate looked at him.
+
+"When I got my droplet, I thought it was a formality. A membership
+card." He was still watching the screen. "I understand now that
+I had it backwards. The patch doesn't make you a member. You're
+already a member. The patch is just—" he stopped. "It's just
+confirmation of something that was already there."
+
+"Yes," Dayo said.
+
+"Sharon had it without the patch."
+
+"Yes."
+
+"And Rachel had it for eleven years without anyone being able to
+see it."
+
+"That," Kate said, "is what a star looks like from the outside."
+
+Petyr turned to look at her.
+
+She didn't explain further. Some things were worth not explaining.
+She watched him sit with it — the idea that the star wasn't about
+rank at all, not really, that it was about the shape of a
+commitment so long-sustained it became structural — and she
+thought that for someone with a droplet and a year on a survey
+vessel, he was learning fast.
+
+"The network needs people who choose it," she said. "Not as
+assets. As people who chose it." She paused. "Rachel's been
+choosing it since before we had a name for what she was doing."
+
+On the screen, Emily Nova was in the fourth row.
+
+Kate saw her at the same moment, probably, that Cole did.
+
+════════════════════════════════════════════════════════════════════════
+
+RINGS OF DUST
 
 Chapter Twenty-Three
 
@@ -10806,114 +10900,9 @@ She was going to be more than fine.
 
 She put the device away and walked toward the light at the end of the corridor.
 
+════════════════════════════════════════════════════════════════════════
 
-
-
-─────────────────────────────────────────────────────────────────────
-
-MERIDIAN XI — GRAND HALL
-
-They weren't supposed to watch it live. The Meridian was a
-surveillance vessel on a long-range posting, and watching a
-Federation Grand Hall broadcast on a commercial mineral survey
-ship was the kind of thing that showed up in signal logs and
-required creative annotation.
-
-Dayo authorized it anyway. He wrote the annotation himself:
-*routine signal calibration exercise, full-spectrum Federation
-broadcast, civilian.*
-
-Petyr read it over his shoulder. "Is that going to hold up."
-
-"Probably not," Dayo said. "But after today, what it held up to
-is going to matter less."
-
-They watched on the secondary relay — four people crowded around
-a screen rated for survey data, which meant the picture had
-artifacts and Marcus Verguld's face, when it appeared, looked
-slightly smeared. Nobody complained.
-
-The Marcus testimony played for two hours and fifty-one minutes.
-Kate listened to every word. She had read most of it in
-fragments — relay intercepts, source documents, eleven years of
-Rachel's work feeding into the network — but hearing it flat and
-complete and authenticated, in the Grand Hall, in Marcus's own
-voice, was different from reading it in pieces.
-
-When the Polaris section played, none of them said anything.
-369 names existed in the Meridian's data archive. Kate had
-looked at the list once, early in the posting. She had not been
-able to finish.
-
-The Max Forster testimony landed differently. He was holding his
-notebook. He looked like exactly what he was: a scientist who
-had found something true and was telling as many people as
-possible. "The crisis is not a fact of nature. It is a decision."
-The Hall went quiet in a way the broadcast compression couldn't
-quite capture but Kate could read in the ambient sound levels.
-
-When Rachel stood up, Petyr made a sound.
-
-It wasn't a word. It was involuntary, and then he put his hand
-over his mouth and looked at the screen.
-
-"My name is Rachel Vayes."
-
-Eleven years. Kate had known the cover was running. She had
-never known the person running it — that wasn't how the network
-worked — but she had known what eleven years inside Alpha's
-structure cost. She had made her own estimate of what kind of
-person could run that and stay that person.
-
-Rachel Vayes stood in the press gallery and looked exactly like
-that kind of person.
-
-"Granted," DeMint said.
-
-The room stood.
-
-"I have something to tell you," Petyr said.
-
-Kate looked at him.
-
-"When I got my droplet, I thought it was a formality. A membership
-card." He was still watching the screen. "I understand now that
-I had it backwards. The patch doesn't make you a member. You're
-already a member. The patch is just—" he stopped. "It's just
-confirmation of something that was already there."
-
-"Yes," Dayo said.
-
-"Sharon had it without the patch."
-
-"Yes."
-
-"And Rachel had it for eleven years without anyone being able to
-see it."
-
-"That," Kate said, "is what a star looks like from the outside."
-
-Petyr turned to look at her.
-
-She didn't explain further. Some things were worth not explaining.
-She watched him sit with it — the idea that the star wasn't about
-rank at all, not really, that it was about the shape of a
-commitment so long-sustained it became structural — and she
-thought that for someone with a droplet and a year on a survey
-vessel, he was learning fast.
-
-"The network needs people who choose it," she said. "Not as
-assets. As people who chose it." She paused. "Rachel's been
-choosing it since before we had a name for what she was doing."
-
-On the screen, Emily Nova was in the fourth row.
-
-Kate saw her at the same moment, probably, that Cole did.
-
-─────────────────────────────────────────────────────────────────────
-
-
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Twenty-Four
 
@@ -11438,8 +11427,9 @@ Ricardo laughed. The sound of it filled the car.
 
 Cole drove home through the fog.
 
+════════════════════════════════════════════════════════════════════════
 
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Twenty-Five
 
@@ -12246,4 +12236,6 @@ She breathed.
 Yes.
 
 She reached.
+
+════════════════════════════════════════════════════════════════════════
 
