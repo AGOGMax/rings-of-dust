@@ -129,7 +129,7 @@ Petyr looked at his wrist. "Oh."
 "Between a droplet and a compass, there are others. A scalpel
 means you operate — you cut what needs cutting, you move through
 resistance with precision. A scalpel doesn't wait for the right
-conditions. A branch means you build and connect — the people who
+conditions. A wrench means you build and connect — the people who
 wire the network together so everyone else can use it. A
 sunglasses means you see what you're not supposed to see, and
 you carry that without breaking cover." He paused. "A compass
@@ -428,7 +428,7 @@ before the network found her."
 Bleth said nothing.
 
 "A scalpel goes to someone who operates without flinching. A
-branch to someone who builds what others walk across. A sunglasses
+wrench to someone who builds what others walk across. A sunglasses
 to someone who sees and carries it without breaking. A compass to
 someone who navigates when the map is wrong. A star to someone
 who has held the weight of the whole structure for long enough
@@ -920,9 +920,9 @@ Not for publication; working notes only
     resistance with precision and don't wait for perfect conditions.
     The scalpel does not hesitate.
 
-  BRANCH — Technician. You build and connect. You wire the network
+  WRENCH — Technician. You build and connect. You wire the network
     together so everyone else can walk across it. Orin carries a
-    branch. Most of the network runs on branches.
+    wrench. Most of the network runs on wrenches.
 
   SUNGLASSES — Agent. You see what you're not supposed to see, and
     you carry that without breaking cover. Sam Drummond boards the
