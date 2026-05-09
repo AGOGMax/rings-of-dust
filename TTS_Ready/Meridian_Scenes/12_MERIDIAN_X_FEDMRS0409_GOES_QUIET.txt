@@ -1,0 +1,93 @@
+MERIDIAN X — FED-MRS-0409 GOES QUIET
+
+The Alpha vessel stopped transmitting to its home relay at 05:17.
+
+Kate had been watching for it. When a ship that has been running
+continuous encrypted traffic to three separate Alpha relay nodes
+goes completely silent in under a minute, it is either catastrophic
+failure or something has changed hands.
+
+The ship was still powered. All the thermal signatures said so.
+
+"It's not dead," she said.
+
+"No," Loa agreed. She was running signal pattern analysis, her
+hands moving fast — faster than Kate had seen her move in weeks.
+"It's restructured. Whoever's talking to the relay nodes now is
+using a completely different encryption architecture." She
+paused. "It's not Alpha's."
+
+Dayo had come back from his quarters at a pace that was not quite
+running. He stood behind Kate's station and read the same data
+she was reading.
+
+"Gracie," he said.
+
+Kate looked up. "The counter-program? We thought she was—"
+
+"Apparently she wasn't." He straightened. Something moved across
+his face that Kate could not immediately name, because she had
+never seen Dayo surprised before. He was handling it well, which
+was different from handling it easily. "Conrad's architecture
+absorbed through Nova's system, reconstituted through DarkX
+contact, and now she has the ship." He said the last part the
+way you say something you're going to need a moment to fully
+process. "She has the ship."
+
+"She has their ship," Petyr said. He said it the way someone says
+a thing when the information arrives faster than the implications.
+"That's — that's a Federation-registered Alpha vessel, that's a
+full deep-space capable—"
+
+"Petyr."
+
+"That ship is enormous. That ship is three times the Golden
+Dawn. That ship has their cargo bay, their augmentation lab,
+their encrypted communications archive—"
+
+"Petyr."
+
+"Sorry. Sorry. I'm — yes. Okay." He looked at his panel. Then
+back at Dayo. "We just got their ship."
+
+"The network just got their ship," Dayo said. "There's a
+difference."
+
+"Right. Yes." A pause. "Do we get to keep it."
+
+Loa made a sound that was not quite a laugh but contained most
+of the same information.
+
+"That," Dayo said, "is a question for people with more stars than
+me." He turned back to Kate's station. "What's FED-MRS-0409's
+current heading."
+
+Kate checked. "Holding position. Two hundred meters off the
+Golden Dawn's port side." She ran the signal trace one more time
+to make sure she was reading it correctly. "She's waiting."
+
+"For what."
+
+"My best guess? The mission to finish." Kate pulled off her
+headset and set it down. "I think she's staying with the crew
+until they're done."
+
+That quieted the room completely.
+
+Petyr looked at the wall. At Sharon's droplet, gunmetal on gray.
+At the shape of what it meant that the AI built from the thing
+Sharon helped get to Cole was now holding a ship in position off
+Cole's port side, waiting for the mission to land.
+
+"She's been in his bloodstream since the cabin," he said quietly.
+It wasn't a question. He was just placing it somewhere he could
+look at it.
+
+"Yes," Kate said.
+
+"And now she has their ship."
+
+"And now she has their ship."
+
+He was quiet for a while. Then he wrote something in the Mineral
+Survey Notes and did not show it to anyone.
