@@ -3,10 +3,15 @@ Slot: one hour after Chapter Nineteen
 
 The Alpha vessel stopped transmitting to its home relay at 05:17.
 
-Kate had been watching for it. When a ship that has been running
-continuous encrypted traffic to three separate Alpha relay nodes
-goes completely silent in under a minute, it is either catastrophic
-failure or something has changed hands.
+Kate had been watching for it. The silence on her panel had a
+texture — an emptiness in the frequency band she could identify
+by the shape of the gap. She had been listening to that frequency
+for four months. She knew its habits.
+
+When a ship that has been running continuous encrypted traffic to
+three separate Alpha relay nodes goes completely silent in under a
+minute, it is either catastrophic failure or something has changed
+hands.
 
 The ship was still powered. All the thermal signatures said so.
 
