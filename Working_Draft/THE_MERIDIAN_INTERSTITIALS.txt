@@ -113,6 +113,11 @@ Petyr had found his droplet by now. It was on the inside of his
 left wrist — a small fabric oval, a water droplet in gunmetal
 thread on navy. He kept turning his wrist over to look at it.
 
+The nav station ran three degrees colder than the rest of the
+ship — a quirk of the cooling architecture that Loa had
+catalogued and declined to fix. Petyr kept rubbing his left
+wrist without noticing. Not the droplet, exactly. The cold.
+
 "Can I ask something," Petyr said.
 
 "You're going to either way," Loa said.
@@ -189,6 +194,11 @@ against Saturn's distant brightness, already moving.
 
 "Collective watchers in the decommissioned shuttle confirmed all
 crew aboard," she said.
+
+The viewport on the bridge side faced inward toward the system,
+not out toward Jupiter's approach band. Saturn's rings —
+barely visible at this distance — made a thin bright seam across
+the lower right corner of the frame.
 
 "Including Taylor," Loa said.
 
@@ -296,6 +306,12 @@ The tactical argument wins.
 
 Preservation protocol: active.
 
+The augmentation wing is maintained at 16 degrees Celsius. This
+is standard. Subject's body temperature held at 38.1 degrees on
+intake, consistent with secondary wound infection. It normalized
+over forty-eight hours without intervention. This has been logged
+and is not otherwise noted.
+
 Note appended by Dr. Vasic: I want it on record that I did not
 design this application and I am registering my objection in
 writing.
@@ -339,6 +355,11 @@ Petyr was very still. He was learning that stillness was the
 appropriate response to some things, which was better than the
 alternatives.
 
+The ship at 0200 was different from the ship at 0800 — not
+quieter, but heavier. The hull made a specific sound at this hour
+that Loa said was thermal expansion. Kate had started thinking of
+it as the ship breathing.
+
 "Emily Nova is alive," Kate said, because someone had to say it.
 "She was taken to an Alpha facility and she got out. She's alive.
 Rachel has her."
@@ -360,6 +381,11 @@ MERIDIAN V — EMILY IN THE CAR
 Slot: after Chapter Ten
 
 Three days after the farm road.
+
+Emily's signal moving east had a particular quality in the trace
+— a slight Doppler-adjacent skew Kate had learned to feel for
+the way you feel for a key in your pocket. Emily was driving
+fast.
 
 "She's moving," Kate said.
 
@@ -416,6 +442,12 @@ What Kate had not put in her seven-sentence relay was what
 happened after she hit send.
 
 She sat for eleven minutes.
+
+The ship-day lighting ran at the same level regardless of hour
+— the Meridian didn't track a planetary cycle. The station at
+0300 looked identical to the station at 1400. Kate had stopped
+noticing this. She had started noticing it again after San
+Francisco.
 
 Dayo found her there when he came on shift. He read the
 confirmation on her screen and stood for a moment — not rushing,
@@ -481,6 +513,10 @@ Slot: after Chapter Thirteen
 
 Loa had a theory about Emily Nova that she delivered while running
 diagnostics, which was when she delivered all her theories.
+
+The diagnostics panel ran warm. Loa worked with her compass wrist
+resting against the cool edge of the console — a habit she'd had
+long enough that she no longer knew she was doing it.
 
 "She's managing something physical," she said. "The rest schedule
 isn't anxiety. It's a protocol. She's been on it a while."
@@ -557,8 +593,11 @@ orbital approach.
 
 Approved. — Station Commander Holt
 
-Dr. Vasic, final annotation: She asked me, at one point, what
-I was doing this for. I told her it was contractual. She looked
+Dr. Vasic, final annotation: The augmentation bay has good light.
+Surgical-grade. You can see everything clearly. I have been
+seeing everything clearly for two weeks.
+
+She asked me, at one point, what I was doing this for. I told her it was contractual. She looked
 at me for a long time and said, "That's not what I asked." I have
 been thinking about this for two weeks. I am still thinking about
 it.
@@ -576,6 +615,12 @@ drive in his coat and six blocks between him and the park, Kate
 was running a signal sweep and eating a very good blood orange
 someone had included in the last supply rotation, and she was
 genuinely happy for about four minutes.
+
+The blood orange was from the supply rotation. Someone on the
+logistics side had started including small things — blood oranges
+once, a very small jar of decent coffee, a bar of chocolate that
+arrived broken into four pieces and was rationed accordingly.
+Kate did not know who made these decisions. She had never asked.
 
 This was unusual enough that she mentioned it to Loa.
 
@@ -654,6 +699,13 @@ Significant modification. The signature was Sharon Teez and it
 was also not Sharon Teez, and the two facts occupied the same
 space without resolving.
 
+The thermal data came through as a color gradient — amber for
+structural heat, blue-white for active power systems. The
+augmentation signature read amber-edged, with something at the
+center that had no clinical designation. Kate had started writing
+"Sharon" in her notes for it and stopped when she noticed she
+was doing it.
+
 Petyr said, "Is that—"
 
 "Yes," Kate said.
@@ -728,10 +780,15 @@ Slot: one hour after Chapter Nineteen
 
 The Alpha vessel stopped transmitting to its home relay at 05:17.
 
-Kate had been watching for it. When a ship that has been running
-continuous encrypted traffic to three separate Alpha relay nodes
-goes completely silent in under a minute, it is either catastrophic
-failure or something has changed hands.
+Kate had been watching for it. The silence on her panel had a
+texture — an emptiness in the frequency band she could identify
+by the shape of the gap. She had been listening to that frequency
+for four months. She knew its habits.
+
+When a ship that has been running continuous encrypted traffic to
+three separate Alpha relay nodes goes completely silent in under a
+minute, it is either catastrophic failure or something has changed
+hands.
 
 The ship was still powered. All the thermal signatures said so.
 
@@ -842,6 +899,11 @@ They watched on the secondary relay — four people crowded around
 a screen rated for survey data, which meant the picture had
 artifacts and Marcus Verguld's face, when it appeared, looked
 slightly smeared. Nobody complained.
+
+Everything reached the Meridian twelve seconds after it happened
+— the relay lag at this distance was twelve seconds, world to
+ship. Kate had stopped counting it months ago. Today she counted
+it.
 
 The Marcus testimony played for two hours and fifty-one minutes.
 Kate listened to every word. She had read most of it in
