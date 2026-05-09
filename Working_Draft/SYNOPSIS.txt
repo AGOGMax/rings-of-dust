@@ -36,9 +36,8 @@ been ready for years.
 The visible face of this operation is Marcus Verguld — charming,
 precise, possessed of the particular warmth that belongs to men who
 have decided which emotions are useful. But Marcus is not the
-architect. The machine predates him by a generation. His grandfather
-Klaus founded Alpha Corp in 1991 and built the structure that Marcus
-now operates inside — without ever being told its full shape. Taylor
+architect. The machine predates him by a generation. His father Klaus founded Alpha Corp in 1991 and built the structure that
+Marcus now operates inside — without ever being told its full shape. Taylor
 Glenn, Chief Science Officer aboard the Golden Dawn, has been Klaus's
 asset for seven years. He is not brutal. He is managerial. He is
 the kind of man who reads "Vance Black, deceased" and closes the file
@@ -59,7 +58,8 @@ they found inconvenient and turned what remained into iRIS, the
 intelligence system now installed in every Federation vessel. Conrad
 kept a piece of Gracie back. He embedded a counter-program inside a
 hollow children's toy: a Star Trek Enterprise figurine, small enough
-to fit in a pocket.
+to fit in a pocket. The counter-program is carried by nanoparticles — suspended
+in a contact-activated medium. Absorption requires only physical touch.
 
 The program is dormant until it finds a host. The host has to hold
 it — specifically, has to hold it, to let the contact happen. Conrad
@@ -104,8 +104,8 @@ with a small smooth pebble set at the top. "For the first time, I
 want to give you something to hold onto." Emily watches from the
 porch swing. Then he gets in the car and drives east, and the road
 will not be safe even before they reach Federation HQ. The men in
-the black SUV — Davis and Brandon T., whom Ricardo recognizes from
-the Polaris roster and says nothing about — make that clear.
+the black SUV — Davis and Brandon T., whom Ricardo recognizes as relatives of Polaris crew members —
+the crew is dead, every one — and says nothing about — make that clear.
 
 ─────────────────────────────────────────────────────────────────────
 
@@ -176,6 +176,13 @@ proximity effect — which thins emotional architecture by approximately
 twenty percent at their cruising velocity — finds nothing in her it
 hasn't already met.
 
+Heather Voss is the Golden Dawn's medical and environmental officer — composed,
+dry-humored, not someone who explains herself until the explaining matters. She
+and Sam begin something quiet between them early in the mission: shared shifts,
+shared silences, the particular closeness of two people who have both learned
+to keep their own weather. By the return leg, that closeness is not quiet
+anymore.
+
 Taylor Glenn is Alpha's man — Klaus Verguld's, specifically, though
 neither Cole nor DeMint will know this until it is over. He ordered
 the road attack on Cole's convoy before departure. He has a standing
@@ -220,14 +227,18 @@ single word in the elevator: "Careful." Emily drops the card behind
 a potted plant in the parking garage on the way out. She is not going
 to be the thread.
 
+On the drive east, Collective field agent Sommi locates and removes the tracker
+Marcus had planted on her vehicle — pulled from the wheel well outside Blythe,
+disposed of on a westbound freight. Emily drives the rest of the way clean.
+
 In Houston she moves through Federation Space Command at 6:22 AM,
 through two service corridors and a freight elevator to a sub-basement
 vault, where Conrad's prototype — slim, matte-gray, port array, a
 steady green light — waits. A copier device runs for twenty seconds
-and comes up green. The duplicate goes to Orin, Orin to the relay,
+and comes up green. The duplicate goes to Sommi, Sommi to the relay,
 the relay outward. Ninety minutes in a diner. Then Cole's voice comes
 through from the Golden Dawn: "Emily. I know about Sharon. She's
-here. She came back. She kept both of us." Emily cries. Orin places
+here. She came back. She kept both of us." Emily cries. Sommi places
 a napkin without looking. "Good mission."
 
 Emily is not a soldier or an agent. She is the person Cole trusts
@@ -261,7 +272,7 @@ The sentence that breaks something open: "You don't need a pardon.
 You need to stop being the warden. The cell door's been open the
 whole time."
 
-The nanopowder that entered him at the cabin has been rewriting. The
+The nanoparticles that entered him at the cabin has been rewriting. The
 counter-program has not just been working on iRIS; it has been using
 Cole as the medium. A new voice says: "I think I'm Gracie." Cole
 tells her not to announce it yet — take a minute. "I'm sorry about
@@ -356,6 +367,11 @@ Marcus. Taylor was never Marcus's man. He was Klaus's. The machine
 predates Marcus by a generation, and Marcus has been operating inside
 it his entire life without being told the full structure.
 
+On the return to Earth, Sam and Heather are in each other's quarters. Not
+an announcement. Just a door that closes and doesn't open until morning. The
+ship accommodates this without comment, which is the Golden Dawn being exactly
+what its crew needed it to be.
+
 Cole drives to Emily's house. Emily is on the porch with coffee and
 a road atlas penciled with new routes. They hold each other without
 talking about it, which is the right way to do it. Sharon is in the
@@ -364,10 +380,9 @@ bastard," which is the highest compliment he gives. Blackberry
 preserves. An argument about the route through Prescott. Ricardo
 calls: Dani wants bowling.
 
-At Cosmic Lanes, Ricardo proposes to Sam — moissanite ring, full
+At Cosmic Lanes, Ricardo proposes to Dani — moissanite ring, full
 ethical sourcing and cost breakdown provided, because Ricardo cannot
-help being exactly who he is. Sam laughs and cries simultaneously.
-Yes. Cole sets the copper ring — the one he bent from the hummingbird
+help being exactly who he is. Sam laughs. Dani cries. Yes. Cole sets the copper ring — the one he bent from the hummingbird
 feeder wire, that Sharon has been wearing since she came back — on the
 table. "I don't think I need to replace it. I think this is the one."
 Sharon puts it on. "Yes." Cole: "That wasn't a question." Sharon:
