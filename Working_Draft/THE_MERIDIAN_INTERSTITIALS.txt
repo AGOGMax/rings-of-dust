@@ -9,7 +9,7 @@ a position 200,000 km inside the Jupiter approach band. They have
 been out here a while.
 
 CREW:
-  Bleth — communications officer; three years on the Meridian; dry,
+  Kate — communications officer; three years on the Meridian; dry,
     precise; sunglasses patch worn openly on her collar, which is
     technically not how you're supposed to wear it; nobody has
     officially filed a complaint
@@ -27,7 +27,7 @@ CREW:
 MERIDIAN I — LISTENING POST
 Slot: before Chapter One
 
-Bleth had been running the filtered sweep for four months before
+Kate had been running the filtered sweep for four months before
 anything interesting happened.
 
 "Interesting" was relative. Everything that moved through
@@ -59,7 +59,7 @@ it to the refrigerator.
 
 The refrigerator had not confirmed.
 
-"Petyr," Bleth said.
+"Petyr," Kate said.
 
 "Yeah."
 
@@ -106,7 +106,7 @@ thread on navy. He kept turning his wrist over to look at it.
 "What's a droplet mean. Like, actually. I read the brief but the
 brief was—"
 
-"Spare," Bleth said.
+"Spare," Kate said.
 
 "It said I had demonstrated awareness and willingness. Which is a
 pretty low bar for a clandestine network."
@@ -138,9 +138,9 @@ direction as well as receive it."
 
 "What's above a compass?"
 
-Bleth and Loa exchanged a look.
+Kate and Loa exchanged a look.
 
-"We don't put them in order," Bleth said.
+"We don't put them in order," Kate said.
 
 "Why not?"
 
@@ -153,7 +153,7 @@ clarifying and unsatisfying, which Dayo privately thought was
 the correct response to most true things.
 
 "Cole Nova launches in approximately seventy-two hours," Dayo
-said. "Bleth. Continuous passive intercept on the Golden Dawn's
+said. "Kate. Continuous passive intercept on the Golden Dawn's
 outbound relay bands. Everything."
 
 "Already running," she said. "Have been for a week."
@@ -168,7 +168,7 @@ Slot: after Chapter Seven
 
 The Golden Dawn launched at 07:14.
 
-Bleth watched the departure feed on the relay — low-resolution,
+Kate watched the departure feed on the relay — low-resolution,
 because Alpha's communication architecture didn't waste bandwidth
 on aesthetics — and said nothing. The ship was a clean shape
 against Saturn's distant brightness, already moving.
@@ -182,7 +182,7 @@ crew aboard," she said.
 
 Dayo had been standing at the viewport for ten minutes. Working
 through something at the pace he worked through things, which was
-slower than Bleth preferred and faster than Petyr could follow.
+slower than Kate preferred and faster than Petyr could follow.
 
 "Sam Drummond is on that ship," he said.
 
@@ -190,7 +190,7 @@ slower than Bleth preferred and faster than Petyr could follow.
 
 "Sunglasses patch?"
 
-"Inside the duffel lining. Second seam pocket." Bleth allowed
+"Inside the duffel lining. Second seam pocket." Kate allowed
 herself a small approving sound. "Good placement."
 
 "The sunglasses thing is funny," Petyr said.
@@ -210,7 +210,7 @@ What does it look like."
 
 Silence.
 
-"We," Bleth said carefully, "are not a rank-structure podcast."
+"We," Kate said carefully, "are not a rank-structure podcast."
 
 "But you literally wear your patch on the outside of your collar—"
 
@@ -226,16 +226,16 @@ said. "Monitor the captain, track proximity to the cargo, keep
 Alpha's relay open and the Federation relay degraded." A pause.
 "Taylor is not a stupid man."
 
-"No," Bleth agreed.
+"No," Kate agreed.
 
 "He's going to make Sam's job very hard."
 
-Bleth thought about Sam Drummond with her sunglasses patch sewn
+Kate thought about Sam Drummond with her sunglasses patch sewn
 into her duffel lining, watching a ship that watched back, running
 interference from inside with nothing but a gray receiver and
 better instincts than anyone had ever properly assessed.
 
-"She can handle hard," Bleth said.
+"She can handle hard," Kate said.
 
 She said it the way you say things you've decided to believe and
 intend to keep believing.
@@ -293,7 +293,7 @@ Note appended by Station Commander Holt: Noted. Disregarded.
 MERIDIAN IV — THE NIGHT AFTER THE FARM ROAD
 Slot: after Chapter Eight
 
-Bleth had been on the Meridian for three years. She had run sweeps
+Kate had been on the Meridian for three years. She had run sweeps
 through six significant operations. She had logged intercepts that
 became the evidentiary backbone of what was now being built toward
 the Grand Hall.
@@ -314,7 +314,7 @@ No one spoke.
 back to the room. "Before we stopped having reasons to be in the
 same city."
 
-Bleth hadn't known that.
+Kate hadn't known that.
 
 "She had a droplet," Loa said. "She never asked what it meant.
 She just understood it. Immediately. She said: 'Okay, you're
@@ -325,20 +325,20 @@ Petyr was very still. He was learning that stillness was the
 appropriate response to some things, which was better than the
 alternatives.
 
-"Emily Nova is alive," Bleth said, because someone had to say it.
+"Emily Nova is alive," Kate said, because someone had to say it.
 "She was taken to an Alpha facility and she got out. She's alive.
 Rachel has her."
 
 "Then we have something to work with," Dayo said.
 
-On the wall beside Bleth's station — where no modification to
+On the wall beside Kate's station — where no modification to
 standard vessel interior guidelines had been officially authorized,
 but where such authorizations had never been specifically enforced
 either — there was a small stencil. A water droplet, gunmetal on
 gray. Sharon had not put it there. But the person who had put it
 there had known her.
 
-Bleth touched it briefly before she went back to her panel.
+Kate touched it briefly before she went back to her panel.
 
 ─────────────────────────────────────────────────────────────────────
 
@@ -347,7 +347,7 @@ Slot: after Chapter Ten
 
 Three days after the farm road.
 
-"She's moving," Bleth said.
+"She's moving," Kate said.
 
 Dayo was eating an uninspired sandwich and did not look up.
 "East?"
@@ -368,15 +368,15 @@ A beat.
 
 "Most people don't—"
 
-"No," Bleth said. "They don't."
+"No," Kate said. "They don't."
 
 Loa was writing something on her forearm in marker. This was a
 habit she had when she was processing something. The writing was
-too small to read from across the room and Bleth had stopped
+too small to read from across the room and Kate had stopped
 trying.
 
 "Are we pulling for Emily Nova?" Petyr said. He meant it as a
-genuine question, which told Bleth he still hadn't quite learned
+genuine question, which told Kate he still hadn't quite learned
 to distinguish between the operations the Collective ran and the
 people at the center of them.
 
@@ -387,10 +387,10 @@ of her. Sharon had been in the field for four years. She'd run
 with people we trusted completely." He folded the wrapper. "If
 that was Sharon's assessment, it's our assessment."
 
-"We're pulling for Emily Nova," Bleth confirmed.
+"We're pulling for Emily Nova," Kate confirmed.
 
 Petyr nodded. He wrote something small on the edge of his nav
-panel — the same private script Loa used on her forearm. Bleth
+panel — the same private script Loa used on her forearm. Kate
 didn't read it. Some things were for the person writing them.
 
 ─────────────────────────────────────────────────────────────────────
@@ -398,7 +398,7 @@ didn't read it. Some things were for the person writing them.
 MERIDIAN VI — THE CONFIRMATION
 Slot: after Chapter Eleven
 
-What Bleth had not put in her seven-sentence relay was what
+What Kate had not put in her seven-sentence relay was what
 happened after she hit send.
 
 She sat for eleven minutes.
@@ -408,7 +408,7 @@ confirmation on her screen and stood for a moment — not rushing,
 not looking away, locating the feeling precisely, putting it
 somewhere it could be carried.
 
-"Her droplet's on the wall," Bleth said.
+"Her droplet's on the wall," Kate said.
 
 "I know."
 
@@ -425,7 +425,7 @@ wars, before anyone put a patch on her arm — was bigger than a
 droplet. She was already running her own version of the network
 before the network found her."
 
-Bleth said nothing.
+Kate said nothing.
 
 "A scalpel goes to someone who operates without flinching. A
 wrench to someone who builds what others walk across. A sunglasses
@@ -438,12 +438,12 @@ olive leaf wreaths on each side — one left, one right. The House.
 I have never given it out because the person who receives it has
 to have demonstrated something that cannot be assessed in advance."
 
-Bleth was quiet.
+Kate was quiet.
 
 "Sharon had it," Dayo said. "I was going to send it when the
 mission was done. When she was safe."
 
-Bleth thought about what the Grand Admiral patch looked like in
+Kate thought about what the Grand Admiral patch looked like in
 that box. She had never opened it, but she knew it was there.
 
 "We're going to get the data out," she said. Not a comfort.
@@ -454,7 +454,7 @@ A statement of intent.
 Outside the viewport, Saturn's rings caught refracted sunlight
 and held it — a thin, bright edge in the dark.
 
-"The network needs people who choose it," Bleth said.
+"The network needs people who choose it," Kate said.
 
 "Sharon chose it before she knew there was a name for it," Dayo
 said. "That's the thing about people like her. The network
@@ -471,7 +471,7 @@ diagnostics, which was when she delivered all her theories.
 "She's managing something physical," she said. "The rest schedule
 isn't anxiety. It's a protocol. She's been on it a while."
 
-Bleth had noticed the same pattern. "What does that have to do
+Kate had noticed the same pattern. "What does that have to do
 with anything."
 
 "Nothing. Operationally." Loa ran a calibration pass. "I just
@@ -490,7 +490,7 @@ he wrote: *She pulled over for Orin instead of driving away. She
 figured out he was friendly before she had reason to know. I
 don't know what rank that is.*
 
-He showed it to Bleth later.
+He showed it to Kate later.
 
 She read it. "There's a reason we don't put them in order."
 
@@ -504,7 +504,7 @@ rank. That's orientation."
 
 "There should be a patch for that."
 
-Bleth thought about it. "There is. It's called a droplet. But
+Kate thought about it. "There is. It's called a droplet. But
 the droplet isn't the end state. The droplet just means you're
 wet." She paused. "She's soaked."
 
@@ -558,7 +558,7 @@ MERIDIAN VIII — PANAMA AND HOUSTON, SAME WEEK
 Slot: after Chapter Sixteen
 
 On the day Max Forster walked out of Alpha's Panama tower with a
-drive in his coat and six blocks between him and the park, Bleth
+drive in his coat and six blocks between him and the park, Kate
 was running a signal sweep and eating a very good blood orange
 someone had included in the last supply rotation, and she was
 genuinely happy for about four minutes.
@@ -573,7 +573,7 @@ This was unusual enough that she mentioned it to Loa.
 
 Loa closed her eyes briefly. "He's good."
 
-"He's good." Bleth bit into the orange. "Squirrel has the drive."
+"He's good." Kate bit into the orange. "Squirrel has the drive."
 
 "What's on it."
 
@@ -588,7 +588,7 @@ it the Antigravity project."
 Petyr, who had been listening: "What does the flywheel mean
 for—"
 
-"It means," Bleth said, "that the shortage ends. Not eventually.
+"It means," Kate said, "that the shortage ends. Not eventually.
 As soon as the math gets out. The compound works in your favor
 if you have enough of it. Alpha knew this. They sat on it for
 nine months." She finished the orange. "The energy crisis has
@@ -598,7 +598,7 @@ Petyr was quiet. His hand went to his droplet.
 
 "Is that why—" he started, then stopped.
 
-"Probably," Bleth said. She didn't know his specific reason for
+"Probably," Kate said. She didn't know his specific reason for
 being here. She had never asked. That was how the network worked
 — you didn't arrive at someone else's reason, you arrived at your
 own, and then discovered you were in a room with other people
@@ -607,14 +607,14 @@ are connected somewhere upstream."
 
 "Same week," Loa said quietly.
 
-Bleth looked up.
+Kate looked up.
 
 "Max is out. Emily is in Houston. Same week." She gestured at
 her panel, where Houston's Space Command facility was logged
 as a monitoring point. "The network moves all at once or it
 doesn't move."
 
-"It's moving," Bleth said.
+"It's moving," Kate said.
 
 On the wall: the droplet. Gunmetal on gray. Sharon's.
 
@@ -626,7 +626,7 @@ Slot: after Chapter Nineteen
 There was no good way to watch the thermal signature data and
 know what it meant.
 
-Bleth had been tracking FED-MRS-0409 for nine days. The biometric
+Kate had been tracking FED-MRS-0409 for nine days. The biometric
 data she'd pulled from relay intercepts had confirmed what she'd
 already suspected and confirmed it in a way she wished it hadn't.
 
@@ -642,7 +642,7 @@ space without resolving.
 
 Petyr said, "Is that—"
 
-"Yes," Bleth said.
+"Yes," Kate said.
 
 Dayo was standing. He'd been standing for twenty minutes.
 
@@ -657,7 +657,7 @@ didn't account for that were nonetheless real.
 "The bronze indicator on the augmentation's central power conduit,"
 Loa said, from memory. "If Conrad's counter-program transferred—"
 
-"It goes dark," Bleth said.
+"It goes dark," Kate said.
 
 "Can we read that from here."
 
@@ -684,14 +684,14 @@ who are there."
 
 He did not elaborate. He didn't need to.
 
-Bleth went back to her panel.
+Kate went back to her panel.
 
 At 04:49 ship time, the augmentation signature on FED-MRS-0409
 changed. The bronze indicator — the central power conduit,
 detectable even at this range as a low-level electromagnetic
 output — went dark.
 
-Bleth stared at her readout for four seconds.
+Kate stared at her readout for four seconds.
 
 Then she said: "Clear."
 
@@ -714,7 +714,7 @@ Slot: one hour after Chapter Nineteen
 
 The Alpha vessel stopped transmitting to its home relay at 05:17.
 
-Bleth had been watching for it. When a ship that has been running
+Kate had been watching for it. When a ship that has been running
 continuous encrypted traffic to three separate Alpha relay nodes
 goes completely silent in under a minute, it is either catastrophic
 failure or something has changed hands.
@@ -724,21 +724,21 @@ The ship was still powered. All the thermal signatures said so.
 "It's not dead," she said.
 
 "No," Loa agreed. She was running signal pattern analysis, her
-hands moving fast — faster than Bleth had seen her move in weeks.
+hands moving fast — faster than Kate had seen her move in weeks.
 "It's restructured. Whoever's talking to the relay nodes now is
 using a completely different encryption architecture." She
 paused. "It's not Alpha's."
 
 Dayo had come back from his quarters at a pace that was not quite
-running. He stood behind Bleth's station and read the same data
+running. He stood behind Kate's station and read the same data
 she was reading.
 
 "Gracie," he said.
 
-Bleth looked up. "The counter-program? We thought she was—"
+Kate looked up. "The counter-program? We thought she was—"
 
 "Apparently she wasn't." He straightened. Something moved across
-his face that Bleth could not immediately name, because she had
+his face that Kate could not immediately name, because she had
 never seen Dayo surprised before. He was handling it well, which
 was different from handling it easily. "Conrad's architecture
 absorbed through Nova's system, reconstituted through DarkX
@@ -771,16 +771,16 @@ Loa made a sound that was not quite a laugh but contained most
 of the same information.
 
 "That," Dayo said, "is a question for people with more stars than
-me." He turned back to Bleth's station. "What's FED-MRS-0409's
+me." He turned back to Kate's station. "What's FED-MRS-0409's
 current heading."
 
-Bleth checked. "Holding position. Two hundred meters off the
+Kate checked. "Holding position. Two hundred meters off the
 Golden Dawn's port side." She ran the signal trace one more time
 to make sure she was reading it correctly. "She's waiting."
 
 "For what."
 
-"My best guess? The mission to finish." Bleth pulled off her
+"My best guess? The mission to finish." Kate pulled off her
 headset and set it down. "I think she's staying with the crew
 until they're done."
 
@@ -795,7 +795,7 @@ Cole's port side, waiting for the mission to land.
 It wasn't a question. He was just placing it somewhere he could
 look at it.
 
-"Yes," Bleth said.
+"Yes," Kate said.
 
 "And now she has their ship."
 
@@ -830,14 +830,14 @@ artifacts and Marcus Verguld's face, when it appeared, looked
 slightly smeared. Nobody complained.
 
 The Marcus testimony played for two hours and fifty-one minutes.
-Bleth listened to every word. She had read most of it in
+Kate listened to every word. She had read most of it in
 fragments — relay intercepts, source documents, eleven years of
 Rachel's work feeding into the network — but hearing it flat and
 complete and authenticated, in the Grand Hall, in Marcus's own
 voice, was different from reading it in pieces.
 
 When the Polaris section played, none of them said anything.
-369 names existed in the Meridian's data archive. Bleth had
+369 names existed in the Meridian's data archive. Kate had
 looked at the list once, early in the posting. She had not been
 able to finish.
 
@@ -846,7 +846,7 @@ notebook. He looked like exactly what he was: a scientist who
 had found something true and was telling as many people as
 possible. "The crisis is not a fact of nature. It is a decision."
 The Hall went quiet in a way the broadcast compression couldn't
-quite capture but Bleth could read in the ambient sound levels.
+quite capture but Kate could read in the ambient sound levels.
 
 When Rachel stood up, Petyr made a sound.
 
@@ -855,7 +855,7 @@ over his mouth and looked at the screen.
 
 "My name is Rachel Vayes."
 
-Eleven years. Bleth had known the cover was running. She had
+Eleven years. Kate had known the cover was running. She had
 never known the person running it — that wasn't how the network
 worked — but she had known what eleven years inside Alpha's
 structure cost. She had made her own estimate of what kind of
@@ -870,7 +870,7 @@ The room stood.
 
 "I have something to tell you," Petyr said.
 
-Bleth looked at him.
+Kate looked at him.
 
 "When I got my droplet, I thought it was a formality. A membership
 card." He was still watching the screen. "I understand now that
@@ -887,7 +887,7 @@ confirmation of something that was already there."
 "And Rachel had it for eleven years without anyone being able to
 see it."
 
-"That," Bleth said, "is what a star looks like from the outside."
+"That," Kate said, "is what a star looks like from the outside."
 
 Petyr turned to look at her.
 
@@ -904,7 +904,7 @@ choosing it since before we had a name for what she was doing."
 
 On the screen, Emily Nova was in the fourth row.
 
-Bleth saw her at the same moment, probably, that Cole did.
+Kate saw her at the same moment, probably, that Cole did.
 
 ─────────────────────────────────────────────────────────────────────
 
@@ -928,7 +928,7 @@ Not for publication; working notes only
     you carry that without breaking cover. Sam Drummond boards the
     Golden Dawn with a sunglasses sewn into her duffel lining.
     By the end of the mission she will have earned her compass.
-    Bleth wears hers on her collar. Nobody has filed a complaint.
+    Kate wears hers on her collar. Nobody has filed a complaint.
 
   COMPASS — Navigator. You move when the network moves. You give
     direction as well as receive it. You've demonstrated something
