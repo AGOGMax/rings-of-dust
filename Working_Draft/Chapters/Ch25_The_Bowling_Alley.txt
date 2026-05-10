@@ -592,7 +592,7 @@ days.
 turned the glass without lifting it — one slow rotation, the way a man turns a
 thing he has held so long its weight is no longer interesting. "You spent fifteen
 years building the cover and began to believe in it. The ledger you were keeping
-was never the ledger." A pause. "Your grandfather did not find those drives in an
+was never the ledger." A pause. "Your father did not find those drives in an
 unindexed room so that his grandson could administer a power grid."
 
 Marcus was still.
@@ -634,7 +634,7 @@ The hospital had been operational until the eastern basin grid failed.
 Alpha Corp's supply management — characterized in the Federal investigation
 as a load balancing optimization — had prioritized urban premium customers
 during the shortage. Rural grid nodes were deprioritized. The hospital had
-run on backup power for six days. Then it hadn't. Seven people in the hospital
+run on backup power for six days. Then it hadn't. eleven people in the hospital
 had died in that window. Their families were still in the town because they
 had nowhere else to go.
 
@@ -665,7 +665,7 @@ The first was the hospital. Taylor had not ordered the load balancing
 optimization — that was Alpha's management layer, and Taylor was operations.
 But Taylor had received the eastern basin briefing and had said nothing,
 because saying nothing was what Taylor did when saying something cost him
-something. He had logged the briefing and moved on. The seven people in that
+something. He had logged the briefing and moved on. The eleven people in that
 hospital had not moved on.
 
 The second reason was Forest Service Road 22.
