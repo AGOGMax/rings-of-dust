@@ -23,7 +23,24 @@ deep-space dark crystal harvesting possible collapsed, and the world
 that had grown dependent on it went dark in ways that took years to
 catalog. None of that was manufactured.
 
+The explosion gave Alpha something they had not been able to produce
+in a lab: proof of conversion. The uncontrolled DarkX plasma release
+at the extraction site — the catastrophe itself — created conditions
+that crystallized the compound under pressure and rapid cold. Alpha
+scientists reviewing the Polaris telemetry found it. DarkX plasma,
+under the right conditions, converts to stable crystal form. At
+eleven days of stability, the crystals revert to plasma. This is
+how they learned to manage the resource. The disaster that ended 369
+lives also handed Alpha the key to controlling what those lives were
+lost trying to reach.
+
 What came next was.
+
+DarkX itself was not discovered on Marcus's watch, nor on Klaus's.
+The compound was first identified two generations back — in the era
+of Marcus's grandfather, before Alpha Corp had a name. Klaus built
+the corporate architecture around it. Marcus inherited the machine
+without ever being shown its original blueprints.
 
 Once the shortage was established, once the dependency was structural,
 Alpha began managing the recovery. Eleven viable energy technologies
@@ -36,7 +53,7 @@ been ready for years.
 The visible face of this operation is Marcus Verguld — charming,
 precise, possessed of the particular warmth that belongs to men who
 have decided which emotions are useful. But Marcus is not the
-architect. The machine predates him by a generation. His father Klaus founded Alpha Corp in 1991 and built the structure that
+architect. The machine predates Marcus by two generations. His father Klaus founded Alpha Corp in 1991 and built the structure that
 Marcus now operates inside — without ever being told its full shape. Taylor
 Glenn, Chief Science Officer aboard the Golden Dawn, has been Klaus's
 asset for seven years. He is not brutal. He is managerial. He is
@@ -111,7 +128,7 @@ the crew is dead, every one — and says nothing about — make that clear.
 
 THE FLYWHEEL
 
-While Cole drives east, a scientist named Max Forster is sitting at
+While Cole drives east, a scientist named Ray Vision is sitting at
 a table doing the math that will outlast the empire it threatens.
 
 He discovered the flywheel principle by accident: stored crystals in
@@ -130,13 +147,13 @@ operatives, found him and explained what the data actually meant: the
 flywheel yield data existed in Alpha's own records. They had known
 for nine months. They were sitting on it.
 
-Max goes undercover as "Mikof Forsinko," a contract scientist, into
+Ray goes undercover as "Mikof Forsinko," a contract scientist, into
 Alpha's Panama tower — forty stories, Casco district, enormous
 lobbies designed to make you feel small. He spends four days being
 collegial with Dr. Yusuf Oren — a genuinely good man who went around
 his desk to shake Max's hand and explained the stabilization process
 with the pleasure of someone showing a colleague something beautiful.
-Max listens. He learns the access codes. He reads the batch logs and
+Ray listens. He learns the access codes. He reads the batch logs and
 finds four things that matter: the patents aren't brilliance, they're
 accumulated theft; the flywheel data is in their own records —
 nine months suppressed; Disposal Protocol Seven — eleven to thirteen
@@ -151,7 +168,7 @@ crisis is an inventory decision. Squirrel says the drive goes out
 through the parallel network — a hundred thousand people in
 forty-eight hours. After that, it is not theirs to manage.
 
-Max boards the seven o'clock flight under his own name. On the plane,
+Ray boards the seven o'clock flight under his own name. On the plane,
 he opens his notebook and writes: *The drive is out. The work is
 done.* He sleeps.
 
@@ -257,11 +274,14 @@ with raw plasma. Bitboy goes full blue and begins moving toward the
 harvester before Cole speaks. Cole opens it manually — a mechanical
 release, not electronic.
 
-The DarkX vision is not a hallucination. It is an encounter with
-what the compound is — or what it does, at sufficient concentration,
-to a person who has been carrying it for months, who has been altered
-by it since the cabin, whose interior walls have been thinning since
-the inner belt.
+The DarkX vision is not a hallucination. Cole has seen the compound
+before — in the first chapter, before the exile, he and Clinton pulled
+a sample from the harvester at the rings. What happens in the cargo
+bay is not first contact. It is memory, expanded by months of
+absorption. The compound is saturated enough now to open what it has
+been slowly unlocking since the cabin. It does not show him anything
+new. It shows him everything he already knew, stripped of the
+barriers he built to avoid looking at it.
 
 Cole meets four versions of himself. The infant, reaching toward a
 mobile of stars. The seventeen-year-old in a 2003 Subaru with torn
@@ -287,16 +307,22 @@ on three good limbs to cry in Cole's lap.
 
 THE BOARDING
 
-The Alpha vessel — registered as FED-MRS-0409 "Rapid Response Medical
+The Alpha vessel — registered as FED-HEX-5555 "Rapid Response Medical
 Support," Geneva-incorporated, Singapore-backed, traced by Gracie to
 Alpha — draws alongside. A figure comes through the docking tube
 alone. Bitboy's chest panel flashes a message: SHE SMELLS LIKE
 SHARON.
 
-Sharon was not killed in the parking garage. She was taken. The
-weapon Alpha had been building and delivering aboard that shadowing
-vessel was the one person Cole would not be able to fight, assembled
-against her will from the inside out. The left side of her face is
+Sharon was not killed in the parking garage. She was taken.
+Inside FED-HEX-5555, as the Alpha vessel paced the Golden Dawn
+across the inner belt and toward Saturn, Alpha's augmentation team
+worked on her. She was being rebuilt as a weapon — the one person
+Cole would not be able to fight, assembled against her will from
+the inside out. The copper ring Cole had bent from the cabin's
+hummingbird feeder wire — the small smooth pebble set at the top,
+the one he pressed into her hand the morning he left — was found
+with her body in the augmentation bay. They had not taken it from
+her. Whether they tried is not recorded. The left side of her face is
 still hers — jaw, cheekbone, her bright left eye. The right side is
 gunmetal plates. Her right eye carries a bronze indicator ring. She
 does not hesitate when she attacks. She is faster and stronger than
@@ -336,7 +362,7 @@ launched — he found the emptied records vault, traced the clearance
 to Rachel Vayes, began composing a message to Marcus. He had been
 Marcus's own man. Marcus shot him twice and closed the file.
 
-Max Forster testifies with his notebook: "The shortage is solvable.
+Ray Vision testifies with his notebook: "The shortage is solvable.
 It has been solvable. The crisis is not a fact of nature. It is a
 decision. We can make a different one."
 
@@ -353,6 +379,12 @@ through Gracie, who exists again fully — as she was built to be,
 before Alpha stripped her. Rachel finds Emily afterward: "The
 Collective needs people who choose it. Not as assets. As people who
 chose it." Emily: "Yes."
+
+As Rachel turns to go, her coat shifts open slightly. On the lapel
+of her dress — pinned there quietly, not displayed, not announced —
+the Grand Admiral brooch catches the light for one second. A star
+with olive leaf wreaths, one left, one right. Then her coat closes.
+She does not mention it.
 
 ─────────────────────────────────────────────────────────────────────
 
@@ -378,11 +410,12 @@ talking about it, which is the right way to do it. Sharon is in the
 window chair. "Hi." Bitboy approaches and says "Hi, you little
 bastard," which is the highest compliment he gives. Blackberry
 preserves. An argument about the route through Prescott. Ricardo
-calls: Dani wants bowling.
+calls: Sam wants bowling.
 
-At Cosmic Lanes, Ricardo proposes to Dani — moissanite ring, full
+At Cosmic Lanes, Ricardo proposes to Sam — moissanite ring, full
 ethical sourcing and cost breakdown provided, because Ricardo cannot
-help being exactly who he is. Sam laughs. Dani cries. Yes. Cole sets the copper ring — the one he bent from the hummingbird
+help being exactly who he is. Sam laughs and cries simultaneously.
+Yes. Cole sets the copper ring — the one he bent from the hummingbird
 feeder wire, that Sharon has been wearing since she came back — on the
 table. "I don't think I need to replace it. I think this is the one."
 Sharon puts it on. "Yes." Cole: "That wasn't a question." Sharon:
@@ -394,7 +427,7 @@ structure continues." The machine was never Marcus's. It was always
 Klaus's.
 
 In a Nevada high-desert town where the hospital died when Alpha
-deprioritized the rural grid — seven people died there — Taylor is
+deprioritized the rural grid — eleven people died there — Taylor is
 placed by Marcus. His new name was leaked as payment for the road
 attack Taylor ordered without authorization. The machine disciplines
 its own errors.
