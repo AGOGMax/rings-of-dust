@@ -649,20 +649,21 @@ The hospital had been operational until the eastern basin grid failed.
 Alpha Corp's supply management — characterized in the Federal investigation
 as a load balancing optimization — had prioritized urban premium customers
 during the shortage. Rural grid nodes were deprioritized. The hospital had
-run on backup power for six days. Then it hadn't. eleven people in the hospital
+run on backup power for six days. Then it hadn't. Eleven people in the hospital
 had died in that window. Their families were still in the town because they
 had nowhere else to go.
 
 The Collective had known this. They had not chosen the town by accident.
+What they had not known was who told them where to look.
 
 Taylor had been there eleven days when the first person recognized him.
 
 He had a new name. A new license. He had been careful about where he went
 and when. What he had not accounted for was the parallel network. The Panama
 files had been running for four months. The specific documents naming Alpha
-Corp's internal operations personnel — their field coordinators, the people
-who had managed the optimization — had been in two hundred thousand hands
-since the night they were released.
+Corp's field operatives — the people who had worked adjacent to the machine,
+who had moved through the rooms where decisions were made — had been in two
+hundred thousand hands since the night they were released.
 
 Someone in the town had read them. Someone had talked to someone else. The
 name on the document had been connected, by a process that took eleven days
@@ -670,38 +671,34 @@ and the resources of people who had nothing left to lose, to the man who had
 arrived at the bus station on a Thursday with the wrong face and the wrong
 quiet.
 
-In Dubai, three weeks before Klaus arrived, Marcus had sent one piece of
-information through a routing that had two extra nodes than it needed: the
-name Taylor was using, and the town where the Collective had placed him.
+Three weeks before Klaus arrived in Dubai, Marcus had learned where Taylor
+was. He had passed the information to the Collective through a routing with
+two extra nodes — the kind of routing that erased the sender and preserved
+the message. The Collective had acted on it the way the Collective acted on
+things: efficiently, without asking who had provided the source. They had
+moved Taylor. They had chosen the town.
 
-He had done this for two reasons.
+They had not known it came from Marcus.
 
-The first was the hospital. Taylor had not ordered the load balancing
-optimization — that was Alpha's management layer, and Taylor was operations.
-But Taylor had received the eastern basin briefing and had said nothing,
-because saying nothing was what Taylor did when saying something cost him
-something. He had logged the briefing and moved on. The eleven people in that
-hospital had not moved on.
+Marcus had done this for one reason.
 
-The second reason was Forest Service Road 22.
+Forest Service Road 22. The black SUV. The men in sports coats. The attempt
+to run Cole Nova and Ricardo Corazon off a mountain road at night, before the
+mission launched, before Cole could become the problem Taylor had already
+decided he would become.
 
-The black SUV. The men in sports coats. The attempt to run Cole Nova and
-Ricardo Corazon off a mountain road at night, before the mission launched,
-before Cole could become the problem Taylor had already decided he would
-become.
-
-Taylor had ordered that attack without authorization. Not from Alpha. Not
-from Marcus. He had made the call on his own assessment, using Marcus's
-network and Marcus's assets and Marcus's people, and he had not told Marcus
-that he had done it. Marcus had learned about it from a deposition summary.
-He had read *Davis, Brandon T.* and understood immediately what Taylor had
-ordered, and with whose resources, and without whose permission.
+Taylor had ordered that attack without authorization. Not from Marcus. He had
+made the call on his own assessment, using Marcus's network and Marcus's
+assets and Marcus's people, and he had not told Marcus that he had done it.
+Marcus had learned about it from a deposition summary. He had read
+*Davis, Brandon T.* and understood immediately what Taylor had ordered, and
+with whose resources, and without whose permission.
 
 He had not forgotten it.
 
 What happened in the town after that was the town's calculation to make.
-Marcus had given one name to one person. The rest was not his operation.
-He was sixty-three years old and in exile under a name that was not his.
+Marcus had given one name to one routing. The rest was not his operation.
+He was forty-eight years old and in exile under a name that was not his.
 He was not in the business of regret. He was still, however, in the business
 of accounts.
 
