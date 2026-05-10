@@ -2696,8 +2696,10 @@ passed — the particular length of a moment in which a person is deciding wheth
 to say something. Then he glanced at Cole. Not the glance of a man who didn't
 recognize something. The opposite of that.
 
-The Polaris had carried two hundred and fourteen crew. Ricardo had known them
-all by name.
+The Polaris had carried three hundred and sixty-nine people. They were all
+dead. Ricardo had attended every memorial service he could reach. He had met
+the families. He knew where a name like Davis fit in that picture, and it was
+not as crew.
 
 He said nothing. Cole said nothing. Ricardo drove.
 
@@ -3216,7 +3218,11 @@ crew aboard," she said.
 The viewport on the bridge side faced inward toward the system,
 not out toward Jupiter's approach band. Saturn's rings —
 barely visible at this distance — made a thin bright seam across
-the lower right corner of the frame.
+the lower right corner of the frame. Someone had left a coffee
+mug on the edge of the console. Lukewarm — forgotten when the
+launch feed went live. Kate pushed it aside with the back of
+her hand. The ceramic was the exact temperature of a ship that
+had been running too long without anything worth celebrating.
 
 "Including Taylor," Loa said.
 
@@ -3881,6 +3887,17 @@ watched her once or twice, looking for the seams in it, and hadn't found any.
 Sam was no stranger to this kind of interior weather. She had simply assessed
 the conditions and begun sailing.
 
+The ship's medical officer, Heather Voss, had handled the DarkX proximity
+effect differently from everyone else on the crew: she had logged it in four
+sentences, filed the assessment, and then spent the next three days quietly
+checking in on people. Not as a medical officer performing rounds. More like
+someone who had noticed that certain things are better handled with presence
+than protocol. Cole had caught Sam watching her once during one of these
+rounds — not the watching of a person performing surveillance, but the
+watching of a person noticing something new.
+
+He had not remarked on it. He suspected Sam would have preferred that.
+
 Bitboy was the anomaly.
 
 The chimp was fine. His readings were stable, his threat assessment protocols
@@ -4356,7 +4373,7 @@ RINGS OF DUST
 
 Chapter Ten (B)
 
-Max ran his dry fingertips along the rough edges of his weathered oak table,
+Ray ran his dry fingertips along the rough edges of his weathered oak table,
 feeling the familiar grit beneath his skin. The surface, scarred from years of
 restless nights and unanswered questions, was as uneven as his thoughts. A
 single light hung overhead, casting sharp, unforgiving shadows that made the
@@ -4366,7 +4383,7 @@ seemed.
 
 In front of him, the stolen fuel cell gleamed dully under the light's hesitant
 glow. It was untouched since the day he'd left Alpha — abandoned, like
-everything else. Max stared at it, half-expecting it to give him answers, though
+everything else. Ray stared at it, half-expecting it to give him answers, though
 he knew better by now. The thought of selling it tugged at him, a practical
 solution for the bills piling up on the kitchen counter. The black market would
 pay a good price. But the longer he looked at it, the more something twisted in
@@ -4377,7 +4394,7 @@ stepped inside.
 
 Squirrel crossed the threshold first, his heavy boots thudding against the worn
 hardwood floor. Red followed, her gaze sweeping across the space with a quiet
-intensity that made Max's skin prickle. They were not the kind of people who
+intensity that made Ray's skin prickle. They were not the kind of people who
 fidgeted. They moved through the room and stopped and waited, and the quality of
 their waiting was very different from the waiting of civilians.
 
@@ -4387,10 +4404,10 @@ but settled in the way of people who intend to conclude this conversation before
 leaving.
 
 Squirrel didn't waste words. "We have a window of about seventy-two hours before
-Alpha sends someone who isn't going to knock. You're already on a list, Max.
+Alpha sends someone who isn't going to knock. You're already on a list, Ray.
 You've been on it since the night you told your department head."
 
-Max looked at them. "You people have been watching me."
+Ray looked at them. "You people have been watching me."
 
 "We've been keeping you alive," Red said. "There's a difference."
 
@@ -4403,7 +4420,7 @@ the discovery exists. They know you made it. And they have built a significant
 amount of their current business model on the fact that the rest of the world
 does not know what you know."
 
-Max's hand moved toward the blanket on the table, then stopped. He looked at
+Ray's hand moved toward the blanket on the table, then stopped. He looked at
 Squirrel. "What do you actually want from me?"
 
 "We want you alive and working," Squirrel said. "We have a facility. Equipment.
@@ -4415,7 +4432,7 @@ he was looking at."
 
 "Most of the important ones are."
 
-Max was quiet. Outside the window, a car passed and did not slow down and its
+Ray was quiet. Outside the window, a car passed and did not slow down and its
 headlights swept the ceiling of his apartment. He had been watching headlights
 for three weeks, logging which ones slowed down.
 
@@ -4425,7 +4442,7 @@ the yield, the energy the conversion cycle produces. They built their whole
 operation around the output." She leaned forward. "They never figured out what
 they're actually dealing with. They only ever saw it as a container."
 
-"They saw what they expected to see," Max said, in spite of himself.
+"They saw what they expected to see," Ray said, in spite of himself.
 
 "Yes."
 
@@ -4439,7 +4456,7 @@ has been unable to reproduce reliably in two years of trying. Because they
 started from the output side. They're backward-engineering a process they don't
 have the right mental model for."
 
-Max pulled the blanket away from the fuel cell. He hadn't meant to do it — his
+Ray pulled the blanket away from the fuel cell. He hadn't meant to do it — his
 hands made the decision before his head caught up. The cell sat on the table,
 dull and inert in the lamplight.
 
@@ -4452,7 +4469,7 @@ don't reset."
 
 Red looked at the notebook. "You think longer cycles change the math."
 
-"I think they change everything." Max's voice had changed. He was not frightened
+"I think they change everything." Ray's voice had changed. He was not frightened
 anymore. He was precise, and precision was, for him, a kind of territory. "I've
 run the calculations a dozen times. I keep getting results that don't make sense
 under any model I can test here. What I need—" he stopped. He had spent three
@@ -4467,7 +4484,7 @@ saw a harvest. I think they missed the actual discovery."
 
 Squirrel looked at Red. Something passed between them — not surprise. Recognition.
 
-"What kind of facility?" Max said.
+"What kind of facility?" Ray said.
 
 "Off-site. Secure. Equipment and two researchers who understand the chemistry."
 Red pulled a card from her pocket and set it on the table — plain, no logo, a
@@ -4477,7 +4494,7 @@ handwritten address. "Tonight."
 
 "The window closes tomorrow morning."
 
-Max picked up the card. He set it back down. He picked it up again and held it.
+Ray picked up the card. He set it back down. He picked it up again and held it.
 
 "There's something else," he said. "The data from the Saturn mission parameters —
 the yield curves in the public-domain research. There's a distribution pattern
@@ -4490,12 +4507,12 @@ Squirrel and Red looked at each other.
 
 "That's a longer conversation," Red said.
 
-"I'm going to need more than a safe house and two colleagues," Max said.
+"I'm going to need more than a safe house and two colleagues," Ray said.
 "Eventually."
 
 "We know," Squirrel said. "One problem at a time."
 
-Max looked at the fuel cell for the last time in his apartment. He put his
+Ray looked at the fuel cell for the last time in his apartment. He put his
 notebook on top of it, carefully, like he was tucking something in.
 
 "Seventy-two hours," he said.
@@ -4546,10 +4563,12 @@ A beat.
 
 "No," Kate said. "They don't."
 
-Loa was writing something on her forearm in marker. This was a
-habit she had when she was processing something. The writing was
-too small to read from across the room and Kate had stopped
-trying.
+Loa was writing something on her forearm in marker. This was
+a habit she had when she was processing something. The marker
+smelled like cheap solvent — the faint, chemical bite of it
+carrying across the station. Kate had started to associate that
+smell with the moments before Loa said something important.
+She had not mentioned this to Loa.
 
 "Are we pulling for Emily Nova?" Petyr said. He meant it as a
 genuine question, which told Kate he still hadn't quite learned
@@ -4883,7 +4902,11 @@ A statement of intent.
 "Yes," Dayo said. "We are."
 
 Outside the viewport, Saturn's rings caught refracted sunlight
-and held it — a thin, bright edge in the dark.
+and held it — a thin, bright edge in the dark. The ship at this
+hour made no sound you could name. Only the particular absence
+of it: the held-breath quiet that had been held so long it had
+become the normal texture of the air. Kate had stopped noticing
+it. She noticed it now.
 
 "The network needs people who choose it," Kate said.
 
@@ -6673,7 +6696,11 @@ orbital approach.
 
 Approved. — Station Commander Holt
 
-Dr. Vasic, final annotation: The augmentation bay has good light.
+Dr. Vasic, final annotation: The augmentation bay smells like
+antiseptic and overworked metal. After day four there was a
+third smell I could not attribute to the equipment. The
+ventilation system handles the clinical waste. It does not
+handle everything. The augmentation bay has good light.
 Surgical-grade. You can see everything clearly. I have been
 seeing everything clearly for two weeks.
 
@@ -9261,6 +9288,10 @@ Significant modification. The signature was Sharon Teez and it
 was also not Sharon Teez, and the two facts occupied the same
 space without resolving.
 
+Kate's hands on the edge of her panel were cold. The station
+ran its standard temperature — the same as always. She had not
+noticed her hands specifically before. She noticed them now.
+
 The thermal data came through as a color gradient — amber for
 structural heat, blue-white for active power systems. The
 augmentation signature read amber-edged, with something at the
@@ -9704,30 +9735,30 @@ RINGS OF DUST
 
 Chapter Twenty-One
 
-Max's Cargo
+Ray's Cargo
 
 Six blocks from the hardware store was a park.
 
-Max had identified it eleven days ago on his fourth perimeter walk, when he was
+Ray had identified it eleven days ago on his fourth perimeter walk, when he was
 still in the Mikof Forsinko period of getting his cover right — the particular
 rhythm of a scientist on contract, efficient and unhurried, the lunch routes and
 errand routes and the way a man who belongs somewhere moves through a
 neighborhood versus the way a man who's watching it does. The park had two
 benches facing a fountain that no longer worked. The fountain was shaped like a
 heron. The heron was concrete, slightly drunk-looking, leaning at four degrees
-toward the east. Max had liked it because it was the kind of detail that felt
+toward the east. Ray had liked it because it was the kind of detail that felt
 permanent in its imperfections — no one was going to fix the heron — and
 permanent things made good landmarks.
 
 Squirrel was on the second bench.
 
 He was reading a newspaper that was four days old in a language that was not his
-first language — Max had figured this out on the second day of the Panama
+first language — Ray had figured this out on the second day of the Panama
 operation, from the way Squirrel's eyes moved along the lines, the slight
 recalibration at the end of each paragraph. He had not mentioned it. Mentioning
-things like that was not Max's job. Noticing them was.
+things like that was not Ray's job. Noticing them was.
 
-Max sat down on the first bench. He did not look at Squirrel. He looked at the
+Ray sat down on the first bench. He did not look at Squirrel. He looked at the
 heron.
 
 He had been three blocks from the facility when his hands had started to shake.
@@ -9746,14 +9777,14 @@ He sat on the bench.
 "The full protocol?"
 
 "Disposal Protocol Seven and the project archive up to the current quarter.
-Seventeen months of records." Max looked at the heron. "They named it Seven.
+Seventeen months of records." Ray looked at the heron. "They named it Seven.
 Which means there are at least six others."
 
 Squirrel was quiet for a moment.
 
 "Hand," he said.
 
-Max put his right hand in his jacket pocket, felt the contact of Squirrel's fingers
+Ray put his right hand in his jacket pocket, felt the contact of Squirrel's fingers
 closing around the drive. He brought his hand back out empty.
 
 "You're shaking," Squirrel said.
@@ -9762,7 +9793,7 @@ closing around the drive. He brought his hand back out empty.
 
 "Are you hurt?"
 
-"No." Max looked at the fountain basin, which had been dry for long enough that
+"No." Ray looked at the fountain basin, which had been dry for long enough that
 something had grown in it — a thin patchy green, the kind of life that moves
 into empty spaces. "There was a nitrogen cycling alert in the containment lab. I
 was in the building when the alarm sounded."
@@ -9775,15 +9806,15 @@ locked down external access. I had four minutes of comfortable margin."
 
 "Then you're fine."
 
-Max looked at the four-degree heron. He thought about comfortable margin. He
+Ray looked at the four-degree heron. He thought about comfortable margin. He
 thought about the loading bay door closing behind him and the sound of the
 facility's alarm cycling through the cooling vents, muffled by three layers of
 industrial wall.
 
-"Oren is going to know it was me," Max said.
+"Oren is going to know it was me," Ray said.
 
 Squirrel set the newspaper on the bench. The lining of his jacket shifted as he
-moved, and Max caught what he'd caught in Marbella and twice in Panama and did
+moved, and Ray caught what he'd caught in Marbella and twice in Panama and did
 not mention — the embroidered outline stitched against the inner fabric, dark on
 dark, a pair of sunglasses barely visible in the crease. He looked at the
 fountain.
@@ -9791,7 +9822,7 @@ fountain.
 "Not you," he said. "Mikof Forsinko. Who doesn't exist."
 
 "He'll know it was someone inside. He'll know it was someone he walked through
-the stabilization process with, someone he explained the patent archive to." Max
+the stabilization process with, someone he explained the patent archive to." Ray
 paused. "He was collegial. He was genuinely helpful. He was the kind of man who
 enjoys his work and wants other people to enjoy it too." A pause. "I liked him."
 
@@ -9799,13 +9830,13 @@ Squirrel said nothing.
 
 "He's going to come to work tomorrow and find out that someone he spent four
 days being generous to used his access codes and his trust as operational
-cover." Max looked at his hands. They had stopped shaking but he was watching
+cover." Ray looked at his hands. They had stopped shaking but he was watching
 them anyway. "That's going to do something to him. That kind of thing does
 something to a person."
 
 "It does," Squirrel said.
 
-"I want you to understand that I know that." Max looked up. "I didn't abstract
+"I want you to understand that I know that." Ray looked up. "I didn't abstract
 it. I knew, going in, what it would cost him. I knew and I went in anyway and I
 got the drive and now I'm sitting here telling you that I know." He paused. "I
 just need — I needed to say it to someone who would hear it."
@@ -9817,7 +9848,7 @@ down.
 
 A pigeon landed at the edge of the fountain basin and looked at the green growth
 with the interested detachment of a creature for whom the world contained
-nothing that was not potentially edible. Max watched it investigate and leave.
+nothing that was not potentially edible. Ray watched it investigate and leave.
 
 "Disposal Protocol Seven," he said. "What I read — what I had time to read,
 which wasn't all of it — it's not just the stabilization process. It's not just
@@ -9829,7 +9860,7 @@ internal thresholds." He paused. "The energy crisis is an inventory decision."
 
 Squirrel nodded.
 
-"They didn't cause it on purpose," Max said. "Not the original crisis. The
+"They didn't cause it on purpose," Ray said. "Not the original crisis. The
 original crisis was Conrad's failed experiment — that was real. But once the
 shortage was established, once the infrastructure collapsed enough to create
 dependency, they started managing the recovery. They decide how fast the lights
@@ -9848,14 +9879,14 @@ single point of control for Alpha to suppress. It's going to reach about a
 hundred thousand people in the first forty-eight hours." Squirrel paused. "After
 that, it's not ours to manage."
 
-Max thought about a hundred thousand people. He thought about what they would do
+Ray thought about a hundred thousand people. He thought about what they would do
 with seventeen months of Disposal Protocol records and the names of eleven
 technologies and the internal communications of a company that had decided how
 fast humanity could come in from the cold.
 
 He thought about Dr. Oren coming to work tomorrow.
 
-"Is there anything for him?" Max said.
+"Is there anything for him?" Ray said.
 
 "Oren?"
 
@@ -9866,7 +9897,7 @@ building. Oren might be one of them." He paused. "Is there a process for—"
 "The Collective has a protection channel for Alpha employees who come
 forward voluntarily. For people who didn't know and want out." Squirrel paused. "For
 people who did know and want out too, depending on the specifics." He looked at
-Max. "That's not nothing."
+Ray. "That's not nothing."
 
 "He might not use it."
 
@@ -9877,7 +9908,7 @@ because he's inside the machine and the machine looks different from inside."
 
 "It might."
 
-Max was quiet for a moment.
+Ray was quiet for a moment.
 
 "But it's something," he said.
 
@@ -9889,7 +9920,7 @@ Spanish about something domestic and urgent. The afternoon had the quality of a
 city that didn't know anything had just changed, which was accurate, because
 nothing had changed yet — the drive was in Squirrel's pocket and the relay hadn't
 gone out and in eighteen hours the world would still look like the same world it
-had been when Max walked into a hardware store in Casco Viejo four days ago
+had been when Ray walked into a hardware store in Casco Viejo four days ago
 under a name that wasn't his.
 
 And then it wouldn't.
@@ -9897,13 +9928,13 @@ And then it wouldn't.
 "Red is at the transit house," Squirrel said. "There's a clean route to the airport
 through the market district. Your extraction flight is at seven."
 
-Max nodded.
+Ray nodded.
 
 He did not move to get up.
 
 Squirrel waited.
 
-"I've been thinking about the flywheel since I left the building," Max said.
+"I've been thinking about the flywheel since I left the building," Ray said.
 "The curve." He turned the math over in the way he always turned the math over,
 the way he had been turning it over since the oak table and the fuel cell and
 the first data point that shouldn't have been possible. "Link the cells
@@ -9929,7 +9960,7 @@ Squirrel was watching him.
 
 "You've been running on that for a long time," Squirrel said.
 
-Max thought about his notebook. The ink-stained margins, the reworked equations,
+Ray thought about his notebook. The ink-stained margins, the reworked equations,
 the moment two years ago when the data point appeared and he had stared at it
 for thirty seconds before he understood what it meant. The moment he had
 understood what it meant and realized that he could not tell anyone in any
@@ -9937,13 +9968,13 @@ official capacity because of who would hear it first.
 
 "Yes," he said.
 
-"Max."
+"Ray."
 
 He looked at Squirrel.
 
 "You can stop now," Squirrel said.
 
-Max sat with this.
+Ray sat with this.
 
 He sat with it the way he sat with difficult data — patiently, without trying to
 rush to the next thing, letting the information exist before he decided what it
@@ -9995,7 +10026,7 @@ He breathed.
 
 "Red knows the route."
 
-Max looked at the heron one more time. He thought he might miss it, slightly —
+Ray looked at the heron one more time. He thought he might miss it, slightly —
 the degree of tilt, the empty basin, the specific quality of something that was
 going to keep listing east for the rest of its existence without anyone seeing a
 reason to intervene. There was something in that he found companionable. He did
@@ -10008,8 +10039,8 @@ pockets. His pace, when he walked away from the bench, was the same pace it had
 been on the six blocks from the facility — the unhurried pace of a man who
 belonged somewhere, or who had learned well enough how to look like he did.
 
-Squirrel folded the newspaper. He did not follow immediately. He watched Max walk
-away, until Max was at the path's edge and turning toward the market district
+Squirrel folded the newspaper. He did not follow immediately. He watched Ray walk
+away, until Ray was at the path's edge and turning toward the market district
 and Red and the transit house and the seven o'clock flight, and then Squirrel sat
 for another moment on the second bench in the park near the hardware store, six
 blocks from a building where a drive's worth of truth was already absent from
@@ -10023,14 +10054,14 @@ curve that made the shortage model obsolete.
 He thought: *not bad for a scientist from a town no one's heard of.*
 
 He folded the newspaper and put it in the recycling bin at the path's edge and
-walked out of the park in the direction that was not the direction Max had gone.
+walked out of the park in the direction that was not the direction Ray had gone.
 
 ---
 
-Max boarded the seven o'clock flight under his own name.
+Ray boarded the seven o'clock flight under his own name.
 
 The passport scan took three seconds. The agent at the desk looked at the photo,
-looked at him, handed it back, and turned to the next person. Max walked through
+looked at him, handed it back, and turned to the next person. Ray walked through
 the gate with the carry-on that had been packed for forty-eight hours and a
 boarding pass that the Collective's transit coordinator had issued under the
 same route as any scientific conference attendee leaving Panama for the week.
@@ -10038,7 +10069,7 @@ same route as any scientific conference attendee leaving Panama for the week.
 He found his seat. He put the carry-on in the overhead. He sat down.
 
 The aircraft began its pre-departure sequence — the overhead announcements, the
-safety demonstration, the push back from the gate, the taxi to the runway. Max
+safety demonstration, the push back from the gate, the taxi to the runway. Ray
 watched the terminal lights move past the window. He watched the runway lights
 resolve into a line. He felt the acceleration, the geometry of the nose coming
 up, the moment of departure.
@@ -10075,7 +10106,7 @@ The aircraft climbed. The lights below became smaller and then abstract and then
 disappeared into the cloud layer that sat over Panama City in the evenings. The
 seat belt sign clicked off.
 
-Max opened the notebook. It was the same one he had been keeping since the oak
+Ray opened the notebook. It was the same one he had been keeping since the oak
 table — filled to two-thirds, the ink denser in the margins where the good ideas
 had arrived sideways. He turned to the first clean page.
 
@@ -10569,7 +10600,7 @@ he was operating in.
 
 The Panama files were entered into the record at 1:47 PM.
 
-Max Vision — whose name the public record had not previously contained in any
+Ray Vision — whose name the public record had not previously contained in any
 context related to this matter, and whose name the forty-seven people in the
 room who had read the parallel network files now recognized — sat at the witness
 table with a copy of his notebook open in front of him and described,
@@ -10663,7 +10694,7 @@ stated.
 Federation media correspondent was functional cover, authorized by the
 Collective's Command structure. The work I conducted in both capacities was
 designed to reach this hearing." She looked at DeMint. "The evidence you have
-received today — from Marcus Verguld, from the written record of Vance Black, from Max Vision,
+received today — from Marcus Verguld, from the written record of Vance Black, from Ray Vision,
 from Dr. Conrad's written record — was assembled, coordinated, and delivered through the
 Collective network. Not because the Federation couldn't do it. Because the
 Federation didn't yet know it needed to."
@@ -10878,6 +10909,15 @@ Federation Grand Hall broadcast on a commercial mineral survey
 ship was the kind of thing that showed up in signal logs and
 required creative annotation.
 
+Someone had brewed actual coffee — not the standard reconstituted
+variety, but the sealed-bag ground stuff from the last supply
+drop, the one that smelled like roasted grain and something
+close to earth. It was Petyr's. He had been saving it. He had
+not announced that he was opening it. The smell filled the
+station the way smells fill small enclosed spaces — slowly, then
+completely — and nobody said anything about it, which was its
+own kind of acknowledgment.
+
 Dayo authorized it anyway. He wrote the annotation himself:
 *routine signal calibration exercise, full-spectrum Federation
 broadcast, civilian.*
@@ -11032,6 +11072,48 @@ clear."
 "Welcome home," she said.
 
 He kept his hands on the controls.
+
+---
+
+The return had been eight weeks.
+
+Sam spent the first of them at her station, the middle ones at Heather's door,
+and the last of them trying not to think about the fact that they were getting
+closer to Earth — which meant getting closer to the end of this particular
+closed container of circumstances, and she was not ready for that.
+
+Heather Voss was thorough and funny and had the quality of calm that comes from
+years of handling emergencies before the rest of the room has caught up to
+them. She had come to Sam's quarters on the ninth day of the return to check
+her temperature — the DarkX effect, she explained, produced residual thermal
+variance in some crew members for weeks after significant exposure. Her
+thermometer was accurate. Her stated reason for the visit was adjacent to that.
+
+She sat on the end of Sam's bunk and said: "I'm not actually here about the
+temperature."
+
+Sam looked at her. "I know."
+
+Heather looked at the thermometer. She looked at Sam. She was not a person who
+filled silences with noise. Sam appreciated this, because Sam was also not a
+person who filled silences with noise, which meant they were quiet for a
+significant stretch before Heather said: "I'd like to come back. If that's all
+right."
+
+"Yes," Sam said.
+
+She came back.
+
+The last three weeks of the journey, Sam had her own bunk and another option
+and chose the other option most nights, which was the clearest data she had
+collected in some time. Heather slept with her arm across Sam's middle. Sam
+slept better in those eight weeks than she had in the three years before them,
+which she filed without analysis. Some things are better observed than
+explained. She thought: *this is a thing I'd like to keep.* She thought about
+that, with the ship humming around them and the stars in the wrong configuration
+outside the porthole and Heather's arm where it was.
+
+She kept the thought. She would figure out the rest later.
 
 ---
 
