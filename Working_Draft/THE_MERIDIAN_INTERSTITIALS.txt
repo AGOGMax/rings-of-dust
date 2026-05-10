@@ -266,7 +266,7 @@ intend to keep believing.
 
 ─────────────────────────────────────────────────────────────────────
 
-ALPHA I — FED-MRS-0409
+ALPHA I — FED-HEX-5555
 PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
 DAY 2, POST-ACQUISITION
 Slot: after Chapter Eight
@@ -560,7 +560,7 @@ wet." She paused. "She's soaked."
 
 ─────────────────────────────────────────────────────────────────────
 
-ALPHA II — FED-MRS-0409
+ALPHA II — FED-HEX-5555
 PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
 DAY 14, PRE-DEPLOYMENT
 Slot: after Chapter Fifteen
@@ -610,7 +610,7 @@ on this subject is noted and requested to cease.
 MERIDIAN VIII — PANAMA AND HOUSTON, SAME WEEK
 Slot: after Chapter Sixteen
 
-On the day Max Forster walked out of Alpha's Panama tower with a
+On the day Ray Vision walked out of Alpha's Panama tower with a
 drive in his coat and six blocks between him and the park, Kate
 was running a signal sweep and eating a very good blood orange
 someone had included in the last supply rotation, and she was
@@ -624,7 +624,7 @@ Kate did not know who made these decisions. She had never asked.
 
 This was unusual enough that she mentioned it to Loa.
 
-"Max Forster just walked out," she said.
+"Ray Vision just walked out," she said.
 
 "Already?"
 
@@ -685,7 +685,7 @@ Slot: after Chapter Nineteen
 There was no good way to watch the thermal signature data and
 know what it meant.
 
-Kate had been tracking FED-MRS-0409 for nine days. The biometric
+Kate had been tracking FED-HEX-5555 for nine days. The biometric
 data she'd pulled from relay intercepts had confirmed what she'd
 already suspected and confirmed it in a way she wished it hadn't.
 
@@ -752,7 +752,7 @@ He did not elaborate. He didn't need to.
 
 Kate went back to her panel.
 
-At 04:49 ship time, the augmentation signature on FED-MRS-0409
+At 04:49 ship time, the augmentation signature on FED-HEX-5555
 changed. The bronze indicator — the central power conduit,
 detectable even at this range as a low-level electromagnetic
 output — went dark.
@@ -775,7 +775,7 @@ On the wall: the droplet. Gunmetal on gray. Sharon's.
 
 ─────────────────────────────────────────────────────────────────────
 
-MERIDIAN X — FED-MRS-0409 GOES QUIET
+MERIDIAN X — FED-HEX-5555 GOES QUIET
 Slot: one hour after Chapter Nineteen
 
 The Alpha vessel stopped transmitting to its home relay at 05:17.
@@ -842,7 +842,7 @@ Loa made a sound that was not quite a laugh but contained most
 of the same information.
 
 "That," Dayo said, "is a question for people with more stars than
-me." He turned back to Kate's station. "What's FED-MRS-0409's
+me." He turned back to Kate's station. "What's FED-HEX-5555's
 current heading."
 
 Kate checked. "Holding position. Two hundred meters off the
@@ -917,7 +917,7 @@ When the Polaris section played, none of them said anything.
 looked at the list once, early in the posting. She had not been
 able to finish.
 
-The Max Forster testimony landed differently. He was holding his
+The Ray Vision testimony landed differently. He was holding his
 notebook. He looked like exactly what he was: a scientist who
 had found something true and was telling as many people as
 possible. "The crisis is not a fact of nature. It is a decision."
