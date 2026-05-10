@@ -59,9 +59,9 @@ She turned around and looked at him for a long moment. "Get your
 patch out of wherever you've sewn it and read the briefing that
 came with it."
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter One
 
@@ -447,9 +447,9 @@ ambition, and the quest for knowledge often left its deepest scars on those in
 the vanguard. At the same time, those who commanded demanded isolation from the
 real risks. At this moment, Cole understood the true cost of curiosity.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Two
 
@@ -1149,9 +1149,9 @@ They were all ready.
 
 After all, they had to be.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Three
 
@@ -1404,9 +1404,9 @@ A loud glugging noise from the other room broke the spell.
 
 Oh no. Not again. Cole groaned.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Four
 
@@ -2067,7 +2067,7 @@ Alpha might have thought they could control Cole Nova. Still, they had
 underestimated the strength and resolve of those he held dear. The fight for the
 future of humanity had just begun.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN II — FIVE DAYS AFTER COLE ACCEPTS
 Slot: after Chapter Four
@@ -2162,9 +2162,9 @@ outbound relay bands. Everything."
 He had known she would be. A sunglasses didn't need to be told
 what to watch for.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Five
 
@@ -2354,9 +2354,9 @@ Max took a deep breath, the decision settling like a stone in his gut. There was
 no turning back now. He had to see this through and find a way to get this
 information into the right hands.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Six
 
@@ -2706,9 +2706,9 @@ He said nothing. Cole said nothing. Ricardo drove.
 The city lights grew taller around them, the shadows of their actions trailing
 closely behind.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Seven
 
@@ -3200,7 +3200,7 @@ One of the men turned to the others.
 
 The woman at the transmission log checked the last entry. "Relayed," she said.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN III — LAUNCH DAY
 Slot: after Chapter Seven
@@ -3288,9 +3288,9 @@ better instincts than anyone had ever properly assessed.
 She said it the way you say things you've decided to believe and
 intend to keep believing.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Eight
 
@@ -3734,7 +3734,7 @@ to tell Sharon what had happened and to talk to Cole. Looking around at the
 darkened corners of the room, she could see only Sharon's blood pooling on the
 dirty ground with the stars reflected in its glossy, crimson brilliance.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 ALPHA I — FED-HEX-5555
 PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
@@ -3788,7 +3788,7 @@ writing.
 
 Note appended by Station Commander Holt: Noted. Disregarded.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN IV — THE NIGHT AFTER THE FARM ROAD
 Slot: after Chapter Eight
@@ -3845,9 +3845,9 @@ there had known her.
 
 Kate touched it briefly before she went back to her panel.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Nine
 
@@ -4141,9 +4141,9 @@ under his head and two arms hanging loose, and the indicator on his chest
 panel cycled green, and the hum of the engines was the only thing between
 them and the rest of the dark.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Ten
 
@@ -4367,9 +4367,9 @@ of everything and had very deliberately not paid it.
 
 She got in the taxi.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Ten (B)
 
@@ -4528,7 +4528,7 @@ At the door, he turned back and looked at the apartment once — the lamp still
 burning, the oak table still scarred, the lamp's flicker still going. Then he
 followed them out into the dark.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN V — EMILY IN THE CAR
 Slot: after Chapter Ten
@@ -4588,9 +4588,9 @@ Petyr nodded. He wrote something small on the edge of his nav
 panel — the same private script Loa used on her forearm. Kate
 didn't read it. Some things were for the person writing them.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Eleven
 
@@ -4837,7 +4837,7 @@ He needed to know, precisely, what Cole had heard in that cargo bay.
 
 And he needed to know before Saturn.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN VI — THE CONFIRMATION
 Slot: after Chapter Eleven
@@ -4914,9 +4914,9 @@ it. She noticed it now.
 said. "That's the thing about people like her. The network
 doesn't recruit them. They arrive."
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twelve
 
@@ -5265,9 +5265,9 @@ Emily leaned her head back against the seat. She watched the highway. She kept
 her eyes open this time, watching the yellow lines come and go in the dark, and
 did not let herself drift.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Thirteen
 
@@ -5481,7 +5481,7 @@ dark, just the stars coming out one at a time above the joshua trees.
 
 She was asleep in under two minutes.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN VII — EMILY DRIVES I-10
 Slot: after Chapter Thirteen
@@ -5533,9 +5533,9 @@ Kate thought about it. "There is. It's called a droplet. But
 the droplet isn't the end state. The droplet just means you're
 wet." She paused. "She's soaked."
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Fourteen
 
@@ -6206,9 +6206,9 @@ The harvesters were waiting.
 
 [end of chapter]
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Fifteen
 
@@ -6674,7 +6674,7 @@ She would figure out belief in the morning.
 
 She was asleep before the thought finished.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 ALPHA II — FED-HEX-5555
 PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
@@ -6725,9 +6725,9 @@ it.
 Note from Station Commander Holt: Dr. Vasic's ongoing commentary
 on this subject is noted and requested to cease.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Sixteen
 
@@ -7324,7 +7324,7 @@ escalating, refusing to stop.
 Red looked at him. "That works," she said. She went back to watching the
 street. "That's what we'll call it."
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN VIII — PANAMA AND HOUSTON, SAME WEEK
 Slot: after Chapter Sixteen
@@ -7396,9 +7396,9 @@ doesn't move."
 
 On the wall: the droplet. Gunmetal on gray. Sharon's.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Seventeen
 
@@ -7791,9 +7791,9 @@ Sam said his name.
 
 He heard it from a long distance.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Eighteen
 
@@ -8556,9 +8556,9 @@ He let the tears come.
 
 "Patch her through," he said.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Nineteen
 
@@ -9279,7 +9279,7 @@ word for it. He understood that now too.
 
 He let the silence be.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN IX — THE BOARDING
 Slot: after Chapter Nineteen
@@ -9379,7 +9379,7 @@ console and looked at them for a long moment.
 
 On the wall: the droplet. Gunmetal on gray. Sharon's.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN X — FED-HEX-5555 GOES QUIET
 Slot: one hour after Chapter Nineteen
@@ -9481,7 +9481,7 @@ look at it.
 He was quiet for a while. Then he wrote something in the Mineral
 Survey Notes and did not show it to anyone.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 RINGS OF DUST
 
@@ -9742,9 +9742,9 @@ Orin handed her a napkin without looking up from his plate.
 "Yeah," she said. Her voice was wet. She pressed the napkin to her face and
 breathed through it. "Yeah. It was."
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twenty-One
 
@@ -10148,9 +10148,9 @@ He settled into the seat.
 
 He slept.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twenty-Two
 
@@ -10510,9 +10510,9 @@ She picked up her bag.
 
 She walked through the lobby doors into the morning.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twenty-Three
 
@@ -10911,7 +10911,7 @@ She was going to be more than fine.
 
 She put the device away and walked toward the light at the end of the corridor.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
 MERIDIAN XI — GRAND HALL
 Slot: during Chapter Twenty-Three
@@ -11027,9 +11027,9 @@ On the screen, Emily Nova was in the fourth row.
 
 Kate saw her at the same moment, probably, that Cole did.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twenty-Four
 
@@ -11249,6 +11249,39 @@ the particular quality of an evening conversation that didn't need to end.
 
 "She's inside," Emily said. "She's having a good day."
 
+He had almost reached the door when it opened from inside. A
+man came out — middle-aged, carrying a folded jacket, moving
+with the purposeful calm of someone who had been sitting in a
+clinical environment for several hours and had done it before.
+He looked up when he saw Cole.
+
+Cole didn't know the face. He knew the reports.
+
+"Vasic," the man said. As if no further introduction was
+required. Perhaps it wasn't.
+
+"Cole."
+
+Dr. Vasic put on his jacket. "She worked on grip calibration
+most of the morning. Fine motor. It's holding today." He said
+it with the directness of a man reporting on a job. The job
+was also a debt. Both things were true at the same time. "She
+had the pen in her right hand for an hour."
+
+Cole looked at him.
+
+"She already told me," Vasic said. "What I was doing it for."
+He settled his collar. "She said she didn't need to hear it
+from me. She said I was allowed to keep working on it here, if
+I needed to. I don't know whether that was permission or
+instruction."
+
+"Probably both," Cole said.
+
+Vasic considered that. He walked toward the parking lot
+without looking back. Cole watched him for a moment, and then
+went inside.
+
 ---
 
 The room was bright with the afternoon light that came through the south-facing
@@ -11256,20 +11289,28 @@ window. Sharon was in the chair by the window, which appeared to be her
 consistent choice — Sam had mentioned, in one of their relay conversations, that
 Sharon had oriented her entire navigation of the facility around which windows
 faced which direction and at what time. The road atlas — a different copy from
-Emily's, a larger format — was on the table beside her.
+Emily's, a larger format — was open on the table, and in her right hand she held
+a pen.
+
+She was tracing a route. The augmented arm moved with the careful precision of
+something being trained — small deliberate corrections, controlled grip pressure,
+a continuous low-level attention to the mechanics of itself. Seven weeks of the
+particular labor of learning to be what she now was.
 
 She looked up when Cole came through the door.
 
-The augmented eye tracked him with its distinct cadence, the bronze indicator
-fully dim now — it had been dim since the cargo bay, Gracie had been monitoring
-it, the conditioning link severed and the hardware operating as an independent
-optical system that Sharon was, apparently, learning to use in the way you learn
-to use any new instrument: slowly, with intention, paying attention to the
-differences.
+The augmented eye tracked him before the left one did — the bronze indicator
+fully dim, the conditioning link severed, the hardware operating as an
+independent optical system with its own cadence. The tracking was faster than
+the left eye by a fraction she was learning to account for: two sets of incoming
+data at slightly different intervals, and the brain deciding which one to lead.
+You pay attention to the differences. You practice. You get better.
 
 She looked at him.
 
 The left eye was fully present.
+
+She set the pen down.
 
 Cole crossed the room and sat down in the chair across from her.
 
@@ -11553,7 +11594,7 @@ That evening, on the drive back to the hotel, Ricardo called.
 Ricardo was quiet for a moment. "That's all I needed to know." Another pause,
 and in it the full weight of a man who had been carrying the knowledge of Sharon
 Teez's name on a driver's license in a totaled SUV on a mountain road for
-fourteen months, and had said nothing, and had driven. "I told Dani everything."
+fourteen months, and had said nothing, and had driven. "I told her everything."
 
 "How'd she take it."
 
@@ -11586,7 +11627,7 @@ was gone, and everything that was still going to happen.
 
 "Me too," he said.
 
-"Dani wants to know if Sharon can bowl."
+"She wants to know if Sharon can bowl."
 
 Cole thought about Sharon's augmented arm. He thought about the particular set
 of her shoulders when she decided she was going to do something.
@@ -11597,9 +11638,9 @@ Ricardo laughed. The sound of it filled the car.
 
 Cole drove home through the fog.
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════
 
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twenty-Five
 
