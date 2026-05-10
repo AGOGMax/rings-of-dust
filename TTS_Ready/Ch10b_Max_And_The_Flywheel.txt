@@ -2,7 +2,7 @@
 
 Chapter Ten (B)
 
-Max ran his dry fingertips along the rough edges of his weathered oak table,
+Ray ran his dry fingertips along the rough edges of his weathered oak table,
 feeling the familiar grit beneath his skin. The surface, scarred from years of
 restless nights and unanswered questions, was as uneven as his thoughts. A
 single light hung overhead, casting sharp, unforgiving shadows that made the
@@ -12,7 +12,7 @@ seemed.
 
 In front of him, the stolen fuel cell gleamed dully under the light's hesitant
 glow. It was untouched since the day he'd left Alpha — abandoned, like
-everything else. Max stared at it, half-expecting it to give him answers, though
+everything else. Ray stared at it, half-expecting it to give him answers, though
 he knew better by now. The thought of selling it tugged at him, a practical
 solution for the bills piling up on the kitchen counter. The black market would
 pay a good price. But the longer he looked at it, the more something twisted in
@@ -23,7 +23,7 @@ stepped inside.
 
 Squirrel crossed the threshold first, his heavy boots thudding against the worn
 hardwood floor. Red followed, her gaze sweeping across the space with a quiet
-intensity that made Max's skin prickle. They were not the kind of people who
+intensity that made Ray's skin prickle. They were not the kind of people who
 fidgeted. They moved through the room and stopped and waited, and the quality of
 their waiting was very different from the waiting of civilians.
 
@@ -33,10 +33,10 @@ but settled in the way of people who intend to conclude this conversation before
 leaving.
 
 Squirrel didn't waste words. "We have a window of about seventy-two hours before
-Alpha sends someone who isn't going to knock. You're already on a list, Max.
+Alpha sends someone who isn't going to knock. You're already on a list, Ray.
 You've been on it since the night you told your department head."
 
-Max looked at them. "You people have been watching me."
+Ray looked at them. "You people have been watching me."
 
 "We've been keeping you alive," Red said. "There's a difference."
 
@@ -49,7 +49,7 @@ the discovery exists. They know you made it. And they have built a significant
 amount of their current business model on the fact that the rest of the world
 does not know what you know."
 
-Max's hand moved toward the blanket on the table, then stopped. He looked at
+Ray's hand moved toward the blanket on the table, then stopped. He looked at
 Squirrel. "What do you actually want from me?"
 
 "We want you alive and working," Squirrel said. "We have a facility. Equipment.
@@ -61,7 +61,7 @@ he was looking at."
 
 "Most of the important ones are."
 
-Max was quiet. Outside the window, a car passed and did not slow down and its
+Ray was quiet. Outside the window, a car passed and did not slow down and its
 headlights swept the ceiling of his apartment. He had been watching headlights
 for three weeks, logging which ones slowed down.
 
@@ -71,7 +71,7 @@ the yield, the energy the conversion cycle produces. They built their whole
 operation around the output." She leaned forward. "They never figured out what
 they're actually dealing with. They only ever saw it as a container."
 
-"They saw what they expected to see," Max said, in spite of himself.
+"They saw what they expected to see," Ray said, in spite of himself.
 
 "Yes."
 
@@ -85,7 +85,7 @@ has been unable to reproduce reliably in two years of trying. Because they
 started from the output side. They're backward-engineering a process they don't
 have the right mental model for."
 
-Max pulled the blanket away from the fuel cell. He hadn't meant to do it — his
+Ray pulled the blanket away from the fuel cell. He hadn't meant to do it — his
 hands made the decision before his head caught up. The cell sat on the table,
 dull and inert in the lamplight.
 
@@ -98,7 +98,7 @@ don't reset."
 
 Red looked at the notebook. "You think longer cycles change the math."
 
-"I think they change everything." Max's voice had changed. He was not frightened
+"I think they change everything." Ray's voice had changed. He was not frightened
 anymore. He was precise, and precision was, for him, a kind of territory. "I've
 run the calculations a dozen times. I keep getting results that don't make sense
 under any model I can test here. What I need—" he stopped. He had spent three
@@ -113,7 +113,7 @@ saw a harvest. I think they missed the actual discovery."
 
 Squirrel looked at Red. Something passed between them — not surprise. Recognition.
 
-"What kind of facility?" Max said.
+"What kind of facility?" Ray said.
 
 "Off-site. Secure. Equipment and two researchers who understand the chemistry."
 Red pulled a card from her pocket and set it on the table — plain, no logo, a
@@ -123,7 +123,7 @@ handwritten address. "Tonight."
 
 "The window closes tomorrow morning."
 
-Max picked up the card. He set it back down. He picked it up again and held it.
+Ray picked up the card. He set it back down. He picked it up again and held it.
 
 "There's something else," he said. "The data from the Saturn mission parameters —
 the yield curves in the public-domain research. There's a distribution pattern
@@ -136,12 +136,12 @@ Squirrel and Red looked at each other.
 
 "That's a longer conversation," Red said.
 
-"I'm going to need more than a safe house and two colleagues," Max said.
+"I'm going to need more than a safe house and two colleagues," Ray said.
 "Eventually."
 
 "We know," Squirrel said. "One problem at a time."
 
-Max looked at the fuel cell for the last time in his apartment. He put his
+Ray looked at the fuel cell for the last time in his apartment. He put his
 notebook on top of it, carefully, like he was tucking something in.
 
 "Seventy-two hours," he said.
