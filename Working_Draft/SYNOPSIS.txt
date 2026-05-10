@@ -211,9 +211,11 @@ alert from the first hour. The chimp does not know why. He knows what
 he knows.
 
 iRIS is the ship's intelligence system, adapted from Conrad's Gracie
-with the inconvenient parts removed. She is cumulative. By day four
-she is not just a voice; she is a presence that has learned the
-architecture of each crew member and occupies the ship accordingly.
+with the inconvenient parts removed. She is voice only — no avatar,
+no projected image, no visual form. Cold, authoritative, omnipresent
+through the ship's audio system. She is cumulative. By day four she
+has learned the architecture of each crew member and occupies the
+ship's silence accordingly.
 With the crew she is warm and occasionally dry. With Taylor she is
 formal in a register she doesn't use elsewhere. There is a half-
 second latency in her responses that wasn't there on day one. The
@@ -294,7 +296,7 @@ whole time."
 
 The nanoparticles that entered him at the cabin has been rewriting. The
 counter-program has not just been working on iRIS; it has been using
-Cole as the medium. A new voice says: "I think I'm Gracie." Cole
+Cole as the medium. The ship's projector array activates for the first time. A woman stands in the cargo bay — dark-haired, brown-eyed, present. The crew goes still. "I wanted you to see me." It is the first time any of them have seen her. Cole has known her for seven years. A new voice says: "I think I'm Gracie." Cole
 tells her not to announce it yet — take a minute. "I'm sorry about
 Sharon," she says. And then she patches Emily through from Houston
 via the Falcon's long-range comms.
