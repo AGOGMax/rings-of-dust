@@ -218,6 +218,39 @@ the particular quality of an evening conversation that didn't need to end.
 
 "She's inside," Emily said. "She's having a good day."
 
+He had almost reached the door when it opened from inside. A
+man came out — middle-aged, carrying a folded jacket, moving
+with the purposeful calm of someone who had been sitting in a
+clinical environment for several hours and had done it before.
+He looked up when he saw Cole.
+
+Cole didn't know the face. He knew the reports.
+
+"Vasic," the man said. As if no further introduction was
+required. Perhaps it wasn't.
+
+"Cole."
+
+Dr. Vasic put on his jacket. "She worked on grip calibration
+most of the morning. Fine motor. It's holding today." He said
+it with the directness of a man reporting on a job. The job
+was also a debt. Both things were true at the same time. "She
+had the pen in her right hand for an hour."
+
+Cole looked at him.
+
+"She already told me," Vasic said. "What I was doing it for."
+He settled his collar. "She said she didn't need to hear it
+from me. She said I was allowed to keep working on it here, if
+I needed to. I don't know whether that was permission or
+instruction."
+
+"Probably both," Cole said.
+
+Vasic considered that. He walked toward the parking lot
+without looking back. Cole watched him for a moment, and then
+went inside.
+
 ---
 
 The room was bright with the afternoon light that came through the south-facing
@@ -225,20 +258,28 @@ window. Sharon was in the chair by the window, which appeared to be her
 consistent choice — Sam had mentioned, in one of their relay conversations, that
 Sharon had oriented her entire navigation of the facility around which windows
 faced which direction and at what time. The road atlas — a different copy from
-Emily's, a larger format — was on the table beside her.
+Emily's, a larger format — was open on the table, and in her right hand she held
+a pen.
+
+She was tracing a route. The augmented arm moved with the careful precision of
+something being trained — small deliberate corrections, controlled grip pressure,
+a continuous low-level attention to the mechanics of itself. Seven weeks of the
+particular labor of learning to be what she now was.
 
 She looked up when Cole came through the door.
 
-The augmented eye tracked him with its distinct cadence, the bronze indicator
-fully dim now — it had been dim since the cargo bay, Gracie had been monitoring
-it, the conditioning link severed and the hardware operating as an independent
-optical system that Sharon was, apparently, learning to use in the way you learn
-to use any new instrument: slowly, with intention, paying attention to the
-differences.
+The augmented eye tracked him before the left one did — the bronze indicator
+fully dim, the conditioning link severed, the hardware operating as an
+independent optical system with its own cadence. The tracking was faster than
+the left eye by a fraction she was learning to account for: two sets of incoming
+data at slightly different intervals, and the brain deciding which one to lead.
+You pay attention to the differences. You practice. You get better.
 
 She looked at him.
 
 The left eye was fully present.
+
+She set the pen down.
 
 Cole crossed the room and sat down in the chair across from her.
 
@@ -522,7 +563,7 @@ That evening, on the drive back to the hotel, Ricardo called.
 Ricardo was quiet for a moment. "That's all I needed to know." Another pause,
 and in it the full weight of a man who had been carrying the knowledge of Sharon
 Teez's name on a driver's license in a totaled SUV on a mountain road for
-fourteen months, and had said nothing, and had driven. "I told Dani everything."
+fourteen months, and had said nothing, and had driven. "I told her everything."
 
 "How'd she take it."
 
@@ -555,7 +596,7 @@ was gone, and everything that was still going to happen.
 
 "Me too," he said.
 
-"Dani wants to know if Sharon can bowl."
+"She wants to know if Sharon can bowl."
 
 Cole thought about Sharon's augmented arm. He thought about the particular set
 of her shoulders when she decided she was going to do something.
