@@ -1,4 +1,4 @@
-MERIDIAN X — FED-MRS-0409 GOES QUIET
+MERIDIAN X — FED-HEX-5555 GOES QUIET
 Slot: one hour after Chapter Nineteen
 
 The Alpha vessel stopped transmitting to its home relay at 05:17.
@@ -65,7 +65,7 @@ Loa made a sound that was not quite a laugh but contained most
 of the same information.
 
 "That," Dayo said, "is a question for people with more stars than
-me." He turned back to Kate's station. "What's FED-MRS-0409's
+me." He turned back to Kate's station. "What's FED-HEX-5555's
 current heading."
 
 Kate checked. "Holding position. Two hundred meters off the
