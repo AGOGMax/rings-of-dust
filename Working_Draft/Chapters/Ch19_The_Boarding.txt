@@ -80,7 +80,7 @@ with an unnecessarily large wrench."
 Sam woke Cole with the sensor alert. He was in the cockpit in four minutes.
 
 The vessel was Federation-registered. Rapid Response Medical Support, registry
-number FED-MRS-0409, inbound from the inner system on a route that had
+number FED-HEX-5555, inbound from the inner system on a route that had
 originated — Gracie confirmed, pulling the trajectory — from Earth orbit five
 weeks ago. They had not announced themselves. Gracie had flagged the contact at
 the outer edge of their scanner range and been watching it for ninety minutes.
@@ -89,7 +89,7 @@ the outer edge of their scanner range and been watching it for ninety minutes.
 protocol."
 
 "No," Cole said. He looked at the registration. "Pull everything on
-FED-MRS-0409."
+FED-HEX-5555."
 
 Gracie had already pulled it. The ship was registered to a Federation Medical
 Corps contractor. The contractor's operating license had been filed eight months
@@ -139,7 +139,7 @@ reach docking range."
 
 ---
 
-She came through the docking tube alone. The two crew of FED-MRS-0409
+She came through the docking tube alone. The two crew of FED-HEX-5555
 stayed aboard their vessel — Gracie was tracking them — and she came through
 carrying a case in her right hand that Gracie had already flagged: standard
 supply dimensions, biometric-locked.
@@ -559,7 +559,7 @@ for a very long time."
 
 ---
 
-The two crew members of FED-MRS-0409 did not wait. By the time Cole had gotten
+The two crew members of FED-HEX-5555 did not wait. By the time Cole had gotten
 Sharon to the medical bay and Sam had run the first assessment, the Alpha
 vessel had disengaged from the docking collar and begun its departure on a
 course that did not require communication. Gracie tracked it until it left
