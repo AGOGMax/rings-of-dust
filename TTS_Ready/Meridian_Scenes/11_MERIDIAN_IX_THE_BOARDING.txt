@@ -4,7 +4,7 @@ Slot: after Chapter Nineteen
 There was no good way to watch the thermal signature data and
 know what it meant.
 
-Kate had been tracking FED-MRS-0409 for nine days. The biometric
+Kate had been tracking FED-HEX-5555 for nine days. The biometric
 data she'd pulled from relay intercepts had confirmed what she'd
 already suspected and confirmed it in a way she wished it hadn't.
 
@@ -71,7 +71,7 @@ He did not elaborate. He didn't need to.
 
 Kate went back to her panel.
 
-At 04:49 ship time, the augmentation signature on FED-MRS-0409
+At 04:49 ship time, the augmentation signature on FED-HEX-5555
 changed. The bronze indicator — the central power conduit,
 detectable even at this range as a low-level electromagnetic
 output — went dark.
