@@ -1,0 +1,146 @@
+RINGS OF DUST
+
+Chapter Twenty-One-B
+
+Max and the Station
+
+
+The Collective's transport route to the station did not appear on any commercial manifest, which was the point.
+
+Max had been told: you'll feel it. He hadn't been told what "it" meant. He found out at T-plus-four-minutes when the orbital transfer burn pushed him sideways into the harness at two and a half g and held him there for forty seconds while his vision tunneled and the contents of his stomach expressed strong opinions about the situation.
+
+Then it stopped.
+
+The ship coasted.
+
+He opened his eyes on a window that showed him the curve of the Earth from low orbit — lit white and blue, the terminator line bisecting the Pacific in a slow diagonal — and felt the particular feeling of being somewhere he had absolutely no business being.
+
+"First time?" the woman next to him said.
+
+Her name was Yael. She'd been doing this run for two years. She handed him a bag without being asked.
+
+He didn't need it. He thought about needing it. He took the bag anyway.
+
+"Gets easier," she said. "Third time you don't even brace."
+
+"What's the second time like?"
+
+"Worse," she said. "Because you know it's coming."
+
+---
+
+The station had a name that the Collective used internally — Station Libre, though Max never heard anyone say the full name. They said "the station" or, after a few weeks, nothing at all, because there was only one place you could be saying.
+
+It was built in three modules connected by pressurized corridors that were wide enough for one person, which meant that two people passing each other had to do a sideways shuffle that everyone had a version of and nobody liked. The common module was the chow hall. The science module had been converted to labs. The residential module had twelve berths and a shared bathroom arrangement that had required, over the course of several years, the development of a detailed social contract.
+
+Max had been given a berth and a lab bench and told that his access to the dark matter cache was conditional on a two-week orientation period. He spent the two weeks learning the station's rhythms — the shift schedule, the hot water queue, the specific drawer in the kitchen where the good coffee was kept and the separate drawer where the bad coffee was kept in case of emergencies — and observing the people who had been here longer.
+
+There were eleven of them. Scientists, mostly. One communications technician. One person whose role Max was never able to clearly identify but who seemed to fix things when they broke, which they did with the unhurried regularity of things that lived at pressure differential.
+
+They were, without exception, at ease in a way he hadn't seen people at ease before. The station produced it — the enforced smallness of the space, the distance from everything else, the shared project. They had arguments about small things and agreements about large ones. They ate dinner together because the table only sat twelve and it was efficient.
+
+In the third week, someone brought out the bottle.
+
+---
+
+The game was called Whiskey Slap, which was a straightforward name for a straightforward game. You spun the bottle on the table — a proper glass bottle, transported up at some point for precisely this purpose, now empty and serving its second career as sporting equipment. Whoever it pointed to took a shot of whiskey and got slapped by the spinner.
+
+Not hard. Hard enough.
+
+The whiskey came from a different bottle.
+
+"Why the slap?" Max asked, the first time they played.
+
+"Because in low-g," Yael said, "the burn takes longer to hit. Slap helps."
+
+They were at approximately a third of Earth gravity. The slap hit at roughly the same time as the whiskey.
+
+Max lost twice his first round. He took the shots. He received the slaps. The second one was from a materials scientist named Dae-jung who was, as Max had observed over three weeks, very cheerful and also had very large hands.
+
+"Welcome to the station," Dae-jung said.
+
+"Thank you," Max said, meaning it.
+
+---
+
+He found the flywheel in week six.
+
+It was not a discovery in the sense he'd been trained to think of discovery — the sudden illumination, the dramatic notation in the lab book. It was more like: he had been running the standard 33-day test protocol, checking the crystal growth on the exterior casing of the fuel cell unit, and on day 180 — which was a Wednesday, which Yael had off, which meant it was unusually quiet in the lab — he went in to log the routine measurement and the measurement was not routine.
+
+The crystals on the exterior of the casing had been growing in a predictable curve: slow in the first month, faster in the second, leveling after the third. He'd been logging the plateau for weeks.
+
+On day 180, the curve inverted.
+
+The plateau broke upward. The crystal mass on the exterior had, in a single day, increased by more than the previous sixty days combined. He measured it twice. He measured it a third time with a different instrument. He got the same number.
+
+He went and got Dae-jung.
+
+Dae-jung looked at the reading. He looked at it for a long time.
+
+"What does this mean," he said, which was a statement, not a question.
+
+"It means," Max said, "that the process is self-sustaining. After 180 days, the fuel cell starts producing dark matter crystals on the exterior at a rate faster than any mining or extraction process Alpha is running. Faster than they can produce it in a lab." He paused. "Unlimited new fuel cells from existing units. No new material required. No bottleneck."
+
+Dae-jung sat down.
+
+"The shortage," he said.
+
+"Was a choice," Max said. "They knew. They've known since before they fired me."
+
+He was thinking about Alpha's face in the lab. The specific expression. The room going quiet in the specific way.
+
+They had seen it before he had. They'd understood it before he had. And they'd decided, before he'd finished his sentence, that he was never going to tell anyone.
+
+They'd been wrong about that.
+
+---
+
+Rachel arrived on a Tuesday, four months before the Grand Hall hearing. She came on the same transport Max had taken — same burn, same two and a half g, same window with the curve of the Earth. She didn't use the bag.
+
+She had her press credentials and a recorder and three charged batteries for the recorder, which she'd been told to bring because the station ran on a different voltage standard than anywhere else she'd worked.
+
+Max met her at the airlock.
+
+He'd been told she was coming. He'd been told who she was — not her Collective role, just her public one — and he'd recognized her face from the Alpha Corp broadcast announcements he'd spent years watching. The one they used when they needed someone credible to explain why the shortage wasn't their fault, why the timeline kept moving, why patience was the reasonable position.
+
+He'd found that interesting, before he knew anything else about her.
+
+"Max Vision," she said.
+
+"Ray," he said. "Here I'm just Ray."
+
+She looked at him for a moment — the look of someone recalibrating, not the name but the person attached to it. "Ray," she said. "Okay."
+
+He showed her the lab. He showed her the data. He showed her the 180-day curve, the crystal growth, the numbers he had now run in triplicate across seven different fuel cell units with six different operators to make sure that what he was looking at was not specific to his method, his instruments, or his hope.
+
+She asked good questions. Clear, specific, the kind that showed she'd read the background material before she arrived. She did not pretend to understand the chemistry when she didn't, and she didn't pretend not to understand it when she did.
+
+"Alpha suppressed this," she said.
+
+"Yes."
+
+"And you're the only independent source who can verify it."
+
+"The station can verify it. Every person here can verify it. I'm just the one who found it first."
+
+She looked at the crystal samples on the bench. "When this goes public—"
+
+"The shortage ends," he said. "Not in five years. In months. The infrastructure's already half-built. They stopped it from working on purpose."
+
+She was quiet for a moment.
+
+"I know," she said.
+
+He hadn't expected that. He looked at her.
+
+"I've known for a long time," she said. "I needed to be able to prove it." She gestured at the lab. "Now I can."
+
+Outside the module window, the Earth made its slow rotation. The terminator line moved across the Atlantic.
+
+"What happens next?" Max asked.
+
+"The Grand Hall," she said. "And then everything changes."
+
+He looked at the curve on the display. Seven separate test runs. Seven identical results.
+
+"Yeah," he said. "It does."
