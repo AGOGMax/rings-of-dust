@@ -1,0 +1,108 @@
+RINGS OF DUST
+
+Chapter Twenty-One-A
+
+The Zero-Gravity Flywheel
+
+
+The problem with the 180-day curve was that it shouldn't exist.
+
+Max had run the experiment eleven times in Panama, in the back room of the building on Calle Cinquenta that Lucia had eventually converted into something approaching a proper lab — climate-controlled, magnetically shielded, three fuel cell units running in parallel on a rotation so there was always at least one in an active phase. He'd run it eleven times. He'd gotten the same result eleven times. The crystal growth on the exterior casing of the fuel cell accelerated at day 180 in a way that could not be explained by the chemistry he knew.
+
+He thought: I'm missing a variable.
+
+He listed the variables he could control. Temperature. Magnetic field strength. Humidity. The specific salts in the stabilization matrix. He had varied each of them systematically. None of them changed the curve.
+
+He listed the variables he couldn't control.
+
+Gravity was on that list.
+
+He had been trying not to think about gravity for three weeks, because thinking about it led somewhere he wasn't sure he could get to. But on the morning of his fourteenth month in Panama — a Tuesday, the kind of Tuesday that had stopped feeling different from any other day — he made coffee, sat down with his notebook, and thought about it.
+
+The fuel cell's crystal growth was a surface phenomenon. It happened on the exterior of the casing, which meant it was affected by the boundary conditions between the cell and the surrounding air. In a normal gravity environment, those boundary conditions had a preferred direction. The convection currents moved in a pattern. The crystals grew in a pattern that followed the convection.
+
+What if the pattern was the problem.
+
+What if the 180-day acceleration wasn't a threshold the cell crossed — what if it was the point at which the pattern became self-sustaining? And what if, in zero gravity, with no preferred convection direction, the process began immediately at a higher rate — or skipped the plateau entirely?
+
+He sat with his coffee and looked at this idea for a long time.
+
+Then he wrote down what the test would look like.
+
+Then he wrote down what he would need to run it.
+
+He had none of what he would need.
+
+---
+
+He brought it to Red that afternoon. Red was in the building's front room, which he used as an office, which meant it contained a folding table, a chair, and a line-of-sight angle on the street. Red did most of his work in other places and used the office the way some people use a hat — as a way of being somewhere.
+
+Max put his notebook on the table.
+
+Red looked at the page Max was pointing to. He looked at the list of what the test required.
+
+"How much of this can you source locally," Red said.
+
+"None of it," Max said. "The fuel cell units I have can run the test, but you need the gravity variable. You need orbit."
+
+Red was quiet for a moment.
+
+"I need to make a call," he said.
+
+He made Max wait in the back room for forty-five minutes. When he came back he sat down at the table and looked at Max the way he looked at things that were going to take a lot of moving parts to become real.
+
+"There's a station," Red said. "Collective infrastructure. Low-orbit. It's been operational for four years and nobody outside the network knows it exists." He paused. "Getting you there is not a simple operation."
+
+"How long would it take?"
+
+"To arrange? Three weeks, maybe four. The transport route runs on a schedule we don't control." He looked at the notebook. "But if your math is right—"
+
+"The math is right," Max said. "I've run it eleven times."
+
+Red looked at the math. He was not a scientist. He had, however, spent fifteen years working in proximity to people who were, and he had developed an accurate sense of the difference between someone showing him work they were confident in and someone showing him work they wanted to be confident in.
+
+"I'll make the calls," he said.
+
+---
+
+The incident happened nine days later.
+
+It was not, strictly speaking, Max's fault. He had been careful — consistently, deliberately careful — about the lab's security protocols. The building on Calle Cinquenta was anonymous, the equipment was registered to a materials testing firm that had three employees on paper and no physical address, and Max had been living as Mikof Forsinko long enough that the name felt more natural than the one he'd been born with.
+
+What he had not controlled for was the fuel cell unit on its 33rd day.
+
+The 33-day mark was the acceleration peak — the point where the charge rate inside the cell jumped by a factor of ten and held there. He'd seen it eleven times. He knew what it looked like. What he had not seen before was what happened when the unit on its 33rd day was placed in proximity to an experimental arrangement where all three cells were active at the same time.
+
+The power output was significant.
+
+The building's grid registered it. The building's grid was monitored by the city's infrastructure authority, which flagged residential and commercial addresses with power draw anomalies and forwarded the flags to a department that Alpha had people inside.
+
+Red found out about the flag in four hours. He spent the next two hours moving Max's equipment to a secondary location and the two hours after that moving Max.
+
+"How long," Max said, while they packed.
+
+"They'll be here tomorrow," Red said. "Maybe tonight."
+
+"I meant — how long until the station."
+
+Red looked at him. He had the expression of a man who had just finished a very fast calculation. "Two weeks," he said. "I moved the timeline up."
+
+Max nodded. He packed his notebook. He packed the chart from the 33rd-day reading — the one he'd been looking at when the power spike hit, the curve going vertical on the page in a way that still gave him the particular sensation of looking at something that wanted to be real.
+
+He left the fuel cells. They were too large and too hot to move in the time available.
+
+He left Panama the same way he'd arrived — in the dark, in someone else's car, with a bag that wasn't his, going somewhere he'd never been. He didn't look back at the building on Calle Cinquenta. He had looked back once before, at an apartment that wasn't his anymore, and it hadn't helped.
+
+He looked at the notebook in his lap instead.
+
+He thought: zero gravity. No preferred direction. The crystals growing outward in every direction at once, no pattern to collapse into, no ceiling to hit.
+
+He thought: the plateau won't exist.
+
+He thought: I need to see it.
+
+The car moved through the Panama City dark, past the glass towers that threw back the city lights, past the park where the heron listed four degrees toward the east and did not care, past the green door that was dark now, and through the outer streets where the city thinned to highway and the highway thinned to nothing.
+
+Red drove. He did not say anything. Max appreciated this.
+
+Somewhere over the Pacific, a Collective transport was waiting for a window.
