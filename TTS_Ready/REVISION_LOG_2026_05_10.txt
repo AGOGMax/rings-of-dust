@@ -1,0 +1,147 @@
+RINGS OF DUST — REVISION LOG
+2026-05-10
+══════════════════════════════════════════════════════════
+
+NEW CHAPTERS
+
+  Ch10a_Max_At_Alpha
+    Max working at Alpha's Dark Matter Stabilization lab after Polaris.
+    Alpha can stabilize Dark X for 11-day windows only. Max takes 30g home
+    (unauthorized). Overnight the apartment fuel cell array charges to levels
+    it shouldn't. He works for 33 days, verifies crystal growth on exterior
+    casing, charts the yield. Takes results to Alpha. Shows them. Room goes
+    quiet. He's fired that afternoon. Walks home still carrying his desk box.
+    Red and Squirrel knock.
+    Slots after Ch10 / before Ch10b in reading order.
+
+  Ch10b_Max_And_The_Flywheel (existing)
+    Already in place — Max extraction from apartment.
+
+  Ch10c_Max_In_Panama
+    Max arrives at Tocumen International — disoriented, too hot, wearing a
+    jacket in 90-degree morning. Gets on a pedicab (NOT a cab — Red's note
+    said DON'T TAKE A CAB). Driver zips him through the city: lanes advisory,
+    signals in negotiation, a bus that always blows its horn. Stops at a door
+    painted green. The green of something that's been green long enough to
+    mean it. He gives the driver all his money; driver gives some back. Max
+    stands in front of the door and thinks about Alpha's face. Knocks.
+    Slots after Ch10b in reading order.
+
+  Ch21a_The_Zero_G_Flywheel
+    Max in Panama (14 months in), has run the 180-day experiment 11 times.
+    Realizes gravity is the missing variable — in zero-g, no preferred convection
+    direction, the crystal growth should skip the plateau entirely. Brings the
+    idea to Red. Red makes calls. Nine days later: the power spike. Three fuel
+    cells active simultaneously on day 33 — ten-times charge rate — flags the
+    city infrastructure grid. Alpha has people inside that department. Red gets
+    word in 4 hours. Two hours moving equipment, two hours moving Max. "Two
+    weeks. I moved the timeline up." Max packs his notebook. Drives through
+    Panama City dark, past the heron, past the green door, out to the highway.
+    Slots between Ch21 and Ch21b.
+
+  Ch21b_Max_And_The_Station
+    Max takes Collective transport to Station Libre. 2.5g burn — first time.
+    11 people on the station. Whiskey Slap game in week three: spin the bottle,
+    whoever it points to takes a shot and gets slapped. Slap helps the burn
+    hit in low-g. On day 180 the 33-day plateau breaks upward — crystal mass
+    on exterior of fuel cell jumps more than the previous 60 days combined.
+    Max gets Dae-jung. "The shortage was a choice." Rachel arrives 4 months
+    before the Grand Hall hearing, same transport route. He shows her the
+    180-day curve across 7 test units. She says: "I know." He hadn't
+    expected that.
+    Slots after Ch21 / before Ch21c in reading order.
+
+  Ch21c_Vance_At_The_Black_Site
+    Vance uses Federation credentials to access the Henderson, Nevada facility
+    — a strip mall facade above 7 underground levels. Federation built it for
+    records; Alpha has quietly cleared it. Sublevel 5 clerk Chen: the fuel
+    cell procurement file was cleared March 14th, full vault, authorized by
+    "Federation Representative Rachel Vayes." Vance drives 30 min north on 215,
+    pulls over. Thinks about what it means that DeMint didn't know. Calls
+    Marcus. Goes to Alpha's 32nd floor. "The records were cleared." Marcus:
+    "They were a liability." Eight years. "I know." That's all.
+    Vance drives himself to a clinic. Sits in the parking lot 20 minutes.
+    Then goes in. That part mattered.
+    Slots before Ch20 in reading order (Ch20 references his death as past).
+
+EXISTING CHAPTER EDITS
+
+  Ch20_Houston_Heist — DarkX insertion
+    In the sub-basement secure storage corridor, after Pilar locks the locker,
+    Emily stops at a sealed door with a biometric reader and an observation
+    window. She sees magnetic containment units — Dark X, Alpha's processing
+    output, stored in the Federation facility because Federation doesn't know
+    what it is. Through 3 inches of composite, the nanoparticles register her
+    DNA. Same signature as Cole's. The iRIS failsafe Conrad encoded triggers.
+    On the other side of the world, iRIS becomes Gracie — at the exact moment
+    it's needed. Emily doesn't know this yet. She turns from the window. "Okay.
+    Let's go."
+
+  Ch21_Maxs_Cargo — heron description (earlier session)
+    Concrete heron at the Panama park fountain: long-legged, long-necked, gray-
+    green, feathers carved individually. Four degrees east. Tilt no longer reads
+    as a mistake — it reads as the bird's opinion.
+
+  Ch21_Maxs_Cargo — 60-day inversion removed (earlier session)
+    Ray's mental list: "The fuel cell on the oak table. The notebook. The 33-day
+    yield data. The 180-day curve." (60-day inversion deleted — it was invented.)
+
+  Ch22_The_Black_Site — Sharon + Marcus restructure (earlier session)
+    Marcus is GONE when Emily arrives. Empty office. Lobby phone via coordinator
+    Yuen: "It's for you." Marcus calls in — full account (officers, procurement,
+    8 years of flywheel documentation). Cole and Sharon alive checks. Sharon
+    relay from Golden Dawn: *There you are. — S*. Marcus: "Tell him he was the
+    right choice." Removed: Emily going to see Sharon / recovery facility.
+
+  Ch23_Grand_Hall — Rachel not in Grand Hall (earlier session)
+    Rachel is in a broadcast studio with Ray Vision, not the gallery. Golden
+    Dawn chow hall: crew + Gracie hologram with holographic popcorn watching
+    the broadcast. Ray explains 33-day acceleration and 180-day crystal growth.
+    Cole spots Emily in fourth row in a cut to the hearing room.
+
+  Ch23_Grand_Hall — fuel cell mechanics corrected (earlier session)
+    "Sixty-day efficiency inversion" → "thirty-three-day acceleration — the
+    window where the fuel cell charges ten times faster — and the hundred-and-
+    eighty-day exponential yield, the crystal growth on the outside of the
+    casings."
+
+  Ch23_Grand_Hall — Vance attribution corrected (earlier session)
+    "written record of Vance Black" → "record on Vance Black's mission."
+    "paragraphs Vance had written" → "paragraphs describing Vance's account."
+
+  Ch04, Ch08, Ch13 — Rachel reputation seeded (earlier session)
+    Ch04: Cole dismisses her as Alpha's preferred narrator of the shortage.
+    Ch08: Emily recognizes her face from public feeds — Alpha's correspondent.
+    Ch13: Emily's cognitive dissonance at the pier — the pier Rachel vs. the
+    broadcast Rachel. "People in Emily's orbit had a word for journalists like
+    that."
+
+  Ch21 — heron described, 60-day inversion removed (earlier session)
+  Ch23 — Rachel chow-hall + fuel cell terms + Vance attribution (earlier session)
+
+READING ORDER (current)
+  01_MERIDIAN_I_LISTENING_POST
+  Ch01 Ch02 Ch03 Ch04
+  02_MERIDIAN_II
+  Ch05 Ch06 Ch07
+  03_MERIDIAN_III_LAUNCH_DAY
+  Ch08
+  04_ALPHA_I_FEDMRS0409
+  05_MERIDIAN_IV_THE_NIGHT_AFTER_THE_FARM_ROAD
+  Ch09 Ch10 Ch10a[NEW] Ch10b Ch10c[NEW]
+  06_MERIDIAN_V_EMILY_IN_THE_CAR
+  Ch11
+  07_MERIDIAN_VI_THE_CONFIRMATION
+  Ch12 Ch13
+  08_MERIDIAN_VII_EMILY_DRIVES_I10
+  Ch14 Ch15
+  09_ALPHA_II_FEDMRS0409
+  Ch16
+  10_MERIDIAN_VIII_PANAMA_AND_HOUSTON_SAME_WEEK
+  Ch17 Ch18 Ch19
+  11_MERIDIAN_IX_THE_BOARDING
+  12_MERIDIAN_X_FEDMRS0409_GOES_QUIET
+  Ch21c[NEW] Ch20 Ch21 Ch21a[NEW] Ch21b[NEW]
+  Ch22 Ch23
+  13_MERIDIAN_XI_GRAND_HALL
+  Ch24 Ch25
