@@ -10003,8 +10003,8 @@ thumb against his eye and looked at the fountain with its concrete heron listing
 east and its thin green growth and its empty basin, and he thought about all of
 the things he had been holding.
 
-The fuel cell on the oak table. The notebook. The 33-day yield data. The 60-day
-inversion. The 180-day curve. The name Mikof Forsinko. The access badge. The four
+The fuel cell on the oak table. The notebook. The 33-day yield data. The
+180-day curve. The name Mikof Forsinko. The access badge. The four
 badge reads he had planned, the two he had used. The drive. Dr. Oren's face when
 he had explained the stabilization process with the particular pleasure of a man
 showing a colleague something beautiful.
@@ -10503,8 +10503,10 @@ for two years, the flywheel principle, its implications for the current energy
 crisis, and what Disposal Protocol Seven represented in terms of the calculated
 management of its solution.
 
-He described the sixty-day efficiency inversion and the hundred-eighty-day
-exponential yield in language calibrated for people who were not engineers,
+He described the thirty-three-day acceleration — the window where the fuel cell
+charges ten times faster — and the hundred-and-eighty-day exponential yield,
+the crystal growth on the outside of the casings that meant unlimited new cells
+from existing units, in language calibrated for people who were not engineers,
 because he had been thinking, on the flight back from Panama and in the six
 weeks since, about how to say it to someone who needed to act on it.
 
