@@ -10548,128 +10548,95 @@ continuing.
 
 ---
 
-The session was scheduled to end at five.
-
-At 4:43 PM, Rachel Vayes stood up.
-
-She was in the second row of the press gallery. She had been there since morning
-in her capacity as a credentialed Federation media correspondent, which she had
-been for nine years. She had her press badge. She had been there when Marcus
-testified. She had been there when Vance stood and did not speak with the voice
-of a man who was performing his survival. She had been there when Ray described
-the flywheel in the language of someone who had been wanting to say it for a
-long time.
-
-She stood up.
-
-The room registered her the way it registers a thing that doesn't fit the
-current frame — the slight collective adjustment of a group of people
-recalibrating.
-
-DeMint looked at her.
-
-"Ms. Vayes," he said. His voice had the quality of a man who was already
-revising what he was about to say.
-
-"Chancellor DeMint," Rachel said. "Members of the Federation Council. I have a
-statement to make before this session concludes." She paused. "My name is Rachel
-Vayes."
-
-DeMint said nothing. He had the look of a man who had arrived at an answer and
-was now simply waiting to see how long it would take for the question to catch
-up.
-
-The room did not erupt. That was the thing Emily would remember later — the room
-did not erupt. It went very quiet in a very specific way, the way a room goes
-quiet when the thing that everyone already suspected is confirmed without being
-stated.
-
-"I have been operating in this capacity for eleven years. My public role as a
-Federation media correspondent was functional cover, authorized by the
-Collective's Command structure. The work I conducted in both capacities was
-designed to reach this hearing." She looked at DeMint. "The evidence you have
-received today — from Marcus Verguld, from the written record of Vance Black, from Ray Vision,
-from Dr. Conrad's written record — was assembled, coordinated, and delivered through the
-Collective network. Not because the Federation couldn't do it. Because the
-Federation didn't yet know it needed to."
-
-DeMint looked at her for a very long time.
-
-"The Collective," she continued, "is not a rebel organization. It is not a
-terrorist network. It is not the crackpot movement it has been characterized as
-in twenty years of public narrative designed by the people whose names are now
-in this record. It is a distributed network of people who decided that the world
-they wanted to live in was worth building. They built it quietly, inside the
-walls of the thing they were trying to fix, for twenty years. Today is the day
-it comes inside."
-
-She paused.
-
-"I am prepared to provide a full accounting of the Collective's operations, its
-structure, and its membership — under confidentiality agreements appropriate to
-the ongoing protection of active personnel — to this committee at a time and
-date to be determined." She looked at DeMint. "I would prefer that it be soon."
-
-She sat down.
-
-The room held its particular quality of quiet for another three seconds.
-
-And then DeMint said: "Granted."
+The session concluded at 5:09 PM.
 
 ---
 
-On the Golden Dawn, the relay had been established through Gracie's comms system
-at four in the morning, ship time. Cole had been awake before it — he had set no
-alarm, Gracie had set no alarm, he had simply been awake in the way he had been
-awake for the past three months, alert to the forward edge of things.
+On the Golden Dawn, the Meridian had been relaying the broadcast feed since four
+in the morning, ship time. Gracie had flagged it six hours out — enough lead
+time to arrange chairs, mugs, the particular quality of shared attention that a
+crew in deep space develops for the moments when the planet below does something
+they've been waiting to see.
 
-He watched the hearing on the cockpit display. The image came through at low
-resolution — the compression of deep-space comms doing to faces what it always
-did, softening the edges, flattening the depth, turning people into something
-that looked like a photograph of a painting of a person. But he could see the
-room. He could see DeMint at the table, standing, reading from something
-Cole couldn't make out at this resolution.
+The chow hall held seven people and one projection.
 
-He could see Emily in the fourth row.
+The projection was Gracie. She had materialized in the seat at the end of the
+table — the one nobody sat in, as if by arrangement — and in front of her,
+rendered in careful holographic detail, was a bowl of popcorn. The texture was
+correct. The steam was correct. She reached into it, took a handful, and brought
+it to her face with the precise deliberateness of someone who understood the
+gesture even without the mechanics.
 
-He had been watching her all morning — the way she sat, hands in her lap, the
-particular stillness of a person who has been in motion for so long that
-stillness has become the more active state. He had last seen her face in the
-cabin in Sequoia, in the summer of a different version of his life. She looked
-older in the way that the people who carry things look older — not worse, just
-more densely themselves.
+Torres looked at the bowl. "Can she—"
 
-When Rachel stood, he leaned forward.
+*No,* Gracie said. *But it's the right thing to have.*
 
-He watched the low-resolution image of a woman in the press gallery become a
-different kind of person in the span of thirty seconds — the translation, made
-in public, from functional cover to the thing she actually was. He had known,
-since Emily had told him on the relay, that Rachel was the Grand Admiral. He had
-known it intellectually — carried it the way you carry something too large
-to put down, at arm's length, waiting for the moment it became real.
+She took another handful.
 
-But watching her stand in the Grand Hall and say her name, only her name, in the
-calm register of someone who had been waiting eleven years to say it in a room
-where it meant the right thing — and watching the room understand — he felt
-something that was not surprise and was not relief but was something under both
-of those — the recognition of a design that had been running longer than he had
-known he was inside it.
+On the display, Rachel Vayes was at a desk across from Ray Vision in a studio
+with the clean, prepared quality of a broadcast space that knew it was
+important. Behind them: a Federation insignia, subdued, not the main event.
+
+"What the Collective brought to this moment," Ray was saying, "is a twenty-year
+record. Not a rumor. Not a theory. Documentation — from Dr. Steven Conrad's
+original findings, authenticated and delivered through the Collective network
+before anyone could suppress it. The modification to the Gracie architecture.
+The procurement structure. The specific decisions about who got power and who
+didn't." He set his notes down. "It's in the public record now. All of it."
+
+Rachel said: "And what changes."
+
+"The thirty-three-day cycle changes everything." Ray leaned forward. "The
+technology Conrad documented — thirty-three days charges ten times faster. Which
+means the distribution infrastructure that's been held up for a decade becomes
+viable in months, not years. And the hundred-and-eighty-day yield — the crystal
+growth on the outside of the fuel cell casings — means you're not just charging
+faster. You're producing new fuel cells from the process. Unlimited supply, from
+existing units. No new materials required. No bottleneck." He paused. "The
+shortage was a choice. The people who made it understood what they were
+choosing."
+
+Rachel looked at the camera the way she had always looked at the camera —
+level, unhurried, the version of herself she had made into a professional tool
+for eleven years. "Conrad's location is still undisclosed. What the Collective
+has stated is that his work is complete. It doesn't require him to be present to
+function."
+
+"He built something that didn't need him to finish it," Ray said.
+
+"Yes."
+
+Cole watched the broadcast from the end of the table. He watched the particular
+quality of Rachel Vayes doing what Rachel Vayes did — the precision of it, the
+eleven years of being very good at something in public while doing something
+else entirely in private. He did not know what the something else was. The
+record in front of him was enough.
+
+The broadcast cut, briefly, to a feed from the Grand Hall. The hearing room.
+The Federation Council chamber, formal and high-ceilinged, DeMint at the
+committee table.
+
+Cole leaned forward.
+
+He could see the gallery. The low-resolution compression doing its usual work —
+faces soft, depth gone, the edges of things made uncertain by ninety minutes of
+space between the image and where he was sitting. But the gallery was visible.
+The rows.
+
+He found Emily in the fourth row.
+
+She was sitting the way she sat when she had made a decision and was waiting for
+the world to catch up to it. He had seen that posture on a kitchen table in
+Sequoia, on a pier in the fog, on a highway shoulder east of Indio. He
+recognized it now from ninety minutes away without difficulty.
 
 *Gracie,* he said.
 
-*Yes.*
+*I see her,* Gracie said.
 
-*She knew about you. From the beginning.*
+*Can you route something through the Meridian?*
 
-*Yes,* Gracie said. *Conrad built me with the resistance already in mind. He
-knew what they were going to do with what he built. The failsafe was not an
-afterthought. It was the first thought.*
-
-Cole looked at the display. He looked at Emily in the fourth row.
-
-*Patch me through to the relay,* he said. *I want to send her something.*
-
-*Already queued,* Gracie said. *I thought you would.*
+*Already composing,* Gracie said. *Take your time.*
 
 ---
 
