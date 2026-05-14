@@ -10902,7 +10902,7 @@ Max and the Station
 
 The Collective's transport route to the station did not appear on any commercial manifest, which was the point.
 
-Max had been told: you'll feel it. He hadn't been told what "it" meant. He found out at T-plus-four-minutes when the orbital transfer burn pushed him sideways into the harness at two and a half g and held him there for forty seconds while his vision tunneled and the contents of his stomach expressed strong opinions about the situation.
+Max had been told: you'll feel it. He hadn't been told what "it" meant. He found out at T-plus-four-minutes when the orbital transfer burn pushed him sideways into the harness at 2.5 Gs and held him there for forty seconds while his vision tunneled and the contents of his stomach expressed strong opinions about the situation.
 
 Then it stopped.
 
@@ -10960,35 +10960,61 @@ Max lost twice his first round. He took the shots. He received the slaps. The se
 
 He found the flywheel in week six.
 
-It was not a discovery in the sense he'd been trained to think of discovery — the sudden illumination, the dramatic notation in the lab book. It was more like: he had been running the standard protocol — the Grid had been locked at day 33, all 740 cells aligned, internal crystal growth humming at ten times the unlocked rate — and on day 180 of the lock, which was a Wednesday, which Yael had off, which meant it was unusually quiet in the lab, he went in to log the routine internal measurement and found that the measurement was not routine.
+It was not a discovery in the sense he'd been trained to think of discovery — the sudden illumination, the dramatic notation in the lab book. It was more like: he had been running the standard protocol — the Grid had been locked at day 33, all 740 cells aligned, internal crystal growth humming at ten times the unlocked rate — and it was on day eleven of a new sync cycle that he understood what the Grid actually was.
+
+He had been scanning the casings. Routine check. He was at Cell 304 when he stopped.
 
 Cell 304 had something on the outside.
 
-Not much. A faint crystalline deposit on the exterior of the casing — not interior, where the 33-day growth lived, but on the surface, visible without instruments if you looked at the right angle in the right light. He looked at it for a long time before he measured it. Then he measured it. Then he went and got Dae-jung.
+Not internal growth. Exterior — a mass of darker matter crystals on the outer surface of the casing, larger than anything the 33-day internal process had produced, larger than anything he'd seen come out of a single unit at Alpha. He measured it. He measured it again. He finished scanning the rest of the Grid.
 
-Dae-jung looked at the deposit. He looked at the measuring instrument. He looked at Max.
+The other 739 cells had nothing on the outside.
 
-"That's exterior," he said. Which was a statement, not a question.
+He went and got Dae-jung.
 
-"Day 180," Max said. "The interior growth doesn't stop. It's still running. But after 180 days locked, something else starts. The dark matter starts depositing on the outside of the casing." He paused. "At a rate faster than any extraction process Alpha is running. Faster than they can produce it in a lab."
+Dae-jung looked at Cell 304. He looked at the other 739. He looked at Max.
+
+"One out of seven forty," he said. Which was a statement, not a question.
+
+"Random," Max said. "I don't know which cell it's going to be until I scan all of them. It landed on 304 this cycle. Next cycle it'll be somewhere else." He paused. "You won't know until you look."
+
+"And the magnitude—"
+
+"Larger than anything Alpha has on record from a single unit. By a significant margin."
 
 Dae-jung sat down.
 
-They ran the protocol for another eleven days. On day 191 — the next 11-day mark — the deposit on cell 304 was gone. And cell 117 had one.
+It became a thing they did. Every eleven days — the end of each sync cycle — whoever walked the Grid first scanned each casing in sequence, looking for the one. When they found it, they said the same word. Quietly. The way you say something that is true and large and you are not yet sure what to do with.
 
-One cell in the Grid. Massive exterior deposit. One per eleven-day cycle, moving through the 740 cells in a sequence that had no pattern anyone could identify, which Dae-jung found troubling and Max found interesting and Yael, who had come back from her day off and immediately understood what she was looking at, found neither troubling nor interesting but simply correct, as though this was the thing that had always been waiting to be discovered.
+Jackpot.
 
-The first time it happened — cell 117 on day 191 — it happened on a Tuesday morning. Max was at the far end of the lab. Dae-jung was at the board. Yael was at her bench.
+Nobody had decided this would happen. It had simply started happening and continued.
 
-Dae-jung said, very quietly: "Jackpot."
+He did not know that the exact same word had been shouted in Alpha's laboratories — years earlier, by people in better-lit rooms with better instruments, who had found the same thing and understood immediately what it meant for everyone who was not in the room.
 
-Max looked up.
+They kept the Grid locked.
 
-"Jackpot," Yael confirmed.
+On day 180, something changed again.
 
-It became a thing they did. Every eleven days, whoever spotted it first said it. Nobody had decided this would happen. It had simply started happening and continued.
+He went in on the morning of day 180 the same way he went in every morning — notebook, instruments, the specific quality of attention you maintain when you have been doing something carefully for a long time and do not want to be the person who misses something by assuming it will be the same as yesterday.
 
-"The shortage," Dae-jung said, on day 191.
+It was not the same as yesterday.
+
+Every cell in the Grid had something on the outside.
+
+Not Jackpot magnitude — not the single massive deposit that landed on one random cell each eleven-day cycle. Smaller. But exterior, on all 740, and when he scanned on day 191 they were there again. Day 202: all 740, slightly larger. The cycle did not stop. The cells that had been locked for 180 days had entered a new state: every eleven days, all of them producing exterior deposits, continuously, for as long as the lock held.
+
+He went and got Dae-jung.
+
+Dae-jung looked at the readings for a long time.
+
+"What does this mean," he said. Which was a statement, not a question.
+
+"It means," Max said, "that after 180 days locked, the cells don't just produce one Jackpot per cycle. All of them do. Smaller, but all of them, every eleven days, until you break the lock." He paused. "Unlimited new darker matter from existing units. No new material. No bottleneck. And it doesn't stop."
+
+Dae-jung sat down again. He had been sitting down a lot lately.
+
+"The shortage," he said.
 
 "Was a choice," Max said. "They knew. They've known since before they fired me."
 
