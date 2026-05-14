@@ -47,7 +47,19 @@ Ray was at the lab bench when she came through. He had the 180-day data on the d
 
 "Yes."
 
-She looked at the data on the display. The 33-day curve. The plateau. The 180-day break upward, the crystal mass doubling and redoubling, the number that ended the shortage if anyone was allowed to know about it.
+She looked at the data on the display. The 33-day curve. The plateau. The 180-day break upward, the interior rate jumping to a hundred times, every cell beginning its eleven-day exterior cycle. Three hundred and sixty nine test runs. Three hundred and sixty nine identical results.
+
+There was a second chart on the display beside it: the unlock data.
+
+"Walk me through the unlock experiments," she said.
+
+Ray looked at the chart. "I unlocked cells at different points — some at day 40, some at day 90, some after the 180-day threshold. Different cells, different stages." He paused. "Same result every time. The moment you break the lock, everything stops. The hundred-times interior growth drops back to baseline within hours. The exterior deposits stop forming. The mini-jackpot cycle ends. The one-time Jackpot window — gone. It reverts to an ordinary fuel cell."
+
+She looked at the unlock curve — the sharp drop, the flatline after.
+
+"So you can't harvest it and keep it running."
+
+"You can harvest the exterior deposits. But the moment the lock breaks, the process ends. It's either locked and producing, or it's unlocked and it's finished." He looked at the display. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it."
 
 "I've been thinking about how to open," she said.
 
