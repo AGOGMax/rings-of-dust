@@ -10960,13 +10960,13 @@ Max lost twice his first round. He took the shots. He received the slaps. The se
 
 He found the flywheel in week six.
 
-It was not a discovery in the sense he'd been trained to think of discovery — the sudden illumination, the dramatic notation in the lab book. It was more like: he had been running the standard protocol — the Grid had been locked at day 33, all 740 cells aligned, internal crystal growth humming at ten times the unlocked rate — and it was on day eleven of a new sync cycle that he understood what the Grid actually was.
+It was not a discovery in the sense he'd been trained to think of discovery — the sudden illumination, the dramatic notation in the lab book. It was more like: he had been running the standard protocol, and it was on day eleven — the morning the resonance in the casings went quiet and the sync completed — that he made the first discovery the station made possible.
 
-He had been scanning the casings. Routine check. He was at Cell 304 when he stopped.
+He had been scanning all 740 casings. Routine post-sync check. He was at Cell 304 when he stopped.
 
 Cell 304 had something on the outside.
 
-Not internal growth. Exterior — a mass of darker matter crystals on the outer surface of the casing, larger than anything the 33-day internal process had produced, larger than anything he'd seen come out of a single unit at Alpha. He measured it. He measured it again. He finished scanning the rest of the Grid.
+Not internal growth. Exterior — a mass of darker matter crystals on the outer surface of the casing, larger than anything he had pulled from a single unit at Alpha. He measured it. He measured it again. He finished scanning the rest of the Grid.
 
 The other 739 cells had nothing on the outside.
 
@@ -10976,7 +10976,7 @@ Dae-jung looked at Cell 304. He looked at the other 739. He looked at Max.
 
 "One out of seven forty," he said. Which was a statement, not a question.
 
-"Random," Max said. "I don't know which cell it's going to be until I scan all of them. It landed on 304 this cycle. Next cycle it'll be somewhere else." He paused. "You won't know until you look."
+"Random," Max said. "You won't know which cell until you scan all of them. And it only happens once — after the initial sync. Not again. You get one Jackpot per new Grid. You just don't know where it's going to land."
 
 "And the magnitude—"
 
@@ -10984,7 +10984,7 @@ Dae-jung looked at Cell 304. He looked at the other 739. He looked at Max.
 
 Dae-jung sat down.
 
-It became a thing they did. Every eleven days — the end of each sync cycle — whoever walked the Grid first scanned each casing in sequence, looking for the one. When they found it, they said the same word. Quietly. The way you say something that is true and large and you are not yet sure what to do with.
+It became a thing they did — at the end of every new Grid's first sync cycle, whoever walked the casings first said the same word when they found it. Quietly. The way you say something that is true and large and you are not yet sure what to do with.
 
 Jackpot.
 
@@ -10994,15 +10994,17 @@ He did not know that the exact same word had been shouted in Alpha's laboratorie
 
 They kept the Grid locked.
 
+At day 33, the internal growth jumped. The crystals inside the locked casings accelerated to ten times the rate of any unlocked unit — the same thing he had shown Alpha, confirmed now in zero gravity, running cleaner than anything he'd measured on the ground. He logged it and kept going.
+
 On day 180, something changed again.
 
-He went in on the morning of day 180 the same way he went in every morning — notebook, instruments, the specific quality of attention you maintain when you have been doing something carefully for a long time and do not want to be the person who misses something by assuming it will be the same as yesterday.
+He went in that morning the same way he went in every morning — notebook, instruments, the specific quality of attention you maintain when you have been doing something carefully for a long time and do not want to be the person who misses something by assuming it will be the same as yesterday.
 
 It was not the same as yesterday.
 
 Every cell in the Grid had something on the outside.
 
-Not Jackpot magnitude — not the single massive deposit that landed on one random cell each eleven-day cycle. Smaller. But exterior, on all 740, and when he scanned on day 191 they were there again. Day 202: all 740, slightly larger. The cycle did not stop. The cells that had been locked for 180 days had entered a new state: every eleven days, all of them producing exterior deposits, continuously, for as long as the lock held.
+Not Jackpot magnitude — not the single massive one-time deposit from day 11. Smaller. But exterior, on all 740, and when he scanned on day 191 they were there again. Day 202: all 740, slightly larger. The cycle did not stop. Every cell locked for 180 days was now producing exterior deposits on an eleven-day interval, continuously, for as long as the lock held.
 
 He went and got Dae-jung.
 
@@ -11010,7 +11012,7 @@ Dae-jung looked at the readings for a long time.
 
 "What does this mean," he said. Which was a statement, not a question.
 
-"It means," Max said, "that after 180 days locked, the cells don't just produce one Jackpot per cycle. All of them do. Smaller, but all of them, every eleven days, until you break the lock." He paused. "Unlimited new darker matter from existing units. No new material. No bottleneck. And it doesn't stop."
+"It means," Max said, "that after 180 days locked, every cell starts producing exterior deposits on an eleven-day cycle. All of them. Smaller than the Jackpot, but continuous — every eleven days until you break the lock." He paused. "Unlimited new darker matter from existing units. No new material. No bottleneck. And it doesn't stop."
 
 Dae-jung sat down again. He had been sitting down a lot lately.
 
