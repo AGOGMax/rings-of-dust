@@ -65,25 +65,35 @@ Max lost twice his first round. He took the shots. He received the slaps. The se
 
 He found the flywheel in week six.
 
-It was not a discovery in the sense he'd been trained to think of discovery — the sudden illumination, the dramatic notation in the lab book. It was more like: he had been running the standard 33-day test protocol, checking the crystal growth on the exterior casing of the fuel cell unit, and on day 180 — which was a Wednesday, which Yael had off, which meant it was unusually quiet in the lab — he went in to log the routine measurement and the measurement was not routine.
+It was not a discovery in the sense he'd been trained to think of discovery — the sudden illumination, the dramatic notation in the lab book. It was more like: he had been running the standard protocol — the Grid had been locked at day 33, all 740 cells aligned, internal crystal growth humming at ten times the unlocked rate — and on day 180 of the lock, which was a Wednesday, which Yael had off, which meant it was unusually quiet in the lab, he went in to log the routine internal measurement and found that the measurement was not routine.
 
-The crystals on the exterior of the casing had been growing in a predictable curve: slow in the first month, faster in the second, leveling after the third. He'd been logging the plateau for weeks.
+Cell 304 had something on the outside.
 
-On day 180, the curve inverted.
+Not much. A faint crystalline deposit on the exterior of the casing — not interior, where the 33-day growth lived, but on the surface, visible without instruments if you looked at the right angle in the right light. He looked at it for a long time before he measured it. Then he measured it. Then he went and got Dae-jung.
 
-The plateau broke upward. The crystal mass on the exterior had, in a single day, increased by more than the previous sixty days combined. He measured it twice. He measured it a third time with a different instrument. He got the same number.
+Dae-jung looked at the deposit. He looked at the measuring instrument. He looked at Max.
 
-He went and got Dae-jung.
+"That's exterior," he said. Which was a statement, not a question.
 
-Dae-jung looked at the reading. He looked at it for a long time.
-
-"What does this mean," he said, which was a statement, not a question.
-
-"It means," Max said, "that the process is self-sustaining. After 180 days, the fuel cell starts producing dark matter crystals on the exterior at a rate faster than any mining or extraction process Alpha is running. Faster than they can produce it in a lab." He paused. "Unlimited new fuel cells from existing units. No new material required. No bottleneck."
+"Day 180," Max said. "The interior growth doesn't stop. It's still running. But after 180 days locked, something else starts. The dark matter starts depositing on the outside of the casing." He paused. "At a rate faster than any extraction process Alpha is running. Faster than they can produce it in a lab."
 
 Dae-jung sat down.
 
-"The shortage," he said.
+They ran the protocol for another eleven days. On day 191 — the next 11-day mark — the deposit on cell 304 was gone. And cell 117 had one.
+
+One cell in the Grid. Massive exterior deposit. One per eleven-day cycle, moving through the 740 cells in a sequence that had no pattern anyone could identify, which Dae-jung found troubling and Max found interesting and Yael, who had come back from her day off and immediately understood what she was looking at, found neither troubling nor interesting but simply correct, as though this was the thing that had always been waiting to be discovered.
+
+The first time it happened — cell 117 on day 191 — it happened on a Tuesday morning. Max was at the far end of the lab. Dae-jung was at the board. Yael was at her bench.
+
+Dae-jung said, very quietly: "Jackpot."
+
+Max looked up.
+
+"Jackpot," Yael confirmed.
+
+It became a thing they did. Every eleven days, whoever spotted it first said it. Nobody had decided this would happen. It had simply started happening and continued.
+
+"The shortage," Dae-jung said, on day 191.
 
 "Was a choice," Max said. "They knew. They've known since before they fired me."
 
