@@ -31,29 +31,33 @@ The container was labeled with a red stripe and a lot of numbers. He'd labeled i
 
 He left it on the table overnight.
 
-In the morning, the container was warm.
+In the morning, he felt it before he could name it.
 
-Not hot. Warm — the warmth of something that had been doing something while he slept. He picked it up and it was, unmistakably, warmer than the room.
+Not sound. Not heat, exactly — something closer to the sensation of a radio scanning through static, searching for a frequency just out of range. A low resonance below the threshold of hearing, the feeling of a node reaching toward a network that wasn't quite in phase yet. He had been asleep. It woke him. He lay still for a moment, identifying it the way you identify something you've never felt before but somehow recognize, then got up.
 
-He thought: containment breach. He thought: I'm going to have to report this.
+The container on the table was warm. He picked it up — warmer than the room, warmer than it should have been. But the warmth wasn't the signal.
 
-Then he thought: the fuel cells are in that closet.
+He opened the utility closet.
 
-He opened the utility closet. The fuel cell array's status panel — which he had never looked at in three years of living there because it never changed — was reading a charge level he'd never seen on a residential unit. Not a malfunction reading. Not an error. A charge level. The kind of charge level that residential fuel cells did not achieve.
+The fuel cell array's status panel — which he had never looked at in three years of living there because it never changed — was reading a charge level he'd never seen on a residential unit. Not a malfunction. Not an error. A charge level. The kind that residential fuel cells did not achieve.
 
-He stood in the kitchen for a while.
+He stood in the kitchen and listened to the resonance, which was still there — the Dark X in the container and the fuel cells in the closet doing something together at a frequency he could feel in his sternum and couldn't hear with his ears.
 
-Then he got a notepad and started writing down what he was going to need.
+Eleven days later, the feeling stopped.
+
+The panel read steady. The cells were quiet. Something had completed. He understood this later — the eleven-day sync period, the time a newly assembled fuel cell required to align its internal architecture to the Dark X frequency before it could output power. He had felt the process happen in a kitchen in the middle of the night, without instruments, without authorization, without any preparation except having been bored enough to take something home.
+
+He got a notepad and started writing down what he was going to need.
 
 ---
 
 He worked for thirty-three days.
 
-He didn't call it that at the time — thirty-three days — but that was what it was. He ran the test at home, carefully, with equipment he ordered through his personal accounts in small enough quantities that none of the invoices looked like a materials research project. He documented the result. He ran it again. And again. He verified the charge levels. He charted the crystal growth on the outside of the cell casing — thin, regular, unmistakably the same isotopic signature as the Dark X he'd started with.
+He didn't call it that at the time — thirty-three days — but that was what it was. He ordered equipment through his personal accounts in small enough quantities that none of the invoices looked like a materials research project. He locked the fuel cells together. He documented the result. He ran it again. He verified the charge levels. He charted the crystal growth on the inside of the cell casings — thin at first, then accelerating, unmistakably the same isotopic signature as the Dark X he'd started with, and growing at a rate ten times faster than any unlocked cell produced.
 
-The fuel cell was producing new dark matter.
+The fuel cell was producing new dark matter. Not outside — inside. The crystals were growing in the locked space between the cells, accumulating in the dark interior of the casing at a rate that had no precedent in any stabilization model he'd ever run.
 
-Not a lot. Not quickly. But consistently, at a rate that, if it held, would compound.
+Not a lot. Not quickly. But ten times faster than it should have been, at a rate that, if it held, would compound.
 
 He stared at the chart for a long time.
 
@@ -61,7 +65,7 @@ Then he went into the lab the next morning and told his supervisor he needed tim
 
 ---
 
-He walked them through it in the order he'd discovered it. Thirty-three days to the acceleration peak. The charge rate. The crystal growth on the exterior casing. He had photographs. He had numbers. He showed them the numbers in the clear, careful way he'd always showed them things — the same way he'd presented three years of stabilization data — and watched their faces.
+He walked them through it in the order he'd discovered it. The eleven-day sync. The thirty-three-day lock — the point where the internal crystal growth jumped to ten times the unlocked rate and held there. The charge output. The darker matter accumulating inside the locked casings. He had photographs. He had numbers. He showed them the numbers in the clear, careful way he'd always showed them things — the same way he'd presented three years of stabilization data — and watched their faces.
 
 His supervisor's face did something that was not surprise.
 
