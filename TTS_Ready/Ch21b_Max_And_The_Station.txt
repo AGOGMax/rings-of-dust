@@ -2,12 +2,12 @@ RINGS OF DUST
 
 Chapter Twenty-One-B
 
-Max and the Station
+Ray and the Station
 
 
 The Collective's transport route to the station did not appear on any commercial manifest, which was the point.
 
-Max had been told: you'll feel it. He hadn't been told what "it" meant. He found out at T-plus-four-minutes when the orbital transfer burn pushed him sideways into the harness at 2.5 Gs and held him there for forty seconds while his vision tunneled and the contents of his stomach expressed strong opinions about the situation.
+Ray had been told: you'll feel it. He hadn't been told what "it" meant. He found out at T-plus-four-minutes when the orbital transfer burn pushed him sideways into the harness at 2.5 Gs and held him there for forty seconds while his vision tunneled and the contents of his stomach expressed strong opinions about the situation.
 
 Then it stopped.
 
@@ -29,13 +29,13 @@ He didn't need it. He thought about needing it. He took the bag anyway.
 
 ---
 
-The station had a name that the Collective used internally — Station Libre, though Max never heard anyone say the full name. They said "the station" or, after a few weeks, nothing at all, because there was only one place you could be saying.
+The station had a name that the Collective used internally — Station Libre, though Ray never heard anyone say the full name. They said "the station" or, after a few weeks, nothing at all, because there was only one place you could be saying.
 
 It was built in three modules connected by pressurized corridors that were wide enough for one person, which meant that two people passing each other had to do a sideways shuffle that everyone had a version of and nobody liked. The common module was the chow hall. The science module had been converted to labs. The residential module had twelve berths and a shared bathroom arrangement that had required, over the course of several years, the development of a detailed social contract.
 
-Max had been given a berth and a lab bench and told that his access to the dark matter cache was conditional on a two-week orientation period. He spent the two weeks learning the station's rhythms — the shift schedule, the hot water queue, the specific drawer in the kitchen where the good coffee was kept and the separate drawer where the bad coffee was kept in case of emergencies — and observing the people who had been here longer.
+Ray had been given a berth and a lab bench and told that his access to the dark matter cache was conditional on a two-week orientation period. He spent the two weeks learning the station's rhythms — the shift schedule, the hot water queue, the specific drawer in the kitchen where the good coffee was kept and the separate drawer where the bad coffee was kept in case of emergencies — and observing the people who had been here longer.
 
-There were eleven of them. Scientists, mostly. One communications technician. One person whose role Max was never able to clearly identify but who seemed to fix things when they broke, which they did with the unhurried regularity of things that lived at pressure differential.
+There were eleven of them. Scientists, mostly. One communications technician. One person whose role Ray was never able to clearly identify but who seemed to fix things when they broke, which they did with the unhurried regularity of things that lived at pressure differential.
 
 They were, without exception, at ease in a way he hadn't seen people at ease before. The station produced it — the enforced smallness of the space, the distance from everything else, the shared project. They had arguments about small things and agreements about large ones. They ate dinner together because the table only sat twelve and it was efficient.
 
@@ -49,17 +49,17 @@ Not hard. Hard enough.
 
 The whiskey came from a different bottle.
 
-"Why the slap?" Max asked, the first time they played.
+"Why the slap?" Ray asked, the first time they played.
 
 "Because in low-g," Yael said, "the burn takes longer to hit. Slap helps."
 
 They were at approximately a third of Earth gravity. The slap hit at roughly the same time as the whiskey.
 
-Max lost twice his first round. He took the shots. He received the slaps. The second one was from a materials scientist named Dae-jung who was, as Max had observed over three weeks, very cheerful and also had very large hands.
+Ray lost twice his first round. He took the shots. He received the slaps. The second one was from a materials scientist named Dae-jung who was, as Ray had observed over three weeks, very cheerful and also had very large hands.
 
 "Welcome to the station," Dae-jung said.
 
-"Thank you," Max said, meaning it.
+"Thank you," Ray said, meaning it.
 
 ---
 
@@ -77,11 +77,11 @@ The other 739 cells had nothing on the outside.
 
 He went and got Dae-jung.
 
-Dae-jung looked at Cell 304. He looked at the other 739. He looked at Max.
+Dae-jung looked at Cell 304. He looked at the other 739. He looked at Ray.
 
 "One out of seven forty," he said. Which was a statement, not a question.
 
-"Random," Max said. "You won't know which cell until you scan all of them. And it only happens once — after the initial sync. Not again. You get one Jackpot per new Grid. You just don't know where it's going to land."
+"Random," Ray said. "You won't know which cell until you scan all of them. And it only happens once — after the initial sync. Not again. You get one Jackpot per new Grid. You just don't know where it's going to land."
 
 "And the magnitude—"
 
@@ -121,13 +121,13 @@ Dae-jung looked at the readings for a long time.
 
 "What does this mean," he said. Which was a statement, not a question.
 
-"It means," Max said, "that at 180 days, everything accelerates. The interior goes from ten times to a hundred times the unlocked rate. And on top of that, every cell starts producing exterior deposits on an eleven-day cycle. All of them. Smaller than the Jackpot, but continuous — every eleven days until you break the lock." He paused. "Unlimited new darker matter from existing units. No new material. No bottleneck. And it doesn't stop."
+"It means," Ray said, "that at 180 days, everything accelerates. The interior goes from ten times to a hundred times the unlocked rate. And on top of that, every cell starts producing exterior deposits on an eleven-day cycle. All of them. Smaller than the Jackpot, but continuous — every eleven days until you break the lock." He paused. "Unlimited new darker matter from existing units. No new material. No bottleneck. And it doesn't stop."
 
 Dae-jung sat down again. He had been sitting down a lot lately.
 
 "The shortage," he said.
 
-"Was a choice," Max said. "They knew. They've known since before they fired me."
+"Was a choice," Ray said. "They knew. They've known since before they fired me."
 
 He was thinking about Alpha's face in the lab. The specific expression. The room going quiet in the specific way.
 
@@ -137,17 +137,17 @@ They'd been wrong about that.
 
 ---
 
-Rachel arrived on a Tuesday, four months before the Grand Hall hearing. She came on the same transport Max had taken — same burn, same two and a half g, same window with the curve of the Earth. She didn't use the bag.
+Rachel arrived on a Tuesday, four months before the Grand Hall hearing. She came on the same transport Ray had taken — same burn, same two and a half g, same window with the curve of the Earth. She didn't use the bag.
 
 She had her press credentials and a recorder and three charged batteries for the recorder, which she'd been told to bring because the station ran on a different voltage standard than anywhere else she'd worked.
 
-Max met her at the airlock.
+Ray met her at the airlock.
 
 He'd been told she was coming. He'd been told who she was — not her Collective role, just her public one — and he'd recognized her face from the Alpha Corp broadcast announcements he'd spent years watching. The one they used when they needed someone credible to explain why the shortage wasn't their fault, why the timeline kept moving, why patience was the reasonable position.
 
 He'd found that interesting, before he knew anything else about her.
 
-"Max Vision," she said.
+"Ray Vision," she said.
 
 "Ray," he said. "Here I'm just Ray."
 
@@ -179,7 +179,7 @@ He hadn't expected that. He looked at her.
 
 Outside the module window, the Earth made its slow rotation. The terminator line moved across the Atlantic.
 
-"What happens next?" Max asked.
+"What happens next?" Ray asked.
 
 "The Grand Hall," she said. "And then everything changes."
 
