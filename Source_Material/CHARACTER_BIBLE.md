@@ -18,7 +18,7 @@
 - **Arc across the book**: Reluctant return to duty (Ch 1–6) → mirror smashed open by Taylor (Ch 8) → loss of Sharon (Ch 11) → grief-trip integration (Ch 18) → a man who can love himself without needing anyone else to do it for him (Ch 24–25).
 - **Writing notes**: When he's grieving, he gets quieter, not louder. He plans more than he feels — but his plans betray what he's feeling.
 
-### Sharon (no surname in canon — see "Sharon Teez" note below)
+### Sharon Teez
 - **Role**: Doctor-trained, Collective Operator. Cole's lover. Emily's protector and friend.
 - **Physical**: Tall, fit, "a goddess by any standard" per Emily's POV. Olive-green dress, long full red hair (Cody Ch 2). Post-resurrection: half-bionic — see resurrection arc below.
 - **Voice**: Sharp, flirty, fearless. Wraps care in barbs. The kind who walks into a room with a stomach pump and a joke about coke whores in dive bars.
@@ -101,6 +101,14 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Backstory**: Years of shuttling supplies for the Federation. "Brother" to Cole through service. Romantic with Dani (the cherubic woman from V1's bowling alley).
 - **In Ch 14–25**: Sharon was "his sister." Don't underplay his grief. Ricardo *was* the comic relief through Ch 1–13; in Ch 14–25 he's quieter sometimes, and the moments when he reaches for the humor anyway should hurt.
 
+### Dr. Max Vision ("Ray")
+- **Legal name**: Dr. Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by **Ray**. The narrator introduces him as Ray in Ch10a — prior to that, he appears in narration as Max or Dr. Vision.
+- **Role**: Scientist who accidentally discovers the 11-day fuel cell cycle. Extracted by Collective handlers, works undercover inside Alpha Corp in Panama.
+- **Handlers**: **Red and Squirrel** (Collective Special Agents) — they extract him, build his cover in Panama, and receive his intelligence.
+- **Key intelligence delivered**: Identifies the Alpha Corp vessel shadowing the Golden Dawn. Call sign: **FEDHEX5555**. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Gracie later traces it by call sign during the Saturn mission.
+- **Space station arc**: Eventually reaches the space station and discovers the flywheel and the anti-gravity project — connecting his accidental discovery to the full race to control the Grid.
+- **Voice**: Scientist's precision papering over escalating panic. The man who did the lazy thing and has been living with the consequences ever since.
+
 ### Bitboy Leroy
 - **What he is**: Six-limbed biomechanical chimp/macaque hybrid. Federation experimental project — *the last remaining EM Cyber* (Cody Ch 6 line). Mechanical claws, retractable blades, runs on ethanol as power source. Not a pet — a test subject who escaped his cage.
 - **Communication**: In main book, sounds and gestures (no sign language). In TRotR, sign language — that's a tonal divergence. Stick with sounds-and-gestures for Rings of Dust.
@@ -144,7 +152,7 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Writing note**: Taylor and Sam share a bunk room and a mission. One is knowingly steering toward catastrophe. The other is quietly watching. The irony is that Taylor thinks he's the sophisticated one.
 
 ### Rachel Vayes
-- **What she is**: Chancellor of the Federation — public face, authority figure, news-adjacent. Secretly the **Grand Admiral of the Collective**. The highest rank that exists. One person holds it. She's held it since before the book opens.
+- **What she is**: News anchor and public figure — the most trusted, polished face in Federation-adjacent broadcast media. Politically connected, appears neutral and authoritative. Secretly the **Grand Admiral of the Collective** — the highest rank that exists. One person holds it. She has held it since before the book opens.
 - **The long game**: While Marcus built Alpha Corp into a shadow government, Rachel built the Collective into the thing that could outlast it. She has been playing this longer than Marcus has been playing anything.
 - **Act 1 read**: Marcus's ally. His public validator. She appears at his events, she echoes his framing, she is — to all appearances — one more instrument in his orchestra. The reader should believe this.
 - **Act 2 turn**: After Sharon's shooting, Rachel finds Emily. She helps her. It reads as ambiguous — is she running Emily as an asset for Marcus, or is she actually on a different side? *"On a very different side than it appears"* (Cody Ch 12) — that line lands differently on a reread.
@@ -261,10 +269,48 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **After Ch7**: Collective sniper takes Greenbaum out — he dies in the cul-de-sac. Sharon's death is what the bullet ricocheting from his dying hand causes. He is the instrument; Taylor (and the system Taylor serves) is the forge that shaped him.
 - **Writing rule**: Greenbaum is never cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
 
-### Chip & Dale
-- **Role**: Collective handlers in Panama (Cody Ch 9 + Ch 13).
-- **Voice**: Practical, brisk, kind. Chip is jokier, Dale is sharper. They get Max out, get him in, walk him through the disguise.
-- **Function**: They're the Collective's professional infiltration arm.
+### Red and Squirrel
+- **Role**: Collective Special Agents. Ray's (Dr. Max Vision's) handlers in Panama (Cody Ch 9 + Ch 13).
+- **Voice**: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
+- **Function**: They extract Ray from his original identity, establish his cover in Panama, and run him as an undercover asset inside Alpha Corp. Ray feeds them intelligence — including the identification of **FEDHEX5555** (the Alpha Corp vessel shadowing the Golden Dawn). They facilitate Ray's journey to the space station where he discovers the flywheel and the anti-gravity project.
+- **Collective rank**: Special Agents (Field Tier 3 — sunglasses patch, dark full frame).
+
+### Colony Arc Characters (Ch03b–f)
+
+#### Jill
+- **Role**: Protagonist of the Ch03b-f colony arc. Found the colony by accident — a routing error, a transponder on an unregistered frequency, low fuel. She is not a leech. She ate what they offered, asked the questions that were hers to ask, and left with what they chose to give. She stayed eleven days because on the morning of the eleventh day she wanted to see it.
+- **What she doesn't know leaving Ch03f**: That her blood is the same blood as the founding tradition she witnessed. That she is the descendant Elsa's notebooks were written for. That she will not be able to stop thinking about the gold crater — because it was always meant to reach her.
+- **Bloodline (sealed canon)**: Descendant of Wilhelm's grandmother's founding bloodline, on a branch that never took the Verguld accumulation path and never found the colony until now. NOT Elsa Klinge's biological granddaughter. See Founding Bloodline & Prophecy section.
+- **Surname**: Not stated in Ch03b-f. The maiden name in her family history is the key to the reveal — traced back to the founding bloodline. Keep clean.
+- **Writing rule**: Nothing in Ch03b-f names Jill's surname or bloodline connection. The reveal happens in Book Two — or late in Book One.
+
+#### Tyler Durden
+- **Role**: Leader of the Void-Walkers. Arrived at the colony six years before Jill. Did not arrive by accident — he was looking for it specifically.
+- **Physical**: Tall. A face arranged so you pay attention to what it is doing. Work shirt, work boots. Nothing about his appearance suggests authority — deliberate.
+- **What he did**: Six years ago, pushed one of his own fuel cells through the east tunnel pressure membrane into the void. Eleven days later: a gold asteroid, twenty meters across, enough to fund the colony for four years. Petra said he was still wrong. She still means it.
+- **Belief**: The cells are in a conversation we haven't learned to listen to yet. The sync period, the lock, the void alignment — not accidents. Giving to the void is ancestral return, not destruction.
+- **Function**: The living proof that the sacrifice path works — whether or not anyone understands why.
+
+#### Petra
+- **Role**: One of the original eleven who came with Elsa Klinge. Keeper of Elsa's research. Loyalist faction leader by nature, not by title.
+- **Physical**: Seventies. White hair cut close. The posture of someone who has made peace with exactly the amount of space she takes up.
+- **Voice**: No contempt. Only accuracy. She has disagreed with Tyler for six years and will continue to disagree.
+- **The line to Jill**: "You're not her granddaughter." Technically correct. Spiritually wrong. Petra misunderstands the prophecy — the notebooks are not for a biological heir. She is right for the wrong reason.
+- **What she doesn't know**: That the prophecy has been fulfilled. That Jill is the person the notebooks were waiting for.
+
+#### Elsa Klinge
+- **Role**: Founder of the asteroid colony. Materials scientist. Dead before the book opens — her grave is carved into the asteroid wall at the far end of the main tunnel.
+- **Backstory**: One of the early researchers in dark matter stabilization, before Alpha Corp consolidated the patents. Left before that happened. Filed Federation papers herself, came out with eleven people and fourteen years of research notes. Spent the remaining three years of her life building the colony. Died there.
+- **What she built**: Understanding of the cells at a level no institutional lab reached — because she had the time and distance from commercial pressure to simply watch. Discovered the 11-day sync period, the 33-day lock, the void at the end of the east tunnel, the exterior deposits. Wrote it all in notebooks Petra keeps in a sealed case.
+- **What she is NOT**: Jill's biological grandmother. Elsa is a prophetess within the tradition that started with Wilhelm's grandmother — not a blood relative of Jill.
+- **Notebooks**: Contain both the science (observations and math) and the prophecy (the offspring of the founding bloodline will one day come to the colony). Tyler built his religion on top of her science and her prophecy.
+- **Maiden name**: Klinge. How she connects back to the founding tradition is a deliberate redaction — to be revealed later.
+
+#### Void-Walkers (colony faction)
+- **What they are**: Tyler Durden's faction. Eleven members at the time Jill visits. They sacrifice fuel cells into the void — push them through the east tunnel pressure membrane into the DarkX field beyond.
+- **The return**: Every 11 days, a gold asteroid appears. Twenty-three meters across on average. Same vector as all previous ones. Tyler has tracked it for six years. The pattern does not vary.
+- **The Loyalist friction**: Petra's faction and Tyler's Void-Walkers share the colony, share the tracking room, and watch the same screen on Day 11. They disagree on the meaning. They watch together anyway.
+- **Writing rule**: Do not resolve the science-vs-belief tension in the colony arc. Let both Petra (who does the math and says Tyler is still wrong) and Tyler (who pushes the cell and watches the gold arrive) be simultaneously right.
 
 ### Captain Blitz / Squeaks / Sexy Sharons / Von Grutzen / Dr. Neumann / Captain Rycra
 - **NOT in the main book.** These are TRotR (Rings of the Reich) characters. Don't reference them in Rings of Dust unless you're deliberately building cross-IP cameos.
@@ -372,11 +418,46 @@ When the narrative prose names a villain, the villain is **Alpha Corp** (or Marc
 
 ---
 
-## Sharon "Teez" — IMPORTANT name disambiguation
+## Sharon Teez — name disambiguation
 
-In TRotR (Rings of the Reich), Sharon has the surname "Teez" and is a different character — Falcon crew tactician, not Cole's love interest, no medical training.
+**Canon (locked)**: Sharon's surname is **Teez** in the main book.
 
-**The main book Sharon does not have a stated surname.** If you want them to be the same person, you'd need to retcon TRotR Sharon's role. Recommended: **leave them tonally separate**. They share a name but they're not the same character — like how James Bond is "the same character" across actors but each iteration is its own thing. The pulp Sharon Teez can exist alongside the literary main-book Sharon without contradiction.
+In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally separate universe — Falcon crew tactician, not Cole's love interest, no medical training. They share a name and surname but are distinct across books. Per project tonal classification: TRotR is pulpy/bizarre; Rings of Dust is literary. The only permissible bridge between the two universes is Wilhelm's pre-Iceland surname. Do not cross-reference their personal histories.
+
+---
+
+## Founding Bloodline & Prophecy (Colony Arc Canon)
+
+The belief system underlying the asteroid colony predates the Verguld name by generations. It originated with **Wilhelm's grandmother** — the ancestor who began the cult/religion long before Wilhelm encountered the DarkX sequences.
+
+### The original belief
+Your acts and deeds now bless your bloodline going forward. You can reincarnate into your own bloodline. The right rituals ensure future generations receive what you sow. One day, a descendant of this bloodline will come to the place where the sacrifice is made — and the circle will close.
+
+### Two streams from one source
+
+Wilhelm's Grandmother (ORIGIN — started the cult/religion)
+  |
+  +— Accumulation stream (Verguld dynasty): Wilhelm → Klaus → Marcus
+  |   (took the "bless your bloodline" teaching and redirected it toward ownership and empire)
+  |
+  +— Sacrifice stream (colony tradition): followers carry the sacrifice path forward
+  |   → Elsa Klinge founds the asteroid colony → Tyler Durden continues as Void-Walkers
+  |
+  +— Separate branch (never Verguld, never found colony until now): ... → Jill
+
+### Elsa Klinge — prophetess, not biological grandmother
+Elsa is **NOT** Jill's biological grandmother. She is a prophetess within the tradition that started with Wilhelm's grandmother. Her notebooks do not say "for my granddaughter." They contain a prophecy: the offspring of the founding bloodline will one day come to the colony. The notebooks wait for that person.
+
+### Jill — the prophesied descendant
+Jill is a descendant of Wilhelm's grandmother's founding bloodline — on a branch that never took the Verguld accumulation path and never found the colony until now. She is NOT Elsa's biological granddaughter.
+
+Petra says "You're not her granddaughter" — technically correct. The notebooks are not for a biological heir. They are for the fulfillment of the prophecy. Petra is right for the wrong reason. Jill IS the person the notebooks were waiting for.
+
+### The reveal mechanism
+Traced through Jill's family name. The maiden name in her family history connects back to the founding bloodline. It leads to Wilhelm's grandmother. It leads to Elsa's prophecy. It leads to the colony.
+
+### Writing rule
+Nothing in Ch03b-f names Jill's surname or bloodline connection. Keep it clean. The reader plants the seed on reread. The reveal happens in Book Two — or late in Book One.
 
 ---
 
@@ -388,6 +469,22 @@ In TRotR (Rings of the Reich), Sharon has the surname "Teez" and is a different 
 - **Day-3 crystals** — Cody Ch 7 establishes the Collective trades stable Dark Matter on its 3rd day of stability (out of 15-day shelf life). Use this term consistently.
 - **The thumb drive figurine** — Conrad's keychain hides the data in Cody Ch 2 and Ch 3. Resurface it in Ch 20 — the prototype's casing has a similar figurine motif as a callback.
 - **Bitboy's blue-stained mouth** — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
+
+---
+
+## Significant Numbers
+
+These numbers recur across Rings of Dust with specific narrative weight. Use them consistently.
+
+| Number | Significance |
+|--------|-------------|
+| **11** | Fuel cell cycle duration. Day 11: one of 740 cells receives the one-time exterior Jackpot deposit. The sync period ends. Also the return interval from void sacrifices (gold asteroid every 11 days). |
+| **22** | Recurring. Specific in-story placement TBD — track appearances across chapters. |
+| **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
+| **180** | Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
+| **369** | Number of test runs in Elsa Klinge's research notebooks. Appears in Ch22b and when Petra opens the sealed case. |
+| **5555** | Alpha Corp vessel call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it; Gracie traces it during the Saturn mission. |
+| **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
 
 ---
 
@@ -406,8 +503,8 @@ To stabilize DarkX into usable solid form, it must be processed in a specific en
 
 Result: **Darker Matter crystals** — solid, dense, dark. Stable enough to handle, but will revert to DarkX vapor if placed in a standard containment unit and left at ambient pressure.
 
-### Max's accidental discovery (Ch 05)
-Max had a batch of freshly converted Darker Matter crystals at his workstation on a Friday afternoon. The official containment unit was across campus. Carrying them there meant logging the transfer, dealing with security checkpoints, and explaining why he had them at all.
+### Ray's accidental discovery
+Ray (Dr. Max Vision) had a batch of freshly converted Darker Matter crystals at his workstation on a Friday afternoon. The official containment unit was across campus. Carrying them there meant logging the transfer, dealing with security checkpoints, and explaining why he had them at all.
 
 So he did the lazy thing. He sealed the crystals inside a spare fuel cell — packed it with nitrogen and sealed it under negative pressure as a temporary measure — and shoved it in his locker. *I'll deal with it Monday.*
 
@@ -415,7 +512,7 @@ He came back Monday to find the locker glowing. Inside the fuel cell, the crysta
 
 On Day 11, the mist cleared. New crystals had formed on the *outside* of the cell's base — the cycle had completed itself. The fuel cell read fully charged.
 
-Max said "Jackpot" to an empty lab, and then felt the dread move in.
+Ray said "Jackpot" to an empty lab, and then felt the dread move in.
 
 ### The fuel cell cycle (11-day round)
 ```
@@ -426,20 +523,39 @@ Darker Matter crystals → sealed in fuel cell (nitrogen + negative pressure)
 ```
 The cycle is 11 days. Alpha Corp accelerated it to exactly 11 days by adding liquid nitrogen to the process. Earlier experiments ran much longer (45 days and more) before they cracked the formula.
 
+### The sync period (Days 0–11)
+After a Grid of 740 cells is assembled, it enters a **sync period** during Days 0–11. The cells generate a low resonance — below the threshold of hearing, felt in the casings if you know what to listen for. Elsa Klinge described it as a radio scanning through static: the sensation of something searching for a frequency just out of range. After Day 11, the feeling stops. Something has completed.
+
+### Day 11 — The Jackpot (one of 740)
+On Day 11, exactly **one cell** in the 740-cell Grid receives a one-time exterior crystal deposit — the **Jackpot**. The Jackpot cell is random; it never repeats on the same cell. The exterior crystals appear on the base of the casing. This is separate from the normal 11-day harvest cycle — the Jackpot is singular and non-recurring for that cell.
+
+**Writing note**: "Jackpot" is the word Ray said to an empty lab when he discovered the cycle — and the word Cole Nova earned as a callsign for surviving impossible situations. The word lives at both ends of the story's spine. Neither man knows the other used it first.
+
+### The 369 test runs
+Elsa Klinge's notebooks document **369 test runs** — the accumulated record of years of observation before the pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case.
+
+### The unlock mechanic
+A locked cell can be unlocked at any point. The consequence: **all enhanced properties stop within hours.** Interior growth rate, exterior cycling — both revert immediately to baseline 11-day cycle behavior. There is no partial unlock — it is binary. Once unlocked, the accumulated advantage is gone. The only way to recover it is to begin the lock timer again from Day 0.
+
+### The race to control the Grid
+The 740-cell Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
+
+**FEDHEX5555**: The Alpha Corp vessel shadowing the Golden Dawn. Call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it while working undercover and feeds the call sign to Red and Squirrel. Gracie traces it during the Saturn mission.
+
 ### Staking (the long-hold mechanic)
 Someone eventually figures out that a sealed, *locked* fuel cell — one made deliberately inaccessible, not harvested, just left alone — does not reset. It keeps accumulating. The vapor keeps building. The crystals keep growing, layer on layer, inside a sealed environment with no release valve.
 
-Lock a cell for **33 days**: it supercharges. The crystal yield on Day 33 dwarfs eleven individual 11-day harvests.
+Lock a cell for **33 days**: interior crystal growth accelerates to **10× the rate of an unlocked cell** (interior only — not exterior deposits). The crystals build inside the sealed environment with no release valve. No harvest is possible or intended. The cell must simply be left alone, locked.
 
-Lock a cell for **180 days**: the cell becomes something else entirely. The accumulation is exponential. What comes out of a 180-day sealed cell is not just more crystals — it is *denser*, more potent, as if the extended confinement changed the nature of the substance itself.
+Lock a cell for **180 days**: two simultaneous effects trigger. **(1) Interior**: crystal growth reaches **100× the rate of an unlocked cell**. **(2) Exterior**: all 740 cells in a full Grid begin making exterior deposits on a continuous 11-day cycle — not just the one-time Day 11 Jackpot, but recurring every 11 days from Day 180 onward, indefinitely. The full Grid becomes a perpetual dual-engine: interior at 100× and exterior cycling every 11 days. **Unlock the cell at any point and all enhanced properties stop within hours.**
 
 In the story this is hinted at — a researcher notices that the cells nobody got around to harvesting outperformed the ones on schedule. The implication spreads quietly through Alpha Corp's data. Nobody advertises it. It goes into the classified files.
 
 ### Sacrifice (the void mechanic)
-Somewhere in the lore — to be placed deliberately in the plot — a character discovers that Darker Matter crystals and charged fuel cells can be *fed into DarkX itself*. Not used. Not harvested. Destroyed.
+In Ch03b-f (the Colony arc), the sacrifice mechanic is established through Tyler Durden and the asteroid colony. Darker Matter crystals and charged fuel cells can be *fed into DarkX itself* — pushed through the pressure membrane into the void at the end of the east tunnel. Not used. Not harvested. Destroyed.
 
 When a fuel cell is sacrificed into an active DarkX field, it does not simply detonate. The DarkX absorbs it. And something comes back — not immediately, not proportionally, but eventually, and in a form that defies the ordinary accounting of matter and energy. The returns are not logical. They are **eternal in nature**: a sacrifice now that pays forward into something larger and longer than the individual act.
 
-This is the mechanic the Collective knows about and Alpha Corp does not. Or vice versa. Decide when the plot demands it.
+This is the mechanic the asteroid colony knows and practices — Tyler Durden's Void-Walkers push cells into the void. Alpha Corp is aware of the gold asteroid returns but does not understand the mechanism. Elsa Klinge mapped the science (dark matter gravity differential redirecting inbound asteroid trajectories). Tyler mapped it to belief (ancestral return, giving to the void). Both frameworks are simultaneously true.
 
 **Writing rule**: DarkX is never just a fuel source. Every scene involving it should carry the faint suggestion that it is aware of what is being done to it — and that it is patient.
