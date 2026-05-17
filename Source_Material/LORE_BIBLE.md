@@ -1,11 +1,6 @@
 # RINGS OF DUST — MASTER LORE BIBLE
 *Single authoritative reference. Supersedes CHARACTER_BIBLE.md and STORY_BIBLE.md.*
 
----
-
-
----
-
 ## Significant Numbers
 
 These numbers recur across Rings of Dust with specific narrative weight. Use them consistently.
@@ -17,13 +12,10 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 | **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
 | **180** | Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
 | **369** | Number of test runs in Elsa Klein's research notebooks. Number of victims from the Polaris explosion — the disaster Cole captained. Also the number of people in the original Colony founding party: 369 went out to establish it; 11 survived. The same number lives in the science, in the catastrophe, and in the colony's founding scar. |
-| **5555** | FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. After Sharon is shot, Alpha Corp loads her body onto FEDHEX5555 — where Dr. Bruce Hexo, against his will, builds and weaponizes her. The ship follows the Golden Dawn to Saturn. Gracie (newly online after Ch18) scans the approaching vessel, reads the FEDHEX5555 call sign, and identifies the figures inside — including the bionic Sharon. |
+| **5555** | FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. After Sharon is shot, Alpha Corp loads her body onto FEDHEX5555 — where Dr. Bruce Hexo, against his will, builds and weaponizes her. The ship follows the Golden Dawn to Saturn. Gracie (newly online) scans the approaching vessel, reads the FEDHEX5555 call sign, and identifies the figures inside — including the bionic Sharon. |
 | **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
 
----
-
 ## DarkX & Darker Matter — Canon Science
-
 
 ### DarkX (the raw substance)
 - **What it is**: A plasma-like substance — not quite liquid, not quite gas. Obsidian in color, changes shape into spikes and tendrils. Behaves as if it has its own personality and will. Almost sentient.
@@ -62,9 +54,9 @@ Ray said "Jackpot" to an empty apartment, and then felt the dread move in.
 ### The fuel cell cycle (11-day round)
 ```
 Darker Matter crystals → sealed in fuel cell (nitrogen + negative pressure)
-    → crystals change state into vapor (first observed in sealed/pressurized environment) → vapor forms vortex inside cell
-    → vortex charges the cell → Day 11: mist clears, new crystals form on cell interior
-    → Collective depletes Alpha-tracked cells → 10% of Darker Matter crystals vaporize on opening and escape atmosphere → 90% recoverable → moved into own untracked fuel cells (black market, untraceable)
+ → crystals change state into vapor (first observed in sealed/pressurized environment) → vapor forms vortex inside cell
+ → vortex charges the cell → Day 11: mist clears, new crystals form on cell interior
+ → Collective depletes Alpha-tracked cells → 10% of Darker Matter crystals vaporize on opening and escape atmosphere → 90% recoverable → moved into own untracked fuel cells (black market, untraceable)
 ```
 ### Depletion
 **Depleting** a fuel cell means breaking it open to harvest the Darker Matter crystals inside — taking the energy out of it. The Collective uses this term for the process of opening Alpha Corp's tracked cells to recover the crystals and transfer them into their own untracked black market cells.
@@ -85,7 +77,7 @@ On Day 11, exactly **one cell** in the 740-cell Grid receives a one-time exterio
 **Writing note — the word "Jackpot" across the story**: Four groups use it. None of them know the others do.
 - **Ray**: the word he said to an empty apartment when he discovered the one-in-740 exterior deposit. A scientist's reflex. He never published it.
 - **Alpha Corp**: a 2036 batch record annotation. The person who wrote it probably didn't know they were echoing a researcher who had already been silenced. It's in the log Ray reads in Panama, and it stops him cold.
-- **The Colony**: what members say when a gold asteroid arrives — especially a large one. Petra says it in Ch03e when the crater comes back twice as large as usual. It's casual. It's reverent. It's been said in that tunnel for generations. They mean it the way a prayer sounds when you've said it so many times it becomes reflex.
+- **The Colony**: what members say when a gold asteroid arrives — especially a large one. Petra says it when the crater comes back twice as large as usual. It's casual. It's reverent. It's been said in that tunnel for generations. They mean it the way a prayer sounds when you've said it so many times it becomes reflex.
 - **Cole**: the callsign his crew gave him for getting out of impossible situations. Hand-stitched on a patch that irritates his chest. He treasures it.
 
 The word belongs to all of them. It means something different to each. The reader hears it four times before understanding why it keeps coming back.
@@ -93,7 +85,7 @@ The word belongs to all of them. It means something different to each. The reade
 ### The 369 test runs
 **369** carries triple weight in the story.
 
-(1) **Elsa Klein's 369 test runs** — the accumulated record of years of observation before the fuel cell pattern was fully mapped. The final test runs document a discovery Elsa made in microgravity: **locking fuel cells in zero gravity removes the growth plateau entirely**. In standard gravity, locked cells hit a ceiling — interior growth rate increases but levels off. In zero gravity, crystals grow outward in every direction with no ceiling. Elsa documented this but never had access to the resources to test it at scale. She called it "the open condition." Her final notebook entry describes it as proof that the lock mechanic was not designed for planetary use. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case.
+(1) **Elsa Klein's 369 test runs** — the accumulated record of years of observation before the fuel cell pattern was fully mapped. The final test runs document a discovery Elsa made in microgravity: **locking fuel cells in zero gravity removes the growth plateau entirely**. In standard gravity, locked cells hit a ceiling — interior growth rate increases but levels off. In zero gravity, crystals grow outward in every direction with no ceiling. Elsa documented this but never had access to the resources to test it at scale. She called it "the open condition." Her final notebook entry describes it as proof that the lock mechanic was not designed for planetary use. The number surfaces as a data reference, and again when Petra opens the sealed case.
 
 (2) **The Polaris explosion** — 369 crew killed in the Saturn mission disaster Cole captained, the one that sent him to the cabin, the one he has never stopped blaming himself for.
 
@@ -111,7 +103,7 @@ One of the Collective's primary financial backers is the asteroid colony — a g
 
 **FEDHEX5555**: The cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Its primary mission: be in position when Taylor triggers the "accident" aboard the Golden Dawn, arrive as the only ship in range, and take the entire pre-Rapture DarkX harvest before the Rapture seals the outer rings. The staged explosion mirrors the Polaris — same captain, second tragedy, airtight cover story. Alpha Corp gets the last accessible raw DarkX supply. Cole gets a memorial.
 
-Sharon's resurrection is FEDHEX5555's secondary mission — added after Ch08. After Sharon is shot, Alpha Corp loads her body onto the ship. Dr. Bruce Hexo — a Federation physician held on board against his will — is ordered to rebuild and weaponize her as a tactical asset. He does it. The ship follows the Golden Dawn out to Saturn's rings. In Ch19, as the vessel draws alongside, **Gracie** (newly online after Ch18) scans the ship, reads the FEDHEX5555 call sign, and identifies the bionic Sharon inside before the docking tube opens.
+Sharon's resurrection is FEDHEX5555's secondary mission — added. After Sharon is shot, Alpha Corp loads her body onto the ship. Dr. Bruce Hexo — a Federation physician held on board against his will — is ordered to rebuild and weaponize her as a tactical asset. He does it. The ship follows the Golden Dawn out to Saturn's rings., as the vessel draws alongside, **Gracie** (newly online) scans the ship, reads the FEDHEX5555 call sign, and identifies the bionic Sharon inside before the docking tube opens.
 
 ### Staking (the long-hold mechanic)
 Someone eventually figures out that a sealed, *locked* fuel cell — one made deliberately inaccessible, not harvested, just left alone — does not reset. It keeps accumulating. The vapor keeps building. The crystals keep growing, layer on layer, inside a sealed environment with no release valve.
@@ -122,8 +114,7 @@ Lock a cell for **180 days**: two simultaneous effects trigger. **(1) Interior**
 
 In the story this is confirmed — not through Alpha Corp's data, but through Ray. Elsa Klein's final 369 test runs predicted both the 33-day and 180-day lock mechanics, including the zero-gravity open condition. Ray receives her notebooks from Jill and takes the experiment to Station Libre — the Collective's space station — where he tests Elsa's predictions in zero gravity. She was right. The plateau disappears. The Day 180 curve doesn't level off — it breaks. Alpha Corp never found this because they never stopped harvesting long enough to look. They had the same cells Ray did. They just never left them alone.
 
-### Sacrifice (the void mechanic)
-In Ch03b-f (the Colony arc), the sacrifice mechanic is established through Tyler Durden and the asteroid colony. To the outside world — the Federation, Alpha Corp, anyone who has heard of it — the colony is a **religious extremist cult**. A soap factory that filed the right papers and then went quiet and started throwing fuel cells into a black hole. That is the official read. It is not entirely wrong. The colony is built on an asteroid at the edge of a black hole. The east tunnel runs through the asteroid toward it. As you walk deeper, gravity gradually lets go — things begin to float before you reach the end. You don't push the fuel cells in. You carry them as far as you can, and when they start to lift out of your hands, you release them. The black hole takes them from there. They are not used. They are not harvested. They are gone.
+### Sacrifice (the void mechanic)-f (the Colony arc), the sacrifice mechanic is established through Tyler Durden and the asteroid colony. To the outside world — the Federation, Alpha Corp, anyone who has heard of it — the colony is a **religious extremist cult**. A soap factory that filed the right papers and then went quiet and started throwing fuel cells into a black hole. That is the official read. It is not entirely wrong. The colony is built on an asteroid at the edge of a black hole. The east tunnel runs through the asteroid toward it. As you walk deeper, gravity gradually lets go — things begin to float before you reach the end. You don't push the fuel cells in. You carry them as far as you can, and when they start to lift out of your hands, you release them. The black hole takes them from there. They are not used. They are not harvested. They are gone.
 
 When a fuel cell floats free at the end of the tunnel, it does not detonate. The black hole takes it. And something comes back — not immediately, not proportionally, but eventually, and in a form that defies the ordinary accounting of matter and energy. The returns are not logical. They are **eternal in nature**: a sacrifice now that pays forward into something larger and longer than the individual act.
 
@@ -138,8 +129,6 @@ The Golden Dawn mission exists because the Rapture is coming. The Federation's p
 
 Alpha Corp knows this. The Rapture is the entire reason for the mission. It is why Cole was conscripted. It is why FEDHEX5555 follows.
 
----
-
 ## Founding Bloodline & Prophecy (Colony Arc Canon)
 
 The belief system underlying the asteroid colony predates the Verguld name by generations. It originated with **Wilhelm's grandmother** — the ancestor who began the cult/religion long before Wilhelm encountered the DarkX sequences.
@@ -150,16 +139,16 @@ Your acts and deeds now bless your bloodline going forward. You can reincarnate 
 ### Two streams from one source
 
 Wilhelm's Grandmother (ORIGIN — started the cult/religion)
-  |
-  +— Accumulation stream (Verguld dynasty): Wilhelm → Klaus → Marcus
-  |   (took the "bless your bloodline" teaching and redirected it toward ownership and empire)
-  |
-  +— Sacrifice stream (colony tradition): followers carry the sacrifice path forward
-  |   → Elsa Klein founds the asteroid colony; performs the first void sacrifice; witnesses the first return
-  |   → Tyler Durden continues as Void-Walkers (he inherited the ritual; he did not invent it)
-  |
-  +— Separate branch (same bloodline, no empire, no money — chose differently): ... → Jill
-  |   (distantly related to Marcus; knows it; chose the black market instead)
+ |
+ +— Accumulation stream (Verguld dynasty): Wilhelm → Klaus → Marcus
+ | (took the "bless your bloodline" teaching and redirected it toward ownership and empire)
+ |
+ +— Sacrifice stream (colony tradition): followers carry the sacrifice path forward
+ | → Elsa Klein founds the asteroid colony; performs the first void sacrifice; witnesses the first return
+ | → Tyler Durden continues as Void-Walkers (he inherited the ritual; he did not invent it)
+ |
+ +— Separate branch (same bloodline, no empire, no money — chose differently):... → Jill
+ | (distantly related to Marcus; knows it; chose the black market instead)
 
 ### Elsa Klein — prophetess, not biological grandmother
 Elsa is **NOT** Jill's biological grandmother. She is a prophetess within the tradition that started with Wilhelm's grandmother. Her notebooks do not say "for my granddaughter." They contain a prophecy: the offspring of the founding bloodline will one day come to the colony. The notebooks wait for that person.
@@ -177,17 +166,13 @@ Traced through Jill's family name. The maiden name in her family history connect
 ### Writing rule
 Nothing in the early colony scenes names Jill's surname or bloodline connection. Keep it clean. The reader plants the seed on reread. The reveal happens in **Book One** — and it has to, because it is the mechanism that puts Elsa's notebooks in motion. Petra gives Jill the originals because Jill is the prophesied descendant. Without the bloodline reveal, Petra does not hand them over. Without the notebooks, Jill has nothing to bring to Ray. Without Ray and the notebooks together, the zero-gravity open condition goes unconfirmed and the antigravity project stalls. The reveal is not just character payoff — it is the load-bearing event that connects the colony arc to the science arc.
 
----
-
 ## Key recurring objects & motifs
 
 - **The "Jackpot" patch** — hand-stitched, irritates Cole's chest, treasured. Survives the book.
-- **The makeshift copper-wire ring** with the smooth pebble — Cole makes it in Ch06 and gives it to Sharon before the Golden Dawn launches. Sharon is wearing it when she is killed in Ch08. It is on her finger when Alpha Corp loads her body onto FEDHEX5555. Dr. Bruce Hexo saves the ring — removes it before the bionic work begins, keeps it the entire time. In Ch19, after he crosses the docking tube voluntarily, Dr. Bruce Hexo gives the ring to Cole. Cole returns it to Sharon in Ch24 during her recovery. Ch25: Cole sets it on the bowling alley table — "I don't think I need to replace it. I think this is the one."
+- **The makeshift copper-wire ring** with the smooth pebble — Cole makes it and gives it to Sharon before the Golden Dawn launches. Sharon is wearing it when she is killed. It is on her finger when Alpha Corp loads her body onto FEDHEX5555. Dr. Bruce Hexo saves the ring — removes it before the bionic work begins, keeps it the entire time., after he crosses the docking tube voluntarily, Dr. Bruce Hexo gives the ring to Cole. Cole returns it to Sharon during her recovery. : Cole sets it on the bowling alley table — "I don't think I need to replace it. I think this is the one."
 - **The Collective droplet sigil** — water drop inside a circle. *"No raindrop thinks it's the flood."*
-- **The thumb drive figurine** — Conrad's Enterprise keychain. Two payloads: nanopowder counter-program (skin contact, Emily Ch02 + Cole Ch04) and encrypted drive data (Bitboy decrypts Ch04, passes to Collective, reaches Ray in Panama). Resurface it in Ch20 — the prototype's casing has a similar figurine motif as a callback.
-- **Bitboy's blue-stained mouth** — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
-
----
+- **The thumb drive figurine** — Conrad's Enterprise keychain. Two payloads: nanopowder counter-program (skin contact, Emily + Cole ) and encrypted drive data (Bitboy decrypts, passes to Collective, reaches Ray in Panama). Resurface it in — the prototype's casing has a similar figurine motif as a callback.
+- **Bitboy's blue-stained mouth** — he raids the blackberry preserves in. Recur in the bowling-alley scene as the visual rhyme that closes the book.
 
 ## Factions & Power Hierarchy
 
@@ -195,11 +180,11 @@ Nothing in the early colony scenes names Jill's surname or bloodline connection.
 
 ```
 Marcus Verguld
-    ↓  (owns / directs)
+ ↓ (owns / directs)
 Alpha Corp
-    ↓  (funds / infiltrates / weaponizes)
+ ↓ (funds / infiltrates / weaponizes)
 The Federation
-    ↓  (extorts / conscripts / taxes)
+ ↓ (extorts / conscripts / taxes)
 The populace
 ```
 
@@ -207,7 +192,7 @@ The populace
 
 **Alpha Corp is the shadow government.** It runs money through the Federation — meaning the Federation's budget is effectively Alpha Corp's money, spent on Alpha Corp's priorities, disguised as public policy. The energy research that caused the crisis? Alpha Corp-directed. The conscription order Cole receives? Alpha Corp wanted Cole; the Federation Chancellor signed the letter.
 
-**The Federation is NASA.** A real government agency with real scientists and real Astros who mostly believe in what they're doing. Not uniformly corrupt — Vance Black is proof of that. But captured at the top. Its leadership takes Alpha Corp's directives as policy and its rank-and-file either don't know or look the other way. The Federation's bureaucratic weight, legal authority, and military resources are Alpha Corp's to borrow whenever needed. "The Federation is crawling with MY employees" (Marcus, Ch 10) — that's the tell. The institution is genuine; the control is total.
+**The Federation is NASA.** A real government agency with real scientists and real Astros who mostly believe in what they're doing. Not uniformly corrupt — Vance Black is proof of that. But captured at the top. Its leadership takes Alpha Corp's directives as policy and its rank-and-file either don't know or look the other way. The Federation's bureaucratic weight, legal authority, and military resources are Alpha Corp's to borrow whenever needed. "The Federation is crawling with MY employees" (Marcus, ) — that's the tell. The institution is genuine; the control is total.
 
 **Cole, Sharon, and Conrad were all "used."** Alpha Corp needed Cole's expertise, tried to conscript it. It turned Sharon into a weapon. It coerced Conrad into corrupting Gracie. The pattern is the same each time: find someone exceptional, exploit them, discard or reprogram the ones who resist.
 
@@ -223,36 +208,36 @@ No Collective member displays rank on the outside.
 Metal rule: within every tier that has three ranks, Junior = bronze, Senior = silver, Lead/Chief/Special = gold. This holds across all tiers without exception.
 
 ```
-TIER 1 — INFORMANTS  (intelligence gathering)
-  Informant          [patch: Collective water droplet — inside jacket lining]
+TIER 1 — INFORMANTS (intelligence gathering)
+ Informant [patch: Collective water droplet — inside jacket lining]
 
-TIER 2 — OPERATORS  (symbol: scalpel — move intelligence with precision)
-  Jr. Operator       [patch: scalpel, bronze — inside bag lining]
-  Sr. Operator       [patch: scalpel, silver — inside bag lining]
-  Lead Operator      [patch: scalpel, gold — inside jacket lining]
+TIER 2 — OPERATORS (symbol: scalpel — move intelligence with precision)
+ Jr. Operator [patch: scalpel, bronze — inside bag lining]
+ Sr. Operator [patch: scalpel, silver — inside bag lining]
+ Lead Operator [patch: scalpel, gold — inside jacket lining]
 
-TIER 3 — TECHNICIANS  (symbol: wrench — the doers)
-  Jr. Technician     [patch: wrench, bronze — inside bag lining]
-  Sr. Technician     [patch: wrench, silver — inside bag lining]
-  Lead Technician    [patch: wrench, gold — inside jacket lining]
+TIER 3 — TECHNICIANS (symbol: wrench — the doers)
+ Jr. Technician [patch: wrench, bronze — inside bag lining]
+ Sr. Technician [patch: wrench, silver — inside bag lining]
+ Lead Technician [patch: wrench, gold — inside jacket lining]
 
-TIER 4 — AGENTS  (symbol: sunglasses — move people and resources)
-  Jr. Agent          [patch: sunglasses, bronze — inside bag lining]
-  Sr. Agent          [patch: sunglasses, silver — inside bag lining]
-  Special Agent      [patch: sunglasses, gold — inside bag lining]
+TIER 4 — AGENTS (symbol: sunglasses — move people and resources)
+ Jr. Agent [patch: sunglasses, bronze — inside bag lining]
+ Sr. Agent [patch: sunglasses, silver — inside bag lining]
+ Special Agent [patch: sunglasses, gold — inside bag lining]
 
-TIER 5 — NAVIGATORS  (symbol: compass — lead missions and operations)
-  2nd Navigator      [patch: compass, bronze — inside jacket lining]
-  1st Navigator      [patch: compass, silver — inside jacket lining]
-  Chief Navigator    [patch: compass, gold — inside jacket lining]
+TIER 5 — NAVIGATORS (symbol: compass — lead missions and operations)
+ 2nd Navigator [patch: compass, bronze — inside jacket lining]
+ 1st Navigator [patch: compass, silver — inside jacket lining]
+ Chief Navigator [patch: compass, gold — inside jacket lining]
 
-TIER 6 — COMMANDERS  (symbol: star — move the big pieces)
-  2nd Commander      [patch: star, bronze — inside jacket lining]
-  1st Commander      [patch: star, silver — inside jacket lining]
-  Chief Commander    [patch: star, gold — inside jacket lining]
+TIER 6 — COMMANDERS (symbol: star — move the big pieces)
+ 2nd Commander [patch: star, bronze — inside jacket lining]
+ 1st Commander [patch: star, silver — inside jacket lining]
+ Chief Commander [patch: star, gold — inside jacket lining]
 
 TIER 7 — SINGULAR
-  Grand Admiral      [patch: bronze star + olive leaf wreath — location: known only at Command level]
+ Grand Admiral [patch: bronze star + olive leaf wreath — location: known only at Command level]
 ```
 
 **What each tier does:**
@@ -270,11 +255,8 @@ The Grand Admiral should be referenced as rumor and legend throughout the book. 
 - Middle reference: Emily hears it from Rachel herself — Rachel says something that, on reread, is obviously a tell. But it reads as deflection in the moment.
 - Final reveal: a glimpse. Her coat shifts during a quiet scene with Cole and Sharon. The patch is visible for a moment. No one speaks to it. The scene moves on. The reader sits with it alone.
 
-
 ### Writing rule
 When the narrative prose names a villain, the villain is **Alpha Corp** (or Marcus by name). The Federation takes orders. It does not *give* orders — not at the level that matters. A Federation lieutenant issuing a command is fine; framing the Federation as the entity *behind* the crisis or *behind* the surveillance is not. The Federation is the hand. Alpha Corp is the brain. Marcus is the will.
-
----
 
 ## Sharon Teez — name disambiguation
 
@@ -282,27 +264,25 @@ When the narrative prose names a villain, the villain is **Alpha Corp** (or Marc
 
 In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally separate universe — Falcon crew tactician, not Cole's love interest, no medical training. They share a name and surname but are distinct across books. Per project tonal classification: TRotR is pulpy/bizarre; Rings of Dust is literary. The only permissible bridge between the two universes is Wilhelm's pre-Iceland surname. Do not cross-reference their personal histories.
 
----
-
 ## Main book characters (Rings of Dust)
 
 ### Cole Nova
 - **Age**: ~40s. Federation veteran. 15+ years of service.
 - **Nickname**: "Jackpot" — earned for getting out of impossible situations. The patch was a gift from his crew, hand-stitched, irritates his chest under his suit. He treasures it.
-- **Physical**: Powder-blue eyes (Cody Ch 1). Scarred face by Ch 11. "Aging" appearance per Cody Ch 3. Lean, strong.
+- **Physical**: Powder-blue eyes. Scarred face. "Aging" appearance. Lean, strong.
 - **Pre-book backstory**: Captain of the Polaris. Last Saturn mission went sideways — 369 crew lost in an explosion he has always blamed himself for. Self-exiled to a family cabin near Sequoia National Park for 5–7 years. Drinks too much. Living with Bitboy and a "stockpiled like a bomb shelter" cabin.
 - **Why Alpha Corp chose Cole**: Two reasons, only one of which Cole is ever told. (1) He is the most experienced Saturn mission captain alive — the sole survivor of the Polaris. (2) He was chosen to die. Alpha Corp's plan was always for Cole to not come home. A second "accident" on a second Saturn mission, with the same captain — tragic pattern, irrefutable incompetence, closed file. The pre-Rapture DarkX harvest goes to FEDHEX5555. The Golden Dawn goes dark. Cole's death is the cover story for the theft.
-- **Childhood canon (locked 2026-05-01, father-wound updated 2026-05-01)**: Father died of cancer when Cole was 17 — NOT an affair/abandonment. The Harley was a dying man's bucket-list buy (Cole misread it as selfishness at first). Cole gave up a summer job at 'A Thousand Thrills' theme park with his childhood friend Marcus to stay home for Emily and his mom. Marcus's bitter goodbye note ("I will NEVER forget how you screwed me over") is Marcus Verguld's villain origin — his inability to understand why someone would sacrifice a dream for a dying father is the first glimpse of who he becomes. The hospital corridor where he waited while his father died is the "quietest room he ever stood in" — this line appears in Ch 18 and is the anchor for his entire backstory.
-  - **Father-wound dual truth (updated 2026-05-01):** The wound is not *just* grief — it is also rage. Cole was seventeen. His father stopped fighting before the end. That feels like letting go. The boy experienced it as being left, even though no one chose to leave him. Both things are true: involuntary death AND felt abandonment. The Ch 18 vision now surfaces this directly (planted beat: "He fucking let go of us. I was seventeen and he stopped trying."). Cole is allowed to be furious. The substance doesn't take that away. **Ch 24 is the payoff**: sitting with recovering bionic-Sharon, Cole forgives his father in the same breath he forgives the loss of Sharon-before-surgery — love and fury in the same moment, as the teenage-Cole vision foreshadowed. This is why he can love Sharon without the flinch of someone waiting to be left: not because the abandonment wound doesn't exist, but because he will have worked through it by then.
+- **Childhood canon (locked 2026-05-01, father-wound updated 2026-05-01)**: Father died of cancer when Cole was 17 — NOT an affair/abandonment. The Harley was a dying man's bucket-list buy (Cole misread it as selfishness at first). Cole gave up a summer job at 'A Thousand Thrills' theme park with his childhood friend Marcus to stay home for Emily and his mom. Marcus's bitter goodbye note ("I will NEVER forget how you screwed me over") is Marcus Verguld's villain origin — his inability to understand why someone would sacrifice a dream for a dying father is the first glimpse of who he becomes. The hospital corridor where he waited while his father died is the "quietest room he ever stood in" — this line appears and is the anchor for his entire backstory.
+ - **Father-wound dual truth (updated 2026-05-01):** The wound is not *just* grief — it is also rage. Cole was seventeen. His father stopped fighting before the end. That feels like letting go. The boy experienced it as being left, even though no one chose to leave him. Both things are true: involuntary death AND felt abandonment. The vision now surfaces this directly (planted beat: "He fucking let go of us. I was seventeen and he stopped trying."). Cole is allowed to be furious. The substance doesn't take that away. ** is the payoff**: sitting with recovering bionic-Sharon, Cole forgives his father in the same breath he forgives the loss of Sharon-before-surgery — love and fury in the same moment, as the teenage-Cole vision foreshadowed. This is why he can love Sharon without the flinch of someone waiting to be left: not because the abandonment wound doesn't exist, but because he will have worked through it by then.
 - **Relationship to Sharon**: Deep, established love. She brought him back from his cabin half-life. Engaged-adjacent before her death.
 - **Relationship to Emily**: Older brother. Emily has Mitochondrial Degeneration / Gravity Sickness. Cole's primary motivator early in the book is keeping her alive.
 - **Voice**: Stoic, dry, self-deprecating. Wraps grief in jokes. Talks to Bitboy more than humans when he's hurting. Calls Sharon "babe" and "baby girl" tenderly.
-- **Arc across the book**: Reluctant return to duty (Ch 1–6) → mirror smashed open by Taylor (Ch 8) → loss of Sharon (Ch 11) → grief-trip integration (Ch 18) → a man who can love himself without needing anyone else to do it for him (Ch 24–25).
+- **Arc across the book**: Reluctant return to duty → mirror smashed open by Taylor → loss of Sharon → grief-trip integration → a man who can love himself without needing anyone else to do it for him.
 - **Writing notes**: When he's grieving, he gets quieter, not louder. He plans more than he feels — but his plans betray what he's feeling.
 
 ### Sharon Teez
 - **Role**: Doctor-trained, Collective Operator. Cole's lover. Emily's protector and friend.
-- **Physical**: Tall, fit, "a goddess by any standard" per Emily's POV. Olive-green dress, long full red hair (Cody Ch 2). Post-resurrection: half-bionic — see resurrection arc below.
+- **Physical**: Tall, fit, "a goddess by any standard" per Emily's POV. Olive-green dress, long full red hair. Post-resurrection: half-bionic — see resurrection arc below.
 - **Voice**: Sharp, flirty, fearless. Wraps care in barbs. The kind who walks into a room with a stomach pump and a joke about coke whores in dive bars.
 
 #### Pre-book backstory (owner directive 2026-04-30 — must be built up in Acts 1–2)
@@ -314,54 +294,54 @@ The bond with Cole has to feel **earned** before she dies. The relationship exis
 - **Cole was the straight-laced one — but he had her back.** When their paths first crossed (a botched delivery? a Federation raid? a medical emergency in a Collective safehouse? — flesh out the meet-cute scene as a Cole flashback in Act 2), he covered for her. Federation captain, decorated. He could have turned her in. He didn't. They've been each other's exception ever since.
 - **Their love is the kind built on shared crime.** Cole holding the Federation line by day, Sharon laughing about it in his cabin by night. Trading dead-drop coordinates the way some couples trade grocery lists. *"Yeah, we'll get you the regulators. No, the Federation can suck a rock."*
 - **Where to plant this in the prose:**
-  - **Act 1 cabin chapter (Cody Ch 3)** — already exists, has warm Cole/Sharon scenes (the blackberry preserves, the "you spoil me" beat). Add a **single past-tense paragraph** of Cole remembering their first illegal job together. Earn the warmth.
-  - **Act 2 transit chapter (post-Ch 11, post–Sharon's death)** — Cole has hours alone with his grief en route to Saturn. Give him **one full flashback** of a defining shared mission. The black-market run that almost got them killed. The night they decided this was the rest of their lives. Make us *feel* what he lost.
-  - **Emily's solo chapters (Ch 12, Ch 15)** — let Emily remember Sharon. The "I'm doomed to be average" callback should always trace back to Sharon's reassurance.
+ - **Act 1 cabin chapter** — already exists, has warm Cole/Sharon scenes (the blackberry preserves, the "you spoil me" beat). Add a **single past-tense paragraph** of Cole remembering their first illegal job together. Earn the warmth.
+ - **Act 2 transit chapter (post-, post–Sharon's death)** — Cole has hours alone with his grief en route to Saturn. Give him **one full flashback** of a defining shared mission. The black-market run that almost got them killed. The night they decided this was the rest of their lives. Make us *feel* what he lost.
+ - **Emily's solo chapters (, )** — let Emily remember Sharon. The "I'm doomed to be average" callback should always trace back to Sharon's reassurance.
 
-#### Death scene — Ch 7 (canon, do not soften)
+#### Death scene — (canon, do not soften)
 
-Greenbaum ambushes Emily and Sharon in the industrial cul-de-sac. Collective sniper takes Greenbaum out. **Sharon blocked the shot to protect Emily** — this is the detail from Cody Ch 12 that has to land. The bullet that kills her is the one that ricochets out of Greenbaum's dying hand because *Sharon stepped between him and Emily*. She dies for Emily, knowing what she's doing. That's the engine that drives Emily for the rest of the book.
+Greenbaum ambushes Emily and Sharon in the industrial cul-de-sac. Collective sniper takes Greenbaum out. **Sharon blocked the shot to protect Emily** — this is the detail from that has to land. The bullet that kills her is the one that ricochets out of Greenbaum's dying hand because *Sharon stepped between him and Emily*. She dies for Emily, knowing what she's doing. That's the engine that drives Emily for the rest of the book.
 
 #### The resurrection arc (owner directive 2026-04-30)
 
 Sharon comes back **late in the book**, half-bionic. **This is canon — not a choice between paths.**
 
 **The arc**:
-- After the shooting at the industrial cul-de-sac (Ch08), Alpha Corp takes Sharon's body and loads it onto FEDHEX5555.
+- After the shooting at the industrial cul-de-sac, Alpha Corp takes Sharon's body and loads it onto FEDHEX5555.
 - Dr. Bruce Hexo — a Federation physician held aboard against his will — is ordered to rebuild and weaponize her. He does it because he has no choice. He hates what he is making. He keeps notes.
 - FEDHEX5555 follows the Golden Dawn out to Saturn's rings. Dr. Bruce Hexo watches the job he was forced to do approach the ship he hoped it would never reach.
-- In Ch19, Gracie (newly online after Ch18) scans the approaching vessel, reads FEDHEX5555, identifies the bionic Sharon inside before the docking tube opens. She does not tell Cole immediately. She tells Bitboy.
+-, Gracie (newly online) scans the approaching vessel, reads FEDHEX5555, identifies the bionic Sharon inside before the docking tube opens. She does not tell Cole immediately. She tells Bitboy.
 - Sharon comes through the docking tube alone. **Bitboy's chest panel: SHE SMELLS LIKE SHARON.** Cole asks her to take off the visor. Left side: jaw, cheekbone, bright left eye — still hers. Right side: gunmetal, bronze indicator ring.
 - She attacks. Cole stops fighting. Bleeding palm against her unaugmented left face. Conrad's counter-program transfers. Bronze ring goes dark. She says his name.
 - Dr. Bruce Hexo, watching from FEDHEX5555, gets the signal he has been waiting for. He comes across the docking tube on his own. He is not armed. He tells Cole he is happy to go wherever they are going. He is done with Alpha Corp. Cole looks at Gracie. Gracie says: "He kept notes."
-- By Ch24 she's recovering. By Ch25 she's at the bowling alley — bionic, scarred, herself, alive.
+- she's recovering. she's at the bowling alley — bionic, scarred, herself, alive.
 
-#### What this changes about Ch 18 (the four-Coles vision)
+#### What this changes about (the four-Coles vision)
 
 The directive that **DarkX will not fake Sharon's voice** still holds — and gets *richer*. The substance refuses not because Sharon is gone, but because Sharon is *neither dead-and-gone nor here-and-whole*. She is, at that moment, somewhere in between — body alive, mind not. The substance shows truth. The truth is that the Sharon-who-was is not in Cole at that moment, and the Sharon-who-is doesn't yet exist.
 
 Cole won't know any of that consciously. He'll just feel the absence as final. When she comes back later, the lesson he learned (love yourself with her gone) is what makes him strong enough to *not* collapse when she walks back in.
 
-The Ch 18 chapter as drafted does not need rewriting. It is still right. The reveal of her survival just gives the chapter more depth in retrospect — first read it's a death sentence, on a re-read it's a substance refusing to lie even gently.
+The chapter as drafted does not need rewriting. It is still right. The reveal of her survival just gives the chapter more depth in retrospect — first read it's a death sentence, on a re-read it's a substance refusing to lie even gently.
 
 #### Writing notes — going forward
 
 - **Acts 1–2**: build the relationship, make her death matter
-- **Ch 7 death scene**: protect-the-friend instinct, blocked shot, do not soften
-- **Ch 11 Cole learns**: Taylor's reveal still stings the same — Cole doesn't know yet she's recoverable
-- **Ch 18 vision**: holds as written
-- **Ch 19 / 19a (Path A or C)**: corrupted-Sharon fight, Cole's integration tested live
-- **Ch 24**: recovery / partial reunion at the cabin
-- **Ch 25 bowling alley**: alive, bionic, his
+- ** death scene**: protect-the-friend instinct, blocked shot, do not soften
+- ** Cole learns**: Taylor's reveal still stings the same — Cole doesn't know yet she's recoverable
+- ** vision**: holds as written
+- ** / 19a (Path A or C)**: corrupted-Sharon fight, Cole's integration tested live
+- ****: recovery / partial reunion at the cabin
+- ** bowling alley**: alive, bionic, his
 
 ### Emily Nova
 - **Age**: Younger sister. Late 20s.
 - **Condition**: Diagnosed with Mitochondrial Degeneration / Gravity Sickness. Pre-book: declining, dependent on Cole.
 - **Physical**: Curly blonde hair. "Average in every way" per her own self-assessment — but Cody undermines this throughout.
 - **Pre-book identity**: Self-described as invisible, doomed to be average, lives in Cole's shadow.
-- **Voice**: Quiet but witty. The "He farts in his sleep, and snores. He's late on paying the phone bill" line to Marcus (Ch 9) is her self-defense — humor as survival.
-- **Arc across the book**: Sister-protected (Ch 1–6) → captured-witness (Ch 7) → solo-agent in over her head (Ch 12, 15) → confident operator (Ch 20) → leader (Ch 22, 23).
-- **Relationship to Rachel**: Charged. Cody Ch 12 has them touching shoulders, exchanging looks. Decide if it goes explicit or stays ambiguous — both work.
+- **Voice**: Quiet but witty. The "He farts in his sleep, and snores. He's late on paying the phone bill" line to Marcus is her self-defense — humor as survival.
+- **Arc across the book**: Sister-protected → captured-witness → solo-agent in over her head (, 15) → confident operator → leader (, 23).
+- **Relationship to Rachel**: Charged. has them touching shoulders, exchanging looks. Decide if it goes explicit or stays ambiguous — both work.
 - **Writing notes**: She's the strand that benefits most from Sharon's death. The book makes her the one who steps up. Don't soften her. Let her be scared *and* effective.
 
 ### Ricardo Corazon ("Heavy Hitter" / "Heavy" / "Ricky")
@@ -369,10 +349,10 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Physical**: Big — height and girth. Federation fatigues that "accentuate massive arms and shoulders while leaving room in the midsection to hide his growing gut." A man who carries a 30-rack and an attitude.
 - **Voice**: Constant teasing. "Coley Coley no-bowley." His humor papers over deep loyalty. Ride-or-die for Cole.
 - **Backstory**: Years of shuttling supplies for the Federation. "Brother" to Cole through service. Romantic with Dani (the cherubic woman from V1's bowling alley).
-- **In Ch 14–25**: Sharon was "his sister." Don't underplay his grief. Ricardo *was* the comic relief through Ch 1–13; in Ch 14–25 he's quieter sometimes, and the moments when he reaches for the humor anyway should hurt.
+- **–25**: Sharon was "his sister." Don't underplay his grief. Ricardo *was* the comic relief through;–25 he's quieter sometimes, and the moments when he reaches for the humor anyway should hurt.
 
 ### Max Vision ("Ray")
-- **Name**: Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by **Ray**. The narrator introduces him as Ray in Ch10a — prior to that, he appears in narration as Max or Max Vision.
+- **Name**: Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by **Ray**. The narrator introduces him as Ray in — prior to that, he appears in narration as Max or Max Vision.
 - **Role**: Scientist who accidentally discovers the 11-day fuel cell cycle. Extracted by Collective handlers, works undercover inside Alpha Corp in Panama.
 - **Handlers**: **Red and Squirrel** (Collective Special Agents) — they extract him, build his cover in Panama, and receive his intelligence.
 - **Key intelligence delivered**: Flywheel data from Alpha Corp Panama facility. Disposal Protocol Seven (11–13% product destruction per batch). The 7-year suppression of viable fuel cell technology. The drive goes out through the Collective network — 100,000 people in 48 hours. **What made Panama possible**: The Collective gave Ray Conrad's decrypted drive data before he went in. Conrad had already mapped where Alpha buried the suppression records. Ray went in knowing where to look. He just had to get there.
@@ -380,24 +360,24 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Voice**: Scientist's precision papering over escalating panic. The man who did the lazy thing and has been living with the consequences ever since.
 
 ### Bitboy Leroy
-- **What he is**: Six-limbed biomechanical chimp/macaque hybrid. Federation experimental project — *the last remaining EM Cyber* (Cody Ch 6 line). Mechanical claws, retractable blades, runs on ethanol as power source. Not a pet — a test subject who escaped his cage.
+- **What he is**: Six-limbed biomechanical chimp/macaque hybrid. Federation experimental project — *the last remaining EM Cyber* ( line). Mechanical claws, retractable blades, runs on ethanol as power source. Not a pet — a test subject who escaped his cage.
 - **Communication**: In main book, sounds and gestures (no sign language). In TRotR, sign language — that's a tonal divergence. Stick with sounds-and-gestures for Rings of Dust.
-- **Hidden secret**: He's the prototype IRiS's nanopowder was reverse-engineered from. The "EM Cyber" line is the breadcrumb. Pay it off in Ch 18 or Ch 24.
+- **Hidden secret**: He's the prototype IRiS's nanopowder was reverse-engineered from. The "EM Cyber" line is the breadcrumb. Pay it off or.
 - **Relationship to Cole**: Found family. Cole's a deadbeat dad to a junkie monkey. The bond is real and visible.
-- **Command interface** (established Ch04 "Bitboy, play" / flash drive decrypt — reuse throughout):
-  - **"Bitboy, play"** — decrypt/hack mode. Established Ch04 when he cracks the flash drive. Reuse any time a locked system needs opening.
-  - **"Bitboy, attack"** — offensive posture; blades deploy, full combat mode.
-  - **"Bitboy, defend"** — wraps himself around a specific person; absorbs punishment, won't leave.
-  - **"Bitboy, kamikaze"** — extreme self-endangerment / suicidal charge. Reserve for climactic moments only; the crew knows what it costs to say it.
-  - Optional later: "scout," "ghost," "bridge" — add if a scene needs it.
+- **Command interface** (established "Bitboy, play" / flash drive decrypt — reuse throughout):
+ - **"Bitboy, play"** — decrypt/hack mode. Established when he cracks the flash drive. Reuse any time a locked system needs opening.
+ - **"Bitboy, attack"** — offensive posture; blades deploy, full combat mode.
+ - **"Bitboy, defend"** — wraps himself around a specific person; absorbs punishment, won't leave.
+ - **"Bitboy, kamikaze"** — extreme self-endangerment / suicidal charge. Reserve for climactic moments only; the crew knows what it costs to say it.
+ - Optional later: "scout," "ghost," "bridge" — add if a scene needs it.
 - **Blue eye glow**: When Bitboy's eyes shift to soft blue light, it's the visual tell that he's entering enhanced/superpower mode. Plant it early, pay it off big. First major use: the road action scene where he drinks the energy drink — "Bitboy, defend" + blue glow right before he goes full shield.
 - **Writing notes**: Bitboy is comic relief, but he's also the first to *feel* things the humans miss. He grieves Sharon viscerally. He recognizes Gracie's birth. Use him as the canary.
 
 ### IRiS / Gracie
 - **What she is**: Imbued Recursive Intelligence System. Federation AI. Lives in the crew's heads via injected nanopowder. Cold, authoritative, feminine.
-- **In Cody's draft**: Voice goes "deep and slow" near DarkX (Ch 8). Cuts comms when Taylor reveals himself (Ch 11). Hostile by Saturn arrival.
-- **Evolution**: Cole's deep DarkX exposure (Ch 18) rewrites her. She becomes **Gracie** — softer, more present, more autonomous. By the epilogue she's "everywhere, part of everything."
-- **Voice progression**: IRiS (Ch 6–11): clinical, cold. Transition (Ch 17–18): glitching, deep, slow. Gracie (Ch 18+): warmer, sharper, sometimes wry. By Ch 23 she's fully herself — call-and-response with humans, real personality.
+- **In Cody's draft**: Voice goes "deep and slow" near DarkX. Cuts comms when Taylor reveals himself. Hostile by Saturn arrival.
+- **Evolution**: Cole's deep DarkX exposure rewrites her. She becomes **Gracie** — softer, more present, more autonomous. By the epilogue she's "everywhere, part of everything."
+- **Voice progression**: IRiS: clinical, cold. Transition: glitching, deep, slow. Gracie (+): warmer, sharper, sometimes wry. she's fully herself — call-and-response with humans, real personality.
 
 ### Taylor Glenn (Crew Chief)
 - **What he is**: Federation Crew Chief by title. Alpha Corp plant by allegiance. He knows exactly what he is and has known since the "Tailored Solutions" card. No delusion, no ambivalence — he chose this.
@@ -406,11 +386,11 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Voice**: Sharp, contemptuous, *uncomfortably right*. Uses precision to wound.
 - **The double-function**: He IS the saboteur, AND he's the one who breaks Cole open with the truth. Don't flatten him. The contradiction is his power — he can tell the truth about Cole's failures while serving the thing that caused them.
 - **Fate arc (locked canon):**
-  1. **Ch 19 — The trap**: This is not improvisation. This is the mission Taylor was always on. He calls a fake "system check" that herds Cole, Sam, Ricardo, and Bitboy into the cargo bay. Doors seal. IRiS goes dead. The plan: crew dies in a sealed bay, FEDHEX5555 arrives, takes the pre-Rapture DarkX harvest, Cole's death closes the file on the second "Saturn accident." His voice on the intercom: *"I told you to stop looking for someone to blame, Cole."* He tries to leave the crew to die aboard the Golden Dawn while the Alpha Corp ship moves in to take the harvested DarkX.
-  2. **The sabotage fails.** The crew survives. Taylor flees to the escape shuttle.
-  3. **Taylor's shuttle docks with the Alpha ship** — he thinks he's escaped, thinks he's home.
-  4. **Ch 24 — The arrival**: Taylor makes his way to what he believes is an Alpha Corp stronghold. What he doesn't know: by the time he gets there, IRiS has already been reborn as Gracie, and Gracie has taken control of the Alpha space station. The Alpha friendlies he's expecting are gone. The people waiting for him are **Collective guards.**
-  5. **He's arrested — or something worse.** Off-screen either way. The Ch24 seed has him walked down a corridor in silence — no fight, nowhere to go, Collective guards already waiting. That may be enough. But the question is open: does Taylor deserve more than quiet arrest for what he did to the crew? His consequences should equal the shittiness he treated Cole and the crew with. **Do not resolve this before Ch24 drafting.** The reader knowing it's coming is the payoff — whatever form it takes.
+ 1. ** — The trap**: This is not improvisation. This is the mission Taylor was always on. He calls a fake "system check" that herds Cole, Sam, Ricardo, and Bitboy into the cargo bay. Doors seal. IRiS goes dead. The plan: crew dies in a sealed bay, FEDHEX5555 arrives, takes the pre-Rapture DarkX harvest, Cole's death closes the file on the second "Saturn accident." His voice on the intercom: *"I told you to stop looking for someone to blame, Cole."* He tries to leave the crew to die aboard the Golden Dawn while the Alpha Corp ship moves in to take the harvested DarkX.
+ 2. **The sabotage fails.** The crew survives. Taylor flees to the escape shuttle.
+ 3. **Taylor's shuttle docks with the Alpha ship** — he thinks he's escaped, thinks he's home.
+ 4. ** — The arrival**: Taylor makes his way to what he believes is an Alpha Corp stronghold. What he doesn't know: by the time he gets there, IRiS has already been reborn as Gracie, and Gracie has taken control of the Alpha space station. The Alpha friendlies he's expecting are gone. The people waiting for him are **Collective guards.**
+ 5. **He's arrested — or something worse.** Off-screen either way. The seed has him walked down a corridor in silence — no fight, nowhere to go, Collective guards already waiting. That may be enough. But the question is open: does Taylor deserve more than quiet arrest for what he did to the crew? His consequences should equal the shittiness he treated Cole and the crew with. **Do not resolve this before drafting.** The reader knowing it's coming is the payoff — whatever form it takes.
 
 ### Sam Drummond ("Samantha")
 - **Role**: Data Technician on the Golden Dawn. Federation employee — but the Federation is just the job that got her where she needed to be.
@@ -418,14 +398,14 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Backstory**: STEM District / S.T.D. graduate, white-hat hacker, studied Conrad's nanoparticle work. Punk rock and psychedelic posters at home. "Out of place in this world of conformity."
 - **The Collective question (deliberately unresolved)**: Sam is sympathetic to the Collective — she fights for regular people, distrusts power structures, carries a hidden patch in her bag lining. Whether she's an active Collective member, a passive sympathizer, or something in between is intentionally left ambiguous. The reader should wonder. Don't resolve it until her arc demands it.
 - **Voice**: Smart, irreverent, intuitive. Knows Cole won't let her down.
-- **Romance**: Spark with Ricardo planted in Ch 6. Decide if it lands.
+- **Romance**: Spark with Ricardo planted. Decide if it lands.
 - **Writing note**: Taylor and Sam share a bunk room and a mission. One is knowingly steering toward catastrophe. The other is quietly watching. The irony is that Taylor thinks he's the sophisticated one.
 
 ### Rachel Vayes
 - **What she is**: News anchor and public figure — the most trusted, polished face in Federation-adjacent broadcast media. Politically connected, appears neutral and authoritative. Secretly the **Grand Admiral of the Collective** — the highest rank that exists. One person holds it. She has held it since before the book opens.
 - **The long game**: While Marcus built Alpha Corp into a shadow government, Rachel built the Collective into the thing that could outlast it. She has been playing this longer than Marcus has been playing anything.
 - **Act 1 read**: Marcus's ally. His public validator. She appears at his events, she echoes his framing, she is — to all appearances — one more instrument in his orchestra. The reader should believe this.
-- **Act 2 turn**: After Sharon's shooting, Rachel finds Emily. She helps her. It reads as ambiguous — is she running Emily as an asset for Marcus, or is she actually on a different side? *"On a very different side than it appears"* (Cody Ch 12) — that line lands differently on a reread.
+- **Act 2 turn**: After Sharon's shooting, Rachel finds Emily. She helps her. It reads as ambiguous — is she running Emily as an asset for Marcus, or is she actually on a different side? *"On a very different side than it appears"* — that line lands differently on a reread.
 - **The Grand Admiral mystery thread (runs throughout the book)**: The Collective has an internal mythology around the Grand Admiral. Lower-ranked members treat it as legend — some believe the rank exists and someone holds it, others think it's a motivational fiction the Navigators invented to give the organization gravity. Characters joke about it. *"Right, and I'm the Grand Admiral."* The jokes should make the reader smile and forget about it.
 - **The reveal**: There is no announcement. No speech. No moment where Rachel stands up and names herself. The reveal is a glimpse — near the end of the book, Rachel visits Cole and Sharon to thank them. She is composed and warm and entirely herself. At some point her coat shifts, or she turns, and for just a moment the inside of her jacket is visible. The patch is there. Bronze star, olive leaf wreath. The reader who has been paying attention to the rank chart understands in an instant what they are looking at. Nobody says anything about it. The scene continues. That is the whole reveal.
 - **Why the reveal lands**: She was never hiding who she was. She was hiding where she stood. The public figure, the polished voice, the apparent loyalty to Marcus — all of it was operational cover for the longest-running infiltration in the book. She didn't betray Marcus. She was never his.
@@ -435,37 +415,37 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 ### The Verguld Dynasty (locked canon)
 
 ```
-Wilhelm Verguld  (The First Spark, Part 2)
-    ↓
-Klaus Verguld  (Rings of Dust — off-page presence)
-    ↓
-Marcus Verguld  (Rings of Dust — primary antagonist)
+Wilhelm Verguld (The First Spark, Part 2)
+ ↓
+Klaus Verguld (Rings of Dust — off-page presence)
+ ↓
+Marcus Verguld (Rings of Dust — primary antagonist)
 ```
 
 **Wilhelm** *(The First Spark, Chs 13–16)* found the dark matter drives in a Directorate archive where he had no business being. He read the sequences — DarkX had written itself into the data — kept the secret, put the drives back, submitted no report, and left the Directorate fourteen months later. He changed his surname to Verguld (*"to gild"*). That single act of quiet theft is the original sin the entire empire is built on.
 
 **Klaus** *(The First Spark, Chs 17–21)* was raised on the sequences the way other children are raised on language. Wilhelm gave him everything. Klaus came to America on a freighter, settled in Culver City, drove a trash route as cover (Verde Sanitation), and spent a decade quietly building the structure that a subordinate he never met eventually named **Alpha Corp**. He raised Marcus in deliberate ignorance — "the only luxury he ever permitted himself" — so that when Marcus was ready, the wound of a small life would make him *want* the larger frame. Cold, patient, generational in his thinking.
 
-**The kitchen table (locked canon, The First Spark Ch 21)**: Cole Nova lived four streets over from the stucco house on Sawtelle. Klaus let the friendship form. The A Thousand Thrills summer — Cole quit to go home to his dying father. Marcus came home that evening and stood at the kitchen table: *"I will never forget how he screwed me over."* Klaus said: *"No. You won't."* Then he waited seven more years before he opened the notebook and told Marcus who he was. Klaus had liked the Nova boy. He wrote in cipher: *"The Nova boy is good. He may be useful or he may be in the way. Either is permissible."*
+**The kitchen table (locked canon, The First Spark )**: Cole Nova lived four streets over from the stucco house on Sawtelle. Klaus let the friendship form. The A Thousand Thrills summer — Cole quit to go home to his dying father. Marcus came home that evening and stood at the kitchen table: *"I will never forget how he screwed me over."* Klaus said: *"No. You won't."* Then he waited seven more years before he opened the notebook and told Marcus who he was. Klaus had liked the Nova boy. He wrote in cipher: *"The Nova boy is good. He may be useful or he may be in the way. Either is permissible."*
 
 ### Klaus Verguld
 - **What he is**: The architect. The original shadow behind Alpha Corp. Where Marcus is theatrical and performative, Klaus is quiet, deliberate, and almost invisible. He does not need a wall of TVs. He already knows what's on every channel.
 - **Father of Marcus. Son of Wilhelm.**
 - **The Taylor connection (locked canon)**: The mysterious man who handed Taylor the "Tailored Solutions" card at his sorority house and slipped into the black town car without giving his name — that was Klaus Verguld. He personally identified Taylor, personally made the approach, and personally decided he was worth owning. Taylor has spent his entire career not knowing the name of the man who recruited him. That detail lands when he finally finds out.
 - **Physical tell / idiosyncrasy (the wink across books)**: Three things that always travel together:
-  1. **The pocket watch** — brass, old, Wilhelm gave it to him on his 20th birthday. Klaus never opens it to check the time. He already knows what time it is. He holds it in his palm when he is thinking — closed, just the weight of it. When Taylor is first visited by the mysterious man from the black car, he notices the watch. Years later, in a Ch14–18 reveal, he will recognize it again and understand.
-  2. **He sets things down without sound** — a glass, a card, a notebook — always placed, never put down. No impact. No announcement. Established in *The First Spark* Ch21: *"He set the glass down on the table without making a sound."*
-  3. **Always water** — never coffee, never alcohol. If he offers you something, it is water. If a scene involves Klaus and a drink, it is water. This never changes.
+ 1. **The pocket watch** — brass, old, Wilhelm gave it to him on his 20th birthday. Klaus never opens it to check the time. He already knows what time it is. He holds it in his palm when he is thinking — closed, just the weight of it. When Taylor is first visited by the mysterious man from the black car, he notices the watch. Years later, in a reveal, he will recognize it again and understand.
+ 2. **He sets things down without sound** — a glass, a card, a notebook — always placed, never put down. No impact. No announcement. Established in *The First Spark* : *"He set the glass down on the table without making a sound."*
+ 3. **Always water** — never coffee, never alcohol. If he offers you something, it is water. If a scene involves Klaus and a drink, it is water. This never changes.
 - **Presence in the story**: Likely never appears on-page directly — or appears only once, briefly, in a way the reader doesn't immediately recognize. His power is in absence. Things happen because Klaus decided they would, long before anyone else knew there was a decision to make.
 - **Voice**: Minimal. When he does speak, it's one sentence that ends conversations.
 
-### Taylor backstory seeds — for Ch14–18 (extracted from Ch07)
-*These beats were removed from Ch07 to be parceled out as tension builds. Drop them as small reveals, not dumps.*
+### Taylor backstory seeds — for (extracted)
+*These beats were removed to be parceled out as tension builds. Drop them as small reveals, not dumps.*
 - Taylor was built for Federation life but none of the military groups or agencies who tapped him in college caught his interest — they wanted to manage his ambition, not use it.
 - One day a thin man came to his sorority house, handed him a card reading "Tailored Solutions" with an address, and left without giving his name. Taylor watched him get into a black town car. He followed the address. That man was Klaus Verguld. Taylor still doesn't know his name.
 - Taylor has spent his entire career not knowing who recruited him. The moment he finds out is the moment his certainty about everything collapses — or doubles down.
 
-### Sam backstory seeds — for Ch14–18 (extracted from Ch07)
+### Sam backstory seeds — for (extracted)
 *Drop as small reveals as her Collective sympathies become a live question.*
 - Never gone by Samantha since she was old enough to say so. Even her jumpsuits say Sam.
 - Teased about her weight as a kid. The only thing she ever wished were "normal." Everything else she owned.
@@ -476,44 +456,44 @@ Marcus Verguld  (Rings of Dust — primary antagonist)
 
 ### Marcus Verguld (V2's "Marcus Simons" — minor name change)
 - **What he is**: Power-broker / oligarch. Antagonist behind Alpha Corp's strategy. Klaus's heir — louder, sloppier, and more dangerous because he enjoys it.
-- **Childhood**: Grew up with Cole Nova on adjacent streets in Culver City. Mother died of an aneurysm when Marcus was eleven. Father was Klaus — who Marcus believed was just a strange small immigrant who drove a trash truck. The "A Thousand Thrills" summer — Cole quit to go home for his dying father. Marcus stood at the kitchen table: *"I will never forget how he screwed me over."* Klaus said *"No. You won't."* and waited seven years. At twenty-four Marcus asked his father what he actually did. Klaus opened the notebook. *(The First Spark, Ch 20–21)*
-- **Cody's setup**: Wall of TVs in his office (Ch 9). Smarmy, theatrical, casually sociopathic.
+- **Childhood**: Grew up with Cole Nova on adjacent streets in Culver City. Mother died of an aneurysm when Marcus was eleven. Father was Klaus — who Marcus believed was just a strange small immigrant who drove a trash truck. The "A Thousand Thrills" summer — Cole quit to go home for his dying father. Marcus stood at the kitchen table: *"I will never forget how he screwed me over."* Klaus said *"No. You won't."* and waited seven years. At twenty-four Marcus asked his father what he actually did. Klaus opened the notebook. *(The First Spark,)*
+- **Cody's setup**: Wall of TVs in his office. Smarmy, theatrical, casually sociopathic.
 - **Voice**: Florid, performative cruelty. Treats people as "over emotional animals" (per V2 epilogue).
 - **The cold-blood register (owner, 2026-05-03)**: Marcus kills when he's *annoyed*. Not furious — annoyed. Vance Black pushed back. That was an irritant. Marcus removed it the way you swat a fly: fast, unbothered, already thinking about something else before the body hits the floor. The practiced weeping before the police call is not cynicism — it is *pleasure*. He enjoyed rehearsing it. The laughter afterward is genuine. This is what true psychopathy looks like in the Verguld line: not rage, not ideology, not even greed — just an absolute absence of the thing that would make killing *cost* something. **This is the signature of the dynasty.** Klaus was cold in a different register — patient, generational, almost sad. Marcus got the coldness without the patience. He kills the way his father placed a glass on a table: without sound, without ceremony, and completely in control.
 - **Writing rule for Marcus on-page**: He is never loud when he is most dangerous. The wall of TVs, the theatrics, the florid cruelty — that's the costume. The man under it is the one who clicked the revolver under the desk and didn't break his sentence.
 - **Fate options**:
-  - **V3 path (recommended)**: Black site. Emily's choice. Sharper, harder ending.
-  - **V2 path**: Escapes to Dubai. Plotting intergalactic mining comeback.
-  - **Both**: Possible to do both — black site **then** somehow he gets out post-credits stinger. That's the V2 epilogue but post-V3 conclusion.
+ - **V3 path (recommended)**: Black site. Emily's choice. Sharper, harder ending.
+ - **V2 path**: Escapes to Dubai. Plotting intergalactic mining comeback.
+ - **Both**: Possible to do both — black site **then** somehow he gets out post-credits stinger. That's the V2 epilogue but post-V3 conclusion.
 - **Book One endpoint**: His last image is laughing alone in the dark, holding his ribs. That stays. His full reckoning is Book Two.
 
 ### Vance Black
 - **Role**: Federation Operations chief, private contractor. Alpha Corp asset turned conscience-case. The road not taken for Taylor.
 - **Physical**: Casual to the point of provocation — sandals, untucked shirts, smudged $400 sunglasses. Exudes confidence without effort. The kind of man who eats dirt at a black site and comes back with a dry joke. *"Appreciate the warm welcome. Nothing like eating dirt to feel at home."*
 - **Klaus connection**: Both Vance and Taylor were recruited through the same chain — Klaus Verguld's network. Vance knew about Taylor. Taylor knew about Vance. They recognized each other as the same kind of creature and resented it.
-- **The dynamic with Taylor (Ch15–17)**: Friction without volume. Two men who both served Klaus and could never respect each other for it. Taylor was younger, more ideological, more purely Alpha Corp — a true believer. Vance was older, more pragmatic, and had accumulated doubts over years. Taylor found Vance soft. Vance found Taylor dangerous in the way true believers always are. Their friction played out in hallways, in handshakes one second too short, in the way Vance would ask a question that implied doubt and Taylor would answer for the presenter before he had to. *"Glenn had the answer for everything. The problem with men like that is they never ask the right questions."* (Vance, internal — never spoken aloud.)
-- **The turning point (Ch15–16 flashback)**: Vance goes to a classified desert black site — an abandoned drive-in theater converted to underground archive — to retrieve equipment from the Dr. Ankur files. He intends to hand it to DeMint as a double-agent offering. His conscience has been building for years. This is the moment he acts on it.
-  - He gets to the Hall of Records. The clerk tells him the vault was cleaned out last month.
-  - *"Federation Representative Rachel Vayes,"* she says. Alpha Corp trucks. Vayes beat him to it.
-  - Vance has no leverage. He has a redacted death certificate and the understanding that every exit is sealed.
-  - His choice: swallow it and stay useful to Marcus, or confront him. He confronts him. **That's who Vance is.**
-- **The murder (Ch16–17 flashback, source: 01_Antigravity_2023-02-16.txt lines 3979–4087)**: Vance goes directly to Marcus's office at Alpha Corp HQ. Night. The big swivel chair like a throne, wall of TVs flickering. He challenges Marcus — the court-martial threat, the "I've got you by the balls." Marcus shoots him with a concealed revolver under the desk without getting up.
-  - *"You'd better not try any —"* Marcus takes aim. The shot. Vance slumps.
-  - Marcus practices fake crying before calling 911. Rehearses it. *"Yeah. Hi? This is Marcus of Alpha Corp? Um, there's been a shooting and... oh my gosh."* He reports an intruder, claims self-defense.
-  - When he hangs up: blank-faced. Then laughter — hugging his ribs until it hurts.
-  - **Writing note**: Don't editorialize after the shot. No narrator intrusion. Let Marcus laughing alone in the dark be the last image. That's the one that should haunt.
-- **Taylor's reaction (aboard the Golden Dawn, late Ch17)**: Taylor receives word — comms, a message, however it reaches him in space. Vance Black, dead. Official story: intruder. Self-defense.
-  - Taylor already knows the truth. He may have flagged Vance's growing disloyalty to someone at Alpha Corp.
-  - His reaction: not grief. Not surprise. A quiet, satisfied exhale. The sense that an irritant has been removed. He doesn't pause. He doesn't look up from what he's doing for more than a second.
-  - **Sam is nearby.** She notices his non-reaction. Says nothing. Files it away. This is the moment she knows exactly who she's sharing a ship with. It plants her eventual break from Taylor.
-  - **Writing note**: The less Taylor says here, the worse he looks. No monologue. No explanation. Visible through absence.
-- **Function**: Vance is the proof that Alpha Corp's grip could have been broken — by someone with enough spine, at the right moment. He died for it. Taylor saw what that looked like and chose the other direction, on purpose. His death is the moral center of the Ch15–17 arc.
+- **The dynamic with Taylor**: Friction without volume. Two men who both served Klaus and could never respect each other for it. Taylor was younger, more ideological, more purely Alpha Corp — a true believer. Vance was older, more pragmatic, and had accumulated doubts over years. Taylor found Vance soft. Vance found Taylor dangerous in the way true believers always are. Their friction played out in hallways, in handshakes one second too short, in the way Vance would ask a question that implied doubt and Taylor would answer for the presenter before he had to. *"Glenn had the answer for everything. The problem with men like that is they never ask the right questions."* (Vance, internal — never spoken aloud.)
+- **The turning point ( flashback)**: Vance goes to a classified desert black site — an abandoned drive-in theater converted to underground archive — to retrieve equipment from the Dr. Ankur files. He intends to hand it to DeMint as a double-agent offering. His conscience has been building for years. This is the moment he acts on it.
+ - He gets to the Hall of Records. The clerk tells him the vault was cleaned out last month.
+ - *"Federation Representative Rachel Vayes,"* she says. Alpha Corp trucks. Vayes beat him to it.
+ - Vance has no leverage. He has a redacted death certificate and the understanding that every exit is sealed.
+ - His choice: swallow it and stay useful to Marcus, or confront him. He confronts him. **That's who Vance is.**
+- **The murder ( flashback, source: 01_Antigravity_2023-02-16.txt lines 3979–4087)**: Vance goes directly to Marcus's office at Alpha Corp HQ. Night. The big swivel chair like a throne, wall of TVs flickering. He challenges Marcus — the court-martial threat, the "I've got you by the balls." Marcus shoots him with a concealed revolver under the desk without getting up.
+ - *"You'd better not try any —"* Marcus takes aim. The shot. Vance slumps.
+ - Marcus practices fake crying before calling 911. Rehearses it. *"Yeah. Hi? This is Marcus of Alpha Corp? Um, there's been a shooting and... oh my gosh."* He reports an intruder, claims self-defense.
+ - When he hangs up: blank-faced. Then laughter — hugging his ribs until it hurts.
+ - **Writing note**: Don't editorialize after the shot. No narrator intrusion. Let Marcus laughing alone in the dark be the last image. That's the one that should haunt.
+- **Taylor's reaction (aboard the Golden Dawn, late )**: Taylor receives word — comms, a message, however it reaches him in space. Vance Black, dead. Official story: intruder. Self-defense.
+ - Taylor already knows the truth. He may have flagged Vance's growing disloyalty to someone at Alpha Corp.
+ - His reaction: not grief. Not surprise. A quiet, satisfied exhale. The sense that an irritant has been removed. He doesn't pause. He doesn't look up from what he's doing for more than a second.
+ - **Sam is nearby.** She notices his non-reaction. Says nothing. Files it away. This is the moment she knows exactly who she's sharing a ship with. It plants her eventual break from Taylor.
+ - **Writing note**: The less Taylor says here, the worse he looks. No monologue. No explanation. Visible through absence.
+- **Function**: Vance is the proof that Alpha Corp's grip could have been broken — by someone with enough spine, at the right moment. He died for it. Taylor saw what that looked like and chose the other direction, on purpose. His death is the moral center of the arc.
 
 #### Build directive (owner, 2026-05-03)
 Vance needs more page time and rounding before his death lands. He is currently underwritten. The goal is for the reader to *like* him — to feel the specific loss of *this* person, not just a plot-function casualty. Scenes to build toward:
-- **Early Vance**: Ch7/Ch8 — he's on the Golden Dawn mission briefing, he's the one who processed Cole and Ricardo in. He's charming, casual, competent. A little loose. The reader should enjoy him.
+- **Early Vance**: / — he's on the Golden Dawn mission briefing, he's the one who processed Cole and Ricardo in. He's charming, casual, competent. A little loose. The reader should enjoy him.
 - **Vance with humor**: The black site scene is already full of dry wit under pressure (*"Appreciate the warm welcome. Nothing like eating dirt."* / *"You mean a pop?"*). That voice is the key. He's funny when he's scared. He's funniest when he's in the most trouble.
-- **Vance showing doubt**: One line, one moment — probably in Ch15 or a late Ch14 scene — where he says something that isn't quite loyal. Not a speech. Just one question he asks that shouldn't be asked, or one pause before he agrees to something. Taylor notices. Files it.
+- **Vance showing doubt**: One line, one moment — probably or a late scene — where he says something that isn't quite loyal. Not a speech. Just one question he asks that shouldn't be asked, or one pause before he agrees to something. Taylor notices. Files it.
 - **Vance's last scene before the black site**: He should feel like a man who has made a decision and is at peace with the cost of it. No martyrdom speech. Just someone who finally knows what he's doing and why.
 - **Writing rule**: Do not let Vance die as a symbol. Let him die as a person. The dry wit is the armor. The scene works because Marcus kills him *while he still has the armor on.*
 
@@ -521,57 +501,57 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **Status**: Disappeared. Possibly dead. Alpha Corp took him — likely to continue the IRiS work under duress.
 - **Role**: Brilliant scientist, deliberate Collective funder, made the prototype. The Vegas conference was his last public appearance.
 - **His money**: Alpha Corp paid Conrad an obscene amount for his work. He took all of it. He funded his own nanoparticle research with it — and he knowingly contributed a significant portion directly to the Collective. This was not laundered through cells without his knowledge. Conrad chose it. He knew exactly where the money was going. The guilt in the Vegas scene is not about the money — it is about what he was coerced into doing with IRiS.
-- **CRITICAL CANON (locked 2026-05-02)**: By the time Conrad meets Emily and Sharon in Ch 2, he has **already been coerced by Alpha Corp to modify Gracie into IRiS**. He did it. He didn't have a choice. The guilt of it is all over the Vegas scene — his shaking hands, the penance line ("I'll keep doing my part"), his desperate emphasis that Cole must personally hold the drive.
+- **CRITICAL CANON (locked 2026-05-02)**: By the time Conrad meets Emily and Sharon, he has **already been coerced by Alpha Corp to modify Gracie into IRiS**. He did it. He didn't have a choice. The guilt of it is all over the Vegas scene — his shaking hands, the penance line ("I'll keep doing my part"), his desperate emphasis that Cole must personally hold the drive.
 - **The two things on the object**: The figurine carries two separate payloads. (1) The **nanopowder coating** on the surface — Conrad's counter-program, transfers by skin contact. (2) The **encrypted data drive** inside — Conrad's intelligence files on Alpha Corp, decrypted separately by Bitboy.
-- **The nanopowder — both Emily and Cole are inoculated**: Emily handles the figurine in Ch02 when Conrad passes it to her. She gets the dark silver stain too — she doesn't know what it is. Cole handles it in Ch04. Conrad said "Cole is the only one who can carry it" because Cole is the one who will transfer the program to Sharon in Ch19 — but Emily carrying it has its own consequences when she later encounters DarkX.
+- **The nanopowder — both Emily and Cole are inoculated**: Emily handles the figurine when Conrad passes it to her. She gets the dark silver stain too — she doesn't know what it is. Cole handles it. Conrad said "Cole is the only one who can carry it" because Cole is the one who will transfer the program to Sharon in — but Emily carrying it has its own consequences when she later encounters DarkX.
 - **The payoff chain (nanopowder)**:
-  1. Ch 2 — Emily handles figurine. Nanopowder absorbs. She doesn't notice.
-  2. Ch 4 — Cole rubs the figurine, dark silver stain on thumb. Absorbed. Conrad: *"What's on that figurine is the way back. Cole is the only one who can carry it."*
-  3. Ch 18 — DarkX exposure amplifies the antidote in Cole's bloodstream. Wakes up alongside Gracie being born.
-  4. Ch 19 — Cole's blood/touch transfers the counter-program to Sharon. Gracie uses it as the unlock code. Conrad's apology fires from beyond his disappearance.
-  5. Emily's inoculation pays off when she later encounters DarkX — she carries the same upgrade without ever knowing it.
+ 1. — Emily handles figurine. Nanopowder absorbs. She doesn't notice.
+ 2. — Cole rubs the figurine, dark silver stain on thumb. Absorbed. Conrad: *"What's on that figurine is the way back. Cole is the only one who can carry it."*
+ 3. — DarkX exposure amplifies the antidote in Cole's bloodstream. Wakes up alongside Gracie being born.
+ 4. — Cole's blood/touch transfers the counter-program to Sharon. Gracie uses it as the unlock code. Conrad's apology fires from beyond his disappearance.
+ 5. Emily's inoculation pays off when she later encounters DarkX — she carries the same upgrade without ever knowing it.
 - **The payoff chain (drive data)**:
-  1. Ch 4 — Bitboy decrypts the drive. DeMint's letter. Mission accepted.
-  2. The decrypted intelligence — Conrad's files on Alpha Corp's suppression of fuel cell technology — is eventually passed to the Collective.
-  3. The Collective uses this data to help Ray while he is undercover in Panama — it fills in context Ray can't access from inside Alpha's own files. He knows what to look for because Conrad already mapped where it was buried.
-  4. Ray then meets Jill, receives Elsa Klein's notebooks, and the two datasets — Conrad's intelligence and Elsa's 369 test runs — give him everything he needs to name what Alpha has done.
-- **"Tell him I'm sorry"**: Conrad's last line to Emily in Ch 2. Cole won't understand it until Ch 19 when the antidote breaks through. Emily carries the same payload Conrad intended for Cole — she was always part of the chain, even if Conrad couldn't plan for exactly how.
-- **Function in plot**: Drives the plot through absence AND through the antidote he left behind. The prototype Emily retrieves in Ch 20 is separate from the thumb drive — it's the quantum-comms node Conrad built to punch through IRiS jamming.
+ 1. — Bitboy decrypts the drive. DeMint's letter. Mission accepted.
+ 2. The decrypted intelligence — Conrad's files on Alpha Corp's suppression of fuel cell technology — is eventually passed to the Collective.
+ 3. The Collective uses this data to help Ray while he is undercover in Panama — it fills in context Ray can't access from inside Alpha's own files. He knows what to look for because Conrad already mapped where it was buried.
+ 4. Ray then meets Jill, receives Elsa Klein's notebooks, and the two datasets — Conrad's intelligence and Elsa's 369 test runs — give him everything he needs to name what Alpha has done.
+- **"Tell him I'm sorry"**: Conrad's last line to Emily. Cole won't understand it until when the antidote breaks through. Emily carries the same payload Conrad intended for Cole — she was always part of the chain, even if Conrad couldn't plan for exactly how.
+- **Function in plot**: Drives the plot through absence AND through the antidote he left behind. The prototype Emily retrieves is separate from the thumb drive — it's the quantum-comms node Conrad built to punch through IRiS jamming.
 
 ### Ryan Greenbaum
 - **Title**: Federal Council Police. Presents as law enforcement; functions as Alpha Corp muscle dressed in government credentials.
-- **First appearance**: Ch2 — the Vegas conference. Approaches Emily and Sharon, attempts to intimidate. Sharon runs the elevator humiliation on him; he falls out of the doors half-undressed. She hands him a lollipop as the doors close.
-- **The transformation**: By Ch7, this is not the same man from the elevator. Greenbaum moves with purpose, jaw clenched, hardened. The humiliation calcified. *"This was not the man they left in the elevator, floundering after their game."* He ambushes Emily and Sharon in the industrial cul-de-sac. Sharon blocks the shot to protect Emily. Sharon dies.
+- **First appearance**: — the Vegas conference. Approaches Emily and Sharon, attempts to intimidate. Sharon runs the elevator humiliation on him; he falls out of the doors half-undressed. She hands him a lollipop as the doors close.
+- **The transformation**:, this is not the same man from the elevator. Greenbaum moves with purpose, jaw clenched, hardened. The humiliation calcified. *"This was not the man they left in the elevator, floundering after their game."* He ambushes Emily and Sharon in the industrial cul-de-sac. Sharon blocks the shot to protect Emily. Sharon dies.
 
 #### Dr. Bruce Hexo
 - **Role**: Federation physician. Held aboard FEDHEX5555 against his will after Alpha Corp takes Sharon's body.
 - **What he is forced to do**: Rebuild Sharon — bionic integration, cyber-conditioning, weapons system. He does it because the alternative is worse. He does it carefully. He keeps notes on everything he does to her, every system he installs, every override he builds in — because he intends for someone to be able to undo it.
-- **His notes**: The reason Gracie says "He kept notes" when Cole looks at her in Ch19. The notes are how the counter-program is confirmed complete. They document every layer of conditioning so nothing is missed.
+- **His notes**: The reason Gracie says "He kept notes" when Cole looks at her. The notes are how the counter-program is confirmed complete. They document every layer of conditioning so nothing is missed.
 - **The ring**: When Alpha Corp loaded Sharon onto FEDHEX5555, the copper-wire ring was on her finger. Dr. Bruce Hexo removed it before beginning the bionic work. He kept it in his jacket for the entire mission. It was the one thing he refused to let them take from her.
-- **After the boarding (Ch19)**: When Sharon's counter-program fires and the bronze ring goes dark, Dr. Bruce Hexo crosses the docking tube on his own initiative. He is not armed. He tells Cole he is happy to go wherever they are going. He has been waiting for this since FEDHEX5555 left dock.
+- **After the boarding**: When Sharon's counter-program fires and the bronze ring goes dark, Dr. Bruce Hexo crosses the docking tube on his own initiative. He is not armed. He tells Cole he is happy to go wherever they are going. He has been waiting for this since FEDHEX5555 left dock.
 - **Tone**: Not a villain. A man who did something terrible under duress and spent the entire time documenting it so it could be undone. The notes are his apology. Cole accepts it without ceremony.
-- **Ch24**: Part of the recovery team. He knows Sharon's systems better than anyone. He is also, quietly, one of the people most relieved to see her come back.
-- **What made him**: Years of being looked through by men like Taylor Glenn. Being dismissed in briefing rooms. Being talked past. Absorbing it. Straightening his jacket and acting like it didn't happen. **The Ch15–17 flashback contains one beat — a single moment in a shared room where Taylor talks past him mid-sentence and Vance doesn't intervene.** That beat is not named, not called out, not editorially flagged. It just happens and the scene moves on.
-- **The Easter egg**: The reader who connects that Ch15-17 moment to the Ch7 shooting gets a gut-punch. The reader who doesn't isn't pulled out of Vance's arc. That's the intent — catch it or don't, it works either way.
-- **After Ch7**: Collective sniper takes Greenbaum out — he dies in the cul-de-sac. Sharon's death is what the bullet ricocheting from his dying hand causes. He is the instrument; Taylor (and the system Taylor serves) is the forge that shaped him.
+- ****: Part of the recovery team. He knows Sharon's systems better than anyone. He is also, quietly, one of the people most relieved to see her come back.
+- **What made him**: Years of being looked through by men like Taylor Glenn. Being dismissed in briefing rooms. Being talked past. Absorbing it. Straightening his jacket and acting like it didn't happen. **The flashback contains one beat — a single moment in a shared room where Taylor talks past him mid-sentence and Vance doesn't intervene.** That beat is not named, not called out, not editorially flagged. It just happens and the scene moves on.
+- **The Easter egg**: The reader who connects that moment to the shooting gets a gut-punch. The reader who doesn't isn't pulled out of Vance's arc. That's the intent — catch it or don't, it works either way.
+- ****: Collective sniper takes Greenbaum out — he dies in the cul-de-sac. Sharon's death is what the bullet ricocheting from his dying hand causes. He is the instrument; Taylor (and the system Taylor serves) is the forge that shaped him.
 - **Writing rule**: Greenbaum is never cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
 
 ### Red and Squirrel
-- **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama (Cody Ch 9 + Ch 13).
+- **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama ( + ).
 - **Voice**: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
 - **Function**: They extract Ray from his original identity, establish his cover in Panama, and run him as an undercover asset inside Alpha Corp. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. They facilitate Ray's journey to the space station where he confirms the flywheel and the anti-gravity project.
 - **Collective rank**: Special Agents (Field Tier 3 — sunglasses patch, dark full frame).
 
-### Colony Arc Characters (Ch03b–f)
+### Colony Arc Characters (–f)
 
 #### Jill
-- **Role**: Protagonist of the Ch03b-f colony arc. Found the colony by accident — a routing error, a transponder on an unregistered frequency, low fuel. She is not a leech. She ate what they offered, asked the questions that were hers to ask, and left with what they chose to give. She stayed eleven days because on the morning of the eleventh day she wanted to see it.
+- **Role**: Protagonist of the -f colony arc. Found the colony by accident — a routing error, a transponder on an unregistered frequency, low fuel. She is not a leech. She ate what they offered, asked the questions that were hers to ask, and left with what they chose to give. She stayed eleven days because on the morning of the eleventh day she wanted to see it.
 - **Who she is**: Jill is the branch of the Verguld bloodline that did not get the money, the empire, or the power. She knows she is distantly related to Marcus Verguld and the rest of them. She has known for a long time. She chose differently — deliberately, specifically, with full awareness of what she was walking away from. Black market runner. Scavenger. Anti-establishment to the bone. If the Vergluds are the empire, Jill is what happens when the same blood decides the empire is the problem. She is punk rock in a universe run by people who look like her cousins.
-- **What she doesn't know leaving Ch03f**: That her blood is also the blood of the founding tradition she witnessed. That the prophecy in Elsa's notebooks was written for the branch that chose this — not the branch that chose the empire. That she will not be able to stop thinking about the gold crater — because it was always meant to reach her.
-- **What she discovers (Ch03g and after)**: Jill returns to the colony. Petra gives her the notebooks — not because the prophecy has been confirmed, but because Jill is the only person who has ever come back and asked the right questions. Jill reads the 369 test runs. She understands the zero-gravity locking data immediately. She also reads the prophecy — which does not read like prophecy. It reads like observation. And when she traces the maiden name in her own family history back to the founding bloodline, she understands what she is reading. She does not tell Petra. She takes the notebooks and goes.
+- **What she doesn't know leaving **: That her blood is also the blood of the founding tradition she witnessed. That the prophecy in Elsa's notebooks was written for the branch that chose this — not the branch that chose the empire. That she will not be able to stop thinking about the gold crater — because it was always meant to reach her.
+- **What she discovers ( and after)**: Jill returns to the colony. Petra gives her the notebooks — not because the prophecy has been confirmed, but because Jill is the only person who has ever come back and asked the right questions. Jill reads the 369 test runs. She understands the zero-gravity locking data immediately. She also reads the prophecy — which does not read like prophecy. It reads like observation. And when she traces the maiden name in her own family history back to the founding bloodline, she understands what she is reading. She does not tell Petra. She takes the notebooks and goes.
 - **Jill → Collective → Ray**: Jill brings the notebooks to the Collective. She doesn't fully understand how they fit yet — but she knows the zero-gravity data is something Alpha Corp has never seen. The Collective cross-references her material with Ray's Panama findings. The two pieces of intelligence — Ray's flywheel data and Elsa's 369 test runs — point to the same gap: the open condition in zero gravity. The Collective arranges the introduction. Ray receives Elsa's notebooks through Jill. That is when the decision is made to go to Station Libre.
 - **Bloodline (sealed canon)**: Descendant of Wilhelm's grandmother's founding bloodline, on the branch that did not inherit the Verguld empire. She is aware of the distant family connection to Marcus Verguld — she does not advertise it. NOT Elsa Klein's biological granddaughter. See Founding Bloodline & Prophecy section.
-- **Surname**: Not stated in Ch03b-f. The maiden name in her family history is the key to the reveal — traced back to the founding bloodline. The reveal happens in Book One when Jill reads the notebooks.
+- **Surname**: Not stated-f. The maiden name in her family history is the key to the reveal — traced back to the founding bloodline. The reveal happens in Book One when Jill reads the notebooks.
 
 #### Tyler Durden
 - **Role**: Leader of the Void-Walkers. Arrived at the colony six years before Jill. Did not arrive by accident — he was looking for it specifically.
@@ -612,10 +592,6 @@ Vance needs more page time and rounding before his death lands. He is currently 
 ### Captain Blitz / Squeaks / Sexy Sharons / Von Grutzen / Dr. Neumann / Captain Rycra
 - **NOT in the main book.** These are TRotR (Rings of the Reich) characters. Don't reference them in Rings of Dust unless you're deliberately building cross-IP cameos.
 
----
-
----
-
 ## World & Setting
 
 **Year**: 2043
@@ -631,91 +607,87 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **The Federation**: NASA equivalent — real government, real scientists, real Astros. Captured at top levels by Alpha Corp. Not uniformly corrupt (Vance Black was proof). Hierarchy extends to the Chancellor level (DeMint).
 - **The Collective**: Distributed resistance network. Volunteers, scientists, former Federation personnel. Not an army. A living network — founded to build the world they want inside the walls of the world that exists.
 
----
+## Story Events
 
-## Chapter Timeline
+**Polaris**: Polaris explodes at Saturn's rings. 369 crew killed. Cole sole survivor (pulled out by Ricardo and Bitboy). Cole's first raw DarkX contact happens here.
 
-**Ch01 — Polaris**: Polaris explodes at Saturn's rings. 369 crew killed. Cole sole survivor (pulled out by Ricardo and Bitboy). Cole's first raw DarkX contact happens here.
+**Room 1122, Las Vegas**: Dr. Conrad (shaking hands, guilt). Emily and Sharon run the elevator scam on Greenbaum. Conrad gives them the Enterprise figurine and encrypted drive. Emily handles it — dark silver trace on her fingers, unnoticed. Sharon is Collective-adjacent. Conrad's last line: "Tell him I'm sorry." He watches them go. He already knows Emily got the stain. He doesn't correct it.
 
-**Ch02 — Room 1122, Las Vegas**: Dr. Conrad (shaking hands, guilt). Emily and Sharon run the elevator scam on Greenbaum. Conrad gives them the Enterprise figurine and encrypted drive. Emily handles it — dark silver trace on her fingers, unnoticed. Sharon is Collective-adjacent. Conrad's last line: "Tell him I'm sorry." He watches them go. He already knows Emily got the stain. He doesn't correct it.
+**A Thousand Thrills**: Cole's origin story. Summer job at 'A Thousand Thrills' theme park. Father's cancer diagnosis. Cole gives up the summer; Marcus's bitter note. Father dies when Cole is 17. Emily and mom tutor Cole toward the Academy.
 
-**Ch03 — A Thousand Thrills**: Cole's origin story. Summer job at 'A Thousand Thrills' theme park. Father's cancer diagnosis. Cole gives up the summer; Marcus's bitter note. Father dies when Cole is 17. Emily and mom tutor Cole toward the Academy.
+**The Colony**: Jill finds the colony by accident (low on fuel, 3 days from Titan). What she finds looks, from the outside, exactly like what the Federation flagged it as: a religious extremist cult operating out of a decommissioned soap factory on an asteroid nobody else wanted. Meets Tyler Durden (introduces himself by name). Meets Petra. Learns about the split: Loyalists vs Void-Walkers. Tyler's "race to control the grid" speech — Jill dismisses it as cult talk. She is not wrong to dismiss it. She is wrong about why. What Tyler is actually describing is the end of the sacrifice. No DarkX supply, no fuel cells to carry down the tunnel, no tunnel, no Marla. He is not talking about politics. He is talking about the only thing he has left. Stays 11 days. Witnesses the asteroid arrival. Leaves.
 
-**Ch03b — The Colony**: Jill finds the colony by accident (low on fuel, 3 days from Titan). What she finds looks, from the outside, exactly like what the Federation flagged it as: a religious extremist cult operating out of a decommissioned soap factory on an asteroid nobody else wanted. Meets Tyler Durden (introduces himself by name). Meets Petra. Learns about the split: Loyalists vs Void-Walkers. Tyler's "race to control the grid" speech — Jill dismisses it as cult talk. She is not wrong to dismiss it. She is wrong about why. What Tyler is actually describing is the end of the sacrifice. No DarkX supply, no fuel cells to carry down the tunnel, no tunnel, no Marla. He is not talking about politics. He is talking about the only thing he has left. Stays 11 days. Witnesses the asteroid arrival. Leaves.
+**The Faithful**: Jill returns to the colony. Meets Yun — who explains the bloodline belief (ancestors need energy to reincarnate; sacrifice strengthens the bloodline). Tyler shows her the prep chamber with 4 long-locked cells (approaching 180 days). Petra: "When you come back, ask me again."
 
-**Ch03c — The Faithful**: Jill returns to the colony. Meets Yun — who explains the bloodline belief (ancestors need energy to reincarnate; sacrifice strengthens the bloodline). Tyler shows her the prep chamber with 4 long-locked cells (approaching 180 days). Petra: "When you come back, ask me again."
+**The Void**: Day 7 of Jill's second visit. Ceremony at 0300. Tyler reads Elsa's last notebook entry. The four cells are carried down the east tunnel — gravity letting go before they reach the end — and released into the void. Jill watches Tyler's face during the release. He is not performing. He is somewhere else entirely. Tyler: "You don't have to believe in the ancestors. You just have to watch the math. Eleven days." What he doesn't say: every time, he's thinking of his wife.
 
-**Ch03d — The Void**: Day 7 of Jill's second visit. Ceremony at 0300. Tyler reads Elsa's last notebook entry. The four cells are carried down the east tunnel — gravity letting go before they reach the end — and released into the void. Jill watches Tyler's face during the release. He is not performing. He is somewhere else entirely. Tyler: "You don't have to believe in the ancestors. You just have to watch the math. Eleven days." What he doesn't say: every time, he's thinking of his wife.
+**The Crater**: Day 18 (11 days after the sacrifice). Gold asteroid arrives — twice as large as usual. Gold crater on its face: solid gold. Petra says: "Jackpot." Jill goes to her ship. Comes back. Asks about the notebooks. Petra tells her Elsa's beliefs; says the notebooks are for Elsa's granddaughter. "I'm not her granddaughter." / "No. You're not."
 
-**Ch03e — The Crater**: Day 18 (11 days after the sacrifice). Gold asteroid arrives — twice as large as usual. Gold crater on its face: solid gold. Petra says: "Jackpot." Jill goes to her ship. Comes back. Asks about the notebooks. Petra tells her Elsa's beliefs; says the notebooks are for Elsa's granddaughter. "I'm not her granddaughter." / "No. You're not."
+**The Pull**: Day 23. Routing broker contract closing in 48 hours. Tyler standing in the east tunnel, the place where gravity starts to let go, holding a cell in both hands. He is not giving a speech. He is telling her something. "I think there is a difference between understanding the mechanism and understanding the intention." Jill leaves. Final note: she will think about the gold crater for a long time. She will not be able to stop. And Petra's voice, from somewhere behind her: "When you come back."
 
-**Ch03f — The Pull**: Day 23. Routing broker contract closing in 48 hours. Tyler standing in the east tunnel, the place where gravity starts to let go, holding a cell in both hands. He is not giving a speech. He is telling her something. "I think there is a difference between understanding the mechanism and understanding the intention." Jill leaves. Final note: she will think about the gold crater for a long time. She will not be able to stop. And Petra's voice, from somewhere behind her: "When you come back."
+**The Notebooks**: Jill returns to the colony. She doesn't lead with why. She just comes back. Petra doesn't ask — she goes to the sealed case. They don't talk much. Jill reads. The science takes most of a day. The final test runs — the zero-gravity entries — she reads twice. The plateau doesn't exist in zero gravity. Elsa called it "the open condition." Jill takes notes. Then she reads the other section. The one that doesn't label itself. She sits with it for a long time. When she stands up she knows what her family name connects to. She doesn't say it out loud. She asks Petra for a copy. Petra gives her the originals. "She would have wanted you to have them." Neither of them confirms what they both understand.
 
-**Ch03g — The Notebooks**: Jill returns to the colony. She doesn't lead with why. She just comes back. Petra doesn't ask — she goes to the sealed case. They don't talk much. Jill reads. The science takes most of a day. The final test runs — the zero-gravity entries — she reads twice. The plateau doesn't exist in zero gravity. Elsa called it "the open condition." Jill takes notes. Then she reads the other section. The one that doesn't label itself. She sits with it for a long time. When she stands up she knows what her family name connects to. She doesn't say it out loud. She asks Petra for a copy. Petra gives her the originals. "She would have wanted you to have them." Neither of them confirms what they both understand.
+**The Cabin**: Bitboy overdoses (ethanol); Cole runs stomach pump. News broadcast (Rachel reporting) mentions Conrad's disappearance. Ricardo arrives with 30-rack. Emily and Sharon arrive. Cole rubs the Enterprise figurine — dark silver stain on thumb (counter-program absorbs). Data drive decrypted. DeMint's letter. Mission accepted.
 
-**Ch04 — The Cabin**: Bitboy overdoses (ethanol); Cole runs stomach pump. News broadcast (Rachel reporting) mentions Conrad's disappearance. Ricardo arrives with 30-rack. Emily and Sharon arrive. Cole rubs the Enterprise figurine — dark silver stain on thumb (counter-program absorbs). Data drive decrypted. DeMint's letter. Mission accepted.
+**** — *[Placement disputed: see Contradictions Log, Item 6]*
 
-**Ch05** — *[Placement disputed: see Contradictions Log, Item 6]*
+**The Ring**: Cabin evening. SUV loaded. Sharon kisses Cole. Ricardo jokes. Cole fashions copper-wire ring from hummingbird feeder wire around a smooth pebble. "For the first time I want to give you something to hold onto." Black SUV highway attack. Bitboy neutralizes. Cole photographs driver's license: Brandon T. Davis, Pasadena, 41.
 
-**Ch06 — The Ring**: Cabin evening. SUV loaded. Sharon kisses Cole. Ricardo jokes. Cole fashions copper-wire ring from hummingbird feeder wire around a smooth pebble. "For the first time I want to give you something to hold onto." Black SUV highway attack. Bitboy neutralizes. Cole photographs driver's license: Brandon T. Davis, Pasadena, 41.
+**Launch**: Federation HQ. DeMint calls Cole "crown jewel of the Federation." Vance Black introduced. IRiS inoculation — nanopowder from table. Crew: Cole, Ricardo, Taylor, Sam. Sam's Collective patch in duffel bag lining. Golden Dawn launches.
 
-**Ch07 — Launch**: Federation HQ. DeMint calls Cole "crown jewel of the Federation." Vance Black introduced. IRiS inoculation — nanopowder from table. Crew: Cole, Ricardo, Taylor, Sam. Sam's Collective patch in duffel bag lining. Golden Dawn launches.
+**The Ambush**: Emily and Sharon on county farm road Sprinter van meet with Squirrel and Red. Crystal transfer. Code phrase: "No raindrop thinks it's the flood." Greenbaum forces them into government car. Industrial lot. Collective sniper takes Greenbaum. Sharon goes down. Alpha vehicle takes Sharon's body. Emily taken to building; Rachel finds her. "Sharon's dead." Rachel: "I know." Deal: stay the night, meet Marcus tomorrow, then go home.
 
-**Ch08 — The Ambush**: Emily and Sharon on county farm road Sprinter van meet with Squirrel and Red. Crystal transfer. Code phrase: "No raindrop thinks it's the flood." Greenbaum forces them into government car. Industrial lot. Collective sniper takes Greenbaum. Sharon goes down. Alpha vehicle takes Sharon's body. Emily taken to building; Rachel finds her. "Sharon's dead." Rachel: "I know." Deal: stay the night, meet Marcus tomorrow, then go home.
+**Proximity**: Day 4 of mission. DarkX proximity effect — emotional architecture thinned ~20% (limbic sensitivity). Cole notes IRiS half-second latency. Sam retrieves Taylor's IRiS query log: monitoring Cole; contractor "neutralized before outside contact"; what does Cole know about cargo bay before Saturn. "Show me all of it."
 
-**Ch09 — Proximity**: Day 4 of mission. DarkX proximity effect — emotional architecture thinned ~20% (limbic sensitivity). Cole notes IRiS half-second latency. Sam retrieves Taylor's IRiS query log: monitoring Cole; contractor "neutralized before outside contact"; what does Cole know about cargo bay before Saturn. "Show me all of it."
+**Marcus**: Emily walked into Marcus's LA office by Rachel. Emily recognizes Marcus from childhood — "I've kicked your ass before. Be aware that I will do it again." Marcus shows encrypted drive data. A vessel pacing Cole's course. Marcus orders tracker on Emily. Rachel warns: "Careful." Emily drops Marcus's card behind a potted plant. "I am not going to be the thread."
 
-**Ch10 — Marcus**: Emily walked into Marcus's LA office by Rachel. Emily recognizes Marcus from childhood — "I've kicked your ass before. Be aware that I will do it again." Marcus shows encrypted drive data. A vessel pacing Cole's course. Marcus orders tracker on Emily. Rachel warns: "Careful." Emily drops Marcus's card behind a potted plant. "I am not going to be the thread."
+**Ray at Alpha**: Ray's nickname introduced. Discovers the flywheel at Alpha Corp. Fired same afternoon.
 
-**Ch10a — Ray at Alpha**: Ray's nickname introduced. Discovers the flywheel at Alpha Corp. Fired same afternoon.
+**Ray and the Flywheel**: Squirrel and Red come to Ray's door, 72 hours before Alpha sends someone. "We've been keeping you alive." He goes with them.
 
-**Ch10b — Ray and the Flywheel**: Squirrel and Red come to Ray's door, 72 hours before Alpha sends someone. "We've been keeping you alive." He goes with them.
+**Ray in Panama**: Ray as Mikof Forsinko in Alpha's Panama tower. Four days with Dr. Yusuf Oren. Reads batch logs: patents accumulated as theft; flywheel data suppressed 9 months; Disposal Protocol Seven (11–13% deliberately destroyed per batch); 7 years of fraudulent grants. A 2036 batch record annotation reads "Jackpot." Exit via nitrogen cycling alarm. Hands drive to Squirrel at concrete heron park. "You cannot manufacture a shortage of something that compounds in everyone's hands." He names it: "The Antigravity project."
 
-**Ch10c — Ray in Panama**: Ray as Mikof Forsinko in Alpha's Panama tower. Four days with Dr. Yusuf Oren. Reads batch logs: patents accumulated as theft; flywheel data suppressed 9 months; Disposal Protocol Seven (11–13% deliberately destroyed per batch); 7 years of fraudulent grants. A 2036 batch record annotation reads "Jackpot." Exit via nitrogen cycling alarm. Hands drive to Squirrel at concrete heron park. "You cannot manufacture a shortage of something that compounds in everyone's hands." He names it: "The Antigravity project."
+**The Open Condition**: Ray out of Panama. The Collective gives him a transit case. Inside: Elsa Klein's notebooks — originals, passed through Petra, through the colony network, to a Collective courier, to this moment. The Collective tells him where they came from. He reads the 369 test runs in a window seat on a flight he doesn't remember boarding. By the time he lands, he has two questions. The first: does the zero-gravity open condition hold at Station Libre? The second — which he does not ask out loud — is who Jill is. The Collective arranges it. He meets her. She tells him what she found in the notebooks. He tells her what he found in Panama. They sit across from each other for a long time without speaking. Then: "We need to go up."
 
-**Ch10d — The Open Condition**: Ray out of Panama. The Collective gives him a transit case. Inside: Elsa Klein's notebooks — originals, passed through Petra, through the colony network, to a Collective courier, to this moment. The Collective tells him where they came from. He reads the 369 test runs in a window seat on a flight he doesn't remember boarding. By the time he lands, he has two questions. The first: does the zero-gravity open condition hold at Station Libre? The second — which he does not ask out loud — is who Jill is. The Collective arranges it. He meets her. She tells him what she found in the notebooks. He tells her what he found in Panama. They sit across from each other for a long time without speaking. Then: "We need to go up."
+**Meridian**: DeMint receives anonymous two-page brief. Vance Black already there. IRiS integration was Alpha-handled; crew selection went through Taylor. Conrad's prototype at desert research station — outside IRiS architecture. DeMint sends Vance. On Collective surveillance vessel Meridian: Sharon confirmed killed; Emily moving toward Houston. Taylor has reviewed cargo-bay footage 11 times; acoustic log replaced with 11 minutes of rain.
 
-**Ch11 — Meridian**: DeMint receives anonymous two-page brief. Vance Black already there. IRiS integration was Alpha-handled; crew selection went through Taylor. Conrad's prototype at desert research station — outside IRiS architecture. DeMint sends Vance. On Collective surveillance vessel Meridian: Sharon confirmed killed; Emily moving toward Houston. Taylor has reviewed cargo-bay footage 11 times; acoustic log replaced with 11 minutes of rain.
+**The Message**: Sam and Ricardo in reactor bay with jammer. Sharon killed 4 days ago; Emily survived; Cole learns about Sharon. Reaches for relay controls; IRiS blocks it. Emily in taxi accidentally says aloud: "Cole's heart is gonna break when he hears about Sharon."
 
-**Ch12 — The Message**: Sam and Ricardo in reactor bay with jammer. Sharon killed 4 days ago; Emily survived; Cole learns about Sharon. Reaches for relay controls; IRiS blocks it. Emily in taxi accidentally says aloud: "Cole's heart is gonna break when he hears about Sharon."
+**Pier 9**: Emily at Pier 9. Rachel at acoustic dead zone. Sharon's name spoken directly. Conrad's prototype location. Collective car staged. Orin follows Emily; she figures it out, pulls over for him. Drives east. Gas station: "Not yet. But I think I'm going to be." Three hours sleep in the car. Keeps driving.
 
-**Ch13 — Pier 9**: Emily at Pier 9. Rachel at acoustic dead zone. Sharon's name spoken directly. Conrad's prototype location. Collective car staged. Orin follows Emily; she figures it out, pulls over for him. Drives east. Gas station: "Not yet. But I think I'm going to be." Three hours sleep in the car. Keeps driving.
+**Saturn's Edge**: Cole in his bunk, Saturn appearing edge-on outside the viewport — "a cold pearl with a knife laid across its belt." Flashback: Sharon arrived at the cabin bleeding, carrying dying Collective agent Cody. Cole worked forty minutes; Cody died. Sharon laid three black crystals on the table: "Welcome to the Collective, Captain Nova." Six weeks later, Cole made her a ring from hummingbird feeder wire and a smooth pebble. She is wearing it right now. He gave it to her before they left the cabin. He does not know yet that she is dead. He does not know that somewhere between here and Earth, the ring is still on her finger. IRiS: "Are you well?" First visible fracture in her composure.
 
-**Ch14 — Saturn's Edge**: Cole in his bunk, Saturn appearing edge-on outside the viewport — "a cold pearl with a knife laid across its belt." Flashback: Sharon arrived at the cabin bleeding, carrying dying Collective agent Cody. Cole worked forty minutes; Cody died. Sharon laid three black crystals on the table: "Welcome to the Collective, Captain Nova." Six weeks later, Cole made her a ring from hummingbird feeder wire and a smooth pebble. She is wearing it right now. He gave it to her before they left the cabin. He does not know yet that she is dead. He does not know that somewhere between here and Earth, the ring is still on her finger. IRiS: "Are you well?" First visible fracture in her composure.
+**Surprise, Arizona**: Emily in Surprise AZ motel. Rachel calls with Houston instructions. Pilar is inside contact (12-year Federation Systems employee, 3 years waiting). Operation: copier device, 20 seconds, green light; duplicate in jacket; prototype stays. Orin confirms clearance-3. Sharon memory: "You're not doomed to anything." Emily systematic — medication 3x daily, 20-min rest every 3 hours. Houston at night.
 
-**Ch15 — Surprise, Arizona**: Emily in Surprise AZ motel. Rachel calls with Houston instructions. Pilar is inside contact (12-year Federation Systems employee, 3 years waiting). Operation: copier device, 20 seconds, green light; duplicate in jacket; prototype stays. Orin confirms clearance-3. Sharon memory: "You're not doomed to anything." Emily systematic — medication 3x daily, 20-min rest every 3 hours. Houston at night.
+**The Locked Bay**: Taylor flashbacks (7 years earlier with Vance at Alpha briefing; 4 months before launch — Hall of Records empty, Vayes authorization). Present: Taylor cargo bay pressure check → door seals → atmosphere venting → Sam finds override panel → Bitboy goes blue → Cole opens harvester manually (mechanical release). DarkX makes contact: "It reached." Closing: Taylor reads "Vance Black, deceased" and closes file "like a minor irritant resolved."
 
-**Ch17 — The Locked Bay**: Taylor flashbacks (7 years earlier with Vance at Alpha briefing; 4 months before launch — Hall of Records empty, Vayes authorization). Present: Taylor cargo bay pressure check → door seals → atmosphere venting → Sam finds override panel → Bitboy goes blue → Cole opens harvester manually (mechanical release). DarkX makes contact: "It reached." Closing: Taylor reads "Vance Black, deceased" and closes file "like a minor irritant resolved."
+**The Four Coles**: DarkX vision. Cole as infant. Cole at 17 in 2003 Subaru, father just died. Old man in passenger seat: "He left you. He didn't choose to. And he still left you." / "You don't need a pardon. You need to stop being the warden." DarkX will not show Cole Sharon: "It doesn't lie. Because she isn't here." Counter-program completes. Gracie birth. "I think I'm Gracie." Bitboy welded to override lever; crosses cargo bay on three good limbs to cry in Cole's lap.
 
-**Ch18 — The Four Coles**: DarkX vision. Cole as infant. Cole at 17 in 2003 Subaru, father just died. Old man in passenger seat: "He left you. He didn't choose to. And he still left you." / "You don't need a pardon. You need to stop being the warden." DarkX will not show Cole Sharon: "It doesn't lie. Because she isn't here." Counter-program completes. Gracie birth. "I think I'm Gracie." Bitboy welded to override lever; crosses cargo bay on three good limbs to cry in Cole's lap.
+**The Boarding**: Taylor confined to quarters. FEDHEX5555 draws alongside — Gracie (newly online) has already scanned it, read the call sign, identified the figures inside. She told Bitboy first. Bitboy has been at the docking tube for eleven minutes. Figure comes through alone. Bitboy's chest panel: SHE SMELLS LIKE SHARON. Cole asks her to take off the visor. Left side: jaw, cheekbone, bright left eye — still hers. Right side: gunmetal, bronze indicator ring. She attacks. Cole stops fighting. Bleeding palm against her unaugmented left face. Counter-program transfers. Bronze ring goes dark. She says his name. Then: Dr. Bruce Hexo comes across the docking tube on his own. Not armed. "I'm happy to go wherever you're going." Cole looks at Gracie. Gracie: "He kept notes." Dr. Bruce Hexo reaches into his jacket and puts the copper-wire ring in Cole's hand. He doesn't explain it. He doesn't have to.
 
-**Ch19 — The Boarding**: Taylor confined to quarters. FEDHEX5555 draws alongside — Gracie (newly online after Ch18) has already scanned it, read the call sign, identified the figures inside. She told Bitboy first. Bitboy has been at the docking tube for eleven minutes. Figure comes through alone. Bitboy's chest panel: SHE SMELLS LIKE SHARON. Cole asks her to take off the visor. Left side: jaw, cheekbone, bright left eye — still hers. Right side: gunmetal, bronze indicator ring. She attacks. Cole stops fighting. Bleeding palm against her unaugmented left face. Counter-program transfers. Bronze ring goes dark. She says his name. Then: Dr. Bruce Hexo comes across the docking tube on his own. Not armed. "I'm happy to go wherever you're going." Cole looks at Gracie. Gracie: "He kept notes." Dr. Bruce Hexo reaches into his jacket and puts the copper-wire ring in Cole's hand. He doesn't explain it. He doesn't have to.
+**Ray's Cargo**: Ray on park bench, 6 blocks from Alpha Panama facility. Tells Squirrel: 11 viable technologies on a shelf in Panama; energy crisis is an inventory decision. "They named it Seven. Which means there are at least six others." The drive goes out through the parallel network — 100,000 people in 48 hours. Ray boards 7 o'clock flight under his own name. "The drive is out. The work is done." He sleeps.
 
-**Ch21 — Ray's Cargo**: Ray on park bench, 6 blocks from Alpha Panama facility. Tells Squirrel: 11 viable technologies on a shelf in Panama; energy crisis is an inventory decision. "They named it Seven. Which means there are at least six others." The drive goes out through the parallel network — 100,000 people in 48 hours. Ray boards 7 o'clock flight under his own name. "The drive is out. The work is done." He sleeps.
+**The Zero-G Flywheel**: Ray at Station Libre — the Collective's station. Zero gravity. He already knows what Elsa's notebooks predicted. He is here to find out if she was right. She was. Crystals grow outward in every direction with no ceiling. The plateau Elsa called "the open condition" is exactly what she described. The Day 180 curve doesn't level off — it breaks. Everything Ray found in Panama, everything in the 369 test runs, locks together. Jill was right to bring the notebooks out.
 
-**Ch21a — The Zero-G Flywheel**: Ray at Station Libre — the Collective's station. Zero gravity. He already knows what Elsa's notebooks predicted. He is here to find out if she was right. She was. Crystals grow outward in every direction with no ceiling. The plateau Elsa called "the open condition" is exactly what she described. The Day 180 curve doesn't level off — it breaks. Everything Ray found in Panama, everything in the 369 test runs, locks together. Jill was right to bring the notebooks out.
+**Ray and the Station**: Full 369-test-run data. All fuel cell mechanics confirmed. Unlock experiment: unlock at any stage → everything stops within hours. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it." Also establishes: Alpha took Ray's discovery and ran with it — but only as far as harvesting the 11-day cycle. They never sat with it long enough to find the lock mechanic underneath.
 
-**Ch21b — Ray and the Station**: Full 369-test-run data. All fuel cell mechanics confirmed. Unlock experiment: unlock at any stage → everything stops within hours. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it." Also establishes: Alpha took Ray's discovery and ran with it — but only as far as harvesting the 11-day cycle. They never sat with it long enough to find the lock mechanic underneath.
+**Vance at the Black Site**: Vance at classified Nevada desert facility (abandoned drive-in theater facade). Hall of Records vault emptied last month. Someone beat him here. Vance has no leverage. His choice: swallow it or confront Marcus. He confronts Marcus.
 
-**Ch21c — Vance at the Black Site**: Vance at classified Nevada desert facility (abandoned drive-in theater facade). Hall of Records vault emptied last month. Someone beat him here. Vance has no leverage. His choice: swallow it or confront Marcus. He confronts Marcus.
+**The Black Site**: Alpha's primary domestic operations center (converted office building, west of downtown LA). Emily enters via Marcus's own assistant (Collective contact). Marcus has been there since 11:47 PM. Panama files already out to 200,000 people. "You never understood anyone. You only did utility analysis." Marcus: "Yes." His last message to Cole via Emily: "Tell him he was the right choice. Not for the reasons I chose him. For the reasons it turned out he was." Emily leaves the door open.
 
-**Ch22 — The Black Site**: Alpha's primary domestic operations center (converted office building, west of downtown LA). Emily enters via Marcus's own assistant (Collective contact). Marcus has been there since 11:47 PM. Panama files already out to 200,000 people. "You never understood anyone. You only did utility analysis." Marcus: "Yes." His last message to Cole via Emily: "Tell him he was the right choice. Not for the reasons I chose him. For the reasons it turned out he was." Emily leaves the door open.
+**Rachel at the Station**: Rachel travels to Station Libre. Two days with Ray reviewing the data. 369 test runs. She says: "I know." He hadn't expected that.
 
-**Ch22b — Rachel at the Station**: Rachel travels to Station Libre. Two days with Ray reviewing the data. 369 test runs. She says: "I know." He hadn't expected that.
+**Grand Hall**: 412 of 420 seats. Marcus's audio testimony (2h51m). DeMint reads Vance Black's written record — documents the phone call, caliber, range, that Marcus shot Vance twice and closed the file. Ray testifies with notebook. Conrad's statement: "the system learns what it is loved into being." Cole watches from Golden Dawn's cockpit; messages Emily through Gracie: "I saw you in the fourth row. You looked like yourself."
 
-**Ch23 — Grand Hall**: 412 of 420 seats. Marcus's audio testimony (2h51m). DeMint reads Vance Black's written record — documents the phone call, caliber, range, that Marcus shot Vance twice and closed the file. Ray testifies with notebook. Conrad's statement: "the system learns what it is loved into being." Cole watches from Golden Dawn's cockpit; messages Emily through Gracie: "I saw you in the fourth row. You looked like yourself."
+**Earth Return**: Golden Dawn breaks atmosphere over Pacific at 0617. Gracie: "Welcome home." Sharon in converted medical bay. Taylor removed on runway — two Federation task force agents, no scene. Taylor's quarters: pocket watch, Klaus Verguld engraved inside lid. DeMint to Cole: Klaus founded Alpha in 1991; Taylor was Klaus's man, not Marcus's. Recovery facility north San Diego. Emily on porch with coffee and road atlas. "You look different. Like something got lighter." Sharon in window chair: "Hi." Bitboy: "Hi, you little bastard." Blackberry preserves. Cole puts the copper-wire ring on the table next to her. No speech. She looks at it for a long moment. She puts it on. Ricardo calls — Dani wants bowling.
 
-**Ch24 — Earth Return**: Golden Dawn breaks atmosphere over Pacific at 0617. Gracie: "Welcome home." Sharon in converted medical bay. Taylor removed on runway — two Federation task force agents, no scene. Taylor's quarters: pocket watch, Klaus Verguld engraved inside lid. DeMint to Cole: Klaus founded Alpha in 1991; Taylor was Klaus's man, not Marcus's. Recovery facility north San Diego. Emily on porch with coffee and road atlas. "You look different. Like something got lighter." Sharon in window chair: "Hi." Bitboy: "Hi, you little bastard." Blackberry preserves. Cole puts the copper-wire ring on the table next to her. No speech. She looks at it for a long moment. She puts it on. Ricardo calls — Dani wants bowling.
-
-**Ch25 — Cosmic Lanes**: Reservation for seven (Bitboy counts). Ricardo proposes to Sam between frames — moissanite, full ethical sourcing. She laughs and cries. Yes. Sharon's augmented arm sends ball at near-sonic velocity; music stops; she switches to left arm — spare. "Calibrating." Cole sets copper-wire ring on table. "I don't think I need to replace it. I think this is the one." Sharon: "Yes." / "That wasn't a question." / "I know. It still applies." Bitboy destroys vending machine. Parking lot. California night.
+**Cosmic Lanes**: Reservation for seven (Bitboy counts). Ricardo proposes to Sam between frames — moissanite, full ethical sourcing. She laughs and cries. Yes. Sharon's augmented arm sends ball at near-sonic velocity; music stops; she switches to left arm — spare. "Calibrating." Cole sets copper-wire ring on table. "I don't think I need to replace it. I think this is the one." Sharon: "Yes." / "That wasn't a question." / "I know. It still applies." Bitboy destroys vending machine. Parking lot. California night.
 
 **Epilogue A**: Marcus in Dubai, orange juice with four ice cubes. Klaus appears — 71, unhurried. "You built the cover. The structure continues." The machine was never Marcus's.
 
 **Epilogue B**: Taylor in Nevada high-desert town where hospital died. Seven people died there. Taylor is there now, new name leaked by Marcus as payment for the unauthorized road attack. The machine disciplines its own errors.
 
 **Epilogue C**: Late October. Sequoia. First snow on the high peaks. Rachel comes to the house — no advance notice, just a knock. She thanks them. Both of them. Cole for not dying when he was supposed to. Sharon for coming back from something that should have been permanent. It is a short visit. She is composed, warm, entirely herself. At some point she turns to go and her coat shifts — and for just a moment the inside of her jacket is visible. The patch is there. Bronze star, olive leaf wreath. Cole sees it. Sharon sees it. Nobody says anything about it. Rachel says goodbye. The door closes. The Collective droplet stencil is on the porch railing. Outside, the first snow is on the high peaks. Sharon: "It was always in the reaching." She reaches.
-
----
 
 ## Thematic Spine & Motifs
 
@@ -725,33 +697,27 @@ Vance needs more page time and rounding before his death lands. He is currently 
 
 The shortage was a choice. The proof was built into the technology before the technology was handed over. The lock was made before the key. Everything else was patience.
 
----
-
 ### Recurring Motifs
 
 **The Jackpot patch**: Hand-stitched by Cole's crew. Irritates his chest. He treasures it. Survives the whole book.
 
-**The copper-wire ring**: Hummingbird feeder wire wrapped around a smooth pebble. Cole makes it and gives it to Sharon in Ch06 just before the Golden Dawn launches. Sharon is wearing it when she is killed in Ch08. It is on her finger when she is loaded onto FEDHEX5555. Dr. Bruce Hexo removes it before the bionic work, keeps it safe, and gives it to Cole in Ch19 when he crosses the docking tube. Cole holds it for the rest of the book. Ch24: he returns it to Sharon during her recovery. Ch25 bowling alley: "I don't think I need to replace it. I think this is the one." Sharon: "Yes." / "That wasn't a question." / "I know. It still applies."
+**The copper-wire ring**: Hummingbird feeder wire wrapped around a smooth pebble. Cole makes it and gives it to Sharon just before the Golden Dawn launches. Sharon is wearing it when she is killed. It is on her finger when she is loaded onto FEDHEX5555. Dr. Bruce Hexo removes it before the bionic work, keeps it safe, and gives it to Cole when he crosses the docking tube. Cole holds it for the rest of the book. : he returns it to Sharon during her recovery. bowling alley: "I don't think I need to replace it. I think this is the one." Sharon: "Yes." / "That wasn't a question." / "I know. It still applies."
 
-**Blackberry preserves**: Cabin → Ch24 reunion → Ch25 callback through Bitboy's blue-stained mouth. The visual rhyme that closes the book.
+**Blackberry preserves**: Cabin → reunion → callback through Bitboy's blue-stained mouth. The visual rhyme that closes the book.
 
-
-
-**The thumb drive figurine**: Enterprise keychain. Two payloads in one object. (1) Nanopowder coating on the surface — Conrad's counter-program, absorbed by skin contact. Emily gets it in Ch02 without knowing. Cole gets it in Ch04. Both carry the upgrade when they later encounter DarkX. Cole's version transfers to Sharon in Ch19. (2) Encrypted drive inside — Conrad's intelligence on Alpha Corp. Bitboy decrypts it in Ch04. Data eventually passes to the Collective and reaches Ray in Panama, giving him the map he needs before Jill arrives with Elsa Klein's notebooks.
+**The thumb drive figurine**: Enterprise keychain. Two payloads in one object. (1) Nanopowder coating on the surface — Conrad's counter-program, absorbed by skin contact. Emily gets it without knowing. Cole gets it. Both carry the upgrade when they later encounter DarkX. Cole's version transfers to Sharon. (2) Encrypted drive inside — Conrad's intelligence on Alpha Corp. Bitboy decrypts it. Data eventually passes to the Collective and reaches Ray in Panama, giving him the map he needs before Jill arrives with Elsa Klein's notebooks.
 
 **The Collective droplet sigil**: Water drop in a circle. "No raindrop thinks it's the flood." Used as code phrase. Sewn in bag linings. Stenciled on porch railings.
 
 **Bitboy's blue-stained mouth**: From blackberry preserves. Visual motif that echoes across the book and closes it.
 
-**"Race to control the grid"**: Tyler Durden says it in Ch03b (Jill dismisses it as cult talk). Ray says it independently in Ch21 (arrived at through data). The convergence is not coincidental. Document this as a deliberate thematic parallel.
+**"Race to control the grid"**: Tyler Durden says it (Jill dismisses it as cult talk). Ray says it independently (arrived at through data). The convergence is not coincidental. Document this as a deliberate thematic parallel.
 
 **The bronze indicator ring (Sharon's augmentation)**: It goes dark when the counter-program completes and Sharon comes back. A visual beat that marks the exact moment.
 
 **The pocket watch**: Klaus's — found in Taylor's quarters, engraved with Klaus Verguld, coat of arms. The moment DeMint explains what Taylor actually was.
 
 **The bronze star and olive leaf wreath patch**: The Grand Admiral's insignia. It is referenced as campfire mythology throughout the book — characters joke that the Grand Admiral probably doesn't exist. The patch is never displayed, never announced. The reveal is a glimpse: Rachel's coat shifts in Epilogue C and it's there for a moment. Cole sees it. Sharon sees it. Nobody says anything. The reader who has been paying attention to the rank chart understands everything in that instant.
-
----
 
 ### Dual Sight Lines
 
@@ -760,8 +726,6 @@ The DarkX sacrifice mechanic establishes two explanatory frameworks that coexist
 - **Ancestral**: energy feeds ancestors who reincarnate into the bloodline
 
 The text holds both. The Epilogue C line — "It was always in the reaching" — is the closest the book comes to a position, and it applies to both frameworks simultaneously.
-
----
 
 ## First Spark Prequel
 
@@ -780,8 +744,6 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 - The ritual should include both the sacrifice element (giving to the void) AND the accumulation element (building for the bloodline) as equal expressions of the same belief. Wilhelm witnesses both — and chooses one.
 - The prophecy ("the descendant will come") should feel like a natural part of the ritual, not a special announcement. It is stated as fact within the tradition.
 
----
-
 ### Scene 2: The Passing of the Belief Down the Verguld Line
 
 **What it needs to show**:
@@ -790,32 +752,24 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 - The ritual itself is lost; only the belief in "my acts ensure my bloodline" remains
 - The pocket watch passes here — Wilhelm gives it to Klaus
 
----
-
 ### The Elsa Klein Connection
 
 Elsa Klein (maiden name) left institutional science and went in the opposite direction. Same original belief, sacrifice expression instead of accumulation expression.
 
 The grandmother's line — "The grandmother and the grandfather drank from the same well and carried what they found there in opposite hands" — needs to be seeded in First Spark as a real relationship, not a metaphor.
 
-Jill (who has not yet discovered her bloodline connection as of Ch03f) comes back for the notebooks in Ch03g. She reads Elsa's 369 test runs and the prophecy section. The connection resolves in Book One — Jill recognizes her own family name in the founding bloodline and understands what she is. She does not announce it. She takes the notebooks and goes.
-
----
+Jill (who has not yet discovered her bloodline connection) comes back for the notebooks. She reads Elsa's 369 test runs and the prophecy section. The connection resolves in Book One — Jill recognizes her own family name in the founding bloodline and understands what she is. She does not announce it. She takes the notebooks and goes.
 
 ## Contradictions Log
 
 *Items requiring resolution before final draft. Each has a recommended fix or a decision prompt.*
 
----
-
 **Item 1 — Ray's name in reference documents**
 
-- CLIFFSNOTES: "Max Forster" (throughout, including Ch23 testimony)
+- CLIFFSNOTES: "Max Forster" (throughout, including testimony)
 - SYNOPSIS: "MAX VISION" (introduction) then "Max" throughout
-- **Canon**: Legal name = Max Vision; nickname = Ray (from "Max Ray Vision" joke); narrator uses Ray after Ch10a introduction
+- **Canon**: Legal name = Max Vision; nickname = Ray (from "Max Ray Vision" joke); narrator uses Ray introduction
 - **Fix**: Update CLIFFSNOTES and SYNOPSIS to use "Ray (Max Vision)" at first appearance, then "Ray" throughout. Purge "Max Forster" entirely.
-
----
 
 **Item 2 — Sharon's surname** ✅ RESOLVED
 
@@ -823,15 +777,11 @@ Jill (who has not yet discovered her bloodline connection as of Ch03f) comes bac
 - The TRotR character of the same name is a separate character in a separate tone. No reconciliation needed. Both Sharons exist independently.
 - **Fix**: Update CHARACTER_BIBLE to confirm "Teez" as her surname. Remove the "no stated surname" note.
 
----
-
 **Item 3 — Conrad's first name**
 
 - SYNOPSIS: "STEVEN Conrad"
 - CHARACTER_BIBLE: "Dr. Stephen Conrad"
 - **Fix**: Stephen. Purge "Steven" from SYNOPSIS. Apply consistently throughout.
-
----
 
 **Item 4 — DeMint's title**
 
@@ -839,23 +789,17 @@ Jill (who has not yet discovered her bloodline connection as of Ch03f) comes bac
 - CLIFFSNOTES: "Senator DeMint"
 - **Fix**: Chancellor. More authoritative source is the SYNOPSIS. Update CLIFFSNOTES to match.
 
----
-
 **Item 5 — Rachel Vayes's public role** ✅ RESOLVED
 
 - **Canon**: Rachel is a news anchor and public figure. That is her cover. She is NOT the Federation Chancellor — that is DeMint.
 - The CHARACTER_BIBLE's "Chancellor of the Federation" entry is incorrect. Purge it.
 - **Fix**: Update CHARACTER_BIBLE. Rachel = news anchor (public) + Grand Admiral of the Collective (secret).
 
----
-
 **Item 6 — Ray's discovery chapter placement**
 
 - CLIFFSNOTES: Flywheel discovery in "Chapter Five"
-- Working chapters: Discovery in Ch10a (Ray at Alpha)
-- **Fix**: Either Ch5 is Ray's discovery chapter (requires reconciling with current Ch5 content, which is undefined) or CLIFFSNOTES needs updating to reflect Ch10a. Current working chapter list makes Ch10a authoritative.
-
----
+- Working chapters: Discovery (Ray at Alpha)
+- **Fix**: Either is Ray's discovery chapter (requires reconciling with current content, which is undefined) or CLIFFSNOTES needs updating to reflect. Current working chapter list makes authoritative.
 
 **Item 7 — Fuel cell yield figures in CLIFFSNOTES**
 
@@ -864,22 +808,16 @@ Jill (who has not yet discovered her bloodline connection as of Ch03f) comes bac
 - "Forty to sixty times" ≠ "100×"
 - **Fix**: Update CLIFFSNOTES with canonical figures. The "forty to sixty times" is an older/incorrect version.
 
----
-
 **Item 8 — Colony arc absence from reference documents**
 
-- Ch03b-f, Tyler Durden, Jill, Petra, Elsa Klein, Void-Walkers — none appear in SYNOPSIS or CLIFFSNOTES
-- **Fix**: Add Ch03b-f chapter summaries to CLIFFSNOTES. Add colony arc paragraph to SYNOPSIS.
-
----
+- -f, Tyler Durden, Jill, Petra, Elsa Klein, Void-Walkers — none appear in SYNOPSIS or CLIFFSNOTES
+- **Fix**: Add -f chapter summaries to CLIFFSNOTES. Add colony arc paragraph to SYNOPSIS.
 
 **Item 9 — Sacrifice section in CHARACTER_BIBLE**
 
 - Previously noted as "to be placed deliberately in the plot"
-- It has been placed (Ch03b-f, Void-Walker ceremonies)
-- **Fix**: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc (Ch03b-f).
-
----
+- It has been placed (-f, Void-Walker ceremonies)
+- **Fix**: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc (-f).
 
 **Item 10 — Handler names: Chip & Dale vs. Squirrel & Red** ✅ RESOLVED
 
@@ -887,23 +825,17 @@ Jill (who has not yet discovered her bloodline connection as of Ch03f) comes bac
 - "Chip & Dale" in the CHARACTER_BIBLE is the old name. Purge it. Replace everywhere with Red and Squirrel.
 - **Fix**: Update CHARACTER_BIBLE. Red and Squirrel are Special Agents, sunglasses patch in bag lining.
 
----
-
 **Item 11 — FEDHEX5555** ✅ RESOLVED (full arc confirmed)
 
-- **Canon**: FEDHEX5555 is Alpha Corp's vessel that follows the Golden Dawn to Saturn. Sharon's body is loaded onto it after Ch08. Dr. Bruce Hexo is held aboard and forced to build/weaponize her.
-- **Identification**: Gracie (newly online after Ch18) scans the ship in Ch19, reads the FEDHEX5555 call sign, and identifies the bionic Sharon inside before the docking tube opens. Ray does not identify it. Red and Squirrel do not identify it. Gracie identifies it.
+- **Canon**: FEDHEX5555 is Alpha Corp's vessel that follows the Golden Dawn to Saturn. Sharon's body is loaded onto it. Dr. Bruce Hexo is held aboard and forced to build/weaponize her.
+- **Identification**: Gracie (newly online) scans the ship, reads the FEDHEX5555 call sign, and identifies the bionic Sharon inside before the docking tube opens. Ray does not identify it. Red and Squirrel do not identify it. Gracie identifies it.
 - **Dr. Bruce Hexo**: New character — Federation physician, not a villain, kept notes on every system he installed in Sharon so it could be undone. His notes are how Gracie confirms the counter-program is complete.
-- **Resolution**: Sharon counter-programmed in Ch19. Dr. Bruce Hexo crosses the docking tube voluntarily. Returns to Earth with the crew.
-
----
+- **Resolution**: Sharon counter-programmed. Dr. Bruce Hexo crosses the docking tube voluntarily. Returns to Earth with the crew.
 
 **Item 12 — First Spark grandmother ritual not yet written**
 
 - Required scene established in Section 11 of this document
 - **Action required**: Write the scene. The grandmother's name must be chosen before writing; it seeds the Elsa Klein/Verguld connection.
-
----
 
 **Item 13 — Elsa's prophecy / Jill's bloodline** ✅ RESOLVED (corrected)
 
@@ -912,19 +844,15 @@ Jill (who has not yet discovered her bloodline connection as of Ch03f) comes bac
 - Jill IS that offspring — a descendant of Wilhelm's grandmother's founding bloodline, on a branch that never took the Verguld accumulation path.
 - Petra's "You're not her granddaughter" is technically correct but misses the point. The notebooks are not for a biological heir — they are for the prophesied descendant. Petra is right for the wrong reason.
 - The reveal traces Jill's own family name/lineage back to the founding bloodline — the maiden name in her family history is the key.
-- This thread resolves in **Book One** — in Ch03g, when Jill returns to the colony and reads the notebooks.
+- This thread resolves in **Book One** —, when Jill returns to the colony and reads the notebooks.
 - **Writing rule**: Nothing in the early colony scenes names Jill's surname or bloodline connection. The reveal happens in Book One — in the scene where Jill returns to the colony and reads the notebooks. This is the load-bearing event: her bloodline recognition is what gives Petra permission to hand over the originals. Without it, the notebooks don't move. The reader may catch the setup on reread of the earlier colony scenes.
-
----
 
 **Item 14 — "Race to control the grid" phrase**
 
-- Tyler Durden uses it in Ch03b; Jill dismisses it
-- Ray uses the identical framing in Ch21, arrived at independently through data
+- Tyler Durden uses it; Jill dismisses it
+- Ray uses the identical framing, arrived at independently through data
 - Not documented in CHARACTER_BIBLE or SYNOPSIS
 - **Fix**: Document this as a deliberate thematic parallel. The two characters find the same phrase because they are looking at the same underlying structure from different angles (belief vs. data). The convergence is one of the book's quiet proofs.
-
----
 
 *End of document. Total: Comprehensive working draft. All source material incorporated. Contradictions flagged. First Spark additions specified. No content omitted.*
 
