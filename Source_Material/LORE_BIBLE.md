@@ -217,44 +217,49 @@ The populace
 
 The Collective is not an army. It is a living network — volunteers, sympathizers, specialists, and true believers who found each other through the grey market that grew up alongside Alpha Corp's rise. The rank structure reflects function, not seniority. You don't climb it through time served. You climb it through what you do.
 
+ALL COLLECTIVE RANK SYMBOLS ARE PATCHES. They are never worn openly.
+Every patch is hidden — sewn inside a bag lining, inside a jacket, inside clothing.
+They signal rank only to other Collective members who know to look.
+No Collective member displays rank on the outside.
+
 ```
 TIER 1 — INFORMANTS  (intelligence gathering)
-  Informant          [symbol: Collective water droplet]
+  Informant          [patch: Collective water droplet — inside jacket lining]
 
 TIER 2 — OPERATORS  (move intelligence; trusted couriers)
-  Jr. Operator       [symbol: pin — small, plain]
-  Sr. Operator       [symbol: pin — small, plain]
-  Lead Operator      [symbol: pin — prominent]
+  Jr. Operator       [patch: small plain circle — inside bag lining]
+  Sr. Operator       [patch: small plain circle — inside bag lining]
+  Lead Operator      [patch: prominent circle — inside jacket lining]
 
-TIER 3 — TECHNICIANS  (symbol: wrench — the doers)
-  Jr. Technician     [symbol: wrench pin]
-  Sr. Technician     [symbol: wrench pin]
-  Lead Technician    [symbol: wrench pin — gold]
+TIER 3 — TECHNICIANS  (the doers)
+  Jr. Technician     [patch: wrench — inside bag lining]
+  Sr. Technician     [patch: wrench — inside bag lining]
+  Lead Technician    [patch: wrench — gold thread, inside jacket lining]
 
-TIER 4 — AGENTS  (symbol: sunglasses — move people and resources)
-  Jr. Agent          [symbol: sunglasses patch]
-  Sr. Agent          [symbol: sunglasses patch — tinted]
-  Special Agent      [symbol: sunglasses patch — dark, full frame]
+TIER 4 — AGENTS  (move people and resources)
+  Jr. Agent          [patch: sunglasses — inside bag lining]
+  Sr. Agent          [patch: sunglasses, tinted — inside bag lining]
+  Special Agent      [patch: sunglasses, dark full frame — inside bag lining]
 
-TIER 5 — NAVIGATORS  (symbol: compass — lead missions and operations)
-  2nd Navigator      [symbol: compass]
-  1st Navigator      [symbol: compass — detailed]
-  Chief Navigator    [symbol: compass — ornate, gold]
+TIER 5 — NAVIGATORS  (lead missions and operations)
+  2nd Navigator      [patch: compass — inside jacket lining]
+  1st Navigator      [patch: compass, detailed — inside jacket lining]
+  Chief Navigator    [patch: compass, ornate gold — inside jacket lining]
 
-TIER 6 — COMMANDERS  (symbol: star — move the big pieces)
-  2nd Commander      [symbol: star — silver]
-  1st Commander      [symbol: star — gold]
-  Chief Commander    [symbol: star — crimson]
+TIER 6 — COMMANDERS  (move the big pieces)
+  2nd Commander      [patch: star, silver — inside jacket lining]
+  1st Commander      [patch: star, gold — inside jacket lining]
+  Chief Commander    [patch: star, crimson — inside jacket lining]
 
 TIER 7 — SINGULAR
-  Grand Admiral      [symbol: bronze star + olive leaf wreath]
+  Grand Admiral      [patch: bronze star + olive leaf wreath — location: known only at Command level]
 ```
 
 **What each tier does:**
 - **Informants**: The eyes and ears. People in every building, agency, and shipping dock who notice things and pass them up the chain. They may not know they're working for the Collective at all — some just pass along what they see to someone they trust. Sharon operated at this level for years — black-market parts, dead drops, handlers — without ever carrying the patch.
-- **Operators**: Trusted couriers. They move intelligence from where it's gathered to where it needs to go. They know more than Informants about the Collective's structure but are not yet operational in the field. The pin is small and plain on purpose.
+- **Operators**: Trusted couriers. They move intelligence from where it's gathered to where it needs to go. They know more than Informants about the Collective's structure but are not yet operational in the field. The patch is small and plain on purpose — sewn inside a bag lining. You wouldn't find it unless you knew what you were looking for.
 - **Technicians**: The doers. Wrench is the right symbol — they build, hack, steal, and redistribute. Alpha Corp equipment, suppressed technology, resources that should belong to the public. The Technicians are the Robin Hood arm of the Collective. Conrad's nanoparticle work was funded through Technician-level cells without his knowledge. Sam Drummond belongs here in spirit.
-- **Agents**: Sunglasses. They set up operations and move people and resources — people like Ray, situations like getting someone extracted or inserted. Red and Squirrel are Special Agents. The patch goes inside the bag lining, never on the lapel.
+- **Agents**: Sunglasses. They set up operations and move people and resources — people like Ray, situations like getting someone extracted or inserted. Red and Squirrel are Special Agents. All patches are hidden. Every rank. The sunglasses patch goes inside the bag lining. Never on the lapel. Never visible to anyone who isn't already Collective.
 - **Navigators**: Compass. They lead missions and operations. They see the whole board. They know who is and isn't who they appear to be. Rachel's reach operates at this level even before the Grand Admiral reveal. Navigators know the Grand Admiral exists. They don't say so publicly.
 - **Commanders**: Star. There are not many. They move the big pieces — the long-game plays, the operations that span months or years, the resource allocation that keeps the network alive. They know about the Grand Admiral. They follow her without ever publicly confirming she exists.
 - **Grand Admiral**: One rank. One person. The bronze star with olive leaf wreath. Rachel Vayes. So rare that Operators and Technicians treat it as campfire mythology. Agents take it more seriously but with skepticism. Navigators know. Commanders know. The reader should hear the jokes first and see the insignia last.
