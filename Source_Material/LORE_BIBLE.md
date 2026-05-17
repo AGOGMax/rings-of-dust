@@ -16,7 +16,7 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 | **22** | Recurring. Specific in-story placement TBD — track appearances across chapters. |
 | **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
 | **180** | Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
-| **369** | Number of test runs in Elsa Klinge's research notebooks. Appears in Ch22b and when Petra opens the sealed case. |
+| **369** | Number of test runs in Elsa Klinge's research notebooks. Also the number of victims from the Polaris explosion — the disaster Cole captained. The same number connects the origin of the mission to the origin of the colony science. Appears in Ch22b and when Petra opens the sealed case. |
 | **5555** | Alpha Corp vessel call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it; Gracie traces it during the Saturn mission. |
 | **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
 
@@ -67,7 +67,7 @@ On Day 11, exactly **one cell** in the 740-cell Grid receives a one-time exterio
 **Writing note**: "Jackpot" is the word Ray said to an empty lab when he discovered the cycle — and the word Cole Nova earned as a callsign for surviving impossible situations. The word lives at both ends of the story's spine. Neither man knows the other used it first.
 
 ### The 369 test runs
-Elsa Klinge's notebooks document **369 test runs** — the accumulated record of years of observation before the pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case.
+**369** carries dual weight in the story. (1) Elsa Klinge's notebooks document **369 test runs** — the accumulated record of years of observation before the fuel cell pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case. (2) 369 is also the number of victims from the **Polaris explosion** — the Saturn mission disaster Cole captained, the one that sent him to the cabin, the one he has never stopped blaming himself for. The same number lives at both ends of the story: the loss that broke Cole, and the research that will eventually make sense of everything he lost.
 
 ### The unlock mechanic
 A locked cell can be unlocked at any point. The consequence: **all enhanced properties stop within hours.** Interior growth rate, exterior cycling — both revert immediately to baseline 11-day cycle behavior. There is no partial unlock — it is binary. Once unlocked, the accumulated advantage is gone. The only way to recover it is to begin the lock timer again from Day 0.
@@ -310,7 +310,7 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 | **22** | Recurring. Specific in-story placement TBD — track appearances across chapters. |
 | **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
 | **180** | Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
-| **369** | Number of test runs in Elsa Klinge's research notebooks. Appears in Ch22b and when Petra opens the sealed case. |
+| **369** | Number of test runs in Elsa Klinge's research notebooks. Also the number of victims from the Polaris explosion — the disaster Cole captained. The same number connects the origin of the mission to the origin of the colony science. Appears in Ch22b and when Petra opens the sealed case. |
 | **5555** | Alpha Corp vessel call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it; Gracie traces it during the Saturn mission. |
 | **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
 
@@ -360,7 +360,7 @@ On Day 11, exactly **one cell** in the 740-cell Grid receives a one-time exterio
 **Writing note**: "Jackpot" is the word Ray said to an empty lab when he discovered the cycle — and the word Cole Nova earned as a callsign for surviving impossible situations. The word lives at both ends of the story's spine. Neither man knows the other used it first.
 
 ### The 369 test runs
-Elsa Klinge's notebooks document **369 test runs** — the accumulated record of years of observation before the pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case.
+**369** carries dual weight in the story. (1) Elsa Klinge's notebooks document **369 test runs** — the accumulated record of years of observation before the fuel cell pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case. (2) 369 is also the number of victims from the **Polaris explosion** — the Saturn mission disaster Cole captained, the one that sent him to the cabin, the one he has never stopped blaming himself for. The same number lives at both ends of the story: the loss that broke Cole, and the research that will eventually make sense of everything he lost.
 
 ### The unlock mechanic
 A locked cell can be unlocked at any point. The consequence: **all enhanced properties stop within hours.** Interior growth rate, exterior cycling — both revert immediately to baseline 11-day cycle behavior. There is no partial unlock — it is binary. Once unlocked, the accumulated advantage is gone. The only way to recover it is to begin the lock timer again from Day 0.
