@@ -55,7 +55,7 @@ That was when he took it home. He didn't log it. He didn't tell anyone. He put t
 
 The storm inside kept turning. And it was *charging the cell*. The vapor was generating energy.
 
-On Day 11, the mist cleared. New crystals had formed on the *outside* of the cell's base — the cycle had completed itself. The fuel cell read fully charged.
+On Day 11, the mist cleared. New crystals had formed on the *inside* of the cell's base — the cycle had completed itself. The fuel cell read fully charged.
 
 Ray said "Jackpot" to an empty apartment, and then felt the dread move in.
 
@@ -63,7 +63,7 @@ Ray said "Jackpot" to an empty apartment, and then felt the dread move in.
 ```
 Darker Matter crystals → sealed in fuel cell (nitrogen + negative pressure)
     → crystals change state into vapor (first observed in sealed/pressurized environment) → vapor forms vortex inside cell
-    → vortex charges the cell → Day 11: mist clears, new crystals form on cell exterior
+    → vortex charges the cell → Day 11: mist clears, new crystals form on cell interior
     → Collective depletes Alpha-tracked cells → 10% of Darker Matter crystals vaporize on opening and escape atmosphere → 90% recoverable → moved into own untracked fuel cells (black market, untraceable)
 ```
 ### Depletion
