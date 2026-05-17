@@ -41,7 +41,7 @@ The crystals then stabilize over **up to 11 days**. They must be assembled into 
 Result: **Darker Matter crystals** — solid, dense, dark. The negative pressure environment is **not** part of this conversion process — that is Ray's separate discovery (see below).
 
 ### Ray's accidental discovery
-Ray (Dr. Max Vision) had a batch of freshly converted Darker Matter crystals at his workstation on a Friday afternoon. The official containment unit was across campus. Carrying them there meant logging the transfer, dealing with security checkpoints, and explaining why he had them at all.
+Ray (Max Vision) had a batch of freshly converted Darker Matter crystals at his workstation on a Friday afternoon. The official containment unit was across campus. Carrying them there meant logging the transfer, dealing with security checkpoints, and explaining why he had them at all.
 
 So he did the lazy thing. He sealed the crystals inside a spare fuel cell — packed it with nitrogen and sealed it under negative pressure as a temporary measure — and shoved it in his locker. *I'll deal with it Monday.*
 
@@ -358,8 +358,8 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Backstory**: Years of shuttling supplies for the Federation. "Brother" to Cole through service. Romantic with Dani (the cherubic woman from V1's bowling alley).
 - **In Ch 14–25**: Sharon was "his sister." Don't underplay his grief. Ricardo *was* the comic relief through Ch 1–13; in Ch 14–25 he's quieter sometimes, and the moments when he reaches for the humor anyway should hurt.
 
-### Dr. Max Vision ("Ray")
-- **Legal name**: Dr. Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by **Ray**. The narrator introduces him as Ray in Ch10a — prior to that, he appears in narration as Max or Dr. Vision.
+### Max Vision ("Ray")
+- **Name**: Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by **Ray**. The narrator introduces him as Ray in Ch10a — prior to that, he appears in narration as Max or Max Vision.
 - **Role**: Scientist who accidentally discovers the 11-day fuel cell cycle. Extracted by Collective handlers, works undercover inside Alpha Corp in Panama.
 - **Handlers**: **Red and Squirrel** (Collective Special Agents) — they extract him, build his cover in Panama, and receive his intelligence.
 - **Key intelligence delivered**: Identifies the Alpha Corp vessel shadowing the Golden Dawn. Cover registry: **FEDHEX5555**. Gracie traces it during the Saturn mission.
@@ -527,7 +527,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **Writing rule**: Greenbaum is never cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
 
 ### Red and Squirrel
-- **Role**: Collective Special Agents. Ray's (Dr. Max Vision's) handlers in Panama (Cody Ch 9 + Ch 13).
+- **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama (Cody Ch 9 + Ch 13).
 - **Voice**: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
 - **Function**: They extract Ray from his original identity, establish his cover in Panama, and run him as an undercover asset inside Alpha Corp. Ray feeds them intelligence — including the identification of **FEDHEX5555** (the Alpha Corp vessel shadowing the Golden Dawn). They facilitate Ray's journey to the space station where he discovers the flywheel and the anti-gravity project.
 - **Collective rank**: Special Agents (Field Tier 3 — sunglasses patch, dark full frame).
@@ -774,8 +774,8 @@ Elsa's granddaughter (who hasn't arrived yet by Ch03f) is a future plot thread. 
 
 - CLIFFSNOTES: "Max Forster" (throughout, including Ch23 testimony)
 - SYNOPSIS: "MAX VISION" (introduction) then "Max" throughout
-- **Canon**: Legal name = Dr. Max Vision; nickname = Ray (from "Max Ray Vision" joke); narrator uses Ray after Ch10a introduction
-- **Fix**: Update CLIFFSNOTES and SYNOPSIS to use "Ray (Dr. Max Vision)" at first appearance, then "Ray" throughout. Purge "Max Forster" entirely.
+- **Canon**: Legal name = Max Vision; nickname = Ray (from "Max Ray Vision" joke); narrator uses Ray after Ch10a introduction
+- **Fix**: Update CLIFFSNOTES and SYNOPSIS to use "Ray (Max Vision)" at first appearance, then "Ray" throughout. Purge "Max Forster" entirely.
 
 ---
 
