@@ -287,14 +287,20 @@ In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally
 
 #### Pre-book backstory
 
-The bond with Cole has to feel **earned** before she dies. The relationship existed for years before page one. Concrete plants for the writing:
+The bond with Cole has to feel **earned** before she dies. The relationship existed for years before page one. Here is the full origin:
 
-- **Black-market parts runner.** Sharon ran salvaged Federation parts and stable Dark Matter crystals through a Collective supply chain for years before the book opens. She's good at it. She knows handlers, fences, dead drops, county roads in three states.
+**How they met**: Cole was a decorated Federation captain moving through a port of entry back on Earth. Sharon was smuggling — black market parts, contraband, the kind of cargo that gets you arrested if the wrong officer opens the case. Cole was the officer. He saw it. He covered for her. A Federation captain, fully decorated, helping a smuggler walk contraband through a port of entry — because something about her made him decide in under thirty seconds that she was worth it. He goes back to space. She doesn't forget him.
+
+**The Polaris, and Gracie**: Before the explosion, Cole had Gracie aboard the Polaris — his AI companion, close enough to be a wife figure in some wordless way. When the Polaris blows, she's gone. Cole survives and finds himself talking to her anyway, in the cabin, in the dark, long after she's gone. That particular cold grief — loving something that can't answer back — is already in him before Sharon arrives.
+
+**Sharon shows up at the cabin**: Not long after the Polaris. She arrives with a dead or dying Collective agent and dark matter crystals she needs off the books. She came because she remembered the captain who covered for her. She stays because Cole is someone she wants to stay near. She remembers exactly how attractive he was at the port and she does not pretend otherwise. Cole is hiding from the world. Sharon is still fighting it. She keeps running missions. Cole becomes her accomplice — backup, lookout, the man who holds the car keys and doesn't ask questions.
+
+**The first illegal job together**: They run a deal. It goes fine, or it almost doesn't — either way, they end up sitting across from each other at a diner the next morning with pancakes and not much to say that needs saying. That morning is the blackberry preserves in miniature. The warmth the reader feels in the cabin scenes is the echo of that morning.
+
+**What the cabin years built**: A love built on shared crime. Cole holding the Federation line by day, Sharon laughing about it in his cabin by night. Trading dead-drop coordinates the way some couples trade grocery lists. *"Yeah, we'll get you the regulators. No, the Federation can suck a rock."* By the time the book opens, this is years of that.
+
 - **Anti-Federation, anti-Alpha Corp from the start.** Her politics are sharper than Cole's. She finished medical school, gave the establishment the finger the day she walked out, and never looked back. She has the training. She chose not to use it in the way they intended.
-- **Cole was the straight-laced one — but he had her back.** When their paths first crossed (a botched delivery? a Federation raid? a medical emergency in a Collective safehouse? — flesh out the meet-cute scene as a Cole flashback in Act 2), he covered for her. Federation captain, decorated. He could have turned her in. He didn't. They've been each other's exception ever since.
-- **Their love is the kind built on shared crime.** Cole holding the Federation line by day, Sharon laughing about it in his cabin by night. Trading dead-drop coordinates the way some couples trade grocery lists. *"Yeah, we'll get you the regulators. No, the Federation can suck a rock."*
-- **In the cabin scenes**: Cole remembers their first illegal job together — a single past-tense paragraph woven into the warmth of the blackberry preserves and the "you spoil me" beat. The memory earns the love the reader can already feel.
-- **En route to Saturn, after Sharon's death**: Cole has hours alone with his grief. A full flashback of a defining shared mission — the black-market run that almost got them killed, the night they decided this was the rest of their lives. The reader feels exactly what he lost.
+- **En route to Saturn, after Sharon's death**: Cole has hours alone with his grief. A full flashback of the black-market run that almost got them killed — the night they decided this was the rest of their lives. The reader feels exactly what he lost.
 - **In Emily's solo scenes**: Emily remembers Sharon. The "I'm doomed to be average" thread always traces back to Sharon's reassurance.
 
 #### Death scene — (canon, do not soften)
