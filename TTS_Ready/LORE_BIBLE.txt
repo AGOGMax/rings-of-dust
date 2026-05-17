@@ -105,9 +105,9 @@ In the story this is confirmed — not through Alpha Corp's data, but through Ra
 
 SACRIFICE (THE VOID MECHANIC)
 
-In Ch03b-f (the Colony arc), the sacrifice mechanic is established through Tyler Durden and the asteroid colony. Darker Matter crystals and charged fuel cells can be fed into DarkX itself — pushed through the pressure membrane into the void at the end of the east tunnel. Not used. Not harvested. Destroyed.
+In Ch03b-f (the Colony arc), the sacrifice mechanic is established through Tyler Durden and the asteroid colony. The colony is built on an asteroid at the edge of a black hole. The east tunnel runs through the asteroid and opens at the rim — the place where the black hole's gravity takes over and nothing comes back. Darker Matter crystals and charged fuel cells can be pushed over that edge. They are not used. They are not harvested. They are gone.
 
-When a fuel cell is sacrificed into an active DarkX field, it does not simply detonate. The DarkX absorbs it. And something comes back — not immediately, not proportionally, but eventually, and in a form that defies the ordinary accounting of matter and energy. The returns are not logical. They are eternal in nature: a sacrifice now that pays forward into something larger and longer than the individual act.
+When a fuel cell goes over the rim, it does not simply detonate. The black hole takes it. And something comes back — not immediately, not proportionally, but eventually, and in a form that defies the ordinary accounting of matter and energy. The returns are not logical. They are eternal in nature: a sacrifice now that pays forward into something larger and longer than the individual act.
 
 This is the mechanic the asteroid colony knows and practices — Tyler Durden's Void-Walkers push cells into the void. Alpha Corp is aware of the gold asteroid returns but does not understand the mechanism. Elsa Klein mapped the science (dark matter gravity differential redirecting inbound asteroid trajectories). Tyler mapped it to belief (ancestral return, giving to the void). Both frameworks are simultaneously true.
 
@@ -522,7 +522,7 @@ Tyler Durden
 
 Role: Leader of the Void-Walkers. Arrived at the colony six years before Jill. Did not arrive by accident — he was looking for it specifically.
 Physical: Tall. A face arranged so you pay attention to what it is doing. Work shirt, work boots. Nothing about his appearance suggests authority — deliberate.
-What he did: Six years ago, pushed one of his own fuel cells through the east tunnel pressure membrane into the void. Eleven days later: a gold asteroid, twenty meters across, enough to fund the colony for four years. Petra said he was still wrong. She still means it.
+What he did: Six years ago, pushed one of his own fuel cells over the rim at the end of the east tunnel — into the black hole. Eleven days later: a gold asteroid, twenty meters across, enough to fund the colony for four years. Petra said he was still wrong. She still means it.
 Belief: The cells are in a conversation we haven't learned to listen to yet. The sync period, the lock, the void alignment — not accidents. Giving to the void is ancestral return, not destruction.
 Function: The living proof that the sacrifice path works — whether or not anyone understands why.
 
@@ -538,14 +538,14 @@ Elsa Klein
 
 Role: Founder of the asteroid colony. Materials scientist. Dead before the book opens — her grave is carved into the asteroid wall at the far end of the main tunnel.
 Backstory: One of the early researchers in dark matter stabilization, before Alpha Corp consolidated the patents. Left before that happened. Filed Federation papers herself, came out with eleven people and fourteen years of research notes. Spent the remaining three years of her life building the colony. Died there.
-What she built: Understanding of the cells at a level no institutional lab reached — because she had the time and distance from commercial pressure to simply watch. Discovered the 11-day sync period, the 33-day lock, the void at the end of the east tunnel, the exterior deposits. In the final test runs (the 369th), she documented the zero-gravity locking effect: in microgravity, the growth plateau disappears entirely — crystals grow outward in every direction with no ceiling. She called it "the open condition." She believed it was proof that the mechanic was not designed for planetary use. Wrote everything in the notebooks Petra keeps in a sealed case.
+What she built: Understanding of the cells at a level no institutional lab reached — because she had the time and distance from commercial pressure to simply watch. Discovered the 11-day sync period, the 33-day lock, the black hole at the end of the east tunnel, the exterior deposits. In the final test runs (the 369th), she documented the zero-gravity locking effect: in microgravity, the growth plateau disappears entirely — crystals grow outward in every direction with no ceiling. She called it "the open condition." She believed it was proof that the mechanic was not designed for planetary use. Wrote everything in the notebooks Petra keeps in a sealed case.
 What she is NOT: Jill's biological grandmother. Elsa is a prophetess within the tradition that started with Wilhelm's grandmother — not a blood relative of Jill.
 Notebooks: Contain both the science (observations and math) and the prophecy (the offspring of the founding bloodline will one day come to the colony). The science section spans 369 documented test runs — the locking mechanics, the 11-day cycle, the void sacrifice data, and crucially the final zero-gravity locking experiments ("the open condition"). The prophecy section is not labeled as prophecy. It reads as observation. Tyler built his religion on top of her science and her prophecy. The notebooks were always waiting for the right reader.
 Maiden name: Klein. How she connects back to the founding tradition is a deliberate redaction — to be revealed later.
 
 Void-Walkers (colony faction)
 
-What they are: Tyler Durden's faction. Eleven members at the time Jill visits. They sacrifice fuel cells into the void — push them through the east tunnel pressure membrane into the DarkX field beyond.
+What they are: Tyler Durden's faction. Eleven members at the time Jill visits. They sacrifice fuel cells into the void — walk them to the rim at the end of the east tunnel and push them over — into the black hole.
 The return: Every 11 days, a gold asteroid appears. Twenty-three meters across on average. Same vector as all previous ones. Tyler has tracked it for six years. The pattern does not vary.
 The Loyalist friction: Petra's faction and Tyler's Void-Walkers share the colony, share the tracking room, and watch the same screen on Day 11. They disagree on the meaning. They watch together anyway.
 Writing rule: Do not resolve the science-vs-belief tension in the colony arc. Let both Petra (who does the math and says Tyler is still wrong) and Tyler (who pushes the cell and watches the gold arrive) be simultaneously right.
@@ -583,7 +583,7 @@ Ch03d — The Void: Day 7 of Jill's second visit. Ceremony at 0300. Tyler reads 
 
 Ch03e — The Crater: Day 18 (11 days after the sacrifice). Gold asteroid arrives — twice as large as usual. Gold crater on its face: solid gold. Petra says: "Jackpot." Jill goes to her ship. Comes back. Asks about the notebooks. Petra tells her Elsa's beliefs; says the notebooks are for Elsa's granddaughter. "I'm not her granddaughter." / "No. You're not."
 
-Ch03f — The Pull: Day 23. Routing broker contract closing in 48 hours. Tyler at the pressure membrane: "I think there is a difference between understanding the mechanism and understanding the intention." Jill leaves. Final note: she will think about the gold crater for a long time. She will not be able to stop. And Petra's voice, from somewhere behind her: "When you come back."
+Ch03f — The Pull: Day 23. Routing broker contract closing in 48 hours. Tyler standing at the rim, looking out at the black hole: "I think there is a difference between understanding the mechanism and understanding the intention." Jill leaves. Final note: she will think about the gold crater for a long time. She will not be able to stop. And Petra's voice, from somewhere behind her: "When you come back."
 
 Ch03g — The Notebooks: Jill returns to the colony. She doesn't lead with why. She just comes back. Petra doesn't ask — she goes to the sealed case. They don't talk much. Jill reads. The science takes most of a day. The final test runs — the zero-gravity entries — she reads twice. The plateau doesn't exist in zero gravity. Elsa called it "the open condition." Jill takes notes. Then she reads the other section. The one that doesn't label itself. She sits with it for a long time. When she stands up she knows what her family name connects to. She doesn't say it out loud. She asks Petra for a copy. Petra gives her the originals. "She would have wanted you to have them." Neither of them confirms what they both understand.
 
