@@ -471,18 +471,14 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - White-hat hacker, firewall specialist. Believes talent is for helping people, not for hoarding.
 - At home: punk rock and psychedelic posters, stencils, patches. Things that have no place in a Federation barracks. She knows exactly how out of place she is and has never once tried to fix it.
 
-### Marcus Verguld (V2's "Marcus Simons" — minor name change)
+### Marcus Verguld
 - **What he is**: Power-broker / oligarch. Antagonist behind Alpha Corp's strategy. Klaus's heir — louder, sloppier, and more dangerous because he enjoys it.
 - **Childhood**: Grew up with Cole Nova on adjacent streets in Culver City. Mother died of an aneurysm when Marcus was eleven. Father was Klaus — who Marcus believed was just a strange small immigrant who drove a trash truck. The "A Thousand Thrills" summer — Cole quit to go home for his dying father. Marcus stood at the kitchen table: *"I will never forget how he screwed me over."* Klaus said *"No. You won't."* and waited seven years. At twenty-four Marcus asked his father what he actually did. Klaus opened the notebook. *(The First Spark,)*
-- **Cody's setup**: Wall of TVs in his office. Smarmy, theatrical, casually sociopathic.
-- **Voice**: Florid, performative cruelty. Treats people as "over emotional animals" (per V2 epilogue).
+- **Office**: Wall of TVs. Smarmy, theatrical, casually sociopathic.
+- **Voice**: Florid, performative cruelty. Treats people as "over emotional animals."
 - **The cold-blood register**: Marcus kills when he's *annoyed*. Not furious — annoyed. Vance Black pushed back. That was an irritant. Marcus removed it the way you swat a fly: fast, unbothered, already thinking about something else before the body hits the floor. The practiced weeping before the police call is not cynicism — it is *pleasure*. He enjoyed rehearsing it. The laughter afterward is genuine. This is what true psychopathy looks like in the Verguld line: not rage, not ideology, not even greed — just an absolute absence of the thing that would make killing *cost* something. **This is the signature of the dynasty.** Klaus was cold in a different register — patient, generational, almost sad. Marcus got the coldness without the patience. He kills the way his father placed a glass on a table: without sound, without ceremony, and completely in control.
 - **Writing rule for Marcus on-page**: He is never loud when he is most dangerous. The wall of TVs, the theatrics, the florid cruelty — that's the costume. The man under it is the one who clicked the revolver under the desk and didn't break his sentence.
-- **Fate options**:
- - **V3 path (recommended)**: Black site. Emily's choice. Sharper, harder ending.
- - **V2 path**: Escapes to Dubai. Plotting intergalactic mining comeback.
- - **Both**: Possible to do both — black site **then** somehow he gets out post-credits stinger. That's the V2 epilogue but post-V3 conclusion.
-- **Book One endpoint**: His last image is laughing alone in the dark, holding his ribs. That stays. His full reckoning is Book Two.
+- **Fate**: The Black Site — Emily enters. Marcus has been there since 11:47 PM. The Panama files are already out. She leaves the door open. His last image in Book One is laughing alone in the dark, holding his ribs. By Epilogue A he is in Dubai with orange juice and four ice cubes when Klaus arrives. His full reckoning is Book Two.
 
 ### Vance Black
 - **Role**: Federation Operations chief, private contractor. Alpha Corp asset turned conscience-case. The road not taken for Taylor.
