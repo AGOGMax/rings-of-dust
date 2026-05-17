@@ -17,7 +17,7 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 | **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
 | **180** | Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
 | **369** | Number of test runs in Elsa Klinge's research notebooks. Also the number of victims from the Polaris explosion — the disaster Cole captained. The same number connects the origin of the mission to the origin of the colony science. Appears in Ch22b and when Petra opens the sealed case. |
-| **5555** | Alpha Corp vessel call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it; Gracie traces it during the Saturn mission. |
+| **5555** | FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Ray identifies it while working undercover; Gracie traces it during the Saturn mission. |
 | **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
 
 ---
@@ -75,7 +75,7 @@ A locked cell can be unlocked at any point. The consequence: **all enhanced prop
 ### The race to control the Grid
 The 740-cell Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
 
-**FEDHEX5555**: The Alpha Corp vessel shadowing the Golden Dawn. Call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it while working undercover and feeds the call sign to Red and Squirrel. Gracie traces it during the Saturn mission.
+**FEDHEX5555**: The cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Ray identifies it while working undercover inside Alpha Corp and feeds it to Red and Squirrel. Gracie traces it during the Saturn mission.
 
 ### Staking (the long-hold mechanic)
 Someone eventually figures out that a sealed, *locked* fuel cell — one made deliberately inaccessible, not harvested, just left alone — does not reset. It keeps accumulating. The vapor keeps building. The crystals keep growing, layer on layer, inside a sealed environment with no release valve.
@@ -311,7 +311,7 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 | **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
 | **180** | Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
 | **369** | Number of test runs in Elsa Klinge's research notebooks. Also the number of victims from the Polaris explosion — the disaster Cole captained. The same number connects the origin of the mission to the origin of the colony science. Appears in Ch22b and when Petra opens the sealed case. |
-| **5555** | Alpha Corp vessel call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it; Gracie traces it during the Saturn mission. |
+| **5555** | FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Ray identifies it while working undercover; Gracie traces it during the Saturn mission. |
 | **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
 
 ---
@@ -368,7 +368,7 @@ A locked cell can be unlocked at any point. The consequence: **all enhanced prop
 ### The race to control the Grid
 The 740-cell Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
 
-**FEDHEX5555**: The Alpha Corp vessel shadowing the Golden Dawn. Call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it while working undercover and feeds the call sign to Red and Squirrel. Gracie traces it during the Saturn mission.
+**FEDHEX5555**: The cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Ray identifies it while working undercover inside Alpha Corp and feeds it to Red and Squirrel. Gracie traces it during the Saturn mission.
 
 ### Staking (the long-hold mechanic)
 Someone eventually figures out that a sealed, *locked* fuel cell — one made deliberately inaccessible, not harvested, just left alone — does not reset. It keeps accumulating. The vapor keeps building. The crystals keep growing, layer on layer, inside a sealed environment with no release valve.
@@ -492,7 +492,7 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Legal name**: Dr. Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by **Ray**. The narrator introduces him as Ray in Ch10a — prior to that, he appears in narration as Max or Dr. Vision.
 - **Role**: Scientist who accidentally discovers the 11-day fuel cell cycle. Extracted by Collective handlers, works undercover inside Alpha Corp in Panama.
 - **Handlers**: **Red and Squirrel** (Collective Special Agents) — they extract him, build his cover in Panama, and receive his intelligence.
-- **Key intelligence delivered**: Identifies the Alpha Corp vessel shadowing the Golden Dawn. Call sign: **FEDHEX5555**. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Gracie later traces it by call sign during the Saturn mission.
+- **Key intelligence delivered**: Identifies the Alpha Corp vessel shadowing the Golden Dawn. Cover registry: **FEDHEX5555**. Gracie traces it during the Saturn mission.
 - **Space station arc**: Eventually reaches the space station and discovers the flywheel and the anti-gravity project — connecting his accidental discovery to the full race to control the Grid.
 - **Voice**: Scientist's precision papering over escalating panic. The man who did the lazy thing and has been living with the consequences ever since.
 
