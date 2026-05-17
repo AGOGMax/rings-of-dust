@@ -160,7 +160,7 @@ Nothing in Ch03b-f names Jill's surname or bloodline connection. Keep it clean. 
 - **The "Jackpot" patch** — hand-stitched, irritates Cole's chest, treasured. Survives the book.
 - **The makeshift copper-wire ring** with the smooth pebble — Cole makes it in Ch06 and gives it to Sharon before the Golden Dawn launches. Sharon is wearing it when she is killed in Ch08. It is on her finger when Alpha Corp loads her body onto FEDHEX5555. Dr. Bruce saves the ring — removes it before the bionic work begins, keeps it the entire time. In Ch19, after he crosses the docking tube voluntarily, Dr. Bruce gives the ring to Cole. Cole returns it to Sharon in Ch24 during her recovery. Ch25: Cole sets it on the bowling alley table — "I don't think I need to replace it. I think this is the one."
 - **The Collective droplet sigil** — water drop inside a circle. *"No raindrop thinks it's the flood."*
-- **The thumb drive figurine** — Conrad's keychain hides the data in Cody Ch 2 and Ch 3. Resurface it in Ch 20 — the prototype's casing has a similar figurine motif as a callback.
+- **The thumb drive figurine** — Conrad's Enterprise keychain. Two payloads: nanopowder counter-program (skin contact, Emily Ch02 + Cole Ch04) and encrypted drive data (Bitboy decrypts Ch04, passes to Collective, reaches Ray in Panama). Resurface it in Ch20 — the prototype's casing has a similar figurine motif as a callback.
 - **Bitboy's blue-stained mouth** — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
 
 ---
@@ -368,7 +368,7 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Name**: Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by **Ray**. The narrator introduces him as Ray in Ch10a — prior to that, he appears in narration as Max or Max Vision.
 - **Role**: Scientist who accidentally discovers the 11-day fuel cell cycle. Extracted by Collective handlers, works undercover inside Alpha Corp in Panama.
 - **Handlers**: **Red and Squirrel** (Collective Special Agents) — they extract him, build his cover in Panama, and receive his intelligence.
-- **Key intelligence delivered**: Flywheel data from Alpha Corp Panama facility. Disposal Protocol Seven (11–13% product destruction per batch). The 7-year suppression of viable fuel cell technology. The drive goes out through the Collective network — 100,000 people in 48 hours.
+- **Key intelligence delivered**: Flywheel data from Alpha Corp Panama facility. Disposal Protocol Seven (11–13% product destruction per batch). The 7-year suppression of viable fuel cell technology. The drive goes out through the Collective network — 100,000 people in 48 hours. **What made Panama possible**: The Collective gave Ray Conrad's decrypted drive data before he went in. Conrad had already mapped where Alpha buried the suppression records. Ray went in knowing where to look. He just had to get there.
 - **Space station arc**: Eventually reaches the space station and discovers the flywheel and the anti-gravity project — connecting his accidental discovery to the full race to control the Grid.
 - **Voice**: Scientist's precision papering over escalating panic. The man who did the lazy thing and has been living with the consequences ever since.
 
@@ -514,13 +514,20 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **Status**: Disappeared. Possibly dead. Alpha Corp took him — likely to continue the IRiS work under duress.
 - **Role**: Brilliant scientist, Collective sympathizer, made the prototype. The Vegas conference was his last public appearance.
 - **CRITICAL CANON (locked 2026-05-02)**: By the time Conrad meets Emily and Sharon in Ch 2, he has **already been coerced by Alpha Corp to modify Gracie into IRiS**. He did it. He didn't have a choice. The guilt of it is all over the Vegas scene — his shaking hands, the penance line ("I'll keep doing my part"), his desperate emphasis that Cole must personally hold the drive.
-- **The antidote**: Conrad built a counter-program into the figurine on the thumb drive as nanopowder coating on its surface. It transfers via skin contact — which is why he is so specific that Cole's hands must touch it. When Cole rubs the figurine in Ch 4 and gets the dark silver stain on his thumb, Conrad's antidote is now in Cole's bloodstream. Cole never knows.
-- **The payoff chain**:
-  1. Ch 2 — Conrad hands off the drive: *"What's on that figurine is the way back. Cole is the only one who can carry it."*
-  2. Ch 4 — Cole rubs the figurine, silver stain on his thumb. The antidote is absorbed.
-  3. Ch 18 — DarkX exposure amplifies everything in Cole's bloodstream. The antidote wakes up alongside Gracie being born.
-  4. Ch 19 — During the fight with corrupted Sharon, Cole's blood/touch transfers Conrad's counter-program to her. Gracie detects it and uses it as the unlock code for Sharon's conditioning. Conrad's apology fires from beyond his disappearance.
-- **"Tell him I'm sorry"**: Conrad's last line to Emily in the updated Ch 2 prose. Cole won't understand it in Ch 2 or Ch 4. He will in Ch 19 when the antidote breaks through.
+- **The two things on the object**: The figurine carries two separate payloads. (1) The **nanopowder coating** on the surface — Conrad's counter-program, transfers by skin contact. (2) The **encrypted data drive** inside — Conrad's intelligence files on Alpha Corp, decrypted separately by Bitboy.
+- **The nanopowder — both Emily and Cole are inoculated**: Emily handles the figurine in Ch02 when Conrad passes it to her. She gets the dark silver stain too — she doesn't know what it is. Cole handles it in Ch04. Conrad said "Cole is the only one who can carry it" because Cole is the one who will transfer the program to Sharon in Ch19 — but Emily carrying it has its own consequences when she later encounters DarkX.
+- **The payoff chain (nanopowder)**:
+  1. Ch 2 — Emily handles figurine. Nanopowder absorbs. She doesn't notice.
+  2. Ch 4 — Cole rubs the figurine, dark silver stain on thumb. Absorbed. Conrad: *"What's on that figurine is the way back. Cole is the only one who can carry it."*
+  3. Ch 18 — DarkX exposure amplifies the antidote in Cole's bloodstream. Wakes up alongside Gracie being born.
+  4. Ch 19 — Cole's blood/touch transfers the counter-program to Sharon. Gracie uses it as the unlock code. Conrad's apology fires from beyond his disappearance.
+  5. Emily's inoculation pays off when she later encounters DarkX — she carries the same upgrade without ever knowing it.
+- **The payoff chain (drive data)**:
+  1. Ch 4 — Bitboy decrypts the drive. DeMint's letter. Mission accepted.
+  2. The decrypted intelligence — Conrad's files on Alpha Corp's suppression of fuel cell technology — is eventually passed to the Collective.
+  3. The Collective uses this data to help Ray while he is undercover in Panama — it fills in context Ray can't access from inside Alpha's own files. He knows what to look for because Conrad already mapped where it was buried.
+  4. Ray then meets Jill, receives Elsa Klein's notebooks, and the two datasets — Conrad's intelligence and Elsa's 369 test runs — give him everything he needs to name what Alpha has done.
+- **"Tell him I'm sorry"**: Conrad's last line to Emily in Ch 2. Cole won't understand it until Ch 19 when the antidote breaks through. Emily carries the same payload Conrad intended for Cole — she was always part of the chain, even if Conrad couldn't plan for exactly how.
 - **Function in plot**: Drives the plot through absence AND through the antidote he left behind. The prototype Emily retrieves in Ch 20 is separate from the thumb drive — it's the quantum-comms node Conrad built to punch through IRiS jamming.
 
 ### Ryan Greenbaum
@@ -622,7 +629,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 
 **Ch01 — Polaris**: Polaris explodes at Saturn's rings. 369 crew killed. Cole sole survivor (pulled out by Ricardo and Bitboy). Cole's first raw DarkX contact happens here.
 
-**Ch02 — Room 1122, Las Vegas**: Dr. Conrad (shaking hands, guilt). Emily and Sharon run the elevator scam on Greenbaum. Conrad gives them the Enterprise figurine and encrypted drive. Sharon is Collective-adjacent. Conrad's last line: "Tell him I'm sorry."
+**Ch02 — Room 1122, Las Vegas**: Dr. Conrad (shaking hands, guilt). Emily and Sharon run the elevator scam on Greenbaum. Conrad gives them the Enterprise figurine and encrypted drive. Emily handles it — dark silver trace on her fingers, unnoticed. Sharon is Collective-adjacent. Conrad's last line: "Tell him I'm sorry." He watches them go. He already knows Emily got the stain. He doesn't correct it.
 
 **Ch03 — A Thousand Thrills**: Cole's origin story. Summer job at 'A Thousand Thrills' theme park. Father's cancer diagnosis. Cole gives up the summer; Marcus's bitter note. Father dies when Cole is 17. Emily and mom tutor Cole toward the Academy.
 
@@ -724,7 +731,7 @@ The shortage was a choice. The proof was built into the technology before the te
 
 
 
-**The thumb drive figurine**: Enterprise keychain — Conrad's counter-program delivered in plain sight.
+**The thumb drive figurine**: Enterprise keychain. Two payloads in one object. (1) Nanopowder coating on the surface — Conrad's counter-program, absorbed by skin contact. Emily gets it in Ch02 without knowing. Cole gets it in Ch04. Both carry the upgrade when they later encounter DarkX. Cole's version transfers to Sharon in Ch19. (2) Encrypted drive inside — Conrad's intelligence on Alpha Corp. Bitboy decrypts it in Ch04. Data eventually passes to the Collective and reaches Ray in Panama, giving him the map he needs before Jill arrives with Elsa Klein's notebooks.
 
 **The Collective droplet sigil**: Water drop in a circle. "No raindrop thinks it's the flood." Used as code phrase. Sewn in bag linings. Stenciled on porch railings.
 
