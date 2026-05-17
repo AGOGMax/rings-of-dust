@@ -1,5 +1,5 @@
 # RINGS OF DUST — MASTER LORE BIBLE
-*Single authoritative reference. Supersedes CHARACTER_BIBLE.md and STORY_BIBLE.md.*
+*This is the source of truth for Rings of Dust. All other documents — CHARACTER_BIBLE.md, STORY_BIBLE.md, CLIFFSNOTES, SYNOPSIS, chapter drafts — refer to this document. This document does not refer to them. TRotR (Rings of the Reich) is a separate parallel-universe spin-off. This document does not draw from it unless explicitly instructed.*
 
 ## Significant Numbers
 
@@ -260,9 +260,7 @@ When the narrative prose names a villain, the villain is **Alpha Corp** (or Marc
 
 ## Sharon Teez — name disambiguation
 
-**Canon (locked)**: Sharon's surname is **Teez** in the main book.
-
-In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally separate universe — Falcon crew tactician, not Cole's love interest, no medical training. They share a name and surname but are distinct across books. Per project tonal classification: TRotR is pulpy/bizarre; Rings of Dust is literary. The only permissible bridge between the two universes is Wilhelm's pre-Iceland surname. Do not cross-reference their personal histories.
+**Canon**: Sharon's surname is **Teez**. There is a character of the same name in TRotR (Rings of the Reich), which is a separate parallel-universe spin-off. They are distinct. The TRotR Sharon Teez is not a source for this document.
 
 ## Main book characters (Rings of Dust)
 
@@ -378,7 +376,7 @@ The chapter as drafted does not need rewriting. It is still right. The reveal of
 
 ### Bitboy Leroy
 - **What he is**: Six-limbed biomechanical chimp/macaque hybrid. Federation experimental project — *the last remaining EM Cyber* ( line). Metal fingernails. Six-inch mantis blades that extend from his forearms. Runs on ethanol as power source. Not a pet — a test subject who escaped his cage.
-- **Communication**: In main book, sounds and gestures (no sign language). In TRotR, sign language — that's a tonal divergence. Stick with sounds-and-gestures for Rings of Dust.
+- **Communication**: Sounds and gestures. No sign language.
 - **Hidden secret**: He's the prototype IRiS's nanopowder was reverse-engineered from. The "EM Cyber" line is the breadcrumb. Pay it off or.
 - **Relationship to Cole**: Found family. Cole's a deadbeat dad to a junkie monkey. The bond is real and visible.
 - **Command interface** (established "Bitboy, play" / flash drive decrypt — reuse throughout):
@@ -607,7 +605,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **Writing rule**: Do not resolve the science-vs-belief tension in the colony arc. Let both Petra (who does the math and says Tyler is still wrong) and Tyler (who pushes the cell and watches the gold arrive) be simultaneously right.
 
 ### Captain Blitz / Squeaks / Sexy Sharons / Von Grutzen / Dr. Neumann / Captain Rycra
-- **NOT in the main book.** These are TRotR (Rings of the Reich) characters. Don't reference them in Rings of Dust unless you're deliberately building cross-IP cameos.
+- TRotR (Rings of the Reich) characters. Not part of Rings of Dust.
 
 ## World & Setting
 
