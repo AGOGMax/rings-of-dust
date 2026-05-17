@@ -225,7 +225,7 @@ The mystery thread — writing rule:
 The Grand Admiral should be referenced as rumor and legend throughout the book. Characters at Operator and Technician level treat it like a campfire story. Agents take it more seriously but still with skepticism. Navigators know. Command knows. The reader should encounter the jokes first and the truth last.
 First reference: a throwaway line from a minor Collective character. "Right, and I'm the Grand Admiral."
 Middle reference: Emily hears it from Rachel herself — Rachel says something that, on reread, is obviously a tell. But it reads as deflection in the moment.
-Final reveal: the bronze star and olive wreath. Visual, instant, irreversible.
+Final reveal: a glimpse. Her coat shifts during a quiet scene with Cole and Sharon. The patch is visible for a moment. No one speaks to it. The scene moves on. The reader sits with it alone.
 
 The game connection:
 The rank structure maps directly to the DARK token reward points system. Players who reach Special Agent rank receive a physical copy of Rings of Dust. A player who reaches Grand Admiral has done something extraordinary — the book's fictional mythology and the real community mythology collapse into the same thing. The Collective isn't just a faction in a story. It is the community.
@@ -417,7 +417,7 @@ The long game: While Marcus built Alpha Corp into a shadow government, Rachel bu
 Act 1 read: Marcus's ally. His public validator. She appears at his events, she echoes his framing, she is — to all appearances — one more instrument in his orchestra. The reader should believe this.
 Act 2 turn: After Sharon's shooting, Rachel finds Emily. She helps her. It reads as ambiguous — is she running Emily as an asset for Marcus, or is she actually on a different side? "On a very different side than it appears" (Cody Ch 12) — that line lands differently on a reread.
 The Grand Admiral mystery thread (runs throughout the book): The Collective has an internal mythology around the Grand Admiral. Lower-ranked members treat it as legend — some believe the rank exists and someone holds it, others think it's a motivational fiction the Navigators invented to give the organization gravity. Characters joke about it. "Right, and I'm the Grand Admiral." The jokes should make the reader smile and forget about it.
-The reveal: Late in the book — Ch 23 or the Federation hearing. Rachel is exposed not as Marcus's asset but as the architecture behind everything that has been working against him. The Grand Admiral rank insignia — bronze star, olive leaf wreath — is the visual signal. The reader who has seen the Collective rank chart understands in an instant what they are looking at.
+The reveal: There is no announcement. No speech. No moment where Rachel stands up and names herself. The reveal is a glimpse — near the end of the book, Rachel visits Cole and Sharon to thank them. She is composed and warm and entirely herself. At some point her coat shifts, or she turns, and for just a moment the inside of her jacket is visible. The patch is there. Bronze star, olive leaf wreath. The reader who has been paying attention to the rank chart understands in an instant what they are looking at. Nobody says anything about it. The scene continues. That is the whole reveal.
 Why the reveal lands: She was never hiding who she was. She was hiding where she stood. The public figure, the polished voice, the apparent loyalty to Marcus — all of it was operational cover for the longest-running infiltration in the book. She didn't betray Marcus. She was never his.
 Voice: Polished, controlled, with flashes of warmth she doesn't mean to show. On reread, those warmth flashes are the real her leaking through.
 Rank insignia: Bronze star with olive leaf wreath. Singular. No other rank has it.
@@ -689,13 +689,13 @@ Ch21a — The Zero-G Flywheel: Ray at Station Libre — the Collective's station
 
 Ch21b — Ray and the Station: Full 369-test-run data. All fuel cell mechanics confirmed. Unlock experiment: unlock at any stage → everything stops within hours. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it." Also establishes: Alpha took Ray's discovery and ran with it — but only as far as harvesting the 11-day cycle. They never sat with it long enough to find the lock mechanic underneath.
 
-Ch21c — Vance at the Black Site: Vance at classified Nevada desert facility (abandoned drive-in theater facade). Hall of Records vault emptied last month. "Federation Representative Rachel Vayes." Vance has no leverage. His choice: swallow it or confront Marcus. He confronts Marcus.
+Ch21c — Vance at the Black Site: Vance at classified Nevada desert facility (abandoned drive-in theater facade). Hall of Records vault emptied last month. Someone beat him here. Vance has no leverage. His choice: swallow it or confront Marcus. He confronts Marcus.
 
 Ch22 — The Black Site: Alpha's primary domestic operations center (converted office building, west of downtown LA). Emily enters via Marcus's own assistant (Collective contact). Marcus has been there since 11:47 PM. Panama files already out to 200,000 people. "You never understood anyone. You only did utility analysis." Marcus: "Yes." His last message to Cole via Emily: "Tell him he was the right choice. Not for the reasons I chose him. For the reasons it turned out he was." Emily leaves the door open.
 
-Ch22b — Rachel at the Station: Rachel travels to Station Libre 4 months before the Grand Hall hearing. Two days with Ray reviewing the data. 369 test runs. She says: "I know." He hadn't expected that.
+Ch22b — Rachel at the Station: Rachel travels to Station Libre. Two days with Ray reviewing the data. 369 test runs. She says: "I know." He hadn't expected that.
 
-Ch23 — Grand Hall: 412 of 420 seats. Marcus's audio testimony (2h51m). DeMint reads Vance Black's written record — documents the phone call, caliber, range, that Marcus shot Vance twice and closed the file. Ray testifies with notebook. Conrad's statement: "the system learns what it is loved into being." Rachel stands at 4:43 PM: "My name is Rachel Vayes." Bronze star, olive leaf wreath. Cole watches from Golden Dawn's cockpit; messages Emily through Gracie: "I saw you in the fourth row. You looked like yourself."
+Ch23 — Grand Hall: 412 of 420 seats. Marcus's audio testimony (2h51m). DeMint reads Vance Black's written record — documents the phone call, caliber, range, that Marcus shot Vance twice and closed the file. Ray testifies with notebook. Conrad's statement: "the system learns what it is loved into being." Cole watches from Golden Dawn's cockpit; messages Emily through Gracie: "I saw you in the fourth row. You looked like yourself."
 
 Ch24 — Earth Return: Golden Dawn breaks atmosphere over Pacific at 0617. Gracie: "Welcome home." Sharon in converted medical bay. Taylor removed on runway — two Federation task force agents, no scene. Taylor's quarters: pocket watch, Klaus Verguld engraved inside lid. DeMint to Cole: Klaus founded Alpha in 1991; Taylor was Klaus's man, not Marcus's. Recovery facility north San Diego. Emily on porch with coffee and road atlas. "You look different. Like something got lighter." Sharon in window chair: "Hi." Bitboy: "Hi, you little bastard." Blackberry preserves. Cole puts the copper-wire ring on the table next to her. No speech. She looks at it for a long moment. She puts it on. Ricardo calls — Dani wants bowling.
 
@@ -705,7 +705,7 @@ Epilogue A: Marcus in Dubai, orange juice with four ice cubes. Klaus appears —
 
 Epilogue B: Taylor in Nevada high-desert town where hospital died. Seven people died there. Taylor is there now, new name leaked by Marcus as payment for the unauthorized road attack. The machine disciplines its own errors.
 
-Epilogue C: Sharon on Sequoia porch, late October, first snow on high peaks. Collective droplet stencil on porch railing. "It was always in the reaching." She reaches.
+Epilogue C: Late October. Sequoia. First snow on the high peaks. Rachel comes to the house — no advance notice, just a knock. She thanks them. Both of them. Cole for not dying when he was supposed to. Sharon for coming back from something that should have been permanent. It is a short visit. She is composed, warm, entirely herself. At some point she turns to go and her coat shifts — and for just a moment the inside of her jacket is visible. The patch is there. Bronze star, olive leaf wreath. Cole sees it. Sharon sees it. Nobody says anything about it. Rachel says goodbye. The door closes. The Collective droplet stencil is on the porch railing. Outside, the first snow is on the high peaks. Sharon: "It was always in the reaching." She reaches.
 
 THEMATIC SPINE & MOTIFS
 
@@ -733,7 +733,9 @@ Bitboy's blue-stained mouth: From blackberry preserves. Visual motif that echoes
 
 The bronze indicator ring (Sharon's augmentation): It goes dark when the counter-program completes and Sharon comes back. A visual beat that marks the exact moment.
 
-The pocket watch: Klaus's — found in Taylor's quarters (Ch24), engraved with Klaus Verguld, coat of arms. The moment DeMint explains what Taylor actually was.
+The pocket watch: Klaus's — found in Taylor's quarters, engraved with Klaus Verguld, coat of arms. The moment DeMint explains what Taylor actually was.
+
+The bronze star and olive leaf wreath patch: The Grand Admiral's insignia. It is referenced as campfire mythology throughout the book — characters joke that the Grand Admiral probably doesn't exist. The patch is never displayed, never announced. The reveal is a glimpse: Rachel's coat shifts in Epilogue C and it's there for a moment. Cole sees it. Sharon sees it. Nobody says anything. The reader who has been paying attention to the rank chart understands everything in that instant.
 
 DUAL SIGHT LINES
 
