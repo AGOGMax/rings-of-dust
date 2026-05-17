@@ -189,8 +189,6 @@ Nothing in the early colony scenes names Jill's surname or bloodline connection.
 
 ---
 
----
-
 ## Factions & Power Hierarchy
 
 ### The chain of control (locked canon)
@@ -278,35 +276,11 @@ When the narrative prose names a villain, the villain is **Alpha Corp** (or Marc
 
 ---
 
-## STRIPPED ARCS — Do Not Resurrect
-*These plot threads existed in earlier drafts (DARK_MATTER.txt, 01_Antigravity_2023-02-16.txt) and have been deliberately removed from the Rings of Dust canon. Do not reintroduce them.*
-
-### 1. Gravity sickness / pandemic
-- **What it was**: Characters suffered from "gravity sickness" — a condition linked to Dark Matter exposure and space travel. There was a pandemic-adjacent dimension to the crisis.
-- **Why stripped**: Replaced by the **energy crisis** as the central stakes. The world is running out of power, not dying of a disease. The energy crisis is tighter, more relevant, and does not compete tonally with the DarkX sentience arc.
-- **Writing rule**: Gravity sickness is gone. Any line referencing it in older prose must be updated on sight.
-
-### 2. Emily drives all night to find DeMint / the transmitter quest
-- **What it was**: After Sharon's death, Emily drives through the desert to reach Chancellor DeMint. She tells him Sharon was killed. Together they search for a piece of equipment powerful enough to amplify a signal into deep space and reach Cole aboard the Golden Dawn.
-- **Why stripped**: The stakes were routed through DeMint (a morally compromised character) and the solve was an external device. Both undercut Emily's agency. Her arc is stronger without it.
-- **What replaces it**: Emily's solo arc in Ch12–16 goes through Rachel Vayes and the Collective. Her agency comes from *within* — the Collective gives her access, not DeMint.
-- **Writing rule**: No scene where Emily's goal is "find a way to contact Cole in space via boosted transmitter."
-
-### 3. Sharon's voice through the void saves Cole
-- **What it was**: Cole is knocked out by Dark Matter exposure and near death. Somewhere in space, Sharon's voice reaches him through the void — *"Cole, I love you. Come home."* It brings him back.
-- **Why stripped**: Beautiful image, but it required the transmitter quest above to make physical sense. Without that infrastructure it becomes mystical hand-waving. More importantly: Cole's survival arc should be earned by his own internal work — the Ch18 vision, the DarkX integration — not by being pulled back by an external voice.
-- **What replaces it**: The Conrad antidote (already in Cole's bloodstream from Ch4) activates during the Ch18 DarkX event. Cole comes back because the work Conrad did, and Cole absorbed unknowingly, fires at exactly the right moment. The miracle is earned, not wished for.
-- **Writing rule**: Sharon does not speak to Cole through space. If she speaks to him it is in a Ch18 memory/vision — internal, not transmitted.
-
----
-
 ## Sharon Teez — name disambiguation
 
 **Canon (locked)**: Sharon's surname is **Teez** in the main book.
 
 In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally separate universe — Falcon crew tactician, not Cole's love interest, no medical training. They share a name and surname but are distinct across books. Per project tonal classification: TRotR is pulpy/bizarre; Rings of Dust is literary. The only permissible bridge between the two universes is Wilhelm's pre-Iceland surname. Do not cross-reference their personal histories.
-
----
 
 ---
 
@@ -642,8 +616,6 @@ Vance needs more page time and rounding before his death lands. He is currently 
 
 ---
 
----
-
 ## World & Setting
 
 **Year**: 2043
@@ -658,8 +630,6 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **Alpha Corporation**: The true governing power. Founded by Klaus Verguld in 1991. Marcus Verguld's current instrument. Runs money through the Federation. Federation budget is effectively Alpha Corp money. "The Federation is crawling with MY employees." (Marcus)
 - **The Federation**: NASA equivalent — real government, real scientists, real Astros. Captured at top levels by Alpha Corp. Not uniformly corrupt (Vance Black was proof). Hierarchy extends to the Chancellor level (DeMint).
 - **The Collective**: Distributed resistance network. Volunteers, scientists, former Federation personnel. Not an army. A living network — founded to build the world they want inside the walls of the world that exists.
-
----
 
 ---
 
@@ -747,8 +717,6 @@ Vance needs more page time and rounding before his death lands. He is currently 
 
 ---
 
----
-
 ## Thematic Spine & Motifs
 
 ### The Spine
@@ -795,8 +763,6 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 
 ---
 
----
-
 ## First Spark Prequel
 
 ### Scene 1: Grandmother's Ritual (Early Section — Before Wilhelm Finds the Directorate Archive)
@@ -833,8 +799,6 @@ Elsa Klein (maiden name) left institutional science and went in the opposite dir
 The grandmother's line — "The grandmother and the grandfather drank from the same well and carried what they found there in opposite hands" — needs to be seeded in First Spark as a real relationship, not a metaphor.
 
 Jill (who has not yet discovered her bloodline connection as of Ch03f) comes back for the notebooks in Ch03g. She reads Elsa's 369 test runs and the prophecy section. The connection resolves in Book One — Jill recognizes her own family name in the founding bloodline and understands what she is. She does not announce it. She takes the notebooks and goes.
-
----
 
 ---
 
