@@ -387,7 +387,7 @@ The chapter as drafted does not need rewriting. It is still right. The reveal of
  - **"Bitboy, stat"** — medical mode; drops everything, moves to the injured person, assists with emergency triage. Sharon established this use. After her death it becomes one of the commands the crew is careful about saying out loud.
  - Optional later: "scout," "ghost," "bridge" — add if a scene needs it.
 - **Blue eye glow**: When Bitboy's eyes shift to soft blue light, it's the visual tell that he's entering enhanced/superpower mode. Plant it early, pay it off big. First major use: the road action scene where he drinks the energy drink — "Bitboy, defend" + blue glow right before he goes full shield.
-- **Writing notes**: Bitboy is comic relief, but he's also the first to *feel* things the humans miss. He grieves Sharon viscerally. He recognizes Gracie's birth. Use him as the canary.
+- **Sensitivity**: Bitboy registers emotional and environmental shifts before the humans do. He grieves Sharon viscerally — not as performance, as fact. He is in the cargo bay when Gracie is born and reacts before Cole understands what has happened. He is the canary in every room he is in.
 
 ### IRiS / Gracie
 - **What she is**: Imbued Recursive Intelligence System. Federation AI. Lives in the crew's heads via injected nanopowder. Cold, authoritative, feminine.
