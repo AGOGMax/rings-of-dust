@@ -281,7 +281,7 @@ In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally
 - **Writing notes**: When he's grieving, he gets quieter, not louder. He plans more than he feels — but his plans betray what he's feeling.
 
 ### Sharon Teez
-- **Role**: Doctor-trained, Collective Operator. Cole's lover. Emily's protector and friend.
+- **Role**: Collective Operator. Cole's lover. Emily's protector and friend.
 - **Physical**: Tall, fit, "a goddess by any standard" per Emily's POV. Olive-green dress, long full red hair. Post-resurrection: half-bionic — see resurrection arc below.
 - **Voice**: Sharp, flirty, fearless. Wraps care in barbs. The kind who walks into a room with a stomach pump and a joke about coke whores in dive bars.
 
@@ -290,7 +290,7 @@ In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally
 The bond with Cole has to feel **earned** before she dies. The relationship existed for years before page one. Concrete plants for the writing:
 
 - **Black-market parts runner.** Sharon ran salvaged Federation parts and stable Dark Matter crystals through a Collective supply chain for years before the book opens. She's good at it. She knows handlers, fences, dead drops, county roads in three states.
-- **Anti-Federation, anti-Alpha Corp from the start.** Her politics are sharper than Cole's. She gave them the finger the day she got out of medical training and never stopped.
+- **Anti-Federation, anti-Alpha Corp from the start.** Her politics are sharper than Cole's. She gave them the finger and never stopped.
 - **Cole was the straight-laced one — but he had her back.** When their paths first crossed (a botched delivery? a Federation raid? a medical emergency in a Collective safehouse? — flesh out the meet-cute scene as a Cole flashback in Act 2), he covered for her. Federation captain, decorated. He could have turned her in. He didn't. They've been each other's exception ever since.
 - **Their love is the kind built on shared crime.** Cole holding the Federation line by day, Sharon laughing about it in his cabin by night. Trading dead-drop coordinates the way some couples trade grocery lists. *"Yeah, we'll get you the regulators. No, the Federation can suck a rock."*
 - **Where to plant this in the prose:**
