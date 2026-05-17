@@ -222,34 +222,36 @@ Every patch is hidden — sewn inside a bag lining, inside a jacket, inside clot
 They signal rank only to other Collective members who know to look.
 No Collective member displays rank on the outside.
 
+Metal rule: within every tier that has three ranks, Junior = bronze, Senior = silver, Lead/Chief/Special = gold. This holds across all tiers without exception.
+
 ```
 TIER 1 — INFORMANTS  (intelligence gathering)
   Informant          [patch: Collective water droplet — inside jacket lining]
 
-TIER 2 — OPERATORS  (move intelligence; trusted couriers)
-  Jr. Operator       [patch: small plain circle — inside bag lining]
-  Sr. Operator       [patch: small plain circle — inside bag lining]
-  Lead Operator      [patch: prominent circle — inside jacket lining]
+TIER 2 — OPERATORS  (symbol: scalpel — move intelligence with precision)
+  Jr. Operator       [patch: scalpel, bronze — inside bag lining]
+  Sr. Operator       [patch: scalpel, silver — inside bag lining]
+  Lead Operator      [patch: scalpel, gold — inside jacket lining]
 
-TIER 3 — TECHNICIANS  (the doers)
-  Jr. Technician     [patch: wrench — inside bag lining]
-  Sr. Technician     [patch: wrench — inside bag lining]
-  Lead Technician    [patch: wrench — gold thread, inside jacket lining]
+TIER 3 — TECHNICIANS  (symbol: wrench — the doers)
+  Jr. Technician     [patch: wrench, bronze — inside bag lining]
+  Sr. Technician     [patch: wrench, silver — inside bag lining]
+  Lead Technician    [patch: wrench, gold — inside jacket lining]
 
-TIER 4 — AGENTS  (move people and resources)
-  Jr. Agent          [patch: sunglasses — inside bag lining]
-  Sr. Agent          [patch: sunglasses, tinted — inside bag lining]
-  Special Agent      [patch: sunglasses, dark full frame — inside bag lining]
+TIER 4 — AGENTS  (symbol: sunglasses — move people and resources)
+  Jr. Agent          [patch: sunglasses, bronze — inside bag lining]
+  Sr. Agent          [patch: sunglasses, silver — inside bag lining]
+  Special Agent      [patch: sunglasses, gold — inside bag lining]
 
-TIER 5 — NAVIGATORS  (lead missions and operations)
-  2nd Navigator      [patch: compass — inside jacket lining]
-  1st Navigator      [patch: compass, detailed — inside jacket lining]
-  Chief Navigator    [patch: compass, ornate gold — inside jacket lining]
+TIER 5 — NAVIGATORS  (symbol: compass — lead missions and operations)
+  2nd Navigator      [patch: compass, bronze — inside jacket lining]
+  1st Navigator      [patch: compass, silver — inside jacket lining]
+  Chief Navigator    [patch: compass, gold — inside jacket lining]
 
-TIER 6 — COMMANDERS  (move the big pieces)
-  2nd Commander      [patch: star, silver — inside jacket lining]
-  1st Commander      [patch: star, gold — inside jacket lining]
-  Chief Commander    [patch: star, crimson — inside jacket lining]
+TIER 6 — COMMANDERS  (symbol: star — move the big pieces)
+  2nd Commander      [patch: star, bronze — inside jacket lining]
+  1st Commander      [patch: star, silver — inside jacket lining]
+  Chief Commander    [patch: star, gold — inside jacket lining]
 
 TIER 7 — SINGULAR
   Grand Admiral      [patch: bronze star + olive leaf wreath — location: known only at Command level]
@@ -257,7 +259,7 @@ TIER 7 — SINGULAR
 
 **What each tier does:**
 - **Informants**: The eyes and ears. People in every building, agency, and shipping dock who notice things and pass them up the chain. They may not know they're working for the Collective at all — some just pass along what they see to someone they trust. Sharon operated at this level for years — black-market parts, dead drops, handlers — without ever carrying the patch.
-- **Operators**: Trusted couriers. They move intelligence from where it's gathered to where it needs to go. They know more than Informants about the Collective's structure but are not yet operational in the field. The patch is small and plain on purpose — sewn inside a bag lining. You wouldn't find it unless you knew what you were looking for.
+- **Operators**: Trusted couriers. They move intelligence from where it's gathered to where it needs to go. They know more than Informants about the Collective's structure but are not yet operational in the field. The scalpel is the right symbol — precise, unremarkable to the uninitiated, useful only in the right hands. Bronze to gold as you climb. The patch is always sewn inside a bag lining. You wouldn't find it unless you knew what you were looking for.
 - **Technicians**: The doers. Wrench is the right symbol — they build, hack, steal, and redistribute. Alpha Corp equipment, suppressed technology, resources that should belong to the public. The Technicians are the Robin Hood arm of the Collective. Conrad's nanoparticle work was funded through Technician-level cells without his knowledge. Sam Drummond belongs here in spirit.
 - **Agents**: Sunglasses. They set up operations and move people and resources — people like Ray, situations like getting someone extracted or inserted. Red and Squirrel are Special Agents. All patches are hidden. Every rank. The sunglasses patch goes inside the bag lining. Never on the lapel. Never visible to anyone who isn't already Collective.
 - **Navigators**: Compass. They lead missions and operations. They see the whole board. They know who is and isn't who they appear to be. Rachel's reach operates at this level even before the Grand Admiral reveal. Navigators know the Grand Admiral exists. They don't say so publicly.
