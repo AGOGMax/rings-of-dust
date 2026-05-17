@@ -12,8 +12,8 @@ Number. Significance
 22. Recurring. Specific in-story placement TBD — track appearances across chapters.
 33. Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone.
 180. Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine.
-369. Number of test runs in Elsa Klinge's research notebooks. Appears in Ch22b and when Petra opens the sealed case.
-5555. Alpha Corp vessel call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it; Gracie traces it during the Saturn mission.
+369. Number of test runs in Elsa Klinge's research notebooks. Also the number of victims from the Polaris explosion — the disaster Cole captained. The same number connects the origin of the mission to the origin of the colony science. Appears in Ch22b and when Petra opens the sealed case.
+5555. FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Ray identifies it while working undercover; Gracie traces it during the Saturn mission.
 740. Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics.
 
 DARKX & DARKER MATTER — CANON SCIENCE
@@ -61,7 +61,7 @@ Writing note: "Jackpot" is the word Ray said to an empty lab when he discovered 
 
 THE 369 TEST RUNS
 
-Elsa Klinge's notebooks document 369 test runs — the accumulated record of years of observation before the pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case.
+369 carries dual weight in the story. (1) Elsa Klinge's notebooks document 369 test runs — the accumulated record of years of observation before the fuel cell pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case. (2) 369 is also the number of victims from the Polaris explosion — the Saturn mission disaster Cole captained, the one that sent him to the cabin, the one he has never stopped blaming himself for. The same number lives at both ends of the story: the loss that broke Cole, and the research that will eventually make sense of everything he lost.
 
 THE UNLOCK MECHANIC
 
@@ -71,7 +71,7 @@ THE RACE TO CONTROL THE GRID
 
 The 740-cell Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
 
-FEDHEX5555: The Alpha Corp vessel shadowing the Golden Dawn. Call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it while working undercover and feeds the call sign to Red and Squirrel. Gracie traces it during the Saturn mission.
+FEDHEX5555: The cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Ray identifies it while working undercover inside Alpha Corp and feeds it to Red and Squirrel. Gracie traces it during the Saturn mission.
 
 STAKING (THE LONG-HOLD MECHANIC)
 
@@ -207,144 +207,6 @@ Canon (locked): Sharon's surname is Teez in the main book.
 
 In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally separate universe — Falcon crew tactician, not Cole's love interest, no medical training. They share a name and surname but are distinct across books. Per project tonal classification: TRotR is pulpy/bizarre; Rings of Dust is literary. The only permissible bridge between the two universes is Wilhelm's pre-Iceland surname. Do not cross-reference their personal histories.
 
-FOUNDING BLOODLINE & PROPHECY (COLONY ARC CANON)
-
-The belief system underlying the asteroid colony predates the Verguld name by generations. It originated with Wilhelm's grandmother — the ancestor who began the cult/religion long before Wilhelm encountered the DarkX sequences.
-
-THE ORIGINAL BELIEF
-
-Your acts and deeds now bless your bloodline going forward. You can reincarnate into your own bloodline. The right rituals ensure future generations receive what you sow. One day, a descendant of this bloodline will come to the place where the sacrifice is made — and the circle will close.
-
-TWO STREAMS FROM ONE SOURCE
-
-Wilhelm's Grandmother (ORIGIN — started the cult/religion)
-  |
-  +— Accumulation stream (Verguld dynasty): Wilhelm → Klaus → Marcus
-  |   (took the "bless your bloodline" teaching and redirected it toward ownership and empire)
-  |
-  +— Sacrifice stream (colony tradition): followers carry the sacrifice path forward
-  |   → Elsa Klinge founds the asteroid colony → Tyler Durden continues as Void-Walkers
-  |
-  +— Separate branch (never Verguld, never found colony until now): ... → Jill
-
-ELSA KLINGE — PROPHETESS, NOT BIOLOGICAL GRANDMOTHER
-
-Elsa is NOT Jill's biological grandmother. She is a prophetess within the tradition that started with Wilhelm's grandmother. Her notebooks do not say "for my granddaughter." They contain a prophecy: the offspring of the founding bloodline will one day come to the colony. The notebooks wait for that person.
-
-JILL — THE PROPHESIED DESCENDANT
-
-Jill is a descendant of Wilhelm's grandmother's founding bloodline — on a branch that never took the Verguld accumulation path and never found the colony until now. She is NOT Elsa's biological granddaughter.
-
-Petra says "You're not her granddaughter" — technically correct. The notebooks are not for a biological heir. They are for the fulfillment of the prophecy. Petra is right for the wrong reason. Jill IS the person the notebooks were waiting for.
-
-THE REVEAL MECHANISM
-
-Traced through Jill's family name. The maiden name in her family history connects back to the founding bloodline. It leads to Wilhelm's grandmother. It leads to Elsa's prophecy. It leads to the colony.
-
-WRITING RULE
-
-Nothing in Ch03b-f names Jill's surname or bloodline connection. Keep it clean. The reader plants the seed on reread. The reveal happens in Book Two — or late in Book One.
-
-KEY RECURRING OBJECTS & MOTIFS
-
-The "Jackpot" patch — hand-stitched, irritates Cole's chest, treasured. Survives the book.
-The makeshift copper-wire ring with the smooth pebble — Cole gives this to Sharon in Cody Ch 5. After Sharon dies, it should appear at the cabin. Cole keeps it.
-The Collective droplet sigil — water drop inside a circle. "No raindrop thinks it's the flood."
-Day-3 crystals — Cody Ch 7 establishes the Collective trades stable Dark Matter on its 3rd day of stability (out of 15-day shelf life). Use this term consistently.
-The thumb drive figurine — Conrad's keychain hides the data in Cody Ch 2 and Ch 3. Resurface it in Ch 20 — the prototype's casing has a similar figurine motif as a callback.
-Bitboy's blue-stained mouth — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
-
-SIGNIFICANT NUMBERS
-
-These numbers recur across Rings of Dust with specific narrative weight. Use them consistently.
-
-Number. Significance
-
-11. Fuel cell cycle duration. Day 11: one of 740 cells receives the one-time exterior Jackpot deposit. The sync period ends. Also the return interval from void sacrifices (gold asteroid every 11 days).
-22. Recurring. Specific in-story placement TBD — track appearances across chapters.
-33. Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone.
-180. Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine.
-369. Number of test runs in Elsa Klinge's research notebooks. Appears in Ch22b and when Petra opens the sealed case.
-5555. Alpha Corp vessel call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it; Gracie traces it during the Saturn mission.
-740. Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics.
-
-DARKX & DARKER MATTER — CANON SCIENCE
-
-DARKX (THE RAW SUBSTANCE)
-
-What it is: A plasma-like substance — not quite liquid, not quite gas. Obsidian in color, changes shape into spikes and tendrils. Behaves as if it has its own personality and will. Almost sentient.
-Origin lore: DarkX is what was communicating with people in The First Spark. It does not want to be separated, handled, or contained. Cole's first instinct during the Polaris mission is correct: it has secrets it is unwilling to share.
-Danger: Extraordinarily volatile when disturbed. Crew behavioral changes near DarkX are documented — it exerts a subtle influence before anyone realizes it.
-
-THE CONVERSION: DARKX → DARKER MATTER CRYSTALS
-
-To stabilize DarkX into usable solid form, it must be processed in a specific environment:
-1. Salt compounds — specific mineral salts act as a crystallization catalyst
-2. Liquid nitrogen — rapid cooling accelerates the transition
-3. Negative pressure (vacuum environment) — prevents premature detonation and forces the plasma inward into crystal structure
-
-Result: Darker Matter crystals — solid, dense, dark. Stable enough to handle, but will revert to DarkX vapor if placed in a standard containment unit and left at ambient pressure.
-
-RAY'S ACCIDENTAL DISCOVERY
-
-Ray (Dr. Max Vision) had a batch of freshly converted Darker Matter crystals at his workstation on a Friday afternoon. The official containment unit was across campus. Carrying them there meant logging the transfer, dealing with security checkpoints, and explaining why he had them at all.
-
-So he did the lazy thing. He sealed the crystals inside a spare fuel cell — packed it with nitrogen and sealed it under negative pressure as a temporary measure — and shoved it in his locker. I'll deal with it Monday.
-
-He came back Monday to find the locker glowing. Inside the fuel cell, the crystals hadn't just sat there — they had begun dissolving back into vapor, and that vapor had nowhere to go. Trapped under pressure inside the cell, it formed a slow vortex, a miniature storm in a jar. And the storm was charging the cell. The vapor was generating energy.
-
-On Day 11, the mist cleared. New crystals had formed on the outside of the cell's base — the cycle had completed itself. The fuel cell read fully charged.
-
-Ray said "Jackpot" to an empty lab, and then felt the dread move in.
-
-THE FUEL CELL CYCLE (11-DAY ROUND)
-
-The cycle is 11 days. Alpha Corp accelerated it to exactly 11 days by adding liquid nitrogen to the process. Earlier experiments ran much longer (45 days and more) before they cracked the formula.
-
-THE SYNC PERIOD (DAYS 0–11)
-
-After a Grid of 740 cells is assembled, it enters a sync period during Days 0–11. The cells generate a low resonance — below the threshold of hearing, felt in the casings if you know what to listen for. Elsa Klinge described it as a radio scanning through static: the sensation of something searching for a frequency just out of range. After Day 11, the feeling stops. Something has completed.
-
-DAY 11 — THE JACKPOT (ONE OF 740)
-
-On Day 11, exactly one cell in the 740-cell Grid receives a one-time exterior crystal deposit — the Jackpot. The Jackpot cell is random; it never repeats on the same cell. The exterior crystals appear on the base of the casing. This is separate from the normal 11-day harvest cycle — the Jackpot is singular and non-recurring for that cell.
-
-Writing note: "Jackpot" is the word Ray said to an empty lab when he discovered the cycle — and the word Cole Nova earned as a callsign for surviving impossible situations. The word lives at both ends of the story's spine. Neither man knows the other used it first.
-
-THE 369 TEST RUNS
-
-Elsa Klinge's notebooks document 369 test runs — the accumulated record of years of observation before the pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case.
-
-THE UNLOCK MECHANIC
-
-A locked cell can be unlocked at any point. The consequence: all enhanced properties stop within hours. Interior growth rate, exterior cycling — both revert immediately to baseline 11-day cycle behavior. There is no partial unlock — it is binary. Once unlocked, the accumulated advantage is gone. The only way to recover it is to begin the lock timer again from Day 0.
-
-THE RACE TO CONTROL THE GRID
-
-The 740-cell Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
-
-FEDHEX5555: The Alpha Corp vessel shadowing the Golden Dawn. Call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Ray identifies it while working undercover and feeds the call sign to Red and Squirrel. Gracie traces it during the Saturn mission.
-
-STAKING (THE LONG-HOLD MECHANIC)
-
-Someone eventually figures out that a sealed, locked fuel cell — one made deliberately inaccessible, not harvested, just left alone — does not reset. It keeps accumulating. The vapor keeps building. The crystals keep growing, layer on layer, inside a sealed environment with no release valve.
-
-Lock a cell for 33 days: interior crystal growth accelerates to 10× the rate of an unlocked cell (interior only — not exterior deposits). The crystals build inside the sealed environment with no release valve. No harvest is possible or intended. The cell must simply be left alone, locked.
-
-Lock a cell for 180 days: two simultaneous effects trigger. (1) Interior: crystal growth reaches 100× the rate of an unlocked cell. (2) Exterior: all 740 cells in a full Grid begin making exterior deposits on a continuous 11-day cycle — not just the one-time Day 11 Jackpot, but recurring every 11 days from Day 180 onward, indefinitely. The full Grid becomes a perpetual dual-engine: interior at 100× and exterior cycling every 11 days. Unlock the cell at any point and all enhanced properties stop within hours.
-
-In the story this is hinted at — a researcher notices that the cells nobody got around to harvesting outperformed the ones on schedule. The implication spreads quietly through Alpha Corp's data. Nobody advertises it. It goes into the classified files.
-
-SACRIFICE (THE VOID MECHANIC)
-
-In Ch03b-f (the Colony arc), the sacrifice mechanic is established through Tyler Durden and the asteroid colony. Darker Matter crystals and charged fuel cells can be fed into DarkX itself — pushed through the pressure membrane into the void at the end of the east tunnel. Not used. Not harvested. Destroyed.
-
-When a fuel cell is sacrificed into an active DarkX field, it does not simply detonate. The DarkX absorbs it. And something comes back — not immediately, not proportionally, but eventually, and in a form that defies the ordinary accounting of matter and energy. The returns are not logical. They are eternal in nature: a sacrifice now that pays forward into something larger and longer than the individual act.
-
-This is the mechanic the asteroid colony knows and practices — Tyler Durden's Void-Walkers push cells into the void. Alpha Corp is aware of the gold asteroid returns but does not understand the mechanism. Elsa Klinge mapped the science (dark matter gravity differential redirecting inbound asteroid trajectories). Tyler mapped it to belief (ancestral return, giving to the void). Both frameworks are simultaneously true.
-
-Writing rule: DarkX is never just a fuel source. Every scene involving it should carry the faint suggestion that it is aware of what is being done to it — and that it is patient.
-
 MAIN BOOK CHARACTERS (RINGS OF DUST)
 
 COLE NOVA
@@ -452,7 +314,7 @@ DR. MAX VISION ("RAY")
 Legal name: Dr. Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by Ray. The narrator introduces him as Ray in Ch10a — prior to that, he appears in narration as Max or Dr. Vision.
 Role: Scientist who accidentally discovers the 11-day fuel cell cycle. Extracted by Collective handlers, works undercover inside Alpha Corp in Panama.
 Handlers: Red and Squirrel (Collective Special Agents) — they extract him, build his cover in Panama, and receive his intelligence.
-Key intelligence delivered: Identifies the Alpha Corp vessel shadowing the Golden Dawn. Call sign: FEDHEX5555. Cover registry: FED-MRS-0409 "Rapid Response Medical Support." Gracie later traces it by call sign during the Saturn mission.
+Key intelligence delivered: Identifies the Alpha Corp vessel shadowing the Golden Dawn. Cover registry: FEDHEX5555. Gracie traces it during the Saturn mission.
 Space station arc: Eventually reaches the space station and discovers the flywheel and the anti-gravity project — connecting his accidental discovery to the full race to control the Grid.
 Voice: Scientist's precision papering over escalating panic. The man who did the lazy thing and has been living with the consequences ever since.
 
@@ -674,141 +536,266 @@ CAPTAIN BLITZ / SQUEAKS / SEXY SHARONS / VON GRUTZEN / DR. NEUMANN / CAPTAIN RYC
 
 NOT in the main book. These are TRotR (Rings of the Reich) characters. Don't reference them in Rings of Dust unless you're deliberately building cross-IP cameos.
 
-KEY RECURRING OBJECTS & MOTIFS
+WORLD & SETTING
 
-The "Jackpot" patch — hand-stitched, irritates Cole's chest, treasured. Survives the book.
-The makeshift copper-wire ring with the smooth pebble — Cole gives this to Sharon in Cody Ch 5. After Sharon dies, it should appear at the cabin. Cole keeps it.
-The Collective droplet sigil — water drop inside a circle. "No raindrop thinks it's the flood."
-Day-3 crystals — Cody Ch 7 establishes the Collective trades stable Dark Matter on its 3rd day of stability (out of 15-day shelf life). Use this term consistently.
-The thumb drive figurine — Conrad's keychain hides the data in Cody Ch 2 and Ch 3. Resurface it in Ch 20 — the prototype's casing has a similar figurine motif as a callback.
-Bitboy's blue-stained mouth — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
+Year: 2043
 
-STRIPPED ARCS — DO NOT RESURRECT
+The energy economy: The world runs on fuel cells powered by Darker Matter crystals. Darker Matter (processed from raw DarkX plasma) is the dominant energy source globally. Supply is controlled, pricing is managed, and the shortage that has defined the post-2030 era is not an accident.
 
-These plot threads existed in earlier drafts (DARK_MATTER.txt, 01_Antigravity_2023-02-16.txt) and have been deliberately removed from the Rings of Dust canon. Do not reintroduce them.
+The core secret: The shortage is a choice. Alpha Corporation discovered that Darker Matter cells, when properly managed over time, produce exponentially more energy than they advertise. They classified the findings, destroyed viable product to suppress supply, and built a shadow government around the gap. The proof was built into the technology before the technology was handed over. The lock was made before the key. Everything else was patience.
 
-1. GRAVITY SICKNESS / PANDEMIC
+Institutions:
+Alpha Corporation: The true governing power. Founded by Klaus Verguld in 1991. Marcus Verguld's current instrument. Runs money through the Federation. Federation budget is effectively Alpha Corp money. "The Federation is crawling with MY employees." (Marcus)
+The Federation: NASA equivalent — real government, real scientists, real Astros. Captured at top levels by Alpha Corp. Not uniformly corrupt (Vance Black was proof). Hierarchy extends to the Chancellor level (DeMint).
+The Collective: Distributed resistance network. Volunteers, scientists, former Federation personnel. Not an army. A living network — founded to build the world they want inside the walls of the world that exists.
 
-What it was: Characters suffered from "gravity sickness" — a condition linked to Dark Matter exposure and space travel. There was a pandemic-adjacent dimension to the crisis.
-Why stripped: Replaced by the energy crisis as the central stakes. The world is running out of power, not dying of a disease. The energy crisis is tighter, more relevant, and does not compete tonally with the DarkX sentience arc.
-Writing rule: Gravity sickness is gone. Any line referencing it in older prose must be updated on sight.
+CHAPTER TIMELINE
 
-2. EMILY DRIVES ALL NIGHT TO FIND DEMINT / THE TRANSMITTER QUEST
+Ch01 — Polaris: Polaris explodes at Saturn's rings. 369 crew killed. Cole sole survivor (pulled out by Ricardo and Bitboy). Cole's first raw DarkX contact happens here.
 
-What it was: After Sharon's death, Emily drives through the desert to reach Chancellor DeMint. She tells him Sharon was killed. Together they search for a piece of equipment powerful enough to amplify a signal into deep space and reach Cole aboard the Golden Dawn.
-Why stripped: The stakes were routed through DeMint (a morally compromised character) and the solve was an external device. Both undercut Emily's agency. Her arc is stronger without it.
-What replaces it: Emily's solo arc in Ch12–16 goes through Rachel Vayes and the Collective. Her agency comes from within — the Collective gives her access, not DeMint.
-Writing rule: No scene where Emily's goal is "find a way to contact Cole in space via boosted transmitter."
+Ch02 — Room 1122, Las Vegas: Dr. Conrad (shaking hands, guilt). Emily and Sharon run the elevator scam on Greenbaum. Conrad gives them the Enterprise figurine and encrypted drive. Sharon is Collective-adjacent. Conrad's last line: "Tell him I'm sorry."
 
-3. SHARON'S VOICE THROUGH THE VOID SAVES COLE
+Ch03 — A Thousand Thrills: Cole's origin story. Summer job at 'A Thousand Thrills' theme park. Father's cancer diagnosis. Cole gives up the summer; Marcus's bitter note. Father dies when Cole is 17. Emily and mom tutor Cole toward the Academy.
 
-What it was: Cole is knocked out by Dark Matter exposure and near death. Somewhere in space, Sharon's voice reaches him through the void — "Cole, I love you. Come home." It brings him back.
-Why stripped: Beautiful image, but it required the transmitter quest above to make physical sense. Without that infrastructure it becomes mystical hand-waving. More importantly: Cole's survival arc should be earned by his own internal work — the Ch18 vision, the DarkX integration — not by being pulled back by an external voice.
-What replaces it: The Conrad antidote (already in Cole's bloodstream from Ch4) activates during the Ch18 DarkX event. Cole comes back because the work Conrad did, and Cole absorbed unknowingly, fires at exactly the right moment. The miracle is earned, not wished for.
-Writing rule: Sharon does not speak to Cole through space. If she speaks to him it is in a Ch18 memory/vision — internal, not transmitted.
+Ch03b — The Colony: Jill finds the colony by accident (low on fuel, 3 days from Titan). Meets Tyler Durden (introduces himself by name). Meets Petra. Learns about the split: Loyalists vs Void-Walkers. Tyler's "race to control the grid" speech — Jill dismisses it as cult talk. Stays 11 days. Witnesses the asteroid arrival. Leaves.
 
-SHARON TEEZ — NAME DISAMBIGUATION
+Ch03c — The Faithful: Jill returns to the colony. Meets Yun — who explains the bloodline belief (ancestors need energy to reincarnate; sacrifice strengthens the bloodline). Tyler shows her the prep chamber with 4 long-locked cells (approaching 180 days). Petra: "When you come back, ask me again."
 
-Canon (locked): Sharon's surname is Teez in the main book.
+Ch03d — The Void: Day 7 of Jill's second visit. Ceremony at 0300. Tyler reads Elsa's last notebook entry. The 4 cells are pushed through the membrane. Tyler: "You don't have to believe in the ancestors. You just have to watch the math. Eleven days."
 
-In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally separate universe — Falcon crew tactician, not Cole's love interest, no medical training. They share a name and surname but are distinct across books. Per project tonal classification: TRotR is pulpy/bizarre; Rings of Dust is literary. The only permissible bridge between the two universes is Wilhelm's pre-Iceland surname. Do not cross-reference their personal histories.
+Ch03e — The Crater: Day 18 (11 days after the sacrifice). Gold asteroid arrives — twice as large as usual. Gold crater on its face: solid gold. Petra says: "Jackpot." Jill goes to her ship. Comes back. Asks about the notebooks. Petra tells her Elsa's beliefs; says the notebooks are for Elsa's granddaughter. "I'm not her granddaughter." / "No. You're not."
 
-FOUNDING BLOODLINE & PROPHECY (COLONY ARC CANON)
+Ch03f — The Pull: Day 23. Routing broker contract closing in 48 hours. Tyler at the pressure membrane: "I think there is a difference between understanding the mechanism and understanding the intention." Jill leaves. Final note: she will think about the gold crater for a long time. She will not be able to stop.
 
-The belief system underlying the asteroid colony predates the Verguld name by generations. It originated with Wilhelm's grandmother — the ancestor who began the cult/religion long before Wilhelm encountered the DarkX sequences.
+Ch04 — The Cabin: Bitboy overdoses (ethanol); Cole runs stomach pump. News broadcast (Rachel reporting) mentions Conrad's disappearance. Ricardo arrives with 30-rack. Emily and Sharon arrive. Cole rubs the Enterprise figurine — dark silver stain on thumb (counter-program absorbs). Data drive decrypted. DeMint's letter. Mission accepted.
 
-THE ORIGINAL BELIEF
+Ch05 — [Placement disputed: see Contradictions Log, Item 6]
 
-Your acts and deeds now bless your bloodline going forward. You can reincarnate into your own bloodline. The right rituals ensure future generations receive what you sow. One day, a descendant of this bloodline will come to the place where the sacrifice is made — and the circle will close.
+Ch06 — The Ring: Cabin evening. SUV loaded. Sharon kisses Cole. Ricardo jokes. Cole fashions copper-wire ring from hummingbird feeder wire around a smooth pebble. "For the first time I want to give you something to hold onto." Black SUV highway attack. Bitboy neutralizes. Cole photographs driver's license: Brandon T. Davis, Pasadena, 41.
 
-TWO STREAMS FROM ONE SOURCE
+Ch07 — Launch: Federation HQ. DeMint calls Cole "crown jewel of the Federation." Vance Black introduced. IRiS inoculation — nanopowder from table. Crew: Cole, Ricardo, Taylor, Sam. Sam's Collective patch in duffel bag lining. Golden Dawn launches.
 
-Wilhelm's Grandmother (ORIGIN — started the cult/religion)
-  |
-  +— Accumulation stream (Verguld dynasty): Wilhelm → Klaus → Marcus
-  |   (took the "bless your bloodline" teaching and redirected it toward ownership and empire)
-  |
-  +— Sacrifice stream (colony tradition): followers carry the sacrifice path forward
-  |   → Elsa Klinge founds the asteroid colony → Tyler Durden continues as Void-Walkers
-  |
-  +— Separate branch (never Verguld, never found colony until now): ... → Jill
+Ch08 — The Ambush: Emily and Sharon on county farm road Sprinter van meet with Squirrel and Red. Crystal transfer. Code phrase: "No raindrop thinks it's the flood." Greenbaum forces them into government car. Industrial lot. Collective sniper takes Greenbaum. Sharon goes down. Alpha vehicle takes Sharon's body. Emily taken to building; Rachel finds her. "Sharon's dead." Rachel: "I know." Deal: stay the night, meet Marcus tomorrow, then go home.
 
-ELSA KLINGE — PROPHETESS, NOT BIOLOGICAL GRANDMOTHER
+Ch09 — Proximity: Day 4 of mission. DarkX proximity effect — emotional architecture thinned ~20% (limbic sensitivity). Cole notes IRiS half-second latency. Sam retrieves Taylor's IRiS query log: monitoring Cole; contractor "neutralized before outside contact"; what does Cole know about cargo bay before Saturn. "Show me all of it."
 
-Elsa is NOT Jill's biological grandmother. She is a prophetess within the tradition that started with Wilhelm's grandmother. Her notebooks do not say "for my granddaughter." They contain a prophecy: the offspring of the founding bloodline will one day come to the colony. The notebooks wait for that person.
+Ch10 — Marcus: Emily walked into Marcus's LA office by Rachel. Emily recognizes Marcus from childhood — "I've kicked your ass before. Be aware that I will do it again." Marcus shows encrypted drive data. A vessel pacing Cole's course. Marcus orders tracker on Emily. Rachel warns: "Careful." Emily drops Marcus's card behind a potted plant. "I am not going to be the thread."
 
-JILL — THE PROPHESIED DESCENDANT
+Ch10a — Ray at Alpha: Ray's nickname introduced. Discovers the flywheel at Alpha Corp. Fired same afternoon.
 
-Jill is a descendant of Wilhelm's grandmother's founding bloodline — on a branch that never took the Verguld accumulation path and never found the colony until now. She is NOT Elsa's biological granddaughter.
+Ch10b — Ray and the Flywheel: Squirrel and Red come to Ray's door, 72 hours before Alpha sends someone. "We've been keeping you alive." He goes with them.
 
-Petra says "You're not her granddaughter" — technically correct. The notebooks are not for a biological heir. They are for the fulfillment of the prophecy. Petra is right for the wrong reason. Jill IS the person the notebooks were waiting for.
+Ch10c — Ray in Panama: Ray as Mikof Forsinko in Alpha's Panama tower. Four days with Dr. Yusuf Oren. Reads batch logs: patents accumulated as theft; flywheel data suppressed 9 months; Disposal Protocol Seven (11–13% deliberately destroyed per batch); 7 years of fraudulent grants. A 2036 batch record annotation reads "Jackpot." Exit via nitrogen cycling alarm. Hands drive to Squirrel at concrete heron park. "You cannot manufacture a shortage of something that compounds in everyone's hands." He names it: "The Antigravity project."
 
-THE REVEAL MECHANISM
+Ch11 — Meridian: DeMint receives anonymous two-page brief. Vance Black already there. IRiS integration was Alpha-handled; crew selection went through Taylor. Conrad's prototype at desert research station — outside IRiS architecture. DeMint sends Vance. On Collective surveillance vessel Meridian: Sharon confirmed killed; Emily moving toward Houston. Taylor has reviewed cargo-bay footage 11 times; acoustic log replaced with 11 minutes of rain.
 
-Traced through Jill's family name. The maiden name in her family history connects back to the founding bloodline. It leads to Wilhelm's grandmother. It leads to Elsa's prophecy. It leads to the colony.
+Ch12 — The Message: Sam and Ricardo in reactor bay with jammer. Sharon killed 4 days ago; Emily survived; Cole learns about Sharon. Reaches for relay controls; IRiS blocks it. Emily in taxi accidentally says aloud: "Cole's heart is gonna break when he hears about Sharon."
 
-WRITING RULE
+Ch13 — Pier 9: Emily at Pier 9. Rachel at acoustic dead zone. Sharon's name spoken directly. Conrad's prototype location. Collective car staged. Orin follows Emily; she figures it out, pulls over for him. Drives east. Gas station: "Not yet. But I think I'm going to be." Three hours sleep in the car. Keeps driving.
 
-Nothing in Ch03b-f names Jill's surname or bloodline connection. Keep it clean. The reader plants the seed on reread. The reveal happens in Book Two — or late in Book One.
+Ch14 — The Ring in the Bunk: Cole with copper-wire ring. Extended flashback: Sharon arrived at cabin bleeding, carrying dying Collective agent Cody. Cole worked 40 minutes; Cody died. Sharon laid three black crystals on table: "Welcome to the Collective, Captain Nova." Cole gave her the ring 6 weeks after that night. Saturn appears edge-on: "a cold pearl with a knife laid across its belt." IRiS: "Are you well?" First visible fracture in her composure.
 
-KEY RECURRING OBJECTS & MOTIFS
+Ch15 — Surprise, Arizona: Emily in Surprise AZ motel. Rachel calls with Houston instructions. Pilar is inside contact (12-year Federation Systems employee, 3 years waiting). Operation: copier device, 20 seconds, green light; duplicate in jacket; prototype stays. Orin confirms clearance-3. Sharon memory: "You're not doomed to anything." Emily systematic — medication 3x daily, 20-min rest every 3 hours. Houston at night.
 
-The "Jackpot" patch — hand-stitched, irritates Cole's chest, treasured. Survives the book.
-The makeshift copper-wire ring with the smooth pebble — Cole gives this to Sharon in Cody Ch 5. After Sharon dies, it should appear at the cabin. Cole keeps it.
-The Collective droplet sigil — water drop inside a circle. "No raindrop thinks it's the flood."
-Day-3 crystals — Cody Ch 7 establishes the Collective trades stable Dark Matter on its 3rd day of stability (out of 15-day shelf life). Use this term consistently.
-The thumb drive figurine — Conrad's keychain hides the data in Cody Ch 2 and Ch 3. Resurface it in Ch 20 — the prototype's casing has a similar figurine motif as a callback.
-Bitboy's blue-stained mouth — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
+Ch17 — The Locked Bay: Taylor flashbacks (7 years earlier with Vance at Alpha briefing; 4 months before launch — Hall of Records empty, Vayes authorization). Present: Taylor cargo bay pressure check → door seals → atmosphere venting → Sam finds override panel → Bitboy goes blue → Cole opens harvester manually (mechanical release). DarkX makes contact: "It reached." Closing: Taylor reads "Vance Black, deceased" and closes file "like a minor irritant resolved."
 
-SHARON TEEZ — NAME DISAMBIGUATION
+Ch18 — The Four Coles: DarkX vision. Cole as infant. Cole at 17 in 2003 Subaru, father just died. Old man in passenger seat: "He left you. He didn't choose to. And he still left you." / "You don't need a pardon. You need to stop being the warden." DarkX will not show Cole Sharon: "It doesn't lie. Because she isn't here." Counter-program completes. Gracie birth. "I think I'm Gracie." Bitboy welded to override lever; crosses cargo bay on three good limbs to cry in Cole's lap.
 
-Canon (locked): Sharon's surname is Teez in the main book.
+Ch19 — The Boarding: Taylor confined to quarters. Alpha vessel draws alongside. Figure comes through docking tube alone. Bitboy's chest panel: SHE SMELLS LIKE SHARON. Cole asks her to take off the visor. Left side: jaw, cheekbone, bright left eye — still hers. Right side: gunmetal, bronze indicator ring. She attacks. Cole stops fighting. Bleeding palm against her unaugmented left face. Counter-program transfers. Bronze ring goes dark. She says his name.
 
-In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally separate universe — Falcon crew tactician, not Cole's love interest, no medical training. They share a name and surname but are distinct across books. Per project tonal classification: TRotR is pulpy/bizarre; Rings of Dust is literary. The only permissible bridge between the two universes is Wilhelm's pre-Iceland surname. Do not cross-reference their personal histories.
+Ch21 — Ray's Cargo: Ray on park bench, 6 blocks from Alpha Panama facility. Tells Squirrel: 11 viable technologies on a shelf in Panama; energy crisis is an inventory decision. "They named it Seven. Which means there are at least six others." The drive goes out through the parallel network — 100,000 people in 48 hours. Ray boards 7 o'clock flight under his own name. "The drive is out. The work is done." He sleeps.
 
-FOUNDING BLOODLINE & PROPHECY (COLONY ARC CANON)
+Ch21a — The Zero-G Flywheel: Ray at Station Libre. Zero gravity — crystals grow outward in every direction. The plateau doesn't exist. Day 180 curve breaks. Ray confirms everything.
 
-The belief system underlying the asteroid colony predates the Verguld name by generations. It originated with Wilhelm's grandmother — the ancestor who began the cult/religion long before Wilhelm encountered the DarkX sequences.
+Ch21b — Ray and the Station: Full 369-test-run data. All fuel cell mechanics confirmed. Unlock experiment: unlock at any stage → everything stops within hours. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it." Also establishes: Alpha shouted "Jackpot" years earlier in their own lab.
 
-THE ORIGINAL BELIEF
+Ch21c — Vance at the Black Site: Vance at classified Nevada desert facility (abandoned drive-in theater facade). Hall of Records vault emptied last month. "Federation Representative Rachel Vayes." Vance has no leverage. His choice: swallow it or confront Marcus. He confronts Marcus.
 
-Your acts and deeds now bless your bloodline going forward. You can reincarnate into your own bloodline. The right rituals ensure future generations receive what you sow. One day, a descendant of this bloodline will come to the place where the sacrifice is made — and the circle will close.
+Ch22 — The Black Site: Alpha's primary domestic operations center (converted office building, west of downtown LA). Emily enters via Marcus's own assistant (Collective contact). Marcus has been there since 11:47 PM. Panama files already out to 200,000 people. "You never understood anyone. You only did utility analysis." Marcus: "Yes." His last message to Cole via Emily: "Tell him he was the right choice. Not for the reasons I chose him. For the reasons it turned out he was." Emily leaves the door open.
 
-TWO STREAMS FROM ONE SOURCE
+Ch22b — Rachel at the Station: Rachel travels to Station Libre 4 months before the Grand Hall hearing. Two days with Ray reviewing the data. 369 test runs. She says: "I know." He hadn't expected that.
 
-Wilhelm's Grandmother (ORIGIN — started the cult/religion)
-  |
-  +— Accumulation stream (Verguld dynasty): Wilhelm → Klaus → Marcus
-  |   (took the "bless your bloodline" teaching and redirected it toward ownership and empire)
-  |
-  +— Sacrifice stream (colony tradition): followers carry the sacrifice path forward
-  |   → Elsa Klinge founds the asteroid colony → Tyler Durden continues as Void-Walkers
-  |
-  +— Separate branch (never Verguld, never found colony until now): ... → Jill
+Ch23 — Grand Hall: 412 of 420 seats. Marcus's audio testimony (2h51m). DeMint reads Vance Black's written record — documents the phone call, caliber, range, that Marcus shot Vance twice and closed the file. Ray testifies with notebook. Conrad's statement: "the system learns what it is loved into being." Rachel stands at 4:43 PM: "My name is Rachel Vayes." Bronze star, olive leaf wreath. Cole watches from Golden Dawn's cockpit; messages Emily through Gracie: "I saw you in the fourth row. You looked like yourself."
 
-ELSA KLINGE — PROPHETESS, NOT BIOLOGICAL GRANDMOTHER
+Ch24 — Earth Return: Golden Dawn breaks atmosphere over Pacific at 0617. Gracie: "Welcome home." Sharon in converted medical bay. Taylor removed on runway — two Federation task force agents, no scene. Taylor's quarters: pocket watch, Klaus Verguld engraved inside lid. DeMint to Cole: Klaus founded Alpha in 1991; Taylor was Klaus's man, not Marcus's. Recovery facility north San Diego. Emily on porch with coffee and road atlas. "You look different. Like something got lighter." Sharon in window chair: "Hi." Bitboy: "Hi, you little bastard." Blackberry preserves. Ricardo calls — Dani wants bowling.
 
-Elsa is NOT Jill's biological grandmother. She is a prophetess within the tradition that started with Wilhelm's grandmother. Her notebooks do not say "for my granddaughter." They contain a prophecy: the offspring of the founding bloodline will one day come to the colony. The notebooks wait for that person.
+Ch25 — Cosmic Lanes: Reservation for seven (Bitboy counts). Ricardo proposes to Sam between frames — moissanite, full ethical sourcing. She laughs and cries. Yes. Sharon's augmented arm sends ball at near-sonic velocity; music stops; she switches to left arm — spare. "Calibrating." Cole sets copper-wire ring on table. "I don't think I need to replace it. I think this is the one." Sharon: "Yes." / "That wasn't a question." / "I know. It still applies." Bitboy destroys vending machine. Parking lot. California night.
 
-JILL — THE PROPHESIED DESCENDANT
+Epilogue A: Marcus in Dubai, orange juice with four ice cubes. Klaus appears — 71, unhurried. "You built the cover. The structure continues." The machine was never Marcus's.
 
-Jill is a descendant of Wilhelm's grandmother's founding bloodline — on a branch that never took the Verguld accumulation path and never found the colony until now. She is NOT Elsa's biological granddaughter.
+Epilogue B: Taylor in Nevada high-desert town where hospital died. Seven people died there. Taylor is there now, new name leaked by Marcus as payment for the unauthorized road attack. The machine disciplines its own errors.
 
-Petra says "You're not her granddaughter" — technically correct. The notebooks are not for a biological heir. They are for the fulfillment of the prophecy. Petra is right for the wrong reason. Jill IS the person the notebooks were waiting for.
+Epilogue C: Sharon on Sequoia porch, late October, first snow on high peaks. Collective droplet stencil on porch railing. "It was always in the reaching." She reaches.
 
-THE REVEAL MECHANISM
+THEMATIC SPINE & MOTIFS
 
-Traced through Jill's family name. The maiden name in her family history connects back to the founding bloodline. It leads to Wilhelm's grandmother. It leads to Elsa's prophecy. It leads to the colony.
+THE SPINE
 
-WRITING RULE
+"A novel about the distance between what is kept from people and what they would do with it if they knew — and about the specific kind of person who decides to spend a decade building the world they want inside the walls of the world that exists."
 
-Nothing in Ch03b-f names Jill's surname or bloodline connection. Keep it clean. The reader plants the seed on reread. The reveal happens in Book Two — or late in Book One.
+The shortage was a choice. The proof was built into the technology before the technology was handed over. The lock was made before the key. Everything else was patience.
 
-KEY RECURRING OBJECTS & MOTIFS
+RECURRING MOTIFS
 
-The "Jackpot" patch — hand-stitched, irritates Cole's chest, treasured. Survives the book.
-The makeshift copper-wire ring with the smooth pebble — Cole gives this to Sharon in Cody Ch 5. After Sharon dies, it should appear at the cabin. Cole keeps it.
-The Collective droplet sigil — water drop inside a circle. "No raindrop thinks it's the flood."
-Day-3 crystals — Cody Ch 7 establishes the Collective trades stable Dark Matter on its 3rd day of stability (out of 15-day shelf life). Use this term consistently.
-The thumb drive figurine — Conrad's keychain hides the data in Cody Ch 2 and Ch 3. Resurface it in Ch 20 — the prototype's casing has a similar figurine motif as a callback.
-Bitboy's blue-stained mouth — he raids the blackberry preserves in Cody Ch 3. Recur in the bowling-alley scene as the visual rhyme that closes the book.
+The Jackpot patch: Hand-stitched by Cole's crew. Irritates his chest. He treasures it. Survives the whole book.
+
+The copper-wire ring: Hummingbird feeder wire wrapped around a smooth pebble. Given to Sharon in Ch6. She gives it back before launch. Cole keeps it. Ch25: "I don't think I need to replace it. I think this is the one."
+
+Blackberry preserves: Cabin → Ch24 reunion → Ch25 callback through Bitboy's blue-stained mouth. The visual rhyme that closes the book.
+
+Day-3 crystals: The Collective trades stable Darker Matter on its 3rd day of stability, out of a 15-day shelf life.
+
+The thumb drive figurine: Enterprise keychain — Conrad's counter-program delivered in plain sight.
+
+The Collective droplet sigil: Water drop in a circle. "No raindrop thinks it's the flood." Used as code phrase. Sewn in bag linings. Stenciled on porch railings.
+
+Bitboy's blue-stained mouth: From blackberry preserves. Visual motif that echoes across the book and closes it.
+
+"Race to control the grid": Tyler Durden says it in Ch03b (Jill dismisses it as cult talk). Ray says it independently in Ch21 (arrived at through data). The convergence is not coincidental. Document this as a deliberate thematic parallel.
+
+The bronze indicator ring (Sharon's augmentation): It goes dark when the counter-program completes and Sharon comes back. A visual beat that marks the exact moment.
+
+The pocket watch: Klaus's — found in Taylor's quarters (Ch24), engraved with Klaus Verguld, coat of arms. The moment DeMint explains what Taylor actually was.
+
+DUAL SIGHT LINES
+
+The DarkX sacrifice mechanic establishes two explanatory frameworks that coexist without resolution:
+Scientific: gravity differential, asteroid deflection, quantifiable returns
+Ancestral: energy feeds ancestors who reincarnate into the bloodline
+
+The text holds both. The Epilogue C line — "It was always in the reaching" — is the closest the book comes to a position, and it applies to both frameworks simultaneously.
+
+FIRST SPARK PREQUEL
+
+SCENE 1: GRANDMOTHER'S RITUAL (EARLY SECTION — BEFORE WILHELM FINDS THE DIRECTORATE ARCHIVE)
+
+What it needs to show:
+The grandmother performs a ritual involving the full belief system: your acts and deeds now bless your bloodline; you can reincarnate into your own bloodline; the right ceremonies ensure future generations receive what you sow
+She includes the prophecy in the ritual: one day, a descendant of this bloodline will come to the place where the sacrifice is made, and the circle will close
+Wilhelm watches and absorbs the belief
+He redirects it toward accumulation and ownership rather than sacrifice — taking the "bless your bloodline" part and making it material
+
+Craft notes:
+The grandmother is the SOURCE. The ritual predates her too — it is something she was given, not invented. Make it feel ancient.
+Her name and family name should be seeded carefully. The chain from her to Elsa Klinge's tradition (and separately to Jill's bloodline) is embedded here.
+Do NOT make the Elsa or Jill connection explicit. Plant seeds only.
+The ritual should include both the sacrifice element (giving to the void) AND the accumulation element (building for the bloodline) as equal expressions of the same belief. Wilhelm witnesses both — and chooses one.
+The prophecy ("the descendant will come") should feel like a natural part of the ritual, not a special announcement. It is stated as fact within the tradition.
+
+SCENE 2: THE PASSING OF THE BELIEF DOWN THE VERGULD LINE
+
+What it needs to show:
+Wilhelm → Klaus: Klaus understands the belief but expresses it as patient generational control
+Klaus → Marcus: Marcus understands it as theatrical accumulation
+The ritual itself is lost; only the belief in "my acts ensure my bloodline" remains
+The pocket watch passes here — Wilhelm gives it to Klaus
+
+THE ELSA KLINGE CONNECTION
+
+Elsa Klinge (maiden name) left institutional science and went in the opposite direction. Same original belief, sacrifice expression instead of accumulation expression.
+
+The grandmother's line — "The grandmother and the grandfather drank from the same well and carried what they found there in opposite hands" — needs to be seeded in First Spark as a real relationship, not a metaphor.
+
+Elsa's granddaughter (who hasn't arrived yet by Ch03f) is a future plot thread. Whether it resolves in Book One or Book Two is undetermined.
+
+CONTRADICTIONS LOG
+
+Items requiring resolution before final draft. Each has a recommended fix or a decision prompt.
+
+Item 1 — Ray's name in reference documents
+
+CLIFFSNOTES: "Max Forster" (throughout, including Ch23 testimony)
+SYNOPSIS: "MAX VISION" (introduction) then "Max" throughout
+Canon: Legal name = Dr. Max Vision; nickname = Ray (from "Max Ray Vision" joke); narrator uses Ray after Ch10a introduction
+Fix: Update CLIFFSNOTES and SYNOPSIS to use "Ray (Dr. Max Vision)" at first appearance, then "Ray" throughout. Purge "Max Forster" entirely.
+
+Item 2 — Sharon's surname ✅ RESOLVED
+
+Canon: Sharon Teez. Her surname is Teez in the main book.
+The TRotR character of the same name is a separate character in a separate tone. No reconciliation needed. Both Sharons exist independently.
+Fix: Update CHARACTER_BIBLE to confirm "Teez" as her surname. Remove the "no stated surname" note.
+
+Item 3 — Conrad's first name
+
+SYNOPSIS: "STEVEN Conrad"
+CHARACTER_BIBLE: "Dr. Stephen Conrad"
+Fix: Stephen. Purge "Steven" from SYNOPSIS. Apply consistently throughout.
+
+Item 4 — DeMint's title
+
+SYNOPSIS: "Federation Chancellor DeMint"
+CLIFFSNOTES: "Senator DeMint"
+Fix: Chancellor. More authoritative source is the SYNOPSIS. Update CLIFFSNOTES to match.
+
+Item 5 — Rachel Vayes's public role ✅ RESOLVED
+
+Canon: Rachel is a news anchor and public figure. That is her cover. She is NOT the Federation Chancellor — that is DeMint.
+The CHARACTER_BIBLE's "Chancellor of the Federation" entry is incorrect. Purge it.
+Fix: Update CHARACTER_BIBLE. Rachel = news anchor (public) + Grand Admiral of the Collective (secret).
+
+Item 6 — Ray's discovery chapter placement
+
+CLIFFSNOTES: Flywheel discovery in "Chapter Five"
+Working chapters: Discovery in Ch10a (Ray at Alpha)
+Fix: Either Ch5 is Ray's discovery chapter (requires reconciling with current Ch5 content, which is undefined) or CLIFFSNOTES needs updating to reflect Ch10a. Current working chapter list makes Ch10a authoritative.
+
+Item 7 — Fuel cell yield figures in CLIFFSNOTES
+
+CLIFFSNOTES: "past one hundred and eighty days, external crystal flushes begin every eleven days — forty to sixty times a standard harvest"
+Canon (Section 3 of this document): Day 180 = interior 100× + all-cell exterior deposits on 11-day cycle
+"Forty to sixty times" ≠ "100×"
+Fix: Update CLIFFSNOTES with canonical figures. The "forty to sixty times" is an older/incorrect version.
+
+Item 8 — Colony arc absence from reference documents
+
+Ch03b-f, Tyler Durden, Jill, Petra, Elsa Klinge, Void-Walkers — none appear in SYNOPSIS or CLIFFSNOTES
+Fix: Add Ch03b-f chapter summaries to CLIFFSNOTES. Add colony arc paragraph to SYNOPSIS.
+
+Item 9 — Sacrifice section in CHARACTER_BIBLE
+
+Previously noted as "to be placed deliberately in the plot"
+It has been placed (Ch03b-f, Void-Walker ceremonies)
+Fix: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc (Ch03b-f).
+
+Item 10 — Handler names: Chip & Dale vs. Squirrel & Red ✅ RESOLVED
+
+Canon: Red and Squirrel. They are the Collective agents who handle Ray across his full arc.
+"Chip & Dale" in the CHARACTER_BIBLE is the old name. Purge it. Replace everywhere with Red and Squirrel.
+Fix: Update CHARACTER_BIBLE. Red and Squirrel are Special Agents, sunglasses patch in bag lining.
+
+Item 11 — 5555 ✅ RESOLVED
+
+Canon: FEDHEX5555 is the call sign of the Alpha Corp vessel that follows and eventually boards the Golden Dawn.
+Current CLIFFSNOTES/Ch19 text refers to it as "FED-MRS-0409 'Rapid Response Medical Support'" — that is the cover registry name. FEDHEX5555 is the actual call sign that Gracie traces to Alpha Corp.
+Red and Squirrel surface the vessel's identity to the Collective through its call sign.
+Fix: Update Ch19 (and any Ch10/Ch11 reference to the pacing vessel) to reference FEDHEX5555 as the call sign Gracie identifies.
+
+Item 12 — First Spark grandmother ritual not yet written
+
+Required scene established in Section 11 of this document
+Action required: Write the scene. The grandmother's name must be chosen before writing; it seeds the Elsa Klinge/Verguld connection.
+
+Item 13 — Elsa's prophecy / Jill's bloodline ✅ RESOLVED (corrected)
+
+Canon (corrected): Jill is NOT Elsa's biological granddaughter. Elsa is a prophetess — not Jill's ancestor.
+Elsa's notebooks contain a PROPHECY within the founding tradition: the offspring of the founding bloodline will come to the colony.
+Jill IS that offspring — a descendant of Wilhelm's grandmother's founding bloodline, on a branch that never took the Verguld accumulation path.
+Petra's "You're not her granddaughter" is technically correct but misses the point. The notebooks are not for a biological heir — they are for the prophesied descendant. Petra is right for the wrong reason.
+The reveal traces Jill's own family name/lineage back to the founding bloodline — the maiden name in her family history is the key.
+This thread does NOT resolve in Book One. Ch03f plants it as a slow burn without naming Jill's surname.
+Writing rule: Nothing in Ch03b-f reveals Jill's bloodline connection. Keep it clean. The reader plants the seed on reread.
+
+Item 14 — "Race to control the grid" phrase
+
+Tyler Durden uses it in Ch03b; Jill dismisses it
+Ray uses the identical framing in Ch21, arrived at independently through data
+Not documented in CHARACTER_BIBLE or SYNOPSIS
+Fix: Document this as a deliberate thematic parallel. The two characters find the same phrase because they are looking at the same underlying structure from different angles (belief vs. data). The convergence is one of the book's quiet proofs.
+
+End of document. Total: Comprehensive working draft. All source material incorporated. Contradictions flagged. First Spark additions specified. No content omitted.
+
+RESOLVED ITEMS: 2 (Sharon Teez), 5 (Rachel = news anchor), 10 (Red and Squirrel), 11 (FEDHEX5555), 13 (Jill = Elsa's granddaughter)
+
+REMAINING OPEN ITEMS: 1, 3, 4, 6, 7, 8, 9, 12, 14 — these are documentation/copy fixes, not decisions. All can be applied as a batch update to the CHARACTER_BIBLE, CLIFFSNOTES, and SYNOPSIS when approved.
+
+The bible is now decision-complete. Next step: apply all fixes to the live GitHub documents.
