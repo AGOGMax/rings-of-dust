@@ -290,7 +290,7 @@ In TRotR (Rings of the Reich), Sharon Teez is a different character in a tonally
 The bond with Cole has to feel **earned** before she dies. The relationship existed for years before page one. Concrete plants for the writing:
 
 - **Black-market parts runner.** Sharon ran salvaged Federation parts and stable Dark Matter crystals through a Collective supply chain for years before the book opens. She's good at it. She knows handlers, fences, dead drops, county roads in three states.
-- **Anti-Federation, anti-Alpha Corp from the start.** Her politics are sharper than Cole's. She gave them the finger and never stopped.
+- **Anti-Federation, anti-Alpha Corp from the start.** Her politics are sharper than Cole's. She finished medical school, gave the establishment the finger the day she walked out, and never looked back. She has the training. She chose not to use it in the way they intended.
 - **Cole was the straight-laced one — but he had her back.** When their paths first crossed (a botched delivery? a Federation raid? a medical emergency in a Collective safehouse? — flesh out the meet-cute scene as a Cole flashback in Act 2), he covered for her. Federation captain, decorated. He could have turned her in. He didn't. They've been each other's exception ever since.
 - **Their love is the kind built on shared crime.** Cole holding the Federation line by day, Sharon laughing about it in his cabin by night. Trading dead-drop coordinates the way some couples trade grocery lists. *"Yeah, we'll get you the regulators. No, the Federation can suck a rock."*
 - **Where to plant this in the prose:**
