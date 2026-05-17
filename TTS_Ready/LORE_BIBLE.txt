@@ -28,16 +28,20 @@ THE CONVERSION: DARKX → DARKER MATTER CRYSTALS
 
 To stabilize DarkX into usable solid form, it must be processed in a specific environment:
 1. Salt compounds — specific mineral salts act as a crystallization catalyst
-2. Liquid nitrogen — rapid cooling accelerates the transition
-3. Negative pressure (vacuum environment) — prevents premature detonation and forces the plasma inward into crystal structure
+2. Liquid nitrogen — ultra-cold environment accelerates the transition
+3. Large, very strong magnets — the magnets pull the salt compounds together within the ultra-cold liquid nitrogen environment, forcing the plasma to collapse into crystal structure
 
-Result: Darker Matter crystals — solid, dense, dark. Stable enough to handle, but will revert to DarkX vapor if placed in a standard containment unit and left at ambient pressure.
+The crystals then stabilize over up to 11 days. They must be assembled into a fuel cell within that 11-day window — after which the window closes.
+
+Result: Darker Matter crystals — solid, dense, dark. The negative pressure environment is not part of this conversion process — that is Ray's separate discovery (see below).
 
 RAY'S ACCIDENTAL DISCOVERY
 
 Ray (Dr. Max Vision) had a batch of freshly converted Darker Matter crystals at his workstation on a Friday afternoon. The official containment unit was across campus. Carrying them there meant logging the transfer, dealing with security checkpoints, and explaining why he had them at all.
 
 So he did the lazy thing. He sealed the crystals inside a spare fuel cell — packed it with nitrogen and sealed it under negative pressure as a temporary measure — and shoved it in his locker. I'll deal with it Monday.
+
+This is the step that changes everything. Negative pressure inside the fuel cell is Ray's accidental addition — not part of the standard DarkX-to-crystal conversion process. It is the piece nobody else had tried.
 
 He came back Monday to find the locker glowing. Inside the fuel cell, the crystals hadn't just sat there — they had begun dissolving back into vapor, and that vapor had nowhere to go. Trapped under pressure inside the cell, it formed a slow vortex, a miniature storm in a jar. And the storm was charging the cell. The vapor was generating energy.
 
