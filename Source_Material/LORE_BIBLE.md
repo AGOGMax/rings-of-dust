@@ -47,13 +47,17 @@ So he did the lazy thing. He sealed the crystals inside a spare fuel cell — pa
 
 This is the step that changes everything. Negative pressure inside the fuel cell is **Ray's accidental addition** — not part of the standard DarkX-to-crystal conversion process. It is the piece nobody else had tried.
 
-He came back to check on it and found the locker glowing. Inside the fuel cell, the crystals hadn't just sat there — they had changed state. For the first time anyone had seen, Darker Matter crystals had converted into vapor. Not back into DarkX — into something new: a vapor state nobody had observed before, because nobody had ever sealed the crystals under negative pressure. The vapor had nowhere to go. Trapped inside the cell, it formed a slow vortex, a miniature storm in a jar.
+He came back to check on it and found the locker glowing. Inside the fuel cell, the crystals hadn't just sat there — they had changed state. For the first time anyone had seen, Darker Matter crystals had converted into vapor. Not back into DarkX — into something new: a vapor state nobody had observed before, because nobody had ever sealed the crystals under negative pressure. The vapor had nowhere to go. Trapped inside the cell, it began forming a slow vortex.
 
-That was when he took it home. He didn't log it. He didn't tell anyone. He put the cell in his bag and walked out with it, and he kept it at home where he could watch it. The storm inside kept turning. And it was *charging the cell*. The vapor was generating energy.
+That was when he felt it. Not heard — felt. The Darker Matter vapor sinking, pulling, like a node dropping off a network. Like a dial turning slowly through static, searching for a frequency just out of reach. He didn't have words for it. He stood there with his hand near the cell and felt the thing turning inside it.
+
+That was when he took it home. He didn't log it. He didn't tell anyone. He put the cell in his bag and walked out with it, and he kept it at home where he could watch it.
+
+The storm inside kept turning. And it was *charging the cell*. The vapor was generating energy.
 
 On Day 11, the mist cleared. New crystals had formed on the *outside* of the cell's base — the cycle had completed itself. The fuel cell read fully charged.
 
-Ray said "Jackpot" to an empty lab, and then felt the dread move in.
+Ray said "Jackpot" to an empty apartment, and then felt the dread move in.
 
 ### The fuel cell cycle (11-day round)
 ```
