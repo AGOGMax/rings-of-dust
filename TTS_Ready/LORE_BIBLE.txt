@@ -190,13 +190,14 @@ THE COLLECTIVE — RANK STRUCTURE
 
 The Collective is not an army. It is a living network — volunteers, sympathizers, specialists, and true believers who found each other through the grey market that grew up alongside Alpha Corp's rise. The rank structure reflects function, not seniority. You don't climb it through time served. You climb it through what you do.
 
-Story function of each tier:
-Intelligence: The eyes and ears. Informants and Operators are the people in every building, every agency, every shipping dock who notice things and pass them up. Sharon was Collective-adjacent at this level — she ran black-market parts, she knew handlers, she never carried the patch but she knew the drop points.
-Technical: The builders, hackers, engineers. Sam Drummond belongs here in spirit, whether she carries the patch or not. Conrad's nanoparticle work was funded through Technician-level Collective cells without his knowledge.
-Field: Active operatives. They carry the sunglasses patch (on the inside of a bag lining, not on a lapel). They move things, people, and information under cover. Chip and Dale are Special Agents.
-Navigation: The strategists. They don't run missions — they plan them. They see across factions, they know who is and isn't who they appear to be. Rachel's reach operates at this level even before the Grand Admiral reveal.
-Command: The inner circle. A handful of people, most of them founding members who couldn't go along with what Alpha Corp was becoming. They know about the Grand Admiral. They follow her without ever publicly confirming she exists.
-Grand Admiral: One rank. One person. Rachel Vayes. The rank is so rare that lower tiers treat it as mythology. "There are rumors of a Grand Admiral, but who could wrangle an entire secret army of volunteers?" (Full_First_Draft.txt, Ch narrator) — that line was always the answer hiding in plain sight.
+What each tier does:
+Informants: The eyes and ears. People in every building, agency, and shipping dock who notice things and pass them up the chain. They may not know they're working for the Collective at all — some just pass along what they see to someone they trust. Sharon operated at this level for years — black-market parts, dead drops, handlers — without ever carrying the patch.
+Operators: Trusted couriers. They move intelligence from where it's gathered to where it needs to go. They know more than Informants about the Collective's structure but are not yet operational in the field. The pin is small and plain on purpose.
+Technicians: The doers. Wrench is the right symbol — they build, hack, steal, and redistribute. Alpha Corp equipment, suppressed technology, resources that should belong to the public. The Technicians are the Robin Hood arm of the Collective. Conrad's nanoparticle work was funded through Technician-level cells without his knowledge. Sam Drummond belongs here in spirit.
+Agents: Sunglasses. They set up operations and move people and resources — people like Ray, situations like getting someone extracted or inserted. Red and Squirrel are Special Agents. The patch goes inside the bag lining, never on the lapel.
+Navigators: Compass. They lead missions and operations. They see the whole board. They know who is and isn't who they appear to be. Rachel's reach operates at this level even before the Grand Admiral reveal. Navigators know the Grand Admiral exists. They don't say so publicly.
+Commanders: Star. There are not many. They move the big pieces — the long-game plays, the operations that span months or years, the resource allocation that keeps the network alive. They know about the Grand Admiral. They follow her without ever publicly confirming she exists.
+Grand Admiral: One rank. One person. The bronze star with olive leaf wreath. Rachel Vayes. So rare that Operators and Technicians treat it as campfire mythology. Agents take it more seriously but with skepticism. Navigators know. Commanders know. The reader should hear the jokes first and see the insignia last.
 
 The mystery thread — writing rule:
 The Grand Admiral should be referenced as rumor and legend throughout the book. Characters at Operator and Technician level treat it like a campfire story. Agents take it more seriously but still with skepticism. Navigators know. Command knows. The reader should encounter the jokes first and the truth last.
