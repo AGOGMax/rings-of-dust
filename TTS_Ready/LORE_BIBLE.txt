@@ -239,7 +239,7 @@ MAIN BOOK CHARACTERS (RINGS OF DUST)
 
 COLE NOVA
 
-Age: ~40s. Federation veteran. 15+ years of service.
+Age: Late 30s (37–38). Federation veteran. 15+ years of service.
 Nickname: "Jackpot" — earned for getting out of impossible situations. The patch was a gift from his crew, hand-stitched, irritates his chest under his suit. He treasures it.
 Physical: Powder-blue eyes. Scarred face. "Aging" appearance. Lean, strong.
 Pre-book backstory: Captain of the Polaris. Last Saturn mission went sideways — 369 crew lost in an explosion he has always blamed himself for. Self-exiled to a family cabin near Sequoia National Park for 5–7 years. Drinks too much. Living with Bitboy and a "stockpiled like a bomb shelter" cabin.
@@ -322,22 +322,25 @@ Acts 1–2: build the relationship, make her death matter
 
 EMILY NOVA
 
-Age: Older sister. Two years older than Cole. Early 30s.
+Age: Early 40s. Two years older than Cole.
+Career: High school science teacher. After Cole left for the Federation Academy, Emily built her own life. She knows how to take something apart until someone else can understand it. She does not describe the job as settling. She does not describe it as a calling either. It is what she does between everything else she does.
 Pre-book role: The one who held the family together after their father died. Tutored Cole, pushed him toward the Academy, believed in his future before he did. She is not dependent on Cole — Cole is who he is partly because of her.
-Physical: Curly blonde hair. "Average in every way" per her own self-assessment — but Cody undermines this throughout.
-Pre-book identity: Self-described as invisible, doomed to be average, lives in Cole's shadow.
+Collective membership: Emily is IN the Collective. Not adjacent, not sympathetic — in it. Her entry point was Sharon, but not from the beginning. She did not meet Sharon until after Sharon had started living at the cabin — she came to the cabin sometime after the night Sharon arrived with the dying Collective agent and the dark matter crystals. By the time the book opens, Emily has been running missions with Sharon for years. Sharon was her handler before she was her friend. Now she is both.
+Physical: Curly blonde hair. "Average in every way" per her own self-assessment — a verdict everyone around her gradually stops accepting.
 Voice: Quiet but witty. The "He farts in his sleep, and snores. He's late on paying the phone bill" line to Marcus is her self-defense — humor as survival.
-Arc across the book: Sister-protected → captured-witness → solo-agent in over her head (, 15) → confident operator → leader (, 23).
-Relationship to Rachel: Charged. has them touching shoulders, exchanging looks. Decide if it goes explicit or stays ambiguous — both work.
-Writing notes: She's the strand that benefits most from Sharon's death. The book makes her the one who steps up. Don't soften her. Let her be scared and effective.
+Arc across the book: Collective operative running alongside Sharon → Sharon killed, Emily grabbed by Alpha Corp → alone inside Alpha's structure, running her own mission → the person who walked into Marcus's office and left the door open.
+Relationship to Rachel: Charged. The shoulder contact, the exchanged looks — it reads one way in the moment and differently on a reread. The charge is canon.
+What Sharon's death does to her: Sharon was Emily's way into the Collective, her partner on the ground, and the person who told her she was not doomed to be average. Losing Sharon does not break Emily. It finishes building her.
 
-RICARDO CORAZON ("HEAVY HITTER" / "HEAVY" / "RICKY")
+RICARDO CORAZON ("HEAVY HITTER" / "HEAVY")
 
 Role: Federation Astro, Cole's "brother" by service. Pilot.
 Physical: Big — height and girth. Federation fatigues that "accentuate massive arms and shoulders while leaving room in the midsection to hide his growing gut." A man who carries a 30-rack and an attitude.
 Voice: Constant teasing. "Coley Coley no-bowley." His humor papers over deep loyalty. Ride-or-die for Cole.
-Backstory: Years of shuttling supplies for the Federation. "Brother" to Cole through service. Romantic with Dani (the cherubic woman from V1's bowling alley).
-–25: Sharon was "his sister." Don't underplay his grief. Ricardo was the comic relief through;–25 he's quieter sometimes, and the moments when he reaches for the humor anyway should hurt.
+The bowling obsession: Ricardo loves bowling the way some people take up bird watching. He reads about it, studies tournament footage, cites lane conditions and ball physics, drops bowling into analogies whether anyone asked or not. It is not a bit. It is one of the most genuine things about him. "Coley Coley no-bowley" is not a joke — it is a philosophical position he has held for years. Any bowling alley is a kind of church.
+Backstory: Years of shuttling supplies for the Federation. "Brother" to Cole through service. The bond is real and was built in situations neither of them describes.
+Sharon: Sharon was like a sister to Ricardo. Not his actual sister — his sister. He does not confuse the two and does not need to explain the distinction. After she dies, the humor does not stop. Sometimes it costs something that shows. The moments when he reaches for the joke anyway are the ones that matter.
+Romance: Sam Drummond. They meet on the Golden Dawn. He proposes to her at the bowling alley at the end of the book.
 
 MAX VISION ("RAY")
 
