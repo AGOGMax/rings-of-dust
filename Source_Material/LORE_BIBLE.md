@@ -64,9 +64,9 @@ Ray said "Jackpot" to an empty apartment, and then felt the dread move in.
 Darker Matter crystals → sealed in fuel cell (nitrogen + negative pressure)
     → crystals change state into vapor (first observed in sealed/pressurized environment) → vapor forms vortex inside cell
     → vortex charges the cell → Day 11: mist clears, new crystals form on cell exterior
-    → harvest crystals → transfer to fresh cell → repeat
+    → Collective harvests crystals from Alpha-tracked cells → moves them into own untracked fuel cells (black market, untraceable)
 ```
-The cycle is 11 days. Alpha Corp accelerated it to exactly 11 days by adding liquid nitrogen to the process. Earlier experiments ran much longer (45 days and more) before they cracked the formula.
+The cycle is 11 days. **Ray discovered that adding liquid nitrogen to the sealed cell shortened the cycle from 45+ days down to 11.** Earlier experiments — including Elsa Klinge's — ran much longer (45 days and more) before Ray cracked it. This is Ray's second accidental breakthrough: negative pressure created the vortex; liquid nitrogen revealed the 11-day window.
 
 ### The sync period (Days 0–11)
 After a Grid of 740 cells is assembled, it enters a **sync period** during Days 0–11. The cells generate a low resonance — below the threshold of hearing, felt in the casings if you know what to listen for. Elsa Klinge described it as a radio scanning through static: the sensation of something searching for a frequency just out of range. After Day 11, the feeling stops. Something has completed.
@@ -74,7 +74,7 @@ After a Grid of 740 cells is assembled, it enters a **sync period** during Days 
 ### Day 11 — The Jackpot (one of 740)
 On Day 11, exactly **one cell** in the 740-cell Grid receives a one-time exterior crystal deposit — the **Jackpot**. The Jackpot cell is random; it never repeats on the same cell. The exterior crystals appear on the base of the casing. This is separate from the normal 11-day harvest cycle — the Jackpot is singular and non-recurring for that cell.
 
-**Writing note**: "Jackpot" is the word Ray said to an empty lab when he discovered the cycle — and the word Cole Nova earned as a callsign for surviving impossible situations. The word lives at both ends of the story's spine. Neither man knows the other used it first.
+**Writing note**: "Jackpot" is the word Ray said to an empty apartment when he discovered the cycle — and the word Cole Nova earned as a callsign for surviving impossible situations. The word lives at both ends of the story's spine. Neither man knows the other used it first.
 
 ### The 369 test runs
 **369** carries dual weight in the story. (1) Elsa Klinge's notebooks document **369 test runs** — the accumulated record of years of observation before the fuel cell pattern was fully mapped. The number surfaces in Ch22b as a data reference, and again when Petra opens the sealed case. (2) 369 is also the number of victims from the **Polaris explosion** — the Saturn mission disaster Cole captained, the one that sent him to the cabin, the one he has never stopped blaming himself for. The same number lives at both ends of the story: the loss that broke Cole, and the research that will eventually make sense of everything he lost.
@@ -590,7 +590,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 
 **The energy economy**: The world runs on fuel cells powered by Darker Matter crystals. Darker Matter (processed from raw DarkX plasma) is the dominant energy source globally. Supply is controlled, pricing is managed, and the shortage that has defined the post-2030 era is not an accident.
 
-**The core secret**: The shortage is a choice. Alpha Corporation discovered that Darker Matter cells, when properly managed over time, produce exponentially more energy than they advertise. They classified the findings, destroyed viable product to suppress supply, and built a shadow government around the gap. The proof was built into the technology before the technology was handed over. The lock was made before the key. Everything else was patience.
+**The core secret**: The shortage is a choice. **Ray discovered it.** Shortly after the Polaris explosion, Ray brought his findings to Alpha Corp — the vortex cycle, the 11-day window, the self-charging mechanism. Alpha Corp's response looked to Ray like they already knew. They didn't. They were recognizing it for what it was in real time — and immediately understanding what it meant for them. They classified his findings, shut him out, and went to work. What followed was not research. It was capture. Alpha destroyed viable product to suppress supply, built a shadow government around the artificial gap, and spent the next five years systematically worsening the energy crisis they now had the only solution to. By the time Cole Nova walked out of his cabin near Sequoia National Park, five years had passed. Alpha had used every one of them.
 
 **Institutions**:
 - **Alpha Corporation**: The true governing power. Founded by Klaus Verguld in 1991. Marcus Verguld's current instrument. Runs money through the Federation. Federation budget is effectively Alpha Corp money. "The Federation is crawling with MY employees." (Marcus)
@@ -659,7 +659,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 
 **Ch21a — The Zero-G Flywheel**: Ray at Station Libre. Zero gravity — crystals grow outward in every direction. The plateau doesn't exist. Day 180 curve breaks. Ray confirms everything.
 
-**Ch21b — Ray and the Station**: Full 369-test-run data. All fuel cell mechanics confirmed. Unlock experiment: unlock at any stage → everything stops within hours. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it." Also establishes: Alpha shouted "Jackpot" years earlier in their own lab.
+**Ch21b — Ray and the Station**: Full 369-test-run data. All fuel cell mechanics confirmed. Unlock experiment: unlock at any stage → everything stops within hours. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it." Also establishes: Alpha took Ray's discovery and ran with it — but only as far as harvesting the 11-day cycle. They never sat with it long enough to find the lock mechanic underneath.
 
 **Ch21c — Vance at the Black Site**: Vance at classified Nevada desert facility (abandoned drive-in theater facade). Hall of Records vault emptied last month. "Federation Representative Rachel Vayes." Vance has no leverage. His choice: swallow it or confront Marcus. He confronts Marcus.
 
