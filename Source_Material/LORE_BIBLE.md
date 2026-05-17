@@ -494,7 +494,6 @@ Marcus Verguld (Rings of Dust — primary antagonist)
  - *"You'd better not try any —"* Marcus takes aim. The shot. Vance slumps.
  - Marcus practices fake crying before calling 911. Rehearses it. *"Yeah. Hi? This is Marcus of Alpha Corp? Um, there's been a shooting and... oh my gosh."* He reports an intruder, claims self-defense.
  - When he hangs up: blank-faced. Then laughter — hugging his ribs until it hurts.
- - **Writing note**: Don't editorialize after the shot. No narrator intrusion. Let Marcus laughing alone in the dark be the last image. That's the one that should haunt.
 - **Taylor's reaction (aboard the Golden Dawn, late )**: Taylor receives word — comms, a message, however it reaches him in space. Vance Black, dead. Official story: intruder. Self-defense.
  - Taylor already knows the truth. He may have flagged Vance's growing disloyalty to someone at Alpha Corp.
  - His reaction: not grief. Not surprise. A quiet, satisfied exhale. The sense that an irritant has been removed. He doesn't pause. He doesn't look up from what he's doing for more than a second.
