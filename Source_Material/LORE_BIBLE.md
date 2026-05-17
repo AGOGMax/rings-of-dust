@@ -464,7 +464,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 
 ### Sam backstory seeds — for (extracted)
 *Drop as small reveals as her Collective sympathies become a live question.*
-- Never gone by Samantha since she was old enough to say so. Even her jumpsuits say Sam.
+- Never gone by Samantha since she was old enough to say so. Her jumpsuits say Drummond.
 - Teased about her weight as a kid. The only thing she ever wished were "normal." Everything else she owned.
 - Scored so high on the FREE exam that the officer wrote a body composition waiver on the spot. First time anyone went out of their way for her. It mattered.
 - STEM District / S.T.D. graduate. Studied Conrad's nanoparticle work. Breezed the classwork, struggled through basic training.
