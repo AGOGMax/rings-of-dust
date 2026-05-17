@@ -231,30 +231,6 @@ WRITING RULE
 
 When the narrative prose names a villain, the villain is Alpha Corp (or Marcus by name). The Federation takes orders. It does not give orders — not at the level that matters. A Federation lieutenant issuing a command is fine; framing the Federation as the entity behind the crisis or behind the surveillance is not. The Federation is the hand. Alpha Corp is the brain. Marcus is the will.
 
-STRIPPED ARCS — DO NOT RESURRECT
-
-These plot threads existed in earlier drafts (DARK_MATTER.txt, 01_Antigravity_2023-02-16.txt) and have been deliberately removed from the Rings of Dust canon. Do not reintroduce them.
-
-1. GRAVITY SICKNESS / PANDEMIC
-
-What it was: Characters suffered from "gravity sickness" — a condition linked to Dark Matter exposure and space travel. There was a pandemic-adjacent dimension to the crisis.
-Why stripped: Replaced by the energy crisis as the central stakes. The world is running out of power, not dying of a disease. The energy crisis is tighter, more relevant, and does not compete tonally with the DarkX sentience arc.
-Writing rule: Gravity sickness is gone. Any line referencing it in older prose must be updated on sight.
-
-2. EMILY DRIVES ALL NIGHT TO FIND DEMINT / THE TRANSMITTER QUEST
-
-What it was: After Sharon's death, Emily drives through the desert to reach Chancellor DeMint. She tells him Sharon was killed. Together they search for a piece of equipment powerful enough to amplify a signal into deep space and reach Cole aboard the Golden Dawn.
-Why stripped: The stakes were routed through DeMint (a morally compromised character) and the solve was an external device. Both undercut Emily's agency. Her arc is stronger without it.
-What replaces it: Emily's solo arc in Ch12–16 goes through Rachel Vayes and the Collective. Her agency comes from within — the Collective gives her access, not DeMint.
-Writing rule: No scene where Emily's goal is "find a way to contact Cole in space via boosted transmitter."
-
-3. SHARON'S VOICE THROUGH THE VOID SAVES COLE
-
-What it was: Cole is knocked out by Dark Matter exposure and near death. Somewhere in space, Sharon's voice reaches him through the void — "Cole, I love you. Come home." It brings him back.
-Why stripped: Beautiful image, but it required the transmitter quest above to make physical sense. Without that infrastructure it becomes mystical hand-waving. More importantly: Cole's survival arc should be earned by his own internal work — the Ch18 vision, the DarkX integration — not by being pulled back by an external voice.
-What replaces it: The Conrad antidote (already in Cole's bloodstream from Ch4) activates during the Ch18 DarkX event. Cole comes back because the work Conrad did, and Cole absorbed unknowingly, fires at exactly the right moment. The miracle is earned, not wished for.
-Writing rule: Sharon does not speak to Cole through space. If she speaks to him it is in a Ch18 memory/vision — internal, not transmitted.
-
 SHARON TEEZ — NAME DISAMBIGUATION
 
 Canon (locked): Sharon's surname is Teez in the main book.
