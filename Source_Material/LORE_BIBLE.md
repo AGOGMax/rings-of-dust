@@ -384,6 +384,7 @@ The chapter as drafted does not need rewriting. It is still right. The reveal of
  - **"Bitboy, attack"** — offensive posture; blades deploy, full combat mode.
  - **"Bitboy, defend"** — wraps himself around a specific person; absorbs punishment, won't leave.
  - **"Bitboy, kamikaze"** — extreme self-endangerment / suicidal charge. Reserve for climactic moments only; the crew knows what it costs to say it.
+ - **"Bitboy, stat"** — medical mode; drops everything, moves to the injured person, assists with emergency triage. Sharon established this use. After her death it becomes one of the commands the crew is careful about saying out loud.
  - Optional later: "scout," "ghost," "bridge" — add if a scene needs it.
 - **Blue eye glow**: When Bitboy's eyes shift to soft blue light, it's the visual tell that he's entering enhanced/superpower mode. Plant it early, pay it off big. First major use: the road action scene where he drinks the energy drink — "Bitboy, defend" + blue glow right before he goes full shield.
 - **Writing notes**: Bitboy is comic relief, but he's also the first to *feel* things the humans miss. He grieves Sharon viscerally. He recognizes Gracie's birth. Use him as the canary.
