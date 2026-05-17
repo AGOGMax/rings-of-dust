@@ -77,7 +77,13 @@ DAY 11 — THE JACKPOT (ONE OF 740)
 
 On Day 11, exactly one cell in the 740-cell Grid receives a one-time exterior crystal deposit — the Jackpot. The Jackpot cell is random; it never repeats on the same cell. The exterior crystals appear on the base of the casing. This is separate from the normal 11-day harvest cycle — the Jackpot is singular and non-recurring for that cell.
 
-Writing note: "Jackpot" is the word Ray said to an empty apartment when he discovered the cycle — and the word Cole Nova earned as a callsign for surviving impossible situations. The word lives at both ends of the story's spine. Neither man knows the other used it first.
+Writing note — the word "Jackpot" across the story: Four groups use it. None of them know the others do.
+Ray: the word he said to an empty apartment when he discovered the one-in-740 exterior deposit. A scientist's reflex. He never published it.
+Alpha Corp: a 2036 batch record annotation. The person who wrote it probably didn't know they were echoing a researcher who had already been silenced. It's in the log Ray reads in Panama, and it stops him cold.
+The Colony: what members say when a gold asteroid arrives — especially a large one. Petra says it in Ch03e when the crater comes back twice as large as usual. It's casual. It's reverent. It's been said in that tunnel for generations. They mean it the way a prayer sounds when you've said it so many times it becomes reflex.
+Cole: the callsign his crew gave him for getting out of impossible situations. Hand-stitched on a patch that irritates his chest. He treasures it.
+
+The word belongs to all of them. It means something different to each. The reader hears it four times before understanding why it keeps coming back.
 
 THE 369 TEST RUNS
 
