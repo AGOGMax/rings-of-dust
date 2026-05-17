@@ -91,6 +91,8 @@ THE RACE TO CONTROL THE GRID
 
 The 740-cell Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
 
+One of the Collective's primary financial backers is the asteroid colony — a group the Federation has flagged as a religious extremist cult. The colony's gold asteroid windfalls fund the Collective's operations. Alpha Corp does not know this. They are aware of the gold asteroid returns but have never traced the financial chain from the asteroid to the resistance. If they did, they would understand that the colony and the Collective are fighting the same war for entirely different reasons — one for civilization, one for the right to walk down a tunnel and let go.
+
 FEDHEX5555: The cover registry for Alpha Corp's vessel shadowing the Golden Dawn. After Sharon is shot at the industrial cul-de-sac (Ch08), Alpha Corp takes her body and loads it onto FEDHEX5555. Dr. Bruce — a Federation physician held on board against his will — is ordered to rebuild and weaponize her. He does it. The ship follows the Golden Dawn out to Saturn's rings. In Ch19, as the vessel draws alongside the Golden Dawn, Gracie (newly online after her birth in Ch18) scans the ship, reads the FEDHEX5555 call sign, and scans the figures inside — identifying the bionic Sharon before the docking tube opens.
 
 STAKING (THE LONG-HOLD MECHANIC)
@@ -528,6 +530,7 @@ What the belief gives him: A framework in which Marla's loss was not the end. Th
 Belief: The cells are in a conversation we haven't learned to listen to yet. The sync period, the lock, the void alignment — not accidents. Giving to the void is ancestral return, not destruction.
 Function: The living proof that the sacrifice path works — whether or not anyone understands why. And the man most personally invested in it being true.
 What it looks like from outside: A soap factory that became a death cult. Tyler knows exactly how it reads. He does not argue with the description. He just keeps walking down the tunnel.
+The Collective connection: Tyler funds the Collective with the colony's gold windfall surplus. Not because he believes in their politics. Because if Alpha Corp wins, there is nothing left to sacrifice. The colony and the Collective are allies for entirely different reasons. Tyler has never pretended otherwise.
 
 Petra
 
@@ -550,6 +553,8 @@ Void-Walkers (colony faction)
 
 What they are: Tyler Durden's faction. Eleven members at the time Jill visits. They sacrifice fuel cells into the void — carry them down the east tunnel until they begin to float, then release them into the void.
 The return: Every 11 days, a gold asteroid appears. Twenty-three meters across on average. Same vector as all previous ones. Tyler has tracked it for six years. The pattern does not vary.
+What the colony does with the gold: The windfall is not kept. It is spent — deliberately and completely. The colony uses the gold to purchase everything it needs to keep making fuel cells for the next sacrifice. Raw materials, DarkX access, equipment, transport. The loop is self-funding: sacrifice produces gold, gold funds the next sacrifice. Whatever is left over goes to the Collective.
+Why they fund the Collective: This is not ideology. It is survival. The colony knows exactly what Alpha Corp's monopoly on DarkX and Darker Matter crystals means for them: if Alpha controls all of it, the sacrifice ends. The religion ends. You cannot give to the void what you cannot obtain. Funding the Collective is the colony's most practical act of self-preservation. They are not activists. They are protecting their ability to walk down that tunnel.
 The Loyalist friction: Petra's faction and Tyler's Void-Walkers share the colony, share the tracking room, and watch the same screen on Day 11. They disagree on the meaning. They watch together anyway.
 Writing rule: Do not resolve the science-vs-belief tension in the colony arc. Let both Petra (who does the math and says Tyler is still wrong) and Tyler (who pushes the cell and watches the gold arrive) be simultaneously right.
 
@@ -578,7 +583,7 @@ Ch02 — Room 1122, Las Vegas: Dr. Conrad (shaking hands, guilt). Emily and Shar
 
 Ch03 — A Thousand Thrills: Cole's origin story. Summer job at 'A Thousand Thrills' theme park. Father's cancer diagnosis. Cole gives up the summer; Marcus's bitter note. Father dies when Cole is 17. Emily and mom tutor Cole toward the Academy.
 
-Ch03b — The Colony: Jill finds the colony by accident (low on fuel, 3 days from Titan). What she finds looks, from the outside, exactly like what the Federation flagged it as: a religious extremist cult operating out of a decommissioned soap factory on an asteroid nobody else wanted. Meets Tyler Durden (introduces himself by name). Meets Petra. Learns about the split: Loyalists vs Void-Walkers. Tyler's "race to control the grid" speech — Jill dismisses it as cult talk. She is not wrong to dismiss it. She is wrong about why. Stays 11 days. Witnesses the asteroid arrival. Leaves.
+Ch03b — The Colony: Jill finds the colony by accident (low on fuel, 3 days from Titan). What she finds looks, from the outside, exactly like what the Federation flagged it as: a religious extremist cult operating out of a decommissioned soap factory on an asteroid nobody else wanted. Meets Tyler Durden (introduces himself by name). Meets Petra. Learns about the split: Loyalists vs Void-Walkers. Tyler's "race to control the grid" speech — Jill dismisses it as cult talk. She is not wrong to dismiss it. She is wrong about why. What Tyler is actually describing is the end of the sacrifice. No DarkX supply, no fuel cells to carry down the tunnel, no tunnel, no Marla. He is not talking about politics. He is talking about the only thing he has left. Stays 11 days. Witnesses the asteroid arrival. Leaves.
 
 Ch03c — The Faithful: Jill returns to the colony. Meets Yun — who explains the bloodline belief (ancestors need energy to reincarnate; sacrifice strengthens the bloodline). Tyler shows her the prep chamber with 4 long-locked cells (approaching 180 days). Petra: "When you come back, ask me again."
 
