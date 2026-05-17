@@ -175,7 +175,7 @@ Petra says "You're not her granddaughter" — technically correct. The notebooks
 Traced through Jill's family name. The maiden name in her family history connects back to the founding bloodline. It leads to Wilhelm's grandmother. It leads to Elsa's prophecy. It leads to the colony.
 
 ### Writing rule
-Nothing in Ch03b-f names Jill's surname or bloodline connection. Keep it clean. The reader plants the seed on reread. The reveal happens in Book Two — or late in Book One.
+Nothing in the early colony scenes names Jill's surname or bloodline connection. Keep it clean. The reader plants the seed on reread. The reveal happens in **Book One** — and it has to, because it is the mechanism that puts Elsa's notebooks in motion. Petra gives Jill the originals because Jill is the prophesied descendant. Without the bloodline reveal, Petra does not hand them over. Without the notebooks, Jill has nothing to bring to Ray. Without Ray and the notebooks together, the zero-gravity open condition goes unconfirmed and the antigravity project stalls. The reveal is not just character payoff — it is the load-bearing event that connects the colony arc to the science arc.
 
 ---
 
@@ -941,7 +941,7 @@ Jill (who has not yet discovered her bloodline connection as of Ch03f) comes bac
 - Petra's "You're not her granddaughter" is technically correct but misses the point. The notebooks are not for a biological heir — they are for the prophesied descendant. Petra is right for the wrong reason.
 - The reveal traces Jill's own family name/lineage back to the founding bloodline — the maiden name in her family history is the key.
 - This thread resolves in **Book One** — in Ch03g, when Jill returns to the colony and reads the notebooks.
-- **Writing rule**: Nothing in Ch03b-f names Jill's surname or bloodline connection. Ch03g is where she reads it herself. The reader may catch it on reread of Ch03b-f.
+- **Writing rule**: Nothing in the early colony scenes names Jill's surname or bloodline connection. The reveal happens in Book One — in the scene where Jill returns to the colony and reads the notebooks. This is the load-bearing event: her bloodline recognition is what gives Petra permission to hand over the originals. Without it, the notebooks don't move. The reader may catch the setup on reread of the earlier colony scenes.
 
 ---
 
