@@ -47,7 +47,7 @@ So he did the lazy thing. He sealed the crystals inside a spare fuel cell — pa
 
 This is the step that changes everything. Negative pressure inside the fuel cell is **Ray's accidental addition** — not part of the standard DarkX-to-crystal conversion process. It is the piece nobody else had tried.
 
-He came back Monday to find the locker glowing. Inside the fuel cell, the crystals hadn't just sat there — they had begun dissolving back into vapor, and that vapor had nowhere to go. Trapped under pressure inside the cell, it formed a slow vortex, a miniature storm in a jar. And the storm was *charging the cell*. The vapor was generating energy.
+He came back Monday to find the locker glowing. Inside the fuel cell, the crystals hadn't just sat there — they had changed state. For the first time anyone had seen, Darker Matter crystals had converted into vapor. Not back into DarkX — into something new: a vapor state nobody had observed before, because nobody had ever sealed the crystals under negative pressure. The vapor had nowhere to go. Trapped inside the cell, it formed a slow vortex, a miniature storm in a jar. And the storm was *charging the cell*. The vapor was generating energy.
 
 On Day 11, the mist cleared. New crystals had formed on the *outside* of the cell's base — the cycle had completed itself. The fuel cell read fully charged.
 
@@ -56,7 +56,7 @@ Ray said "Jackpot" to an empty lab, and then felt the dread move in.
 ### The fuel cell cycle (11-day round)
 ```
 Darker Matter crystals → sealed in fuel cell (nitrogen + negative pressure)
-    → crystals dissolve into vapor → vapor forms vortex inside cell
+    → crystals change state into vapor (first observed in sealed/pressurized environment) → vapor forms vortex inside cell
     → vortex charges the cell → Day 11: mist clears, new crystals form on cell exterior
     → harvest crystals → transfer to fresh cell → repeat
 ```
