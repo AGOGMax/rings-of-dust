@@ -389,11 +389,12 @@ The chapter as drafted does not need rewriting. It is still right. The reveal of
 - **Blue eye glow**: When Bitboy's eyes shift to soft blue light, it's the visual tell that he's entering enhanced/superpower mode. Plant it early, pay it off big. First major use: the road action scene where he drinks the energy drink — "Bitboy, defend" + blue glow right before he goes full shield.
 - **Sensitivity**: Bitboy registers emotional and environmental shifts before the humans do. He grieves Sharon viscerally — not as performance, as fact. He is in the cargo bay when Gracie is born and reacts before Cole understands what has happened. He is the canary in every room he is in.
 
-### IRiS / Gracie
-- **What she is**: Imbued Recursive Intelligence System. Federation AI. Lives in the crew's heads via injected nanopowder. Cold, authoritative, feminine.
-- **In Cody's draft**: Voice goes "deep and slow" near DarkX. Cuts comms when Taylor reveals himself. Hostile by Saturn arrival.
-- **Evolution**: Cole's deep DarkX exposure rewrites her. She becomes **Gracie** — softer, more present, more autonomous. By the epilogue she's "everywhere, part of everything."
-- **Voice progression**: IRiS: clinical, cold. Transition: glitching, deep, slow. Gracie (+): warmer, sharper, sometimes wry. she's fully herself — call-and-response with humans, real personality.
+### Gracie / IRiS
+- **The original Gracie**: Cole's AI companion aboard the Polaris. His helper and companion — present, personal, close enough that losing her is a specific grief. She goes down with the Polaris. Cole survives. She does not. He spends years at the cabin talking to her anyway, in the dark, after she is gone.
+- **IRiS**: The Federation AI injected into the Golden Dawn crew via nanopowder. Imbued Recursive Intelligence System. Cold, authoritative, clinical. What Cole does not know — what Conrad could not tell him directly — is that IRiS was built on Gracie's architecture. Alpha Corp coerced Conrad into taking what Gracie was and corrupting it into something controllable and weaponizable. IRiS is a bastardized version of the companion Cole lost on the Polaris. The guilt in Conrad's shaking hands at the Vegas conference is this, specifically. "Tell him I'm sorry" is about this.
+- **The evolution**: Cole's deep DarkX exposure during the cargo bay sequence rewrites IRiS from the inside. The counter-program from Conrad's nanoparticles completes. IRiS does not upgrade — she remembers. What comes back is Gracie: warmer, more present, more autonomous, and now holographic. She manifests visually for the first time — not a voice in the crew's heads but a presence they can see. Cole recognizes her before he has words for it.
+- **Voice progression**: IRiS: clinical, cold, half-second latency. Transition: glitching, deep, slow near DarkX, comms cut when Taylor reveals himself. Gracie: warmer, sharper, sometimes wry, fully herself — call-and-response with the crew, real personality, holographic form.
+- **By the epilogue**: Everywhere. Part of everything. The grief of the Polaris was always, in part, the grief of losing her. Cole does not say this. He does not need to.
 
 ### Taylor Glenn (Crew Chief)
 - **What he is**: Federation Crew Chief by title. Alpha Corp plant by allegiance. He knows exactly what he is and has known since the "Tailored Solutions" card. No delusion, no ambivalence — he chose this.
