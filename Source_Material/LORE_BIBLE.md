@@ -293,10 +293,9 @@ The bond with Cole has to feel **earned** before she dies. The relationship exis
 - **Anti-Federation, anti-Alpha Corp from the start.** Her politics are sharper than Cole's. She finished medical school, gave the establishment the finger the day she walked out, and never looked back. She has the training. She chose not to use it in the way they intended.
 - **Cole was the straight-laced one — but he had her back.** When their paths first crossed (a botched delivery? a Federation raid? a medical emergency in a Collective safehouse? — flesh out the meet-cute scene as a Cole flashback in Act 2), he covered for her. Federation captain, decorated. He could have turned her in. He didn't. They've been each other's exception ever since.
 - **Their love is the kind built on shared crime.** Cole holding the Federation line by day, Sharon laughing about it in his cabin by night. Trading dead-drop coordinates the way some couples trade grocery lists. *"Yeah, we'll get you the regulators. No, the Federation can suck a rock."*
-- **Where to plant this in the prose:**
- - **Act 1 cabin chapter** — already exists, has warm Cole/Sharon scenes (the blackberry preserves, the "you spoil me" beat). Add a **single past-tense paragraph** of Cole remembering their first illegal job together. Earn the warmth.
- - **Act 2 transit chapter (post-, post–Sharon's death)** — Cole has hours alone with his grief en route to Saturn. Give him **one full flashback** of a defining shared mission. The black-market run that almost got them killed. The night they decided this was the rest of their lives. Make us *feel* what he lost.
- - **Emily's solo chapters (, )** — let Emily remember Sharon. The "I'm doomed to be average" callback should always trace back to Sharon's reassurance.
+- **In the cabin scenes**: Cole remembers their first illegal job together — a single past-tense paragraph woven into the warmth of the blackberry preserves and the "you spoil me" beat. The memory earns the love the reader can already feel.
+- **En route to Saturn, after Sharon's death**: Cole has hours alone with his grief. A full flashback of a defining shared mission — the black-market run that almost got them killed, the night they decided this was the rest of their lives. The reader feels exactly what he lost.
+- **In Emily's solo scenes**: Emily remembers Sharon. The "I'm doomed to be average" thread always traces back to Sharon's reassurance.
 
 #### Death scene — (canon, do not soften)
 
