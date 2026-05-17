@@ -434,7 +434,7 @@ The chapter as drafted does not need rewriting. It is still right. The reveal of
 ```
 Wilhelm Verguld (The First Spark, Part 2)
  ↓
-Klaus Verguld (Rings of Dust — off-page presence)
+Klaus Verguld (Rings of Dust — revealed Epilogue A, Dubai)
  ↓
 Marcus Verguld (Rings of Dust — primary antagonist)
 ```
@@ -453,7 +453,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
  1. **The pocket watch** — brass, old, Wilhelm gave it to him on his 20th birthday. Klaus never opens it to check the time. He already knows what time it is. He holds it in his palm when he is thinking — closed, just the weight of it. When Taylor is first visited by the mysterious man from the black car, he notices the watch. Years later, in a reveal, he will recognize it again and understand.
  2. **He sets things down without sound** — a glass, a card, a notebook — always placed, never put down. No impact. No announcement. Established in *The First Spark* : *"He set the glass down on the table without making a sound."*
  3. **Always water** — never coffee, never alcohol. If he offers you something, it is water. If a scene involves Klaus and a drink, it is water. This never changes.
-- **Presence in the story**: Likely never appears on-page directly — or appears only once, briefly, in a way the reader doesn't immediately recognize. His power is in absence. Things happen because Klaus decided they would, long before anyone else knew there was a decision to make.
+- **Presence in the story**: Off-page for most of the book. His influence is felt throughout — Taylor's recruitment, Alpha Corp's founding, the pocket watch found in Taylor's quarters — but Klaus himself does not appear until Epilogue A. Dubai. Marcus is sitting with orange juice and four ice cubes when Klaus arrives: 71 years old, unhurried. *"You built the cover. The structure continues."* The machine was never Marcus's. Klaus has always known this. The reader understands it in the same moment Marcus does.
 - **Voice**: Minimal. When he does speak, it's one sentence that ends conversations.
 
 ### Taylor backstory seeds — for (extracted)
