@@ -17,7 +17,7 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 | **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
 | **180** | Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
 | **369** | Number of test runs in Elsa Klein's research notebooks. Also the number of victims from the Polaris explosion — the disaster Cole captained. The same number connects the origin of the mission to the origin of the colony science. Appears in Ch22b and when Petra opens the sealed case. |
-| **5555** | FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Ray identifies it while working undercover; Gracie traces it during the Saturn mission. |
+| **5555** | FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. After Sharon is shot, Alpha Corp loads her body onto FEDHEX5555 — where Dr. Bruce, against his will, builds and weaponizes her. The ship follows the Golden Dawn to Saturn. Gracie (newly online after Ch18) scans the approaching vessel, reads the FEDHEX5555 call sign, and identifies the figures inside — including the bionic Sharon. |
 | **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
 
 ---
@@ -93,7 +93,7 @@ A locked cell can be unlocked at any point. The consequence: **all enhanced prop
 ### The race to control the Grid
 The 740-cell Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
 
-**FEDHEX5555**: The cover registry for Alpha Corp's vessel shadowing the Golden Dawn. Ray identifies it while working undercover inside Alpha Corp and feeds it to Red and Squirrel. Gracie traces it during the Saturn mission.
+**FEDHEX5555**: The cover registry for Alpha Corp's vessel shadowing the Golden Dawn. After Sharon is shot at the industrial cul-de-sac (Ch08), Alpha Corp takes her body and loads it onto FEDHEX5555. Dr. Bruce — a Federation physician held on board against his will — is ordered to rebuild and weaponize her. He does it. The ship follows the Golden Dawn out to Saturn's rings. In Ch19, as the vessel draws alongside the Golden Dawn, **Gracie** (newly online after her birth in Ch18) scans the ship, reads the FEDHEX5555 call sign, and scans the figures inside — identifying the bionic Sharon before the docking tube opens.
 
 ### Staking (the long-hold mechanic)
 Someone eventually figures out that a sealed, *locked* fuel cell — one made deliberately inaccessible, not harvested, just left alone — does not reset. It keeps accumulating. The vapor keeps building. The crystals keep growing, layer on layer, inside a sealed environment with no release valve.
@@ -313,29 +313,17 @@ Greenbaum ambushes Emily and Sharon in the industrial cul-de-sac. Collective sni
 
 #### The resurrection arc (owner directive 2026-04-30)
 
-Sharon comes back **late in the book**, half-bionic. The universe supports it: Bitboy is the proof of concept (last surviving EM Cyber). The Collective has access to that lineage of tech. Marcus / Alpha Corp has access too. Either side could plausibly have the body.
+Sharon comes back **late in the book**, half-bionic. **This is canon — not a choice between paths.**
 
-Three placement/tonal options the writer should pick from:
-
-**Path A — Sharon as enemy combatant, recovered (most dramatic):**
-- Marcus's last play, plotted while he was still free: recover Sharon's body, weaponize it with Alpha cyber-tech, condition her psyche to obey, point her at Cole.
-- She boards the Golden Dawn during the Saturn battle (insertable as a beat in **Ch 19** or as a new **Ch 19a**) as an unmarked tactical operative.
-- Helmet comes off mid-fight. Cole sees her. **She doesn't see him.** *"Captain Cole Nova. Designation: target."*
-- Cole has to fight her without killing her. He won't kill her. He has to find a way through the conditioning.
-- **The Ch 18 lesson is the test.** Cole had to learn to love himself with Sharon gone. Now she's standing in front of him as a stranger and he has to NOT collapse — has to be the one fighting *to save her* rather than to be saved by her.
-- He breaks the conditioning by — TBD. Possibilities: Bitboy recognizes her at the molecular level and triggers something. Cole shows her the copper-wire ring she kept (callback to Cody Ch 5). Gracie reaches the Federation nanopowder still in her bloodstream and finds the part of Sharon still in there and pulls.
-- She wakes up partly. Not 100%. Cyber and human, fighting for the Collective from now on.
-
-**Path B — Sharon as Collective fighter, simply restored (cleaner happily-ever-after):**
-- The Collective recovered her body after Ch 7 and never told Cole. They've had her in a recovery chamber, working on consciousness restoration through the same nanopowder lineage that built Bitboy.
-- She comes online late Act 3 — Ch 23 or Ch 24. Already herself. Already on the right side. Bionic but unambiguous.
-- Less dramatic, simpler emotional arc, cleaner road to the bowling-alley closer.
-
-**Path C — Combine (recommended):**
-- Path A's drama in space (Ch 19/19a corrupted-Sharon fight)
-- Cole breaks the conditioning during the fight — the Collective takes her into custody at the end of the battle, deprograms her over the transit home
-- By Ch 24 she's recovering, by Ch 25 she's at the bowling alley with him — bionic, scarred, herself, alive
-- Bowling-alley closer becomes a wake AND a homecoming
+**The arc**:
+- After the shooting at the industrial cul-de-sac (Ch08), Alpha Corp takes Sharon's body and loads it onto FEDHEX5555.
+- Dr. Bruce — a Federation physician held aboard against his will — is ordered to rebuild and weaponize her. He does it because he has no choice. He hates what he is making. He keeps notes.
+- FEDHEX5555 follows the Golden Dawn out to Saturn's rings. Dr. Bruce watches the job he was forced to do approach the ship he hoped it would never reach.
+- In Ch19, Gracie (newly online after Ch18) scans the approaching vessel, reads FEDHEX5555, identifies the bionic Sharon inside before the docking tube opens. She does not tell Cole immediately. She tells Bitboy.
+- Sharon comes through the docking tube alone. **Bitboy's chest panel: SHE SMELLS LIKE SHARON.** Cole asks her to take off the visor. Left side: jaw, cheekbone, bright left eye — still hers. Right side: gunmetal, bronze indicator ring.
+- She attacks. Cole stops fighting. Bleeding palm against her unaugmented left face. Conrad's counter-program transfers. Bronze ring goes dark. She says his name.
+- Dr. Bruce, watching from FEDHEX5555, gets the signal he has been waiting for. He comes across the docking tube on his own. He is not armed. He tells Cole he is happy to go wherever they are going. He is done with Alpha Corp. Cole looks at Gracie. Gracie says: "He kept notes."
+- By Ch24 she's recovering. By Ch25 she's at the bowling alley — bionic, scarred, herself, alive.
 
 #### What this changes about Ch 18 (the four-Coles vision)
 
@@ -376,7 +364,7 @@ The Ch 18 chapter as drafted does not need rewriting. It is still right. The rev
 - **Name**: Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by **Ray**. The narrator introduces him as Ray in Ch10a — prior to that, he appears in narration as Max or Max Vision.
 - **Role**: Scientist who accidentally discovers the 11-day fuel cell cycle. Extracted by Collective handlers, works undercover inside Alpha Corp in Panama.
 - **Handlers**: **Red and Squirrel** (Collective Special Agents) — they extract him, build his cover in Panama, and receive his intelligence.
-- **Key intelligence delivered**: Identifies the Alpha Corp vessel shadowing the Golden Dawn. Cover registry: **FEDHEX5555**. Gracie traces it during the Saturn mission.
+- **Key intelligence delivered**: Flywheel data from Alpha Corp Panama facility. Disposal Protocol Seven (11–13% product destruction per batch). The 7-year suppression of viable fuel cell technology. The drive goes out through the Collective network — 100,000 people in 48 hours.
 - **Space station arc**: Eventually reaches the space station and discovers the flywheel and the anti-gravity project — connecting his accidental discovery to the full race to control the Grid.
 - **Voice**: Scientist's precision papering over escalating panic. The man who did the lazy thing and has been living with the consequences ever since.
 
@@ -535,6 +523,14 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **Title**: Federal Council Police. Presents as law enforcement; functions as Alpha Corp muscle dressed in government credentials.
 - **First appearance**: Ch2 — the Vegas conference. Approaches Emily and Sharon, attempts to intimidate. Sharon runs the elevator humiliation on him; he falls out of the doors half-undressed. She hands him a lollipop as the doors close.
 - **The transformation**: By Ch7, this is not the same man from the elevator. Greenbaum moves with purpose, jaw clenched, hardened. The humiliation calcified. *"This was not the man they left in the elevator, floundering after their game."* He ambushes Emily and Sharon in the industrial cul-de-sac. Sharon blocks the shot to protect Emily. Sharon dies.
+
+#### Dr. Bruce
+- **Role**: Federation physician. Held aboard FEDHEX5555 against his will after Alpha Corp takes Sharon's body.
+- **What he is forced to do**: Rebuild Sharon — bionic integration, cyber-conditioning, weapons system. He does it because the alternative is worse. He does it carefully. He keeps notes on everything he does to her, every system he installs, every override he builds in — because he intends for someone to be able to undo it.
+- **His notes**: The reason Gracie says "He kept notes" when Cole looks at her in Ch19. The notes are how the counter-program is confirmed complete. They document every layer of conditioning so nothing is missed.
+- **After the boarding (Ch19)**: When Sharon's counter-program fires and the bronze ring goes dark, Dr. Bruce crosses the docking tube on his own initiative. He is not armed. He tells Cole he is happy to go wherever they are going. He has been waiting for this since FEDHEX5555 left dock.
+- **Tone**: Not a villain. A man who did something terrible under duress and spent the entire time documenting it so it could be undone. The notes are his apology. Cole accepts it without ceremony.
+- **Ch24**: Part of the recovery team. He knows Sharon's systems better than anyone. He is also, quietly, one of the people most relieved to see her come back.
 - **What made him**: Years of being looked through by men like Taylor Glenn. Being dismissed in briefing rooms. Being talked past. Absorbing it. Straightening his jacket and acting like it didn't happen. **The Ch15–17 flashback contains one beat — a single moment in a shared room where Taylor talks past him mid-sentence and Vance doesn't intervene.** That beat is not named, not called out, not editorially flagged. It just happens and the scene moves on.
 - **The Easter egg**: The reader who connects that Ch15-17 moment to the Ch7 shooting gets a gut-punch. The reader who doesn't isn't pulled out of Vance's arc. That's the intent — catch it or don't, it works either way.
 - **After Ch7**: Collective sniper takes Greenbaum out — he dies in the cul-de-sac. Sharon's death is what the bullet ricocheting from his dying hand causes. He is the instrument; Taylor (and the system Taylor serves) is the forge that shaped him.
@@ -543,7 +539,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 ### Red and Squirrel
 - **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama (Cody Ch 9 + Ch 13).
 - **Voice**: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
-- **Function**: They extract Ray from his original identity, establish his cover in Panama, and run him as an undercover asset inside Alpha Corp. Ray feeds them intelligence — including the identification of **FEDHEX5555** (the Alpha Corp vessel shadowing the Golden Dawn). They facilitate Ray's journey to the space station where he discovers the flywheel and the anti-gravity project.
+- **Function**: They extract Ray from his original identity, establish his cover in Panama, and run him as an undercover asset inside Alpha Corp. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. They facilitate Ray's journey to the space station where he confirms the flywheel and the anti-gravity project.
 - **Collective rank**: Special Agents (Field Tier 3 — sunglasses patch, dark full frame).
 
 ### Colony Arc Characters (Ch03b–f)
@@ -666,7 +662,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 
 **Ch18 — The Four Coles**: DarkX vision. Cole as infant. Cole at 17 in 2003 Subaru, father just died. Old man in passenger seat: "He left you. He didn't choose to. And he still left you." / "You don't need a pardon. You need to stop being the warden." DarkX will not show Cole Sharon: "It doesn't lie. Because she isn't here." Counter-program completes. Gracie birth. "I think I'm Gracie." Bitboy welded to override lever; crosses cargo bay on three good limbs to cry in Cole's lap.
 
-**Ch19 — The Boarding**: Taylor confined to quarters. Alpha vessel draws alongside. Figure comes through docking tube alone. Bitboy's chest panel: SHE SMELLS LIKE SHARON. Cole asks her to take off the visor. Left side: jaw, cheekbone, bright left eye — still hers. Right side: gunmetal, bronze indicator ring. She attacks. Cole stops fighting. Bleeding palm against her unaugmented left face. Counter-program transfers. Bronze ring goes dark. She says his name.
+**Ch19 — The Boarding**: Taylor confined to quarters. FEDHEX5555 draws alongside — Gracie (newly online after Ch18) has already scanned it, read the call sign, identified the figures inside. She told Bitboy first. Bitboy has been at the docking tube for eleven minutes. Figure comes through alone. Bitboy's chest panel: SHE SMELLS LIKE SHARON. Cole asks her to take off the visor. Left side: jaw, cheekbone, bright left eye — still hers. Right side: gunmetal, bronze indicator ring. She attacks. Cole stops fighting. Bleeding palm against her unaugmented left face. Counter-program transfers. Bronze ring goes dark. She says his name. Then: Dr. Bruce comes across the docking tube on his own. Not armed. "I'm happy to go wherever you're going." Cole looks at Gracie. Gracie: "He kept notes."
 
 **Ch21 — Ray's Cargo**: Ray on park bench, 6 blocks from Alpha Panama facility. Tells Squirrel: 11 viable technologies on a shelf in Panama; energy crisis is an inventory decision. "They named it Seven. Which means there are at least six others." The drive goes out through the parallel network — 100,000 people in 48 hours. Ray boards 7 o'clock flight under his own name. "The drive is out. The work is done." He sleeps.
 
@@ -870,12 +866,12 @@ Jill (who has not yet discovered her bloodline connection as of Ch03f) comes bac
 
 ---
 
-**Item 11 — 5555** ✅ RESOLVED
+**Item 11 — FEDHEX5555** ✅ RESOLVED (full arc confirmed)
 
-- **Canon**: FEDHEX5555 is the call sign of the Alpha Corp vessel that follows and eventually boards the Golden Dawn.
-- Current CLIFFSNOTES/Ch19 text refers to it as "FED-MRS-0409 'Rapid Response Medical Support'" — that is the cover registry name. FEDHEX5555 is the actual call sign that Gracie traces to Alpha Corp.
-- Red and Squirrel surface the vessel's identity to the Collective through its call sign.
-- **Fix**: Update Ch19 (and any Ch10/Ch11 reference to the pacing vessel) to reference FEDHEX5555 as the call sign Gracie identifies.
+- **Canon**: FEDHEX5555 is Alpha Corp's vessel that follows the Golden Dawn to Saturn. Sharon's body is loaded onto it after Ch08. Dr. Bruce is held aboard and forced to build/weaponize her.
+- **Identification**: Gracie (newly online after Ch18) scans the ship in Ch19, reads the FEDHEX5555 call sign, and identifies the bionic Sharon inside before the docking tube opens. Ray does not identify it. Red and Squirrel do not identify it. Gracie identifies it.
+- **Dr. Bruce**: New character — Federation physician, not a villain, kept notes on every system he installed in Sharon so it could be undone. His notes are how Gracie confirms the counter-program is complete.
+- **Resolution**: Sharon counter-programmed in Ch19. Dr. Bruce crosses the docking tube voluntarily. Returns to Earth with the crew.
 
 ---
 
