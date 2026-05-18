@@ -74,7 +74,7 @@ After a Grid of 740 cells is assembled, it enters a **sync period** during Days 
 ### Day 11 — The Jackpot (one of 740)
 On Day 11, exactly **one cell** in the 740-cell Grid receives a one-time exterior crystal deposit — the **Jackpot**. The Jackpot cell is random; it never repeats on the same cell. The exterior crystals appear on the base of the casing. This is separate from the normal 11-day harvest cycle — the Jackpot is singular and non-recurring for that cell.
 
-**Writing note — the word "Jackpot" across the story**: Four groups use it. None of them know the others do.
+**The word "Jackpot" across the story**: Four groups use it. None of them know the others do.
 - **Ray**: the word he said to an empty apartment when he discovered the one-in-740 exterior deposit. A scientist's reflex. He never published it.
 - **Alpha Corp**: a 2036 batch record annotation. The person who wrote it probably didn't know they were echoing a researcher who had already been silenced. It's in the log Ray reads in Panama, and it stops him cold.
 - **The Colony**: what members say when a gold asteroid arrives — especially a large one. Petra says it when the crater comes back twice as large as usual. It's casual. It's reverent. It's been said in that tunnel for generations. They mean it the way a prayer sounds when you've said it so many times it becomes reflex.
@@ -120,7 +120,7 @@ When a fuel cell floats free at the end of the tunnel, it does not detonate. The
 
 This is the mechanic the asteroid colony knows and practices — Tyler Durden's Void-Walkers push cells into the void. Alpha Corp is aware of the gold asteroid returns but does not understand the mechanism. Elsa Klein mapped the science (dark matter gravity differential redirecting inbound asteroid trajectories). Tyler mapped it to belief (ancestral return, giving to the void). Both frameworks are simultaneously true.
 
-**Writing rule**: DarkX is never just a fuel source. Every scene involving it should carry the faint suggestion that it is aware of what is being done to it — and that it is patient.
+**What DarkX is**: DarkX is never just a fuel source. It is aware of what is being done to it. It is patient.
 
 ### The Rapture (Saturn event)
 The **Rapture** is a gravitational event at Saturn — a periodic alignment in which the rings shift, rotate, and expand outward relative to each other. During the Rapture, the outer rings circulate and seal. No ship can get into the outer rings once it begins. The raw DarkX harvesting window closes permanently until the next cycle — which is measured in generations, not years.
@@ -163,8 +163,8 @@ Petra says "You're not her granddaughter" — technically correct. The notebooks
 ### The reveal mechanism
 Traced through Jill's family name. The maiden name in her family history connects back to the founding bloodline. It leads to Wilhelm's grandmother. It leads to Elsa's prophecy. It leads to the colony.
 
-### Writing rule
-Nothing in the early colony scenes names Jill's surname or bloodline connection. Keep it clean. The reader plants the seed on reread. The reveal happens in **Book One** — and it has to, because it is the mechanism that puts Elsa's notebooks in motion. Petra gives Jill the originals because Jill is the prophesied descendant. Without the bloodline reveal, Petra does not hand them over. Without the notebooks, Jill has nothing to bring to Ray. Without Ray and the notebooks together, the zero-gravity open condition goes unconfirmed and the antigravity project stalls. The reveal is not just character payoff — it is the load-bearing event that connects the colony arc to the science arc.
+### The bloodline reveal
+Jill's surname and bloodline connection are not stated in the early colony scenes. The reveal happens in **Book One** — it is the mechanism that puts Elsa's notebooks in motion. Petra gives Jill the originals because Jill is the prophesied descendant. Without the bloodline reveal, Petra does not hand them over. Without the notebooks, Jill has nothing to bring to Ray. Without Ray and the notebooks together, the zero-gravity open condition goes unconfirmed and the antigravity project stalls. The reveal is not just character payoff — it is the load-bearing event that connects the colony arc to the science arc.
 
 ## Key recurring objects & motifs
 
@@ -247,16 +247,16 @@ TIER 7 — SINGULAR
 - **Agents**: Sunglasses. They set up operations and move people and resources — people like Ray, situations like getting someone extracted or inserted. Red and Squirrel are Special Agents. All patches are hidden. Every rank. The sunglasses patch goes inside the bag lining. Never on the lapel. Never visible to anyone who isn't already Collective.
 - **Navigators**: Compass. They lead missions and operations. They see the whole board. They know who is and isn't who they appear to be. Rachel's reach operates at this level even before the Grand Admiral reveal. Navigators know the Grand Admiral exists. They don't say so publicly.
 - **Commanders**: Star. There are not many. They move the big pieces — the long-game plays, the operations that span months or years, the resource allocation that keeps the network alive. They know about the Grand Admiral. They follow her without ever publicly confirming she exists.
-- **Grand Admiral**: One rank. One person. The bronze star with olive leaf wreath. Rachel Vayes. So rare that Operators and Technicians treat it as campfire mythology. Agents take it more seriously but with skepticism. Navigators know. Commanders know. The reader should hear the jokes first and see the insignia last.
+- **Grand Admiral**: One rank. One person. The bronze star with olive leaf wreath. Rachel Vayes. So rare that Operators and Technicians treat it as campfire mythology. Agents take it more seriously but with skepticism. Navigators know. Commanders know.
 
-**The mystery thread — writing rule:**
-The Grand Admiral should be referenced as rumor and legend throughout the book. Characters at Operator and Technician level treat it like a campfire story. Agents take it more seriously but still with skepticism. Navigators know. Command knows. The reader should encounter the jokes first and the truth last.
+**The Grand Admiral mystery thread**:
+The Grand Admiral is referenced as rumor and legend throughout the book. Characters at Operator and Technician level treat it like a campfire story. Agents take it more seriously but with skepticism. Navigators know. Command knows.
 - First reference: a throwaway line from a minor Collective character. *"Right, and I'm the Grand Admiral."*
 - Middle reference: Emily hears it from Rachel herself — Rachel says something that, on reread, is obviously a tell. But it reads as deflection in the moment.
 - Final reveal: a glimpse. Her coat shifts during a quiet scene with Cole and Sharon. The patch is visible for a moment. No one speaks to it. The scene moves on. The reader sits with it alone.
 
-### Writing rule
-When the narrative prose names a villain, the villain is **Alpha Corp** (or Marcus by name). The Federation takes orders. It does not *give* orders — not at the level that matters. A Federation lieutenant issuing a command is fine; framing the Federation as the entity *behind* the crisis or *behind* the surveillance is not. The Federation is the hand. Alpha Corp is the brain. Marcus is the will.
+### Villain attribution
+The villain named in this story is **Alpha Corp** (or Marcus by name). The Federation takes orders. It does not give them — not at the level that matters. A Federation lieutenant issuing a command is accurate; the Federation as the entity behind the crisis or the surveillance is not. The Federation is the hand. Alpha Corp is the brain. Marcus is the will.
 
 ## Sharon Teez — name disambiguation
 
@@ -276,7 +276,7 @@ When the narrative prose names a villain, the villain is **Alpha Corp** (or Marc
 - **Relationship to Emily**: Younger brother. Emily is two years older. She pushed him toward the Federation Academy, believed in the dream before he did, and did the tutoring that got him there. On the ground, while he is in space, she is the one fighting — she loses Sharon and keeps going anyway, running her own mission to save her brother.
 - **Voice**: Stoic, dry, self-deprecating. Wraps grief in jokes. Talks to Bitboy more than humans when he's hurting. Calls Sharon "babe" and "baby girl" tenderly.
 - **Arc across the book**: Reluctant return to duty → mirror smashed open by Taylor → loss of Sharon → grief-trip integration → a man who can love himself without needing anyone else to do it for him.
-- **Writing notes**: When he's grieving, he gets quieter, not louder. He plans more than he feels — but his plans betray what he's feeling.
+- **Grief register**: When he's grieving, he gets quieter, not louder. He plans more than he feels — but his plans betray what he's feeling.
 
 ### Sharon Teez
 - **Role**: Collective Operator. Cole's lover. Emily's protector and friend.
@@ -333,17 +333,7 @@ The directive that **DarkX will not fake Sharon's voice** still holds — and ge
 
 Cole won't know any of that consciously. He'll just feel the absence as final. When she comes back later, the lesson he learned (love yourself with her gone) is what makes him strong enough to *not* collapse when she walks back in.
 
-The chapter as drafted does not need rewriting. It is still right. The reveal of her survival just gives the chapter more depth in retrospect — first read it's a death sentence, on a re-read it's a substance refusing to lie even gently.
-
-#### Writing notes — going forward
-
-- **Acts 1–2**: build the relationship, make her death matter
-- ** death scene**: protect-the-friend instinct, blocked shot, do not soften
-- ** Cole learns**: Taylor's reveal still stings the same — Cole doesn't know yet she's recoverable
-- ** vision**: holds as written
-- ** / 19a (Path A or C)**: corrupted-Sharon fight, Cole's integration tested live
-- ****: recovery / partial reunion at the cabin
-- ** bowling alley**: alive, bionic, his
+The DarkX vision does not fake Sharon's voice or show her to Cole. The substance shows truth, and the truth at that moment is that the Sharon-who-was is gone and the Sharon-who-will-return does not yet exist. On first read this feels like confirmation of her death. On re-read it is the substance refusing to lie — even gently. Cole does not know any of that in the scene. He feels only the absence.
 
 ### Emily Nova
 - **Age**: Early 40s. Two years older than Cole.
@@ -377,16 +367,15 @@ The chapter as drafted does not need rewriting. It is still right. The reveal of
 ### Bitboy Leroy
 - **What he is**: Six-limbed biomechanical chimp/macaque hybrid. Federation experimental project — *the last remaining EM Cyber* ( line). Metal fingernails. Six-inch mantis blades that extend from his forearms. Runs on ethanol as power source. Not a pet — a test subject who escaped his cage.
 - **Communication**: Sounds and gestures. No sign language.
-- **Hidden secret**: He's the prototype IRiS's nanopowder was reverse-engineered from. The "EM Cyber" line is the breadcrumb. Pay it off or.
+- **Hidden secret**: He is the prototype IRiS's nanopowder was reverse-engineered from. The "EM Cyber" line connects back to this.
 - **Relationship to Cole**: Found family. Cole's a deadbeat dad to a junkie monkey. The bond is real and visible.
-- **Command interface** (established "Bitboy, play" / flash drive decrypt — reuse throughout):
- - **"Bitboy, play"** — decrypt/hack mode. Established when he cracks the flash drive. Reuse any time a locked system needs opening.
+- **Command interface**:
+ - **"Bitboy, play"** — decrypt/hack mode. Established when he cracks the flash drive.
  - **"Bitboy, attack"** — offensive posture; blades deploy, full combat mode.
  - **"Bitboy, defend"** — wraps himself around a specific person; absorbs punishment, won't leave.
- - **"Bitboy, kamikaze"** — extreme self-endangerment / suicidal charge. Reserve for climactic moments only; the crew knows what it costs to say it.
+ - **"Bitboy, kamikaze"** — extreme self-endangerment / suicidal charge. The crew knows what it costs to say it.
  - **"Bitboy, stat"** — medical mode; drops everything, moves to the injured person, assists with emergency triage. Sharon established this use. After her death it becomes one of the commands the crew is careful about saying out loud.
- - Optional later: "scout," "ghost," "bridge" — add if a scene needs it.
-- **Blue eye glow**: When Bitboy's eyes shift to soft blue light, it's the visual tell that he's entering enhanced/superpower mode. Plant it early, pay it off big. First major use: the road action scene where he drinks the energy drink — "Bitboy, defend" + blue glow right before he goes full shield.
+- **Blue eye glow**: When Bitboy's eyes shift to soft blue light, he is entering enhanced mode. First established use: the road action scene where he drinks the energy drink — "Bitboy, defend" + blue glow before he goes full shield.
 - **Sensitivity**: Bitboy registers emotional and environmental shifts before the humans do. He grieves Sharon viscerally — not as performance, as fact. He is in the cargo bay when Gracie is born and reacts before Cole understands what has happened. He is the canary in every room he is in.
 
 ### Gracie / IRiS
@@ -421,7 +410,7 @@ The chapter as drafted does not need rewriting. It is still right. The reveal of
 ### Rachel Vayes
 - **What she is**: News anchor and public figure — the most trusted, polished face in Federation-adjacent broadcast media. Politically connected, appears neutral and authoritative. Secretly the **Grand Admiral of the Collective** — the highest rank that exists. One person holds it. She has held it since before the book opens.
 - **The long game**: While Marcus built Alpha Corp into a shadow government, Rachel built the Collective into the thing that could outlast it. She has been playing this longer than Marcus has been playing anything.
-- **Act 1 read**: Marcus's ally. His public validator. She appears at his events, she echoes his framing, she is — to all appearances — one more instrument in his orchestra. The reader should believe this.
+- **Act 1 read**: Marcus's ally. His public validator. She appears at his events, she echoes his framing, she is — to all appearances — one more instrument in his orchestra.
 - **Act 2 turn**: After Sharon's shooting, Rachel finds Emily. She helps her. It reads as ambiguous — is she running Emily as an asset for Marcus, or is she actually on a different side? *"On a very different side than it appears"* — that line lands differently on a reread.
 - **The Grand Admiral mystery thread (runs throughout the book)**: The Collective has an internal mythology around the Grand Admiral. Lower-ranked members treat it as legend — some believe the rank exists and someone holds it, others think it's a motivational fiction the Navigators invented to give the organization gravity. Characters joke about it. *"Right, and I'm the Grand Admiral."* The jokes should make the reader smile and forget about it.
 - **The reveal**: There is no announcement. No speech. No moment where Rachel stands up and names herself. The reveal is a glimpse — near the end of the book, Rachel visits Cole and Sharon to thank them. She is composed and warm and entirely herself. At some point her coat shifts, or she turns, and for just a moment the inside of her jacket is visible. The patch is there. Bronze star, olive leaf wreath. The reader who has been paying attention to the rank chart understands in an instant what they are looking at. Nobody says anything about it. The scene continues. That is the whole reveal.
@@ -500,13 +489,12 @@ Marcus Verguld (Rings of Dust — primary antagonist)
  - **Sam is nearby.** She notices his non-reaction. Says nothing. Files it away. This is the moment she knows exactly who she's sharing a ship with. It plants her eventual break from Taylor.
 - **Function**: Vance is the proof that Alpha Corp's grip could have been broken — by someone with enough spine, at the right moment. He died for it. Taylor saw what that looked like and chose the other direction, on purpose. His death is the moral center of the arc.
 
-#### Build directive
-Vance needs more page time and rounding before his death lands. He is currently underwritten. The goal is for the reader to *like* him — to feel the specific loss of *this* person, not just a plot-function casualty. Scenes to build toward:
-- **Early Vance**: / — he's on the Golden Dawn mission briefing, he's the one who processed Cole and Ricardo in. He's charming, casual, competent. A little loose. The reader should enjoy him.
-- **Vance with humor**: The black site scene is already full of dry wit under pressure (*"Appreciate the warm welcome. Nothing like eating dirt."* / *"You mean a pop?"*). That voice is the key. He's funny when he's scared. He's funniest when he's in the most trouble.
-- **Vance showing doubt**: One line, one moment — probably or a late scene — where he says something that isn't quite loyal. Not a speech. Just one question he asks that shouldn't be asked, or one pause before he agrees to something. Taylor notices. Files it.
-- **Vance's last scene before the black site**: He should feel like a man who has made a decision and is at peace with the cost of it. No martyrdom speech. Just someone who finally knows what he's doing and why.
-- **Writing rule**: Do not let Vance die as a symbol. Let him die as a person. The dry wit is the armor. The scene works because Marcus kills him *while he still has the armor on.*
+#### Vance in the story
+- Vance appears at the Golden Dawn mission briefing. He processes Cole and Ricardo in. He is charming, casual, competent — a little loose. He is the kind of man you like before you understand why.
+- He is funny when he is scared. He is funniest when he is in the most trouble.
+- There is one moment — one question he asks that he should not ask, or one pause before he agrees to something — where his doubt surfaces. It is not a speech. Taylor notices. Files it.
+- Before the black site, Vance is a man who has made a decision and is at peace with the cost of it. No speech. Just someone who finally knows what he is doing and why.
+- **How he dies**: The dry wit is the armor. Marcus kills him while he still has the armor on.
 
 ### Dr. Stephen Conrad
 - **Status**: Disappeared. Possibly dead. Alpha Corp took him — likely to continue the IRiS work under duress.
@@ -545,7 +533,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **What made him**: Years of being looked through by men like Taylor Glenn. Being dismissed in briefing rooms. Being talked past. Absorbing it. Straightening his jacket and acting like it didn't happen. **The flashback contains one beat — a single moment in a shared room where Taylor talks past him mid-sentence and Vance doesn't intervene.** That beat is not named, not called out, not editorially flagged. It just happens and the scene moves on.
 - **The Easter egg**: The reader who connects that moment to the shooting gets a gut-punch. The reader who doesn't isn't pulled out of Vance's arc. That's the intent — catch it or don't, it works either way.
 - **Fate**: Alpha's own Watch Dogs accidentally shoot Greenbaum in the chaos of their move on Emily and Sharon. He dies in the cul-de-sac from friendly fire. His dying shot kills Sharon. He is the instrument; Taylor and the system that shaped him is the forge. Alpha Corp kills Sharon — through Greenbaum, through their own Watch Dogs — while trying to clean up the very situation they created.
-- **Writing rule**: Greenbaum is never cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
+- **Register**: Greenbaum is not cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
 
 ### Red and Squirrel
 - **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama ( + ).
@@ -598,7 +586,7 @@ Vance needs more page time and rounding before his death lands. He is currently 
 - **What the colony does with the gold**: The windfall is not kept. It is spent — deliberately and completely. The colony uses the gold to purchase everything it needs to keep making fuel cells for the next sacrifice. Raw materials, DarkX access, equipment, transport. The loop is self-funding: sacrifice produces gold, gold funds the next sacrifice. Whatever is left over goes to the Collective.
 - **Why they fund the Collective**: This is not ideology. It is survival. The colony knows exactly what Alpha Corp's monopoly on DarkX and Darker Matter crystals means for them: if Alpha controls all of it, the sacrifice ends. The religion ends. You cannot give to the void what you cannot obtain. Funding the Collective is the colony's most practical act of self-preservation. They are not activists. They are protecting their ability to walk down that tunnel.
 - **The Loyalist friction**: Petra's faction and Tyler's Void-Walkers share the colony, share the tracking room, and watch the same screen on Day 11. They disagree on the meaning. They watch together anyway.
-- **Writing rule**: Do not resolve the science-vs-belief tension in the colony arc. Let both Petra (who does the math and says Tyler is still wrong) and Tyler (who pushes the cell and watches the gold arrive) be simultaneously right.
+- **The tension**: The science-vs-belief tension in the colony arc is not resolved. Both Petra — who does the math and says Tyler is still wrong — and Tyler — who pushes the cell and watches the gold arrive — are simultaneously right.
 
 ### Captain Blitz / Squeaks / Sexy Sharons / Von Grutzen / Dr. Neumann / Captain Rycra
 - TRotR (Rings of the Reich) characters. Not part of Rings of Dust.
@@ -742,23 +730,22 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 
 ### Scene 1: Grandmother's Ritual (Early Section — Before Wilhelm Finds the Directorate Archive)
 
-**What it needs to show**:
+**What Scene 1 establishes**:
 - The grandmother performs a ritual involving the full belief system: your acts and deeds now bless your bloodline; you can reincarnate into your own bloodline; the right ceremonies ensure future generations receive what you sow
-- She includes the prophecy in the ritual: one day, a descendant of this bloodline will come to the place where the sacrifice is made, and the circle will close
-- Wilhelm watches and absorbs the belief
+- The prophecy is part of the ritual: one day, a descendant of this bloodline will come to the place where the sacrifice is made, and the circle will close
+- Wilhelm watches and absorbs it
 - He redirects it toward accumulation and ownership rather than sacrifice — taking the "bless your bloodline" part and making it material
 
-**Craft notes**:
-- The grandmother is the SOURCE. The ritual predates her too — it is something she was given, not invented. Make it feel ancient.
-- Her name and family name should be seeded carefully. The chain from her to Elsa Klein's tradition (and separately to Jill's bloodline) is embedded here.
-- Do NOT make the Elsa or Jill connection explicit. Plant seeds only.
-- The ritual should include both the sacrifice element (giving to the void) AND the accumulation element (building for the bloodline) as equal expressions of the same belief. Wilhelm witnesses both — and chooses one.
-- The prophecy ("the descendant will come") should feel like a natural part of the ritual, not a special announcement. It is stated as fact within the tradition.
+**Scene 1 canon details**:
+- The ritual predates the grandmother — it is something she was given, not invented.
+- Her name and family name connect to both Elsa Klein's tradition and Jill's bloodline. The connection is embedded, not stated.
+- The ritual holds both the sacrifice element (giving to the void) and the accumulation element (building for the bloodline) as equal expressions of the same belief. Wilhelm witnesses both and chooses one.
+- The prophecy is part of the ritual as a statement of fact within the tradition, not a special announcement.
 
 ### Scene 2: The Passing of the Belief Down the Verguld Line
 
-**What it needs to show**:
-- Wilhelm → Klaus: Klaus understands the belief but expresses it as patient generational control
+**What Scene 2 establishes**:
+- Wilhelm → Klaus: Klaus understands the belief and expresses it as patient generational control
 - Klaus → Marcus: Marcus understands it as theatrical accumulation
 - The ritual itself is lost; only the belief in "my acts ensure my bloodline" remains
 - The pocket watch passes here — Wilhelm gives it to Klaus
@@ -767,13 +754,13 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 
 Elsa Klein (maiden name) left institutional science and went in the opposite direction. Same original belief, sacrifice expression instead of accumulation expression.
 
-The grandmother's line — "The grandmother and the grandfather drank from the same well and carried what they found there in opposite hands" — needs to be seeded in First Spark as a real relationship, not a metaphor.
+The grandmother's line — "The grandmother and the grandfather drank from the same well and carried what they found there in opposite hands" — is a real relationship, not a metaphor. It is established in First Spark.
 
 Jill (who has not yet discovered her bloodline connection) comes back for the notebooks. She reads Elsa's 369 test runs and the prophecy section. The connection resolves in Book One — Jill recognizes her own family name in the founding bloodline and understands what she is. She does not announce it. She takes the notebooks and goes.
 
 ## Contradictions Log
 
-*Items requiring resolution before final draft. Each has a recommended fix or a decision prompt.*
+*Items requiring resolution. Each has a recommended fix or a decision prompt.*
 
 **Item 1 — Ray's name in reference documents**
 
@@ -856,7 +843,7 @@ Jill (who has not yet discovered her bloodline connection) comes back for the no
 - Petra's "You're not her granddaughter" is technically correct but misses the point. The notebooks are not for a biological heir — they are for the prophesied descendant. Petra is right for the wrong reason.
 - The reveal traces Jill's own family name/lineage back to the founding bloodline — the maiden name in her family history is the key.
 - This thread resolves in **Book One** —, when Jill returns to the colony and reads the notebooks.
-- **Writing rule**: Nothing in the early colony scenes names Jill's surname or bloodline connection. The reveal happens in Book One — in the scene where Jill returns to the colony and reads the notebooks. This is the load-bearing event: her bloodline recognition is what gives Petra permission to hand over the originals. Without it, the notebooks don't move. The reader may catch the setup on reread of the earlier colony scenes.
+- **Canon**: Jill's surname and bloodline connection are not stated in the early colony scenes. The reveal happens in Book One — when Jill returns to the colony and reads the notebooks. Her bloodline recognition is what gives Petra permission to hand over the originals. Without it, the notebooks don't move.
 
 **Item 14 — "Race to control the grid" phrase**
 
