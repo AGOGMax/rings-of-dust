@@ -516,12 +516,12 @@ Tone: Not a villain. A man who did something terrible under duress and spent the
 
 RED AND SQUIRREL
 
-Role: Collective Special Agents. Ray's (Max Vision's) handlers in Panama ( + ).
+Role: Collective Special Agents. Ray's (Max Vision's) handlers in Panama.
 Voice: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
 Function: When Alpha Corp fires Ray and takes his fuel cell technology, Red and Squirrel are the reason he survives it. They come to his door 72 hours before Alpha sends someone to silence him. They extract him, build his cover identity as Mikof Forsinko, and get him physically inside Alpha's Panama facility. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. After Panama, they facilitate the introduction between Ray and Jill — cross-referencing her colony notebooks with Ray's Panama findings, then arranging for the two of them to meet before Ray goes up to Station Libre.
 Collective rank: Special Agents (Field Tier 3 — sunglasses patch, dark full frame).
 
-COLONY ARC CHARACTERS (–F)
+COLONY ARC CHARACTERS
 
 Jill
 
@@ -801,7 +801,7 @@ Item 9 — Sacrifice section in CHARACTER_BIBLE
 
 Previously noted as "to be placed deliberately in the plot"
 It has been placed (-f, Void-Walker ceremonies)
-Fix: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc (-f).
+Fix: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc.
 
 Item 10 — Handler names: Chip & Dale vs. Squirrel & Red ✅ RESOLVED
 
