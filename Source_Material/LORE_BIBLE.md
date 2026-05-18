@@ -513,7 +513,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
  1. — Bitboy decrypts the drive. DeMint's letter. Mission accepted.
 
 - **"Tell him I'm sorry"**: Conrad's last line to Emily. Cole won't understand it until when the antidote breaks through. Emily carries the same payload Conrad intended for Cole — she was always part of the chain, even if Conrad couldn't plan for exactly how.
-- **Function in plot**: Drives the plot through absence AND through the antidote he left behind. The prototype Emily retrieves is separate from the thumb drive — it's the quantum-comms node Conrad built to punch through IRiS jamming.
+- **Function in plot**: Drives the plot through absence AND through the antidote he left behind.
 
 ### Ryan Greenbaum
 - **Title**: Federal Council Police. Presents as law enforcement; functions as Alpha Corp muscle dressed in government credentials.
