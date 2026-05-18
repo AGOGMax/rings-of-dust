@@ -587,9 +587,6 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **The Loyalist friction**: Petra's faction and Tyler's Void-Walkers share the colony, share the tracking room, and watch the same screen on Day 11. They disagree on the meaning. They watch together anyway.
 - **The tension**: The science-vs-belief tension in the colony arc is not resolved. Both Petra — who does the math and says Tyler is still wrong — and Tyler — who pushes the cell and watches the gold arrive — are simultaneously right.
 
-### Captain Blitz / Squeaks / Sexy Sharons / Von Grutzen / Dr. Neumann / Captain Rycra
-- TRotR (Rings of the Reich) characters. Not part of Rings of Dust.
-
 ## World & Setting
 
 **Year**: 2043
