@@ -120,6 +120,8 @@ When a fuel cell floats free at the end of the tunnel, it does not detonate. The
 
 This is the mechanic the asteroid colony knows and practices — Tyler Durden's Void-Walkers push cells into the void. Alpha Corp is aware of the gold asteroid returns but does not understand the mechanism. Elsa Klein mapped the science (dark matter gravity differential redirecting inbound asteroid trajectories). Tyler mapped it to belief (ancestral return, giving to the void). Both frameworks are simultaneously true.
 
+**The colony's wealth**: The gold asteroid returns make the colony, quietly, the most materially wealthy community in the universe. They do not flaunt it. They dress in plain work clothes. They live simply. They take only what they need. The single place where the wealth surfaces is food — they eat real food. Actual food, grown and prepared. During the energy crisis, real food has become genuinely scarce for most of humanity, which survives on processed ration blocks. A table full of real food at the colony is the most honest display of wealth possible. They do not explain it to visitors. They just feed them.
+
 **What DarkX is**: DarkX is never just a fuel source. It is aware of what is being done to it. It is patient.
 
 ### The Rapture (Saturn event)
