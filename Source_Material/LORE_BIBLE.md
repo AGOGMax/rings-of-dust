@@ -145,15 +145,15 @@ Wilhelm's Grandmother (ORIGIN — started the cult/religion)
  +— Accumulation stream (Verguld dynasty): Wilhelm → Klaus → Marcus
  | (took the "bless your bloodline" teaching and redirected it toward ownership and empire)
  |
- +— Sacrifice stream (colony tradition): followers carry the sacrifice path forward
- | → Elsa Klein founds the asteroid colony; performs the first void sacrifice; witnesses the first return
- | → Tyler Durden continues as Void-Walkers (he inherited the ritual; he did not invent it)
+ +— Sacrifice stream (colony tradition): the path that chose sacrifice over accumulation
+ | → Elsa Klein (not a bloodline descendant — a prophetess who obtained the grandmother's records and built the colony on them; performed the first void sacrifice; Tyler Durden revived the ritual after it fell away following her death)
+ | → Tyler Durden — Void-Walkers (revived the ritual; did not originate it)
  |
  +— Separate branch (same bloodline, no empire, no money — chose differently):... → Jill
  | (distantly related to Marcus; knows it; chose the black market instead)
 
 ### Elsa Klein — prophetess, not biological grandmother
-Elsa is **NOT** Jill's biological grandmother. She is a prophetess within the tradition that started with Wilhelm's grandmother. Her notebooks do not say "for my granddaughter." They contain a prophecy: the offspring of the founding bloodline will one day come to the colony. The notebooks wait for that person.
+Elsa is **NOT** Jill's biological grandmother. She is **NOT** a descendant of Wilhelm's grandmother's bloodline. She is a prophetess who came into possession of Wilhelm's grandmother's original records and built the colony's spiritual practice on them. Those records contain the belief system and, crucially, the grandmother's original surname — the name before it became Verguld. Elsa preserved that name in her notebooks. That is what Petra reads aloud to Jill. That is the moment of recognition.
 
 ### Jill — the prophesied descendant
 Jill is a descendant of Wilhelm's grandmother's founding bloodline — on the branch that did not inherit the Verguld empire. No money. No dynasty. No accumulation path. She knows she is distantly related to Marcus Verguld. She has always known. She chose the opposite: black market, scavenger, anti-establishment. Everything the Vergluds built, she moves around the edges of.
@@ -163,7 +163,7 @@ She is NOT Elsa's biological granddaughter.
 Petra says "You're not her granddaughter" — technically correct. The notebooks are not for a biological heir. They are for the fulfillment of the prophecy. The prophecy was always about the branch that chose sacrifice over accumulation — the one that walked away from the empire. Petra is right for the wrong reason. Jill IS the person the notebooks were waiting for, and the reason is exactly who she chose to be.
 
 ### The reveal mechanism
-Traced through Jill's family name. The maiden name in her family history connects back to the founding bloodline. It leads to Wilhelm's grandmother. It leads to Elsa's prophecy. It leads to the colony.
+Petra reads aloud from Elsa's notebooks — specifically from the preserved records of Wilhelm's grandmother. She speaks the grandmother's original surname, the name before Wilhelm changed it to Verguld. Jill hears it and recognizes it as her own family name. That is the moment. The notebooks were always waiting for the person who would hear that name and know it.
 
 ### The bloodline reveal
 Jill's surname and bloodline connection are not stated in the early colony scenes. The reveal happens in **Book One** — it is the mechanism that puts Elsa's notebooks in motion. Petra gives Jill the originals because Jill is the prophesied descendant. Without the bloodline reveal, Petra does not hand them over. Without the notebooks, Jill has nothing to bring to Ray. Without Ray and the notebooks together, the zero-gravity open condition goes unconfirmed and the antigravity project stalls. The reveal is not just character payoff — it is the load-bearing event that connects the colony arc to the science arc.
@@ -575,9 +575,9 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **What she built**: Understanding of the cells at a level no institutional lab reached — because she had the time and distance from commercial pressure to simply watch. Discovered the 11-day sync period, the 33-day lock, the black hole at the end of the east tunnel, the exterior deposits. In the final test runs (the 369th), she documented the **zero-gravity locking effect**: in microgravity, the growth plateau disappears entirely — crystals grow outward in every direction with no ceiling. She called it "the open condition." She believed it was proof that the mechanic was not designed for planetary use. Wrote everything in the notebooks Petra keeps in a sealed case.
 - **The first sacrifice**: Elsa was the first person to send DarkX into the void. She carried a fuel cell down the east tunnel herself — all 11 of them watched — and released it where gravity let go. She had a theory about the east tunnel's alignment and the asteroid belt's drift pattern. She did not tell the others what she expected. She told them to wait 11 days.
 - **The first return**: Eleven days later, the gold asteroid appeared. All 11 of them were there. Nobody had words for it. Elsa wrote one line in the notebook that night: "It receives." The sacrifice ritual is hers — Tyler Durden did not invent it. He inherited it, named it, and built theology around it. But the first time anyone walked down that tunnel, it was Elsa Klein, and there were only 11 people in the world watching.
-- **What she is NOT**: Jill's biological grandmother. Elsa is a prophetess within the tradition that started with Wilhelm's grandmother — not a blood relative of Jill.
-- **Notebooks**: Contain both the science (observations and math) and the prophecy (the offspring of the founding bloodline will one day come to the colony). The science section spans 369 documented test runs — the locking mechanics, the 11-day cycle, the void sacrifice data, and crucially the final zero-gravity locking experiments ("the open condition"). The prophecy section is not labeled as prophecy. It reads as observation. Tyler built his religion on top of her science and her prophecy. The notebooks were always waiting for the right reader.
-- **Maiden name**: Klein. How she connects back to the founding tradition is a deliberate redaction — to be revealed later.
+- **What she is NOT**: Jill's biological grandmother. Not a descendant of Wilhelm's grandmother's bloodline. Elsa is a prophetess who came into possession of Wilhelm's grandmother's original records — the source documents of the belief system. Those records are what she built the colony's spiritual practice on. How she obtained them is not established in canon.
+- **Notebooks**: Contain two things. First: Elsa's own science — 369 documented test runs, the locking mechanics, the 11-day cycle, the void sacrifice data, the final zero-gravity experiments ("the open condition"). Second: the preserved records of Wilhelm's grandmother — the source documents Elsa obtained and transcribed into her own notebooks. These records describe the belief system: sacrifice enables reincarnation back into one's own bloodline; a descendant of the founding line will one day return to the place of sacrifice. The records are not labeled as prophecy. They read as observation. Crucially, they contain Wilhelm's grandmother's original surname — the name before Wilhelm changed it to Verguld. That name is what Jill recognizes when Petra reads it aloud.
+
 
 #### Void-Walkers (colony faction)
 - **What they are**: Tyler Durden's faction. Eleven members at the time Jill visits. They sacrifice fuel cells into the void — carry them down the east tunnel until they begin to float, then release them into the void. This ritual is Elsa Klein's. She performed it first. She discovered the return. Tyler continues what she started.
