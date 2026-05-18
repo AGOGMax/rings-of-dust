@@ -533,12 +533,12 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **Tone**: Not a villain. A man who did something terrible under duress and spent the entire time documenting it so it could be undone. The notes are his apology. Cole accepts it without ceremony.
 
 ### Red and Squirrel
-- **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama ( + ).
+- **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama.
 - **Voice**: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
 - **Function**: When Alpha Corp fires Ray and takes his fuel cell technology, Red and Squirrel are the reason he survives it. They come to his door 72 hours before Alpha sends someone to silence him. They extract him, build his cover identity as Mikof Forsinko, and get him physically inside Alpha's Panama facility. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. After Panama, they facilitate the introduction between Ray and Jill — cross-referencing her colony notebooks with Ray's Panama findings, then arranging for the two of them to meet before Ray goes up to Station Libre.
 - **Collective rank**: Special Agents (Field Tier 3 — sunglasses patch, dark full frame).
 
-### Colony Arc Characters (–f)
+### Colony Arc Characters
 
 #### Jill
 - **Role**: Protagonist of the -f colony arc. Found the colony by accident — a routing error, a transponder on an unregistered frequency, low fuel. She is not a leech. She ate what they offered, asked the questions that were hers to ask, and left with what they chose to give. She stayed eleven days because on the morning of the eleventh day she wanted to see it.
@@ -812,7 +812,7 @@ Jill (who has not yet discovered her bloodline connection) comes back for the no
 
 - Previously noted as "to be placed deliberately in the plot"
 - It has been placed (-f, Void-Walker ceremonies)
-- **Fix**: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc (-f).
+- **Fix**: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc.
 
 **Item 10 — Handler names: Chip & Dale vs. Squirrel & Red** ✅ RESOLVED
 
