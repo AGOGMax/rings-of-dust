@@ -535,7 +535,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 ### Red and Squirrel
 - **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama ( + ).
 - **Voice**: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
-- **Function**: They extract Ray from his original identity, establish his cover in Panama, and run him as an undercover asset inside Alpha Corp. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. They facilitate Ray's journey to the space station where he confirms the flywheel and the anti-gravity project.
+- **Function**: When Alpha Corp fires Ray and takes his fuel cell technology, Red and Squirrel are the reason he survives it. They come to his door 72 hours before Alpha sends someone to silence him. They extract him, build his cover identity as Mikof Forsinko, and get him physically inside Alpha's Panama facility. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. After Panama, they facilitate the introduction between Ray and Jill — cross-referencing her colony notebooks with Ray's Panama findings, then arranging for the two of them to meet before Ray goes up to Station Libre.
 - **Collective rank**: Special Agents (Field Tier 3 — sunglasses patch, dark full frame).
 
 ### Colony Arc Characters (–f)
@@ -639,7 +639,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 
 **Ray at Alpha**: Ray's nickname introduced. Discovers the flywheel at Alpha Corp. Fired same afternoon.
 
-**Ray and the Flywheel**: Squirrel and Red come to Ray's door, 72 hours before Alpha sends someone. "We've been keeping you alive." He goes with them.
+**Ray and the Flywheel**: Alpha Corp fires Ray and takes his fuel cell technology the same afternoon he discovers the flywheel. Squirrel and Red come to his door 72 hours before Alpha sends someone to kill him. "We've been keeping you alive." He goes with them.
 
 **Ray in Panama**: Ray as Mikof Forsinko in Alpha's Panama tower. Four days with Dr. Yusuf Oren. Reads batch logs: patents accumulated as theft; flywheel data suppressed 9 months; Disposal Protocol Seven (11–13% deliberately destroyed per batch); 7 years of fraudulent grants. A 2036 batch record annotation reads "Jackpot." Exit via nitrogen cycling alarm. Hands drive to Squirrel at concrete heron park. "You cannot manufacture a shortage of something that compounds in everyone's hands." He names it: "The Antigravity project."
 
