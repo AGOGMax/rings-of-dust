@@ -114,7 +114,7 @@ Lock a cell for **180 days**: two simultaneous effects trigger. **(1) Interior**
 
 In the story this is confirmed — not through Alpha Corp's data, but through Ray. Elsa Klein's final 369 test runs predicted both the 33-day and 180-day lock mechanics, including the zero-gravity open condition. Ray receives her notebooks from Jill and takes the experiment to Station Libre — the Collective's space station — where he tests Elsa's predictions in zero gravity. She was right. The plateau disappears. The Day 180 curve doesn't level off — it breaks. Alpha Corp never found this because they never stopped harvesting long enough to look. They had the same cells Ray did. They just never left them alone.
 
-### Sacrifice (the void mechanic)-f (the Colony arc), the sacrifice mechanic is established through Tyler Durden and the asteroid colony. To the outside world — the Federation, Alpha Corp, anyone who has heard of it — the colony is a **religious extremist cult**. A soap factory that filed the right papers and then went quiet and started throwing fuel cells into a black hole. That is the official read. It is not entirely wrong. The colony is built on an asteroid at the edge of a black hole. The east tunnel runs through the asteroid toward it. As you walk deeper, gravity gradually lets go — things begin to float before you reach the end. You don't push the fuel cells in. You carry them as far as you can, and when they start to lift out of your hands, you release them. The black hole takes them from there. They are not used. They are not harvested. They are gone.
+### Sacrifice (the void mechanic — the Colony arc), the sacrifice mechanic is established through Tyler Durden and the asteroid colony. To the outside world — the Federation, Alpha Corp, anyone who has heard of it — the colony is a **religious extremist cult**. A soap factory that filed the right papers and then went quiet and started throwing fuel cells into a black hole. That is the official read. It is not entirely wrong. The colony is built on an asteroid at the edge of a black hole. The east tunnel runs through the asteroid toward it. As you walk deeper, gravity gradually lets go — things begin to float before you reach the end. You don't push the fuel cells in. You carry them as far as you can, and when they start to lift out of your hands, you release them. The black hole takes them from there. They are not used. They are not harvested. They are gone.
 
 When a fuel cell floats free at the end of the tunnel, it does not detonate. The black hole takes it. And something comes back — not immediately, not proportionally, but eventually, and in a form that defies the ordinary accounting of matter and energy. The returns are not logical. They are **eternal in nature**: a sacrifice now that pays forward into something larger and longer than the individual act.
 
@@ -541,13 +541,13 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 ### Colony Arc Characters
 
 #### Jill
-- **Role**: Protagonist of the -f colony arc. Found the colony by accident — a routing error, a transponder on an unregistered frequency, low fuel. She is not a leech. She ate what they offered, asked the questions that were hers to ask, and left with what they chose to give. She stayed eleven days because on the morning of the eleventh day she wanted to see it.
+- **Role**: Protagonist of the colony arc. Found the colony by accident — a routing error, a transponder on an unregistered frequency, low fuel. She is not a leech. She ate what they offered, asked the questions that were hers to ask, and left with what they chose to give. She stayed eleven days because on the morning of the eleventh day she wanted to see it.
 - **Who she is**: Jill is the branch of the Verguld bloodline that did not get the money, the empire, or the power. She knows she is distantly related to Marcus Verguld and the rest of them. She has known for a long time. She chose differently — deliberately, specifically, with full awareness of what she was walking away from. Black market runner. Scavenger. Anti-establishment to the bone. If the Vergluds are the empire, Jill is what happens when the same blood decides the empire is the problem. She is punk rock in a universe run by people who look like her cousins.
 - **What she doesn't know leaving **: That her blood is also the blood of the founding tradition she witnessed. That the prophecy in Elsa's notebooks was written for the branch that chose this — not the branch that chose the empire. That she will not be able to stop thinking about the gold crater — because it was always meant to reach her.
 - **What she discovers ( and after)**: Jill returns to the colony. Petra gives her the notebooks — not because the prophecy has been confirmed, but because Jill is the only person who has ever come back and asked the right questions. Jill reads the 369 test runs. She understands the zero-gravity locking data immediately. She also reads the prophecy — which does not read like prophecy. It reads like observation. And when she traces the maiden name in her own family history back to the founding bloodline, she understands what she is reading. She does not tell Petra. She takes the notebooks and goes.
 - **Jill → Collective → Ray**: Jill brings the notebooks to the Collective. She doesn't fully understand how they fit yet — but she knows the zero-gravity data is something Alpha Corp has never seen. The Collective cross-references her material with Ray's Panama findings. The two pieces of intelligence — Ray's flywheel data and Elsa's 369 test runs — point to the same gap: the open condition in zero gravity. The Collective arranges the introduction. Ray receives Elsa's notebooks through Jill. That is when the decision is made to go to Station Libre.
 - **Bloodline (sealed canon)**: Descendant of Wilhelm's grandmother's founding bloodline, on the branch that did not inherit the Verguld empire. She is aware of the distant family connection to Marcus Verguld — she does not advertise it. NOT Elsa Klein's biological granddaughter. See Founding Bloodline & Prophecy section.
-- **Surname**: Not stated-f. The maiden name in her family history is the key to the reveal — traced back to the founding bloodline. The reveal happens in Book One when Jill reads the notebooks.
+- **Surname**: Not yet stated in canon. The maiden name in her family history is the key to the reveal — traced back to the founding bloodline. The reveal happens in Book One when Jill reads the notebooks.
 
 #### Tyler Durden
 - **Role**: Leader of the Void-Walkers. Arrived at the colony six years before Jill. Did not arrive by accident — he was looking for it specifically.
@@ -805,13 +805,13 @@ Jill (who has not yet discovered her bloodline connection) comes back for the no
 
 **Item 8 — Colony arc absence from reference documents**
 
-- -f, Tyler Durden, Jill, Petra, Elsa Klein, Void-Walkers — none appear in SYNOPSIS or CLIFFSNOTES
-- **Fix**: Add -f chapter summaries to CLIFFSNOTES. Add colony arc paragraph to SYNOPSIS.
+- Tyler Durden, Jill, Petra, Elsa Klein, Void-Walkers — none appear in SYNOPSIS or CLIFFSNOTES
+- **Fix**: Add colony arc chapter summaries to CLIFFSNOTES. Add colony arc paragraph to SYNOPSIS.
 
 **Item 9 — Sacrifice section in CHARACTER_BIBLE**
 
 - Previously noted as "to be placed deliberately in the plot"
-- It has been placed (-f, Void-Walker ceremonies)
+- It has been placed (colony arc, Void-Walker ceremonies)
 - **Fix**: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc.
 
 **Item 10 — Handler names: Chip & Dale vs. Squirrel & Red** ✅ RESOLVED
