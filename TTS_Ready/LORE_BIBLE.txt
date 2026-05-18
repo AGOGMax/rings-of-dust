@@ -491,9 +491,7 @@ The payoff chain (nanopowder):
  5. Emily's inoculation pays off when she later encounters DarkX — she carries the same upgrade without ever knowing it.
 The payoff chain (drive data):
  1. — Bitboy decrypts the drive. DeMint's letter. Mission accepted.
- 2. The decrypted intelligence — Conrad's files on Alpha Corp's suppression of fuel cell technology — is eventually passed to the Collective.
- 3. The Collective uses this data to help Ray while he is undercover in Panama — it fills in context Ray can't access from inside Alpha's own files. He knows what to look for because Conrad already mapped where it was buried.
- 4. Ray then meets Jill, receives Elsa Klein's notebooks, and the two datasets — Conrad's intelligence and Elsa's 369 test runs — give him everything he needs to name what Alpha has done.
+
 "Tell him I'm sorry": Conrad's last line to Emily. Cole won't understand it until when the antidote breaks through. Emily carries the same payload Conrad intended for Cole — she was always part of the chain, even if Conrad couldn't plan for exactly how.
 Function in plot: Drives the plot through absence AND through the antidote he left behind. The prototype Emily retrieves is separate from the thumb drive — it's the quantum-comms node Conrad built to punch through IRiS jamming.
 
@@ -693,7 +691,7 @@ The copper-wire ring: Hummingbird feeder wire wrapped around a smooth pebble. Co
 
 Blackberry preserves: Cabin → reunion → callback through Bitboy's blue-stained mouth. The visual rhyme that closes the book.
 
-The thumb drive figurine: Enterprise keychain. Two payloads in one object. (1) Nanopowder coating on the surface — Conrad's counter-program, absorbed by skin contact. Emily gets it without knowing. Cole gets it. Both carry the upgrade when they later encounter DarkX. Cole's version transfers to Sharon. (2) Encrypted drive inside — Conrad's intelligence on Alpha Corp. Bitboy decrypts it. Data eventually passes to the Collective and reaches Ray in Panama, giving him the map he needs before Jill arrives with Elsa Klein's notebooks.
+The thumb drive figurine: Enterprise keychain. Two payloads in one object. (1) Nanopowder coating on the surface — Conrad's counter-program, absorbed by skin contact. Emily gets it without knowing. Cole gets it. Both carry the upgrade when they later encounter DarkX. Cole's version transfers to Sharon. (2) Encrypted drive inside — Conrad's intelligence on Alpha Corp. Bitboy decrypts it. DeMint receives the letter. Mission accepted.
 
 The Collective droplet sigil: Water drop in a circle. "No raindrop thinks it's the flood." Used as code phrase. Sewn in bag linings. Stenciled on porch railings.
 
