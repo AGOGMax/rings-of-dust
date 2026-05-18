@@ -221,6 +221,8 @@ Navigators: Compass. They lead missions and operations. They see the whole board
 Commanders: Star. There are not many. They move the big pieces — the long-game plays, the operations that span months or years, the resource allocation that keeps the network alive. They know about the Grand Admiral. They follow her without ever publicly confirming she exists.
 Grand Admiral: One rank. One person. The bronze star with olive leaf wreath. Rachel Vayes. So rare that Operators and Technicians treat it as campfire mythology. Agents take it more seriously but with skepticism. Navigators know. Commanders know.
 
+The leadership's origin: The Collective's upper ranks — Navigators, Commanders, and the Grand Admiral — are largely former Alpha Corp employees and early leaders who left when they saw the direction the company was taking. They were there at the beginning. They understood what Alpha Corp was building. When it became clear that the goal was monopoly, suppression, and institutional harm, they walked. Some took years to decide. Some left overnight. What they carried with them was not resentment — it was knowledge. They knew the internal structure, the patents, the suppression strategy, the names. The Collective is not just an ideological opposition to Alpha Corp. At its upper levels, it was built by people who used to work there.
+
 The Grand Admiral mystery thread:
 The Grand Admiral is referenced as rumor and legend throughout the book. Characters at Operator and Technician level treat it like a campfire story. Agents take it more seriously but with skepticism. Navigators know. Command knows.
 First reference: a throwaway line from a minor Collective character. "Right, and I'm the Grand Admiral."
