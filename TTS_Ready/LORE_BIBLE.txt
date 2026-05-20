@@ -283,9 +283,9 @@ Death scene — (canon, do not soften)
 The full sequence:
 Emily and Sharon hand off the crystals and the figurine to Red and Squirrel in a van — the Collective drop. Code phrase: "No raindrop thinks it's the flood." Immediately after, Greenbaum grabs them on the train at gunpoint. He presents it as taking them to Alpha to answer for moving stolen dark matter crystals. He is not taking them to Alpha. He is taking them somewhere to kill them. He diverts to the industrial cul-de-sac.
 
-Alpha Corp's Watch Dogs — Alpha muscle running surveillance — see things going sideways. They move in to shoot and abduct Emily and Sharon themselves. In the chaos, they accidentally hit Greenbaum. Greenbaum, dying, shoots Sharon.
+Alpha Corp's Watch Dogs — Alpha muscle running surveillance — see Greenbaum losing control of the situation. Rather than let Emily and Sharon get away, they decide to kill them both. They open fire. They hit Greenbaum first — he is between them and the targets. Greenbaum, dying, shoots Sharon. The Watch Dogs move in and abduct Emily.
 
-Emily is grabbed, loaded into a van, and taken to Alpha headquarters.
+Emily is loaded into a van and taken to Alpha headquarters.
 
 What this means for Emily: Sharon died in the same moment the Watch Dogs were trying to take Emily. The chaos that killed Sharon is the same chaos that took Emily. She carries both — the loss and the abduction — out of that cul-de-sac. That is the engine that drives her for the rest of the book.
 
@@ -503,10 +503,10 @@ RYAN GREENBAUM
 
 Title: Federal Council Police. Presents as law enforcement. Uses Federal Council credentials as cover to take Sharon and Emily at gunpoint — presents it as detaining them to answer to Alpha Corp for moving stolen dark matter crystals.
 First appearance: — the Vegas conference. Approaches Emily and Sharon, attempts to intimidate. Sharon runs the elevator humiliation on him; he falls out of the doors half-undressed. She hands him a lollipop as the doors close.
-The transformation: Not the same man from the elevator. Greenbaum moves with purpose, jaw clenched, hardened. The humiliation calcified. "This was not the man they left in the elevator, floundering after their game." He grabs Emily and Sharon on the train after the Collective drop — gun out, presents it as taking them to Alpha to answer for moving stolen dark matter crystals. He intends it as execution. He diverts to the industrial cul-de-sac. Alpha's Watch Dogs move in. They accidentally shoot Greenbaum in the chaos. He shoots Sharon while dying.
+The transformation: Not the same man from the elevator. Greenbaum moves with purpose, jaw clenched, hardened. The humiliation calcified. "This was not the man they left in the elevator, floundering after their game." He grabs Emily and Sharon on the train after the Collective drop — gun out, presents it as taking them to Alpha to answer for moving stolen dark matter crystals. He intends it as execution. He diverts to the industrial cul-de-sac. Surveillance sees him losing control of the situation. The Watch Dogs decide to kill Emily and Sharon rather than let them escape — they open fire, hit Greenbaum first. He shoots Sharon while dying. The Watch Dogs abduct Emily.
 What made him: Years of being looked through by men like Taylor Glenn. Being dismissed in briefing rooms. Being talked past. Absorbing it. Straightening his jacket and acting like it didn't happen. The flashback contains one beat — a single moment in a shared room where Taylor talks past him mid-sentence and Vance doesn't intervene. That beat is not named, not called out, not editorially flagged. It just happens and the scene moves on.
 The Easter egg: The reader who connects that moment to the shooting gets a gut-punch. The reader who doesn't isn't pulled out of Vance's arc.
-Fate: Alpha's own Watch Dogs accidentally shoot Greenbaum in the chaos of their move on Emily and Sharon. He dies in the cul-de-sac from friendly fire. His dying shot kills Sharon.
+Fate: Alpha's Watch Dogs are running surveillance on the abduction. When they see Greenbaum losing control of the situation, they make the call to kill Emily and Sharon rather than risk them getting away. They open fire — Greenbaum is in the line and takes the first shot. His dying shot kills Sharon. The Watch Dogs move in and take Emily.
 Register: Greenbaum is not cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
 
 DR. BRUCE HEXO
@@ -619,7 +619,7 @@ The Ring: Cabin evening. SUV loaded. Sharon kisses Cole. Ricardo jokes. Cole fas
 
 Launch: Federation HQ. DeMint calls Cole "crown jewel of the Federation." Vance Black introduced. IRiS inoculation — nanopowder from table. Crew: Cole, Ricardo, Taylor, Sam. Sam's Collective patch in duffel bag lining. Golden Dawn launches.
 
-The Ambush: Emily and Sharon meet Red and Squirrel in a van — crystal transfer, figurine transfer. Code phrase: "No raindrop thinks it's the flood." Greenbaum grabs them on the train immediately after — gun out, presents it as taking them to Alpha to answer for moving stolen dark matter crystals. Diverts to the industrial cul-de-sac. Alpha's Watch Dogs move in; chaos; they accidentally shoot Greenbaum. Greenbaum shoots Sharon while dying. Alpha takes Sharon's body. Emily is grabbed and taken in a van to Alpha headquarters. Rachel finds her there. "Sharon's dead." Rachel: "I know." Deal: stay the night, meet Marcus tomorrow, then go home.
+The Ambush: Emily and Sharon meet Red and Squirrel in a van — crystal transfer, figurine transfer. Code phrase: "No raindrop thinks it's the flood." Greenbaum grabs them on the train immediately after — gun out, presents it as taking them to Alpha to answer for moving stolen dark matter crystals. Diverts to the industrial cul-de-sac. Surveillance sees him losing control. Watch Dogs make the call: kill Emily and Sharon rather than let them get away. They open fire — hit Greenbaum first. Greenbaum shoots Sharon while dying. Watch Dogs move in and abduct Emily, load her into a van, take her to Alpha headquarters. Rachel finds her there. "Sharon's dead." Rachel: "I know." Deal: stay the night, meet Marcus tomorrow, then go home.
 
 Proximity: Day 4 of mission. DarkX proximity effect — emotional architecture thinned ~20% (limbic sensitivity). Cole notes IRiS half-second latency. Sam retrieves Taylor's IRiS query log: monitoring Cole; contractor "neutralized before outside contact"; what does Cole know about cargo bay before Saturn. "Show me all of it."
 
