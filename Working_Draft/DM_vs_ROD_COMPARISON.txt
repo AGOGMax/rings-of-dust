@@ -179,7 +179,7 @@ MAX FORSTER
   ROD: Discovers the flywheel principle, is stripped of his
       position, goes undercover in Alpha's Panama tower,
       extracts four categories of evidence (stolen patents,
-      suppressed flywheel data, Disposal Protocol Seven,
+      suppressed flywheel data, Disposal Protocol Eleven,
       fraudulent crisis relief grants). Testifies at the
       Grand Hall. "The shortage is solvable. The crisis is
       not a fact of nature. It is a decision."
@@ -699,7 +699,7 @@ tower. Four days with Dr. Oren — a genuinely good
 scientist explaining stabilization with pride. Max
 finds: patents = accumulated theft; flywheel data
 exists in Alpha's own records (they knew and
-suppressed it); Disposal Protocol Seven (11-13% of
+suppressed it); Disposal Protocol Eleven (11-13% of
 viable product deliberately destroyed to manage
 pricing); fraudulent grants stealing billions from
 crisis relief. Nitrogen cycling alarm provides exit
@@ -1046,7 +1046,7 @@ PARALLEL ARCS
 THE MAX FORSTER ARC
   DM: No equivalent. This entire thread — flywheel
   principle, Panama infiltration, Dr. Oren, Disposal
-  Protocol Seven, Max's testimony — was built into
+  Protocol Eleven, Max's testimony — was built into
   ROD from scratch. It changes the nature of Alpha's
   crime and the nature of the final reckoning.
 
