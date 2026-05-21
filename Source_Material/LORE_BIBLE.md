@@ -152,28 +152,23 @@ Wilhelm's Grandmother (ORIGIN — started the cult/religion)
  +— Separate branch (same bloodline, no empire, no money — chose differently):... → Jill
  | (distantly related to Marcus; knows it; chose the black market instead)
 
-### Elsa Klein — prophetess, not biological grandmother
-Elsa is **NOT** Jill's biological grandmother. She is **NOT** a descendant of Wilhelm's grandmother's bloodline. She is a prophetess who came into possession of Wilhelm's grandmother's original records and built the colony's spiritual practice on them. Those records contain the belief system and, crucially, the grandmother's original surname — **Von Grutzen**, the name before it became Verguld. Elsa preserved that name in her notebooks. That is what Petra reads aloud to Jill. That is the moment of recognition.
+### Elsa Klein — prophetess
+Elsa is a prophetess who came into possession of Wilhelm's grandmother's original records and built the colony's spiritual practice on them. Those records contain the belief system and, crucially, the grandmother's original surname — **Von Grutzen**, the name before it became Verguld. Elsa preserved that name in her notebooks. That is what Petra reads aloud to Jill. That is the moment of recognition.
 
 ### Jill — the prophesied descendant
 Jill is a descendant of Wilhelm's grandmother's founding bloodline — on the branch that did not inherit the Verguld empire. No money. No dynasty. No accumulation path. She knows she is distantly related to Marcus Verguld. She has always known. She chose the opposite: black market, scavenger, anti-establishment. Everything the Vergluds built, she moves around the edges of.
 
-She is NOT Elsa's biological granddaughter.
-
 Petra says "You're not her granddaughter" — technically correct. The notebooks are not for a biological heir. They are for the fulfillment of the prophecy. The prophecy was always about the branch that chose sacrifice over accumulation — the one that walked away from the empire. Petra is right for the wrong reason. Jill IS the person the notebooks were waiting for, and the reason is exactly who she chose to be.
 
-### The reveal mechanism
-Petra reads aloud from Elsa's notebooks — specifically from the preserved records of Wilhelm's grandmother. She speaks the grandmother's original surname: **Von Grutzen** — the name before Wilhelm changed it to Verguld. Jill hears it and recognizes it as her own family name. That is the moment. The notebooks were always waiting for the person who would hear that name and know it.
-
 ### The bloodline reveal
-Jill's surname and bloodline connection are not stated in the early colony scenes. The reveal happens in **Book One** — it is the mechanism that puts Elsa's notebooks in motion. Petra gives Jill the originals because Jill is the prophesied descendant. Without the bloodline reveal, Petra does not hand them over. Without the notebooks, Jill has nothing to bring to Ray. Without Ray and the notebooks together, the zero-gravity open condition goes unconfirmed and the antigravity project stalls. The reveal is not just character payoff — it is the load-bearing event that connects the colony arc to the science arc.
+Petra reads from Elsa's notebooks — specifically the preserved records of Wilhelm's grandmother. She speaks the surname: **Von Grutzen** — the name before Wilhelm changed it to Verguld. Jill hears it and recognizes it as her own family name. That is the moment. Without it, Petra does not hand over the notebooks. Without the notebooks, Jill has nothing to bring to Ray. Without Ray and the notebooks, the zero-gravity open condition goes unconfirmed and the antigravity project stalls. It is not just character payoff — it is the load-bearing event that connects the colony arc to the science arc.
 
 ## Key recurring objects & motifs
 
 - **The "Jackpot" patch** — hand-stitched, irritates Cole's chest, treasured. Survives the book.
-- **The makeshift copper-wire ring** with the smooth pebble — Cole makes it and gives it to Sharon before the Golden Dawn launches. Sharon is wearing it when she is killed. It is on her finger when Alpha Corp loads her body onto FEDHEX5555. Dr. Bruce Hexo saves the ring — removes it before the bionic work begins, keeps it the entire time., after he crosses the docking tube voluntarily, Dr. Bruce Hexo gives the ring to Cole. Cole returns it to Sharon during her recovery. : Cole sets it on the bowling alley table — "I don't think I need to replace it. I think this is the one."
+- **The makeshift copper-wire ring** with the smooth pebble. Cole makes it, gives it to Sharon before launch. She is wearing it when she dies. See Recurring Motifs.
 - **The Collective droplet sigil** — water drop inside a circle. *"No raindrop thinks it's the flood."*
-- **The thumb drive figurine** — Conrad's Enterprise keychain. Two payloads: nanopowder counter-program (skin contact, Emily + Cole ) and encrypted drive data (Bitboy decrypts, passes to Collective, reaches Ray in Panama). Resurface it in — the prototype's casing has a similar figurine motif as a callback.
+- **The thumb drive figurine** — Conrad's Enterprise keychain. Two payloads. See Dr. Conrad's section.
 - **Bitboy's blue-stained mouth** — he raids the blackberry preserves in. Recur in the bowling-alley scene as the visual rhyme that closes the book.
 
 ## Factions & Power Hierarchy
@@ -512,17 +507,16 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 ### Ryan Greenbaum
 - **Title**: Federal Council Police. Presents as law enforcement. Uses Federal Council credentials as cover to take Sharon and Emily at gunpoint — presents it as detaining them to answer to Alpha Corp for moving stolen dark matter crystals.
 - **First appearance**: — the Vegas conference. Approaches Emily and Sharon, attempts to intimidate. Sharon runs the elevator humiliation on him; he falls out of the doors half-undressed. She hands him a lollipop as the doors close.
-- **The transformation**: Not the same man from the elevator. Greenbaum moves with purpose, jaw clenched, hardened. The humiliation calcified. *"This was not the man they left in the elevator, floundering after their game."* He grabs Emily and Sharon on the train after the Collective drop — gun out, presents it as taking them to Alpha to answer for moving stolen dark matter crystals. He intends it as execution. He diverts to the industrial cul-de-sac. Surveillance sees him losing control of the situation. The Watch Dogs decide to kill Emily and Sharon rather than let them escape — they open fire, hit Greenbaum first. He shoots Sharon while dying. The Watch Dogs abduct Emily.
+- **The transformation**: Not the same man from the elevator. Greenbaum moves with purpose, jaw clenched, hardened. The humiliation calcified. *"This was not the man they left in the elevator, floundering after their game."* He grabs Emily and Sharon on the train after the Collective drop — gun out, taking them to answer to Alpha for moving stolen dark matter crystals. He intends it as execution. He diverts to the industrial cul-de-sac. He does not survive what happens there.
 - **What made him**: Years of being looked through by men like Taylor Glenn. Being dismissed in briefing rooms. Being talked past. Absorbing it. Straightening his jacket and acting like it didn't happen. The flashback contains one beat — a single moment in a shared room where Taylor talks past him mid-sentence and Vance doesn't intervene. That beat is not named, not called out, not editorially flagged. It just happens and the scene moves on.
 - **The Easter egg**: The reader who connects that moment to the shooting gets a gut-punch. The reader who doesn't isn't pulled out of Vance's arc.
-- **Fate**: Alpha's Watch Dogs are running surveillance on the abduction. When they see Greenbaum losing control of the situation, they make the call to kill Emily and Sharon rather than risk them getting away. They open fire — Greenbaum is in the line and takes the first shot. His dying shot kills Sharon. The Watch Dogs move in and take Emily.
+- **Fate**: Shot by the Watch Dogs when they open fire in the cul-de-sac. His dying shot kills Sharon. See Sharon's death scene and The Ambush.
 - **Register**: Greenbaum is not cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
 
 ### Dr. Bruce Hexo
 - **Role**: Software engineer and physician. Taken onto FEDHEX5555 by Alpha Corp against his will after Sharon's body is recovered — brought specifically to rebuild her.
 - **What he is forced to do**: Rebuild Sharon — bionic integration, cyber-conditioning, weapons system. He does it because the alternative is worse. He does it carefully. He keeps notes on everything he does to her, every system he installs, every override he builds in — because he intends for someone to be able to undo it.
 - **His notes**: The reason Gracie says "He kept notes" when Cole looks at her. The notes are how the counter-program is confirmed complete. They document every layer of conditioning so nothing is missed.
-- **The ring**: When Alpha Corp loaded Sharon onto FEDHEX5555, the copper-wire ring was on her finger. Dr. Bruce Hexo removed it before beginning the bionic work. He kept it in his jacket for the entire mission. It was the one thing he refused to let them take from her.
 - **After the boarding**: When Sharon's counter-program fires and the bronze ring goes dark, Dr. Bruce Hexo crosses the docking tube on his own initiative. He is not armed. He tells Cole he is happy to go wherever they are going. He has been waiting for this since FEDHEX5555 left dock.
 - **Tone**: Not a villain. A man who did something terrible under duress and spent the entire time documenting it so it could be undone. The notes are his apology. Cole accepts it without ceremony.
 
@@ -540,7 +534,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **What she doesn't know leaving**: What to do with any of it. That the notebooks she is carrying are the piece Ray needs to confirm everything he found in Panama. That going to Station Libre was always the next step. She leaves knowing who she is. She does not yet know what she is about to set in motion.
 - **What she discovers**: Jill is still at the colony, almost ready to leave, when Petra sits with her. Petra explains where Elsa's beliefs came from — they did not begin with Elsa. They trace back to a woman before her: Wilhelm Verguld's grandmother, who carried a conviction about bloodlines, sacrifice, and the energy of the dead that she passed down through her line. Wilhelm inherited it and built empire around it. But another branch of that same line went the other way. Petra says the grandmother's name — **Von Grutzen** — the original name, before Wilhelm changed the family name to Verguld. Jill hears it. She knows that name. It is in her family. Her great-great-great-grandmother. The branch that chose the colony over the empire. Petra sees her face. "Then you are the one who was meant to return from her lineage." Petra gives her the notebooks. Jill takes them and goes.
 - **Jill → Collective → Ray**: Jill brings the notebooks to the Collective. She doesn't fully understand how they fit yet — but she knows the zero-gravity data is something Alpha Corp has never seen. The Collective cross-references her material with Ray's Panama findings. The two pieces of intelligence — Ray's flywheel data and Elsa's 369 test runs — point to the same gap: the open condition in zero gravity. The Collective arranges the introduction. Ray receives Elsa's notebooks through Jill. That is when the decision is made to go to Station Libre.
-- **Bloodline (sealed canon)**: Descendant of Wilhelm's grandmother's founding bloodline, on the branch that did not inherit the Verguld empire. She is aware of the distant family connection to Marcus Verguld — she does not advertise it. NOT Elsa Klein's biological granddaughter. See Founding Bloodline & Prophecy section.
+- **Bloodline (sealed canon)**: Descendant of Wilhelm's grandmother's founding bloodline, on the branch that did not inherit the Verguld empire. She is aware of the distant family connection to Marcus Verguld — she does not advertise it. See Founding Bloodline & Prophecy section.
 - **Surname**: Von Grutzen. She is embarrassed by how German it sounds. The book makes jokes about Oktoberfest, Sound of Music villains, strudel, and lederhosen. This is the name Petra reads aloud from Elsa's preserved records — when Jill hears it, she knows it as her own family name. That is the moment the bloodline connection locks.
 
 #### Tyler Durden
@@ -569,7 +563,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **The DarkX mine and the first cells**: When the original 369 arrived at the asteroid, there was a small natural DarkX deposit in the rock. Elsa found it. She had Wilhelm's grandmother's records with her — and when she encountered the DarkX, the resonance between the material and the teachings told her what she was holding. What followed was not science in the institutional sense. The DarkX directed her. She understood, through that resonance, what it needed: heat, mineral salt, magnetic containment, and cold. She heated a jar until it was extremely hot, placed mineral salt from the mine inside — the DarkX was drawn to the salt and settled into it — then sealed the jar, placed magnets around the outside, and set it beyond the colony wall on the side of the asteroid facing away from the sun. In deep space, away from solar heat, the temperature dropped to near absolute zero. The cold, the magnets, and the salt worked together: the DarkX crystallized inside the container and created a vacuum seal. She had made something. She did not have a name for it. She carried it down the east tunnel and released it where gravity let go. Eleven days later the first gold asteroid arrived. This is what Alpha Corp and Ray reverse-engineered generations later with liquid nitrogen, industrial equipment, and laboratory containment. Elsa did it first. With a jar, a handful of salt, and the direction of the material itself.
 - **The first sacrifice**: Elsa was the first person to send DarkX into the void. She carried a fuel cell down the east tunnel herself — all 11 of them watched — and released it where gravity let go. She had a theory about the east tunnel's alignment and the asteroid belt's drift pattern. She did not tell the others what she expected. She told them to wait 11 days.
 - **The first return**: Eleven days later, the gold asteroid appeared. All 11 of them were there. Nobody had words for it. Elsa wrote one line in the notebook that night: "It receives." The sacrifice ritual is hers — Tyler Durden did not invent it. He inherited it, named it, and built theology around it. But the first time anyone walked down that tunnel, it was Elsa Klein, and there were only 11 people in the world watching.
-- **What she is NOT**: Jill's biological grandmother. Not a descendant of Wilhelm's grandmother's bloodline. Elsa is a prophetess who came into possession of Wilhelm's grandmother's original records — the source documents of the belief system. Those records are what she built the colony's spiritual practice on. How she obtained them is not established in canon.
+- **What she is**: A prophetess who came into possession of Wilhelm's grandmother's original records — the source documents of the belief system. Those records are what she built the colony's spiritual practice on. How she obtained them is not established in canon.
 - **Notebooks**: Contain two things. First: Elsa's own science — 369 documented test runs, the locking mechanics, the 11-day cycle, the void sacrifice data, the final zero-gravity experiments ("the open condition"). Second: the preserved records of Wilhelm's grandmother — the source documents Elsa obtained and transcribed into her own notebooks. These records describe the belief system: sacrifice enables reincarnation back into one's own bloodline; a descendant of the founding line will one day return to the place of sacrifice. The records are not labeled as prophecy. They read as observation. Crucially, they contain Wilhelm's grandmother's original surname: **Von Grutzen** — the name before Wilhelm changed it to Verguld. That name is what Jill recognizes when Petra reads it aloud.
 
 
@@ -694,7 +688,7 @@ The shortage was a choice. The proof was built into the technology before the te
 
 **Blackberry preserves**: Cabin → reunion → callback through Bitboy's blue-stained mouth. The visual rhyme that closes the book.
 
-**The thumb drive figurine**: Enterprise keychain. Two payloads in one object. (1) Nanopowder coating on the surface — Conrad's counter-program, absorbed by skin contact. Emily gets it without knowing. Cole gets it. Both carry the upgrade when they later encounter DarkX. Cole's version transfers to Sharon. (2) Encrypted drive inside — Conrad's intelligence on Alpha Corp. Bitboy decrypts it. DeMint receives the letter. Mission accepted.
+**The thumb drive figurine**: Conrad's Enterprise keychain. Two payloads — nanopowder counter-program and encrypted intel drive. See Dr. Conrad's section.
 
 **The Collective droplet sigil**: Water drop in a circle. "No raindrop thinks it's the flood." Used as code phrase. Sewn in bag linings. Stenciled on porch railings.
 
@@ -706,7 +700,7 @@ The shortage was a choice. The proof was built into the technology before the te
 
 **The pocket watch**: Klaus's — engraved with Klaus Verguld, coat of arms. Taylor carried it his entire career without knowing whose it was. Someone takes it from him in the Nevada town before the town reaches him. "Marcus wants this back." That is when Taylor knows who sent him there. The watch returns to Marcus. DeMint separately explains to Cole what Taylor actually was: Klaus's man, not Marcus's.
 
-**The bronze star and olive leaf wreath patch**: The Grand Admiral's insignia. It is referenced as campfire mythology throughout the book — characters joke that the Grand Admiral probably doesn't exist. The patch is never displayed, never announced. The reveal is a glimpse: Rachel's coat shifts in Epilogue C and it's there for a moment. Cole sees it. Sharon sees it. Nobody says anything. The reader who has been paying attention to the rank chart understands everything in that instant.
+**The bronze star and olive leaf wreath patch**: The Grand Admiral's insignia. Singular. See Rachel Vayes.
 
 ### Dual Sight Lines
 
@@ -827,11 +821,10 @@ Jill (who has not yet discovered her bloodline connection) comes back for the no
 
 **Item 13 — Elsa's prophecy / Jill's bloodline** ✅ RESOLVED (corrected)
 
-- **Canon (corrected)**: Jill is NOT Elsa's biological granddaughter. Elsa is a prophetess — not Jill's ancestor.
+- **Canon (corrected)**: Elsa is a prophetess — not Jill's ancestor.
 - Elsa's notebooks contain a PROPHECY within the founding tradition: the offspring of the founding bloodline will come to the colony.
 - Jill IS that offspring — a descendant of Wilhelm's grandmother's founding bloodline, on a branch that never took the Verguld accumulation path.
-- Petra's "You're not her granddaughter" is technically correct but misses the point. The notebooks are not for a biological heir — they are for the prophesied descendant. Petra is right for the wrong reason.
-- The reveal traces Jill's own family name/lineage back to the founding bloodline — the name is **Von Grutzen**, Wilhelm's birth surname before he gilded it. Jill Von Grutzen hears her own name spoken aloud by Petra, and that is the moment.
+- The reveal: Petra reads "Von Grutzen" aloud from Elsa's preserved records. Jill hears her own family name. That is the moment.
 - This thread resolves in **Book One** — during Jill's second visit to the colony, when Petra names Wilhelm's grandmother and Jill hears her own family name.
 - **Canon**: Jill's surname and bloodline connection are not stated in the early colony scenes. The reveal happens in Book One — during Jill's second visit. Petra reads "Von Grutzen" aloud from Elsa's preserved records. Jill recognizes it as her own family name. That recognition is what gives Petra permission to hand over the originals. Without it, the notebooks don't move.
 
