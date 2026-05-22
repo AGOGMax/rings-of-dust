@@ -527,8 +527,8 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **Role**: Software engineer and physician. Taken onto FEDHEX5555 by Alpha Corp against his will after Sharon's body is recovered — brought specifically to rebuild her.
 - **What he is forced to do**: Rebuild Sharon — bionic integration, cyber-conditioning, weapons system. He does it because the alternative is worse. He does it carefully. He keeps notes on everything he does to her, every system he installs, every override he builds in — because he intends for someone to be able to undo it.
 - **His notes**: The reason Gracie says "He kept notes" when Cole looks at her. The notes are how the counter-program is confirmed complete. They document every layer of conditioning so nothing is missed.
-- **After the boarding**: When Sharon's counter-program fires and the bronze ring goes dark, Dr. Bruce Hexo crosses the docking tube on his own initiative. He is not armed. He tells Cole he is happy to go wherever they are going. He has been waiting for this since FEDHEX5555 left dock.
-- **Tone**: Not a villain. A man who did something terrible under duress and spent the entire time documenting it so it could be undone. The notes are his apology. Cole accepts it without ceremony.
+- **After the boarding**: When the bronze ring goes dark and Sharon says Cole's name, Dr. Bruce Hexo crosses the docking tube on his own initiative. He is not armed. He tells Cole he is happy to go wherever they are going. He has been waiting for this since FEDHEX5555 left dock. His work does not end there. The deprogramming and normalization of Sharon as a human being is a long process — Gracie handles the software architecture, Hexo handles the medicine, the neurology, the physical recovery. They work as a team, following the map Hexo built during the mission.
+- **Tone**: Not a villain. A man who did something terrible under duress and spent the entire time building the roadmap to reverse it. The notes are not just his apology — they are the surgical guide. Cole accepts it without ceremony.
 
 ### Red and Squirrel
 - **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama.
@@ -795,6 +795,6 @@ Jill (who has not yet discovered her bloodline connection) comes back for the no
 
 **The Boiler Room**: Alpha Corp's LA operations center (where Emily confronts Marcus). Previously called "The Black Site" — renamed to avoid collision with the Nevada desert archive (which retains "The Black Site" / "Vance at the Black Site").
 
-**Bitboy's architecture**: Runs a pre-commercial build of the same software used to build Alpha Corp's cyber-conditioning and weaponization program — the program used on Sharon. Dr. Hexo was implementing Bitboy's architecture onto a human host. Gracie can deprogram Sharon partly because she understands the code at root level.
+**Bitboy's architecture**: Runs a pre-commercial build of the same software used to build Alpha Corp's cyber-conditioning and weaponization program — the program used on Sharon. Dr. Hexo was implementing Bitboy's architecture onto a human host. Gracie cannot enter Sharon's system alone — Cole's nanoparticles are the key that unlocks it. Once inside, Gracie understands the code at root level because it descended from Bitboy. Dr. Hexo works alongside Gracie on the full deprogramming and physical restoration.
 
 *The bible is now decision-complete. Next step: apply all fixes to the live GitHub documents.*
