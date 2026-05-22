@@ -20,29 +20,57 @@ hand dropped from his beard, curling into a tight fist, knuckles white with
 tension. The low hum crawled under his skin, feeding the gnawing inevitability
 that spread through him.
 
-"Where did this come from." It was not a question. He was looking at the
-intelligence brief in his hand — two pages, no letterhead, no signature. The
-paper was standard issue. The contents were not.
+"Show me again." It was not a request. DeMint stood at the console, one hand on
+the edge of it, the other pulling at his beard. The screen in front of him
+displayed the Golden Dawn's telemetry feed — course, velocity, crew vitals, iRIS
+system status. All green. All nominal.
+
+He had been staring at it for forty minutes because it was wrong.
 
 Vance stood to DeMint's left with the particular ease of someone who does not
 feel the weight of the room the same way its host does. He wore a white polo and
-had his hands in his pockets. He had reviewed the brief before DeMint and had
-already arrived at his own conclusions.
+had his hands in his pockets. He had already seen what DeMint was seeing and had
+arrived at his own conclusions.
 
-"Anonymous routing. Our signals team traced it to a Federation satellite relay,
-but the origin was spoofed back through four separate station nodes. Whoever
-sent it knows our infrastructure well enough to disappear inside it."
+"The latency," DeMint said. "Pull it up."
 
-DeMint read the key line again. *The Golden Dawn manifest does not reflect the
-crew's full operational directive. A secondary objective was filed with Alpha
-Corp prior to launch and withheld from Federation oversight. The payload
-transfer is a secondary concern. The primary concern is what comes back with
-it.*
+Vance leaned past him and keyed the overlay. The iRIS response-time graph filled
+the lower third of the screen — a flat line for the first forty-eight hours of
+the mission, then a slow upward drift. Half-second delays where there should
+have been none. Micro-hesitations in the data relay. The kind of degradation
+that looked like distance but wasn't — the Golden Dawn was well within standard
+comms range for this phase of the trajectory.
 
-"This is an accusation," DeMint said. "Against a sanctioned mission."
+"That's not signal decay," DeMint said.
 
-"It's unverified intelligence from an unconfirmed source," Vance said, and left
-the interpretation of that to DeMint.
+"No," Vance said. "It isn't."
+
+DeMint pulled at his beard again. "And these." He tapped a second window — a log
+of incoming transmissions flagged by the signals team over the past seventy-two
+hours. New directives. New operational parameters. Routing codes that traced back
+to Alpha Corp relay infrastructure but carried Collective formatting signatures.
+Orders DeMint had never authorized, flowing through iRIS channels he was
+supposed to control.
+
+"Someone is issuing commands to the Golden Dawn's AI backbone through our own
+relay architecture," DeMint said. "Using Alpha's access keys."
+
+"That's the read," Vance said.
+
+DeMint had also been receiving responses to his own messages — messages he had
+sent to Cole directly through the standard relay. The responses came back
+promptly, correctly formatted, using Cole's authorization codes. But something
+about them was wrong. Not obviously wrong. The tone. The phrasing. Something
+that didn't sound like Cole Nova. DeMint was a military man who had been reading
+comms his entire career. He knew what Cole sounded like. The responses he was
+getting back sounded like someone doing a good impression of a man who wasn't
+worried. That was the thing that had been sitting in his chest for two weeks
+before the telemetry gave him language for it.
+
+"And the crew selection went through Taylor. Who Alpha recommended."
+
+Vance said nothing. He was watching DeMint work through it and he was not
+rushing him.
 
 DeMint's steps faltered. His jaw tightened. He had approved this mission. He had
 reviewed the brief, the crew manifest, the objectives. He had shaken Cole Nova's
@@ -53,44 +81,40 @@ something cold.
 
 "Alpha handled the iRIS integration," he said.
 
-"They did."
+"They did. And before Alpha got to it, it was something else." Vance moved
+slightly, easy in his own body, a man who had learned to carry himself in rooms
+where other people sweated. "Dr. Stephen Conrad designed the original AI
+architecture — a system called Gracie. Alpha acquired it, modified it, and
+deployed the modified version as iRIS across the fleet. Conrad kept his research
+— his design notes, the original Gracie architecture, documentation of every
+modification Alpha made to his work. He stored it at a secondary facility before
+he disappeared."
 
-"And the crew selection went through Taylor. Who Alpha recommended."
+DeMint turned. "You're telling me there's a paper trail."
 
-Vance said nothing. He was watching DeMint work through it and he was not
-rushing him.
-
-DeMint set the brief down on the console. "What's the protocol window if we need
-to contact the Golden Dawn?"
-
-"At current trajectory, direct communication is degraded. Sending a message
-would be like throwing a bottle into the sea," Vance said. "But there may be
-another option." He moved slightly, easy in his own body, a man who had learned
-to carry himself in rooms where other people sweated. "Dr. Stephen Conrad was
-working on a communications prototype before he disappeared — something outside
-the iRIS architecture entirely, operating on a different signal band. If it's
-intact, it could reach the ship independent of the standard relay."
-
-"Where is it?"
-
-"Desert research station. Conrad's old secondary facility." Vance's tone was the
-mild tone of a man who has been asked to pick up dry cleaning and finds the
-errand slightly beneath his schedule but is not going to say so. "I can go."
+"I'm telling you Conrad was a careful man who knew what Alpha was doing to his
+work and documented all of it. If those research files are intact, they'll show
+us exactly what Alpha changed, what iRIS was supposed to be versus what it is,
+and why the system aboard the Golden Dawn is behaving like something with two
+masters." Vance's tone was the mild tone of a man who has been asked to pick up
+dry cleaning and finds the errand slightly beneath his schedule but is not going
+to say so. "I can go."
 
 DeMint studied him. "You understand what I'm asking."
 
-"You're asking me to retrieve a prototype that may or may not work, from a
-facility that may or may not still be staffed by Conrad's people, in order to
-establish contact with a mission that may or may not have been compromised by
-the organization we contracted to run its AI backbone." Vance's expression did
-not change. "I understand what you're asking."
+"You're asking me to retrieve a dead scientist's research from a facility in
+the desert, on the theory that the man who designed our fleet's AI backbone
+might have documented what was done to his work after he handed it over. In
+order to determine whether the AI system running inside our flagship has been
+compromised by the organization we contracted to build it." Vance's expression
+did not change. "I understand what you're asking."
 
 "And?"
 
-"I'll leave this afternoon." He adjusted his glasses and straightened. "If the
-prototype works, you'll have your window to reach the Golden Dawn. If it
-doesn't, at minimum we'll know what Conrad was building before he went dark,
-which seems worth knowing."
+"I'll leave this afternoon." He adjusted his glasses and straightened. "If
+Conrad's research is still there, you'll know exactly how deep Alpha's reach
+goes inside the Golden Dawn — and inside every other vessel running iRIS. If it
+isn't, that tells us something too."
 
 Silence descended upon the room again, thick and suffocating, wrapping around
 them until even the softest sound felt like an intrusion. The only break was the
@@ -151,7 +175,7 @@ The report said, in the structure that was not a mineral survey:
 *Sharon Teez — Collective-adjacent, confirmed. Killed in transit. The loss is
 real. Grieve it.*
 
-*Emily Nova — untrained, currently mobile, moving toward Houston under
+*Emily Nova — untrained, currently mobile, moving toward the secondary site under
 Federation radar. Probability of completion: uncertain. She has been
 underestimated by everyone who has assessed her. This is the operational
 advantage. Hold it.*
