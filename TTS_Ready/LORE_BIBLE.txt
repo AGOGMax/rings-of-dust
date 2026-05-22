@@ -536,6 +536,17 @@ Red and Squirrel
 - Function: When Alpha Corp fires Ray and takes his fuel cell technology, Red and Squirrel are the reason he survives it. They come to his door 72 hours before Alpha sends someone to silence him. They extract him, build his cover identity as Mikof Forsinko, and get him physically inside Alpha's Panama facility. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. After Panama, they facilitate the introduction between Ray and Jill — cross-referencing her colony notebooks with Ray's Panama findings, then arranging for the two of them to meet before Ray goes up to Station Libre.
 - Collective rank: Technicians (Tier 3 — wrench patch) when they first extract Ray and run him through Panama. Promoted to Special Agents (Tier 4 — sunglasses patch, gold) by the time of the Sharon/Emily crystal transfer. Their rise through the ranks is a direct result of what they built with Ray over those years.
 
+Sommi
+
+- Rank: Certified Technician, Collective North American Circuit. Clearance Four.
+- Patch: Wrench — stitched in dark thread above the left breast pocket of his canvas jacket, nearly invisible unless you know to look.
+- Name: "Sommi. With an i." He says it like a thing he has said many times and stopped finding interesting.
+- Function: Emily's field authorization shadow on her drive east after the farm road incident. A Collective surveillance operative assigned to watch her route. She identifies him before she has any reason to know he's friendly — pulls over, asks him directly. That is, as Kate notes from the Meridian, the correct move. Most people don't make it. He becomes her operational partner for the entire Houston mission: guide, comms relay, ground coordinator at the Black Site, and the steady presence through to the end.
+- Operational style: Minimal speech, maximum reliability. Drinks water at even intervals on a long day. Waits in visible spaces for a long time without being noticed. Handles a difficult situation with Marcus's assistant — described in three sentences, will not elaborate. On comms: clipped and exact. At the loading dock after the heist, patient, already buckled.
+- What he carries: After the Houston heist he hands Emily a napkin without looking up from his plate and says "Good mission." That is the whole debrief. When asked about Sharon: "I heard she was good." Nothing more. He does not perform grief. He accounts for it.
+- After the mission: Present at Cole's return from space. Gets out of the passenger door with Emily. Stands at the gravel with his hands in his pockets, giving them the space, not making a production of it. Brings a second jar of blackberry preserves "and the particular expression of a man who has been told to bring the preserves and has done so without asking questions." Does not ask Cole to return the Collective transit vehicle.
+- Rachel's assessment: "Sommi was a resource. He didn't do the hard part. You did." Accurate, not dismissive. He is the wrench — the infrastructure that makes the operation possible without being its protagonist. The network runs on people like Sommi. Most of it is invisible.
+
 Colony Arc Characters
 
 Jill
@@ -666,7 +677,7 @@ Saturn's Edge: Cole in his bunk, Saturn appearing edge-on outside the viewport �
 
 Surprise, Arizona: Emily in Surprise AZ motel. Rachel calls with Houston instructions. Pilar is inside contact (12-year Federation Systems employee, 3 years waiting). Operation: copier device, 20 seconds, green light; duplicate in jacket; prototype stays. Orin confirms clearance-3. Sharon memory: "You're not doomed to anything." Emily systematic — medication 3x daily, 20-min rest every 3 hours. Houston at night.
 
-Emily and the DarkX: Emily and Sommi [character to be fully defined] encounter raw DarkX during the ground operation. The exposure triggers a parallel transition on Earth — the cold architecture of the system cracks. IRiS shifts toward Gracie. On Earth the change is quieter than what happens on the Golden Dawn — felt rather than witnessed, strange rather than dramatic. Emily does not have a name for what changed. She knows something did.
+Emily and the DarkX: Emily and Sommi encounter raw DarkX during the ground operation. The exposure triggers a parallel transition on Earth — the cold architecture of the system cracks. IRiS shifts toward Gracie. On Earth the change is quieter than what happens on the Golden Dawn — felt rather than witnessed, strange rather than dramatic. Emily does not have a name for what changed. She knows something did.
 
 The Locked Bay: Taylor springs the trap — fake system check herds Cole, Sam, Ricardo, and Bitboy into the cargo bay. Doors seal. Atmosphere vents. Sam finds the override panel. Bitboy goes blue. Cole opens the harvester manually (mechanical release). DarkX makes contact: "It reached." Closing: Taylor reads "Vance Black, deceased" and closes the file like a minor irritant resolved.
 
