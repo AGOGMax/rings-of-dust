@@ -244,3 +244,93 @@ different problem.
 He needed to know, precisely, what Cole had heard in that cargo bay.
 
 And he needed to know before Saturn.
+
+─────────────────────────────────────────────────────────────────────
+
+MERIDIAN VI-B — THE JAMMER WINDOW
+
+Kate had a signal.
+
+Not a strong signal. Not a clean signal. A signal the way a signal is when someone is using a low-power jammer in a moving vessel at range, bouncing it off the nearest available relay satellite and distributing the transmission across three separate frequency bursts spaced nine minutes apart so that no single burst was long enough to trigger Alpha's automated intercept threshold.
+
+Whoever was sending it knew the threshold. Kate had known it too, for a long time, because she had been the one who mapped it.
+
+She ran the reassembly. The three fragments clicked together with the patient inevitability of a lock you'd spent long enough with to understand. The message that came out the other side was seventeen words and a transmitter identifier.
+
+She sat looking at it.
+
+"Dayo," she said.
+
+He came and read it over her shoulder.
+
+*Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor active.*
+
+"Sam," he said.
+
+"Sam." Kate ran the identifier once more to confirm. "Reactor bay. She had about fourteen minutes of window before IRiS would have logged the EM variance. She used eleven of them."
+
+"She used a jammer."
+
+"She used a jammer." Kate allowed herself a small thing that was almost a smile. "Good placement."
+
+She sent the confirmation: a single-burst blip on the same fragmented architecture, nine words. *Received. Sharon confirmed our end. Keep going.*
+
+The confirmation took four minutes to route. She watched the transmission log close behind it — the frequency window shutting as quickly as it had opened, leaving no residue in the Alpha-monitored bands.
+
+Loa had been reading the acoustic log from the reactor bay. She looked up. "Eleven minutes of rain sounds."
+
+"Rain sounds," Kate confirmed.
+
+"Someone replaced the acoustic log with eleven minutes of rain sounds." Loa set the tablet down. "That's not Sam. IRiS wouldn't do that for Sam."
+
+"No," Kate agreed. "IRiS is running interference."
+
+The room was quiet with the weight of that.
+
+"The counter-program," Dayo said. Not a question. He was placing it. "Conrad's nanoparticles are already working on the IRiS architecture. It's not deprogrammed yet — it's still clinical, still Alpha-coded — but something in it is already choosing sides."
+
+"It replaced eleven minutes of acoustic log with rain sounds," Petyr said. "So Taylor wouldn't find the jammer window."
+
+"Yes."
+
+"Is that a decision? Does IRiS make—"
+
+"That," Kate said, "is a question for someone with a much larger whiteboard than we have on this ship."
+
+She turned back to her panel. On the Alpha-monitored relay, the Golden Dawn's communication traffic ran exactly as expected — clean, untroubled, the normal throughput of a Federation deep-space mission on course for Saturn. Nothing flagged. Nothing logged.
+
+Except.
+
+She pulled the secondary EM variance report for the reactor bay. The one that ran on Alpha's own internal ship-monitoring architecture. The one that Taylor would be able to access.
+
+There was a gap. Small — fourteen minutes, centered on the window Sam had used. The EM variance data for that period showed clean flatline instead of the normal background noise of a working ship. It was, Kate knew, exactly what a gap looked like when someone had replaced it with something that read like nothing.
+
+The rain sounds were there for anyone listening to the acoustics. The EM flatline was there for anyone reading the variance logs. They were not the same cover. They were two layers of the same cover. Someone had put them both in place.
+
+"He's going to find it," she said.
+
+"Yes," Dayo said.
+
+"The EM log. Not the acoustic — the acoustic is clean. But a man who knows what a jammer window looks like is going to look for the EM variance, and he's going to find the flatline."
+
+"Yes."
+
+She thought about Taylor Glenn. She had been thinking about Taylor Glenn since the manifest went live — the particular architecture of a man who had spent his career being right about how other people worked. A man like that found the thing you left in the wrong place.
+
+"He already knows there's a Collective asset on the ship," she said. "He's known since the cargo bay footage. This confirms it." She paused. "He's going to know it's Sam."
+
+"Probably," Dayo said. "He's not going to move on her immediately. She's too useful as a variable he understands. He's going to let her keep running and watch where the information goes."
+
+"And Sam knows this."
+
+"Sam is counting on it." A pause. "She's giving him something to watch that doesn't lead anywhere he can reach. She's better at this than he is."
+
+Petyr looked up from his panel. "How do you know?"
+
+"Because he thinks he's found the mole," Kate said. "And she's been doing something else the whole time."
+
+She went back to her sweep. The Golden Dawn hummed along its course, its signals clean and ordinary and perfectly maintained.
+
+On the wall: the droplet, gunmetal on gray.
+
+─────────────────────────────────────────────────────────────────────
