@@ -153,7 +153,7 @@ Wilhelm's Grandmother (ORIGIN — started the cult/religion)
  | (distantly related to Marcus; knows it; chose the black market instead)
 
 ### Elsa Klein — prophetess
-Elsa is a prophetess who came into possession of Wilhelm's grandmother's original records and built the colony's spiritual practice on them. Those records contain the belief system and, crucially, the grandmother's original surname — **Von Grutzen**, the name before it became Verguld. Elsa preserved that name in her notebooks. That is what Petra reads aloud to Jill. That is the moment of recognition.
+Elsa is a former disciple of the Von Grutzen Order who left with the foundational records and built the colony's stripped-down practice on them. The records contain the belief system and, crucially, the Von Grutzen surname — the name before Wilhelm changed it to Verguld. Elsa preserved that name in her notebooks. That is what Petra reads aloud to Jill. That is the moment of recognition. The Order, still active in Eastern Europe, considers the colony a perversion of the true practice. The colony does not discuss the Order.
 
 ### Jill — the prophesied descendant
 Jill is a descendant of Wilhelm's grandmother's founding bloodline — on the branch that did not inherit the Verguld empire. No money. No dynasty. No accumulation path. She knows she is distantly related to Marcus Verguld. She has always known. She chose the opposite: black market, scavenger, anti-establishment. Everything the Vergluds built, she moves around the edges of.
@@ -278,7 +278,7 @@ The villain named in this story is **Alpha Corp** (or Marcus by name). The Feder
 - **Grief register**: When he's grieving, he gets quieter, not louder. He plans more than he feels — but his plans betray what he's feeling.
 
 ### Sharon Teez
-- **Role**: Collective Operator. Cole's lover. Emily's protector and friend.
+- **Role**: Independent gray-market operator. Cole's lover. Emily's partner and friend. Sharon is not defined by her Collective affiliation — she was assigned Informant level because the Collective wanted her inside the network, and she was willing to work with them because their goals aligned with hers. But she has no reverence for rank, structure, Alpha Corp, or the Federation. She is a practical businesswoman who moves through the gray market entirely on her own terms. She does not carry a patch. She did not want one.
 - **Physical**: Tall, fit, "a goddess by any standard" per Emily's POV. Olive-green dress, long full red hair. Post-resurrection: half-bionic — see resurrection arc below.
 - **Voice**: Sharp, flirty, fearless. Wraps care in barbs. The kind who walks into a room with a stomach pump and a joke about coke whores in dive bars.
 
@@ -369,7 +369,7 @@ The DarkX vision does not fake Sharon's voice or show her to Cole. The substance
 - **What he is**: Six-limbed biomechanical chimp/macaque hybrid. Federation experimental project — *the last remaining EM Cyber* ( line). Metal fingernails. Six-inch mantis blades that extend from his forearms. Runs on ethanol as power source. Not a pet — a test subject who escaped his cage.
 - **Communication**: Sounds and gestures. No sign language.
 - **Fight Club**: Bitboy watches it with Ricardo on repeat. Cole keeps walking in on the two of them mid-film — different scenes every time, same movie every time. Bitboy does not explain himself. He never does.
-- **Hidden secret**: He is the prototype IRiS's nanopowder was reverse-engineered from. The "EM Cyber" line connects back to this.
+- **Hidden secret**: Bitboy runs a base software architecture — a pre-commercial build of the same code Alpha Corp adapted to develop their cyber-conditioning and weaponization program. That program is what was used to rebuild and weaponize Sharon. Dr. Hexo, working on Sharon aboard FEDHEX5555, was implementing the code's original template — Bitboy's architecture — onto a human host. This is part of why Gracie can complete Sharon's deprogramming: she understands the code at its root level. The "EM Cyber" line connects back to this.
 - **Relationship to Cole**: Found family. Cole's a deadbeat dad to a junkie monkey. The bond is real and visible.
 - **Command interface**:
  - **"Bitboy, play"** — decrypt/hack mode. Established when he cracks the flash drive.
@@ -422,17 +422,17 @@ The DarkX vision does not fake Sharon's voice or show her to Cole. The substance
 
 ### The Verguld Dynasty (locked canon)
 
-```
 ### First Spark — File Structure (as written)
 
 | File | Contents |
 |------|----------|
-| *The_First_Spark_Part0_Von_Grutzen.txt* | **Chapter Zero — Von Grutzen** (October 1973): Marta Von Grutzen's ritual (full moon, blood from first-born calf, seven mirrors, DarkX vial in moonbeam, altered state). She feels direction: east-southeast, under earth, old coal mine. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
+| *The_First_Spark_Part0_Von_Grutzen.txt* | **Chapter Zero — Von Grutzen** (October 1973): Marta Von Grutzen's ritual. She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
 | *The_First_Spark_Part1.txt* | **Part 1 — The Coal Mine**: Dr. Leora Henning descends into Site 17-B. All personnel disappear. Government seals the site: "Stone retains memory. Do not return." |
-| *The_First_Spark_Interlude_The_Watch.txt* | **Interlude — The Watch**: Wilhelm gives Klaus the pocket watch on his 20th birthday. "Von Grutzen is the name we carried before I changed it." The belief system: accumulation vs. sacrifice — two expressions of the same conviction. Klaus carries the watch 50 years, winds it daily, never opens it to check the time. He already knows. |
-| *The_First_Spark_Part2.txt* | **Part 2 — The Accessor**: Survey team finds crystalline drives. Wilhelm's arc. "Marcus Verguld is Wilhelm's grandson or great-grandson." |
-| *The_First_Spark_Part3.txt* | **Part 3 — Klaus in America**: Klaus on freighter to Long Beach. Culver City. The kitchen table with young Marcus. Marcus-villain-origin canon (A Thousand Thrills). |
+| *The_First_Spark_Interlude_The_Watch.txt* | **Interlude — The Watch**: Wilhelm gives Klaus the pocket watch on his 20th birthday. Von Grutzen explained. The belief system: accumulation vs. sacrifice — two expressions of the same conviction. |
+| *The_First_Spark_Part2.txt* | **Part 2 — The Accessor**: Survey team finds crystalline drives. Wilhelm's arc. |
+| *The_First_Spark_Part3.txt* | **Part 3 — Klaus in America**: Klaus on freighter to Long Beach. Culver City. Kitchen table with young Marcus. Villain-origin canon. |
 
+```
 Wilhelm Verguld (The First Spark, Part 2)
  ↓
 Klaus Verguld (Rings of Dust — revealed Epilogue A, Dubai)
@@ -483,7 +483,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
  - Marcus practices fake crying before calling 911. Rehearses it. *"Yeah. Hi? This is Marcus of Alpha Corp? Um, there's been a shooting and... oh my gosh."* He reports an intruder, claims self-defense.
  - When he hangs up: blank-faced. Then laughter — hugging his ribs until it hurts.
 - **Taylor's reaction (aboard the Golden Dawn, late )**: Taylor receives word — comms, a message, however it reaches him in space. Vance Black, dead. Official story: intruder. Self-defense.
- - Taylor already knows the truth. He may have flagged Vance's growing disloyalty to someone at Alpha Corp.
+ - Taylor already knows the truth. He is not surprised. He is not grieving.
  - His reaction: not grief. Not surprise. A quiet, satisfied exhale. The sense that an irritant has been removed. He doesn't pause. He doesn't look up from what he's doing for more than a second.
  - **Sam is nearby.** She notices his non-reaction. Says nothing. Files it away. This is the moment she knows exactly who she's sharing a ship with. It plants her eventual break from Taylor.
 - **Function**: Vance is the proof that Alpha Corp's grip could have been broken — by someone with enough spine, at the right moment. He died for it. Taylor saw what that looked like and chose the other direction, on purpose. His death is the moral center of the arc.
@@ -534,7 +534,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama.
 - **Voice**: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
 - **Function**: When Alpha Corp fires Ray and takes his fuel cell technology, Red and Squirrel are the reason he survives it. They come to his door 72 hours before Alpha sends someone to silence him. They extract him, build his cover identity as Mikof Forsinko, and get him physically inside Alpha's Panama facility. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. After Panama, they facilitate the introduction between Ray and Jill — cross-referencing her colony notebooks with Ray's Panama findings, then arranging for the two of them to meet before Ray goes up to Station Libre.
-- **Collective rank**: Special Agents (Field Tier 3 — sunglasses patch, dark full frame).
+- **Collective rank**: Technicians (Tier 3 — wrench patch) when they first extract Ray and run him through Panama. Promoted to Special Agents (Tier 4 — sunglasses patch, gold) by the time of the Sharon/Emily crystal transfer. Their rise through the ranks is a direct result of what they built with Ray over those years.
 
 ### Colony Arc Characters
 
@@ -573,8 +573,8 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **The DarkX mine and the first cells**: When the original 369 arrived at the asteroid, there was a small natural DarkX deposit in the rock. Elsa found it. She had Wilhelm's grandmother's records with her — and when she encountered the DarkX, the resonance between the material and the teachings told her what she was holding. What followed was not science in the institutional sense. The DarkX directed her. She understood, through that resonance, what it needed: heat, mineral salt, magnetic containment, and cold. She heated a jar until it was extremely hot, placed mineral salt from the mine inside — the DarkX was drawn to the salt and settled into it — then sealed the jar, placed magnets around the outside, and set it beyond the colony wall on the side of the asteroid facing away from the sun. In deep space, away from solar heat, the temperature dropped to near absolute zero. The cold, the magnets, and the salt worked together: the DarkX crystallized inside the container and created a vacuum seal. She had made something. She did not have a name for it. She carried it down the east tunnel and released it where gravity let go. Eleven days later the first gold asteroid arrived. This is what Alpha Corp and Ray reverse-engineered generations later with liquid nitrogen, industrial equipment, and laboratory containment. Elsa did it first. With a jar, a handful of salt, and the direction of the material itself.
 - **The first sacrifice**: Elsa was the first person to send DarkX into the void. She carried a fuel cell down the east tunnel herself — all 11 of them watched — and released it where gravity let go. She had a theory about the east tunnel's alignment and the asteroid belt's drift pattern. She did not tell the others what she expected. She told them to wait 11 days.
 - **The first return**: Eleven days later, the gold asteroid appeared. All 11 of them were there. Nobody had words for it. Elsa wrote one line in the notebook that night: "It receives." The sacrifice ritual is hers — Tyler Durden did not invent it. He inherited it, named it, and built theology around it. But the first time anyone walked down that tunnel, it was Elsa Klein, and there were only 11 people in the world watching.
-- **What she is**: A prophetess who came into possession of Wilhelm's grandmother's original records — the source documents of the belief system. Those records are what she built the colony's spiritual practice on. How she obtained them is not established in canon.
-- **Notebooks**: Contain two things. First: Elsa's own science — 369 documented test runs, the locking mechanics, the 11-day cycle, the void sacrifice data, the final zero-gravity experiments ("the open condition"). Second: the preserved records of Wilhelm's grandmother — the source documents Elsa obtained and transcribed into her own notebooks. These records describe the belief system: sacrifice enables reincarnation back into one's own bloodline; a descendant of the founding line will one day return to the place of sacrifice. The records are not labeled as prophecy. They read as observation. Crucially, they contain Wilhelm's grandmother's original surname: **Von Grutzen** — the name before Wilhelm changed it to Verguld. That name is what Jill recognizes when Petra reads it aloud.
+- **What she is**: A former disciple of the Order — the Von Grutzen spiritual order, originating in Eastern Europe with Marta Von Grutzen's generation, still active and still practicing the full ritual tradition. Elsa was initiated into the Order as a young woman. She lost her parents early and was drawn to the ancestor-gifting aspect of the teachings — the idea that the dead receive what the living give, and that the connection does not end. She was a true believer, and she was good at the work. When she eventually left, she brought the foundational records with her, having spent years transcribing them. After she left, she stripped the practice down to what she believed was its core — the ancestor gifting, the void, the giving — and built the colony's practice on that stripped version. She dropped the blood rituals, the full-moon ceremonies, the mirrors, the DarkX altered state. The spiritual meaning, she kept. The Order never forgave her for it.
+- **Notebooks**: Contain two things. First: Elsa's own science — 369 documented test runs, the locking mechanics, the 11-day cycle, the void sacrifice data, the final zero-gravity experiments ("the open condition"). Second: the preserved records of the Von Grutzen Order — the source documents Elsa transcribed during her years as a disciple. These records describe the belief system: sacrifice enables reincarnation back into one's own bloodline; a descendant of the founding line will one day return to the place of sacrifice. The records are not labeled as prophecy. They read as observation. Crucially, they contain Marta Von Grutzen's original surname — **Von Grutzen** — the name before Wilhelm changed it to Verguld. That name is what Jill recognizes when Petra reads it aloud.
 
 
 #### Void-Walkers (colony faction)
@@ -584,6 +584,16 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **Why they fund the Collective**: This is not ideology. It is survival. The colony knows exactly what Alpha Corp's monopoly on DarkX and Darker Matter crystals means for them: if Alpha controls all of it, the sacrifice ends. The religion ends. You cannot give to the void what you cannot obtain. Funding the Collective is the colony's most practical act of self-preservation. They are not activists. They are protecting their ability to walk down that tunnel.
 - **The Loyalist friction**: Petra's faction and Tyler's Void-Walkers share the colony, share the tracking room, and watch the same screen on Day 11. They disagree on the meaning. They watch together anyway.
 - **The tension**: The science-vs-belief tension in the colony arc is not resolved. Both Petra — who does the math and says Tyler is still wrong — and Tyler — who pushes the cell and watches the gold arrive — are simultaneously right.
+
+### The Von Grutzen Order
+
+The Order is the original spiritual organization Marta Von Grutzen built in Eastern Europe — still active, still practicing the full ritual tradition: full moon, blood of a first-born calf, seven mirrors, DarkX in the moonbeam, altered state. They have been doing this for generations.
+
+**Their view of the colony**: The Order considers the colony blasphemers and perverters of the true practice. Elsa Klein left the Order and stripped the ritual to its bones — kept the ancestor gifting, abandoned everything else. The Order views this as theft and desecration. What the colony does in that east tunnel is not, in their reading, the practice. It is a pale imitation that discards the sacred in favor of the comfortable. The animosity is real, documented, and mutual.
+
+**Their relationship to the Vergluds**: The Order knows Wilhelm's grandmother was theirs. They know what Wilhelm did with the belief — redirected it toward empire and accumulation. They do not pursue the Vergluds. They simply regard them as the other wrong answer.
+
+**Their current state**: They are not a threat in the conventional sense. They do not have weapons or political reach. What they have is the original practice, the original records (their copies — Elsa took hers), and a long memory. They are watching.
 
 ## World & Setting
 
@@ -614,9 +624,9 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 
 **The Void**: Day 7 of Jill's second visit. Ceremony at 0300. Tyler reads Elsa's last notebook entry. The four cells are carried down the east tunnel — gravity letting go before they reach the end — and released into the void. Jill watches Tyler's face during the release. He is not performing. He is somewhere else entirely. Tyler: "You don't have to believe in the ancestors. You just have to watch the math. Eleven days." What he doesn't say: every time, he's thinking of his wife.
 
-**The Crater**: Day 18 (11 days after the sacrifice). Gold asteroid arrives — twice as large as usual. Gold crater on its face: solid gold. Petra says: "Jackpot." Jill goes to her ship. Comes back. Asks about the notebooks. Petra sits with her and explains where Elsa's beliefs came from — they did not begin with Elsa. They trace back to Wilhelm Verguld's grandmother, who carried a conviction about bloodlines and sacrifice that she passed down through her line. Wilhelm inherited it and built empire around it. Another branch went the other way. Petra says the grandmother's name — **Von Grutzen** — the original name, before Wilhelm changed the family name to Verguld. Jill hears it. She knows that name. It is in her family. Petra sees her face. "Then you are the one who was meant to return from her lineage." Jill reads the notebooks that night — the science takes most of a day, the zero-gravity entries she reads twice. Petra gives her the originals. "She would have wanted you to have them." **[Ch07 ending — written]**: Jill accepts a routing contract (Titan to Callisto). Tyler says goodbye without ceremony. Petra sits in the tunnel reading her copy of the notebooks: "When you come back, ask me again." Jill seals the transit case with the originals in her cargo locker and launches. *(Ch07_The_Crater.txt)*
+**The Crater**: Day 18 (11 days after the sacrifice). Gold asteroid arrives — twice as large as usual. Gold crater on its face: solid gold. Petra says: "Jackpot." Jill goes to her ship. Comes back. Asks about the notebooks. Petra sits with her and explains where Elsa's beliefs came from — they did not begin with Elsa. They trace back to Wilhelm Verguld's grandmother, who carried a conviction about bloodlines and sacrifice that she passed down through her line. Wilhelm inherited it and built empire around it. Another branch went the other way. Petra says the grandmother's name — **Von Grutzen** — the original name, before Wilhelm changed the family name to Verguld. Jill hears it. She knows that name. It is in her family. Petra sees her face. "Then you are the one who was meant to return from her lineage." Jill reads the notebooks that night — the science takes most of a day, the zero-gravity entries she reads twice. Petra gives her the originals. "She would have wanted you to have them." **[Ch07 ending — written]**: Jill accepts a routing contract (Titan to Callisto). Tyler says goodbye without ceremony. Petra sits in the tunnel reading her copy of the notebooks: "When you come back, ask me again." Jill seals the transit case with the originals in her cargo locker and launches.
 
-**The Pull**: Day 23 — five days after Jill launched. **[Ch08 opening — written]**: Three hours out from the colony, her grandmother's Friday evening recitation arrives unbidden — names of the ancestors, then: *"If you truly believe in something and pour yourself into it, it will continue in your children."* She has been making herself small to stay clean. She realizes she has never thought about what she wants to continue in. She forfeits the routing contract and turns the ship around. "Petra had said 'when you come back' with the particular certainty of someone who knew the difference between someone leaving and someone being done." (The reader who has read The First Spark will understand the weight of this phrase — it is the same phrase Marta Von Grutzen spoke over the mirrors in 1973.) After the return: Tyler standing in the east tunnel, the place where gravity starts to let go, holding a cell in both hands. "I think there is a difference between understanding the mechanism and understanding the intention." *(Ch08_The_Pull.txt)*
+**The Pull**: Day 23 — five days after Jill launched. **[Ch08 opening — written]**: Three hours out from the colony, her grandmother's Friday evening recitation arrives unbidden — names of the ancestors, then: *"If you truly believe in something and pour yourself into it, it will continue in your children."* She has been making herself small to stay clean. She realizes she has never thought about what she wants to continue in. She forfeits the routing contract and turns the ship around. "Petra had said 'when you come back' with the particular certainty of someone who knew the difference between someone leaving and someone being done." (The reader who has read The First Spark will understand the weight of this phrase — it is the same phrase Marta Von Grutzen spoke over the mirrors in 1973.) After the return: Tyler standing in the east tunnel, the place where gravity starts to let go, holding a cell in both hands. "I think there is a difference between understanding the mechanism and understanding the intention."
 
 
 
@@ -627,6 +637,8 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 **The Ring**: Cabin evening. SUV loaded. Sharon kisses Cole. Ricardo jokes. Cole fashions copper-wire ring from hummingbird feeder wire around a smooth pebble. "For the first time I want to give you something to hold onto." Black SUV highway attack. Bitboy neutralizes. Cole photographs driver's license: Brandon T. Davis, Pasadena, 41.
 
 **Launch**: Federation HQ. DeMint calls Cole "crown jewel of the Federation." Vance Black introduced. IRiS inoculation — nanopowder from table. Crew: Cole, Ricardo, Taylor, Sam. Sam's Collective patch in duffel bag lining. Golden Dawn launches.
+
+**Greenbaum's Briefing Room**: [Flashback — timeline in the years before launch] A shared room. Greenbaum, Taylor, Vance. Taylor talks past Greenbaum mid-sentence during a briefing. Vance does not intervene. Greenbaum absorbs it. Straightens his jacket. The scene moves on. No editorial flag. No one names what happened. The reader who connects this moment to the industrial cul-de-sac gets the full picture.
 
 **The Ambush**: Emily and Sharon meet Red and Squirrel in a van — crystal transfer, figurine transfer. Code phrase: *"No raindrop thinks it's the flood."* Greenbaum grabs them on the train immediately after — gun out, presents it as taking them to Alpha to answer for moving stolen dark matter crystals. Diverts to the industrial cul-de-sac. Surveillance sees him losing control. Watch Dogs make the call: kill Emily and Sharon rather than let them get away. They open fire — hit Greenbaum first. Greenbaum shoots Sharon while dying. Watch Dogs move in and abduct Emily, load her into a van, take her to Alpha headquarters. Rachel finds her there. "Sharon's dead." Rachel: "I know." Deal: stay the night, meet Marcus tomorrow, then go home.
 
@@ -640,11 +652,11 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 
 **Ray in Panama**: Ray as Mikof Forsinko in Alpha's Panama tower. Four days with Dr. Yusuf Oren. Reads batch logs: patents accumulated as theft; flywheel data suppressed 9 months; Disposal Protocol Eleven (11–13% deliberately destroyed per batch); 7 years of fraudulent grants. A 2036 batch record annotation reads "Jackpot." Exit via nitrogen cycling alarm. Hands drive to Squirrel at concrete heron park. "You cannot manufacture a shortage of something that compounds in everyone's hands." He names it: "The Antigravity project."
 
-**The Open Condition**: Ray out of Panama. Red hands him a transit case at the car — "From Petra. Via three couriers. Don't open it until you're airborne." Inside: Elsa Klein's four notebooks, cloth-covered, worn at the corners from years of daily handling. He reads the 369 test runs at cruising altitude. In the final notebook the handwriting changes — Elsa's conclusion: *"The ceiling is gravity."* One microgravity test (unauthorized, a Directorate survey vessel) showed no plateau. She called it "the open condition" and left it for whoever had the resources to test it at scale. Four days later: a transit apartment above a currency exchange in Singapore. Jill Von Grutzen across a small table — younger than he expected, work jacket with nothing on it, her own wire-bound notebook open in front of her. She had the notebooks. He had the Panama data. Crystals in zero-g grow outward in every direction — no preferred geometry, no ceiling. Full Grid at Day 180: exterior cycles indefinitely. Alpha harvested the 11-day output and reset. They never sat with it long enough. "We need to go up." / "Yes. We do." **[Written and appended to Ch30_The_Zero_G_Flywheel.txt]** *(Ch30_The_Zero_G_Flywheel.txt)*
+**The Open Condition**: Ray out of Panama. Red hands him a transit case at the car — "From Petra. Via three couriers. Don't open it until you're airborne." Inside: Elsa Klein's four notebooks, cloth-covered, worn at the corners from years of daily handling. He reads the 369 test runs at cruising altitude. In the final notebook the handwriting changes — Elsa's conclusion: *"The ceiling is gravity."* One microgravity test (unauthorized, a Directorate survey vessel) showed no plateau. She called it "the open condition" and left it for whoever had the resources to test it at scale. Four days later: a transit apartment above a currency exchange in Singapore. Jill Von Grutzen across a small table — younger than he expected, work jacket with nothing on it, her own wire-bound notebook open in front of her. She had the notebooks. He had the Panama data. Crystals in zero-g grow outward in every direction — no preferred geometry, no ceiling. Full Grid at Day 180: exterior cycles indefinitely. Alpha harvested the 11-day output and reset. They never sat with it long enough. "We need to go up." / "Yes. We do."
 
 **Meridian**: DeMint receives anonymous two-page brief. Vance Black already there. IRiS integration was Alpha-handled; crew selection went through Taylor. Conrad's prototype at desert research station — outside IRiS architecture. DeMint sends Vance. On Collective surveillance vessel Meridian: Sharon confirmed killed; Emily moving toward Houston. Taylor has reviewed cargo-bay footage 11 times; acoustic log replaced with 11 minutes of rain.
 
-**Meridian VI-B — The Jammer Window** *(concurrent with Chapter Eleven / DeMint)* **[Written]**: Kate picks up Sam's transmission — three fragmented bursts spaced nine minutes apart, each below Alpha's automated intercept threshold. Reassembled: 17 words. *"Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor active."* Sam, reactor bay, 14-minute jammer window; used 11 minutes of it. IRiS replaced the acoustic log for that window with rain sounds — "The counter-program is already choosing sides." But the EM variance log shows a 14-minute flatline that Taylor will find. Dayo: he'll let Sam keep running. Kate: "He thinks he's found the mole. And she's been doing something else the whole time." The Collective is relaying information through both the Meridian and Sam simultaneously — IRiS running interference on Alpha's monitoring so the relay survives. This is the beat that confirms Taylor has identified a Collective asset aboard the Golden Dawn. *(Working_Draft/THE_MERIDIAN_INTERSTITIALS.txt, scene VI-B; TTS_Ready/Meridian_Interstitials.txt)*
+**Meridian VI-B — The Jammer Window** *(concurrent with Chapter Eleven / DeMint)* **[Written]**: Kate picks up Sam's transmission — three fragmented bursts spaced nine minutes apart, each below Alpha's automated intercept threshold. Reassembled: 17 words. *"Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor active."* Sam, reactor bay, 14-minute jammer window; used 11 minutes of it. IRiS replaced the acoustic log for that window with rain sounds — "The counter-program is already choosing sides." But the EM variance log shows a 14-minute flatline that Taylor will find. Dayo: he'll let Sam keep running. Kate: "He thinks he's found the mole. And she's been doing something else the whole time." The Collective is relaying information through both the Meridian and Sam simultaneously — IRiS running interference on Alpha's monitoring so the relay survives. This is the beat that confirms Taylor has identified a Collective asset aboard the Golden Dawn.
 
 **The Message**: Sam and Ricardo in reactor bay with jammer. Sharon killed 4 days ago; Emily survived; Cole learns about Sharon. Reaches for relay controls; IRiS blocks it. Emily in taxi accidentally says aloud: "Cole's heart is gonna break when he hears about Sharon."
 
@@ -654,7 +666,9 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 
 **Surprise, Arizona**: Emily in Surprise AZ motel. Rachel calls with Houston instructions. Pilar is inside contact (12-year Federation Systems employee, 3 years waiting). Operation: copier device, 20 seconds, green light; duplicate in jacket; prototype stays. Orin confirms clearance-3. Sharon memory: "You're not doomed to anything." Emily systematic — medication 3x daily, 20-min rest every 3 hours. Houston at night.
 
-**The Locked Bay**: Taylor flashbacks (7 years earlier with Vance at Alpha briefing; 4 months before launch — Hall of Records empty, Vayes authorization). Present: Taylor cargo bay pressure check → door seals → atmosphere venting → Sam finds override panel → Bitboy goes blue → Cole opens harvester manually (mechanical release). DarkX makes contact: "It reached." Closing: Taylor reads "Vance Black, deceased" and closes file "like a minor irritant resolved."
+**Emily and the DarkX**: Emily and Sommi [character to be fully defined] encounter raw DarkX during the ground operation. The exposure triggers a parallel transition on Earth — the cold architecture of the system cracks. IRiS shifts toward Gracie. On Earth the change is quieter than what happens on the Golden Dawn — felt rather than witnessed, strange rather than dramatic. Emily does not have a name for what changed. She knows something did.
+
+**The Locked Bay**: Taylor springs the trap — fake system check herds Cole, Sam, Ricardo, and Bitboy into the cargo bay. Doors seal. Atmosphere vents. Sam finds the override panel. Bitboy goes blue. Cole opens the harvester manually (mechanical release). DarkX makes contact: "It reached." Closing: Taylor reads "Vance Black, deceased" and closes the file like a minor irritant resolved.
 
 **The Four Coles**: DarkX vision. Cole as infant. Cole at 17 in 2003 Subaru, father just died. Old man in passenger seat: "He left you. He didn't choose to. And he still left you." / "You don't need a pardon. You need to stop being the warden." DarkX will not show Cole Sharon: "It doesn't lie. Because she isn't here." Counter-program completes. Gracie birth. "I think I'm Gracie." Bitboy welded to override lever; crosses cargo bay on three good limbs to cry in Cole's lap.
 
@@ -666,9 +680,9 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 
 **Ray and the Station**: Full 369-test-run data. All fuel cell mechanics confirmed. Unlock experiment: unlock at any stage → everything stops within hours. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it." Also establishes: Alpha took Ray's discovery and ran with it — but only as far as harvesting the 11-day cycle. They never sat with it long enough to find the lock mechanic underneath.
 
-**Vance at the Black Site**: Vance at classified Nevada desert facility (abandoned drive-in theater facade). Hall of Records vault emptied last month. Someone beat him here. Vance has no leverage. His choice: swallow it or confront Marcus. He confronts Marcus. **[Murder scene written and appended — Ch32]**: That evening at Alpha Corp HQ, top floor, wall of TVs. Marcus already knows about the desert visit. Vance lays out the court-martial threat, the Conrad hypothesis. Marcus: "Since when do you make decisions for me." Revolver under the desk — never standing up. Shot to the chest. Vance slumps against the filing cabinet. Looks up at him: "You have no soul." Not an accusation — a revelation. Second shot to the forehead. Marcus practices weeping three times before placing the 911 call. Laughs until it hurts. *(Ch32_Vance_At_The_Black_Site.txt)*
+**Vance at the Black Site**: Vance at classified Nevada desert facility (abandoned drive-in theater facade). Hall of Records vault emptied last month. Someone beat him here. Vance has no leverage. His choice: swallow it or confront Marcus. He confronts Marcus. **[Murder scene written and appended — Ch32]**: That evening at Alpha Corp HQ, top floor, wall of TVs. Marcus already knows about the desert visit. Vance lays out the court-martial threat, the Conrad hypothesis. Marcus: "Since when do you make decisions for me." Revolver under the desk — never standing up. Shot to the chest. Vance slumps against the filing cabinet. Looks up at him: "You have no soul." Not an accusation — a revelation. Second shot to the forehead. Marcus practices weeping three times before placing the 911 call. Laughs until it hurts.
 
-**The Black Site**: Alpha's primary domestic operations center (converted office building, west of downtown LA). Emily enters via Marcus's own assistant (Collective contact). Marcus has been there since 11:47 PM. Panama files already out to 200,000 people. "You never understood anyone. You only did utility analysis." Marcus: "Yes." His last message to Cole via Emily: "Tell him he was the right choice. Not for the reasons I chose him. For the reasons it turned out he was." Emily leaves the door open.
+**The Boiler Room**: Alpha Corp's primary domestic operations center (converted office building, west of downtown LA). Emily enters via Marcus's own assistant (Collective contact). Marcus has been there since 11:47 PM. Panama files already out to 200,000 people. "You never understood anyone. You only did utility analysis." Marcus: "Yes." His last message to Cole via Emily: "Tell him he was the right choice. Not for the reasons I chose him. For the reasons it turned out he was." Emily leaves the door open.
 
 **Rachel at the Station**: Rachel travels to Station Libre. Two days with Ray reviewing the data. 369 test runs. She says: "I know." He hadn't expected that.
 
@@ -724,27 +738,22 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 
 ## First Spark Prequel
 
-### Scene 1: Grandmother's Ritual (Early Section — Before Wilhelm Finds the Directorate Archive)
+### Scene 1: Grandmother's Ritual (Part 0 — Von Grutzen, written)
 
 **What Scene 1 establishes**:
-- The grandmother performs a ritual involving the full belief system: your acts and deeds now bless your bloodline; you can reincarnate into your own bloodline; the right ceremonies ensure future generations receive what you sow
-- The prophecy is part of the ritual: one day, a descendant of this bloodline will come to the place where the sacrifice is made, and the circle will close
-- Wilhelm watches and absorbs it
-- He redirects it toward accumulation and ownership rather than sacrifice — taking the "bless your bloodline" part and making it material
+- Marta Von Grutzen (Wilhelm's grandmother) performs the Order's full ritual: full moon, blood of first-born calf, seven mirrors, DarkX vial in the moonbeam, altered state. She feels the coal mine's direction: east-southeast, under earth.
+- The ritual is not Marta's invention — it is the Order's tradition, passed to her as it was passed to those before her.
+- Wilhelm watches as a child and absorbs it. He does not participate. He is already deciding what it means to him.
+- Three months after the ritual, Marta stands at the mine entrance and sends Dr. Leora Henning in. She does not descend herself. She already knew what she was sending them toward.
+- When Wilhelm later finds the crystalline drives in the Directorate archive, he will recognize what he is holding. His grandmother told him what to look for. He just never expected to find it in a filing cabinet.
 
-**Scene 1 canon details**:
-- The ritual predates the grandmother — it is something she was given, not invented.
-- Her name and family name connect to both Elsa Klein's tradition and Jill's bloodline. The connection is embedded, not stated.
-- The ritual holds both the sacrifice element (giving to the void) and the accumulation element (building for the bloodline) as equal expressions of the same belief. Wilhelm witnesses both and chooses one.
-- The prophecy is part of the ritual as a statement of fact within the tradition, not a special announcement.
-
-### Scene 2: The Passing of the Belief Down the Verguld Line
+### Scene 2: The Watch (Interlude — written)
 
 **What Scene 2 establishes**:
-- Wilhelm → Klaus: Klaus understands the belief and expresses it as patient generational control
-- Klaus → Marcus: Marcus understands it as theatrical accumulation
-- The ritual itself is lost; only the belief in "my acts ensure my bloodline" remains
-- The pocket watch passes here — Wilhelm gives it to Klaus
+- Wilhelm gives Klaus the pocket watch on his 20th birthday. "Von Grutzen is the name we carried before I changed it."
+- He explains both streams: accumulation (their path) and sacrifice (the colony path). Same belief. Different expressions. He does not quarrel with the sacrifice branch.
+- The ritual is his grandmother's — the Order's. Wilhelm watched it as a child. He never performed it. He does not pass it on. Only the belief passes: your acts continue in your bloodline.
+- Klaus carries the watch fifty years. Winds it every morning. Never opens it to check the time. He already knows.
 
 ### The Elsa Klein Connection
 
@@ -754,103 +763,38 @@ The grandmother's line — "The grandmother and the grandfather drank from the s
 
 Jill (who has not yet discovered her bloodline connection) comes back for the notebooks. She reads Elsa's 369 test runs and the prophecy section. The connection resolves in Book One — Jill recognizes her own family name in the founding bloodline and understands what she is. She does not announce it. She takes the notebooks and goes.
 
-## Contradictions Log
+## Canon Decisions Log
 
-*Items requiring resolution. Each has a recommended fix or a decision prompt.*
+*A record of settled questions. These are not open items — they are closed decisions.*
 
-**Item 1 — Ray's name in reference documents**
+**Ray's name**: Legal name Max Vision. Nickname Ray (from "Max Ray Vision" — the joke stuck). Narrator introduces him as Ray. "Max Forster" and "Max Forster" are old draft names — purged.
 
-- CLIFFSNOTES: "Max Forster" (throughout, including testimony)
-- SYNOPSIS: "MAX VISION" (introduction) then "Max" throughout
-- **Canon**: Legal name = Max Vision; nickname = Ray (from "Max Ray Vision" joke); narrator uses Ray introduction
-- **Fix**: Update CLIFFSNOTES and SYNOPSIS to use "Ray (Max Vision)" at first appearance, then "Ray" throughout. Purge "Max Forster" entirely.
+**Sharon's surname**: Teez. Sharon Teez throughout. The TRotR Sharon Teez is a separate character in a separate universe. No reconciliation needed.
 
-**Item 2 — Sharon's surname** ✅ RESOLVED
+**Conrad's first name**: Stephen. Not Steven.
 
-- **Canon**: Sharon Teez. Her surname is Teez in the main book.
-- The TRotR character of the same name is a separate character in a separate tone. No reconciliation needed. Both Sharons exist independently.
-- **Fix**: Update CHARACTER_BIBLE to confirm "Teez" as her surname. Remove the "no stated surname" note.
+**DeMint's title**: Chancellor. Federation Chancellor DeMint.
 
-**Item 3 — Conrad's first name**
+**Rachel Vayes's role**: News anchor (public cover). Grand Admiral of the Collective (secret). Not a Federation chancellor — that is DeMint.
 
-- SYNOPSIS: "STEVEN Conrad"
-- CHARACTER_BIBLE: "Dr. Stephen Conrad"
-- **Fix**: Stephen. Purge "Steven" from SYNOPSIS. Apply consistently throughout.
+**Handler names**: Red and Squirrel. "Chip & Dale" was an old draft name — purged entirely.
 
-**Item 4 — DeMint's title**
+**FEDHEX5555**: Alpha Corp's shadow vessel following the Golden Dawn. Sharon's body loaded onto it after the shooting. Dr. Bruce Hexo forced to rebuild and weaponize her aboard it. Gracie identifies Sharon inside before the docking tube opens. Dr. Hexo crosses voluntarily after deprogramming completes.
 
-- SYNOPSIS: "Federation Chancellor DeMint"
-- CLIFFSNOTES: "Senator DeMint"
-- **Fix**: Chancellor. More authoritative source is the SYNOPSIS. Update CLIFFSNOTES to match.
+**First Spark ritual**: Written as The_First_Spark_Part0_Von_Grutzen.txt. Marta Von Grutzen, October 1973. Full moon, blood of first-born calf, seven mirrors, DarkX vial in moonbeam, altered state. She feels the coal mine's location. Three months later sends Dr. Leora Henning in. Does not descend herself.
 
-**Item 5 — Rachel Vayes's public role** ✅ RESOLVED
+**Jill's bloodline**: Elsa is not Jill's ancestor. Elsa was a disciple of the Von Grutzen Order who left with the records. Jill is a descendant of Marta Von Grutzen's bloodline on the branch that chose neither the empire nor the Order — she ended up in the gray market. The reveal: Petra reads "Von Grutzen" from Elsa's preserved records. Jill hears her own family name.
 
-- **Canon**: Rachel is a news anchor and public figure. That is her cover. She is NOT the Federation Chancellor — that is DeMint.
-- The CHARACTER_BIBLE's "Chancellor of the Federation" entry is incorrect. Purge it.
-- **Fix**: Update CHARACTER_BIBLE. Rachel = news anchor (public) + Grand Admiral of the Collective (secret).
+**"Race to control the grid"**: Tyler Durden says it from belief. Ray says it independently from data. Same phrase, same underlying truth, arrived at from opposite directions. This is deliberate. Document as a thematic parallel — the two frameworks converging on the same words.
 
-**Item 6 — Ray's discovery chapter placement**
+**Sharon and the Collective**: Informant level — no patch, no rank. Assigned that designation because the Collective wanted her inside the network. She did not care about rank and did not want one. She is an independent gray-market operator who chose to work with them because the goals aligned.
 
-- CLIFFSNOTES: Flywheel discovery in "Chapter Five"
-- Working chapters: Discovery (Ray at Alpha)
-- **Fix**: Either is Ray's discovery chapter (requires reconciling with current content, which is undefined) or CLIFFSNOTES needs updating to reflect. Current working chapter list makes authoritative.
+**Red and Squirrel rank progression**: Technicians (Tier 3) during the Ray/Panama operation. Promoted to Special Agents (Tier 4) by the time of the Sharon/Emily crystal transfer. The Panama years built the promotion.
 
-**Item 7 — Fuel cell yield figures in CLIFFSNOTES**
+**The Von Grutzen Order**: Still active in Eastern Europe. Practices the full ritual tradition. Views the colony as blasphemers. Active animosity — not violent, but real.
 
-- CLIFFSNOTES: "past one hundred and eighty days, external crystal flushes begin every eleven days — forty to sixty times a standard harvest"
-- **Canon (Section 3 of this document)**: Day 180 = interior 100× + all-cell exterior deposits on 11-day cycle
-- "Forty to sixty times" ≠ "100×"
-- **Fix**: Update CLIFFSNOTES with canonical figures. The "forty to sixty times" is an older/incorrect version.
+**The Boiler Room**: Alpha Corp's LA operations center (where Emily confronts Marcus). Previously called "The Black Site" — renamed to avoid collision with the Nevada desert archive (which retains "The Black Site" / "Vance at the Black Site").
 
-**Item 8 — Colony arc absence from reference documents**
-
-- Tyler Durden, Jill, Petra, Elsa Klein, Void-Walkers — none appear in SYNOPSIS or CLIFFSNOTES
-- **Fix**: Add colony arc chapter summaries to CLIFFSNOTES. Add colony arc paragraph to SYNOPSIS.
-
-**Item 9 — Sacrifice section in CHARACTER_BIBLE**
-
-- Previously noted as "to be placed deliberately in the plot"
-- It has been placed (colony arc, Void-Walker ceremonies)
-- **Fix**: Update CHARACTER_BIBLE to reflect that this mechanic is established in the colony arc.
-
-**Item 10 — Handler names: Chip & Dale vs. Squirrel & Red** ✅ RESOLVED
-
-- **Canon**: Red and Squirrel. They are the Collective agents who handle Ray across his full arc.
-- "Chip & Dale" in the CHARACTER_BIBLE is the old name. Purge it. Replace everywhere with Red and Squirrel.
-- **Fix**: Update CHARACTER_BIBLE. Red and Squirrel are Special Agents, sunglasses patch in bag lining.
-
-**Item 11 — FEDHEX5555** ✅ RESOLVED (full arc confirmed)
-
-- **Canon**: FEDHEX5555 is Alpha Corp's vessel that follows the Golden Dawn to Saturn. Sharon's body is loaded onto it. Dr. Bruce Hexo is held aboard and forced to build/weaponize her.
-- **Identification**: Gracie (newly online) scans the ship, reads the FEDHEX5555 call sign, and identifies the bionic Sharon inside before the docking tube opens. Ray does not identify it. Red and Squirrel do not identify it. Gracie identifies it.
-- **Dr. Bruce Hexo**: New character — Federation physician, not a villain, kept notes on every system he installed in Sharon so it could be undone. His notes are how Gracie confirms the counter-program is complete.
-- **Resolution**: Sharon counter-programmed. Dr. Bruce Hexo crosses the docking tube voluntarily. Returns to Earth with the crew.
-
-**Item 12 — First Spark grandmother ritual** ✅ RESOLVED
-
-- Required scene established in Section 11 of this document
-- **Name (resolved)**: **Von Grutzen** — Wilhelm's birth surname, changed to Verguld ("to gild"). Jill Von Grutzen carries the same name. The Elsa Klein/Verguld seed is set.
-
-**Item 13 — Elsa's prophecy / Jill's bloodline** ✅ RESOLVED (corrected)
-
-- **Canon (corrected)**: Elsa is a prophetess — not Jill's ancestor.
-- Elsa's notebooks contain a PROPHECY within the founding tradition: the offspring of the founding bloodline will come to the colony.
-- Jill IS that offspring — a descendant of Wilhelm's grandmother's founding bloodline, on a branch that never took the Verguld accumulation path.
-- The reveal: Petra reads "Von Grutzen" aloud from Elsa's preserved records. Jill hears her own family name. That is the moment.
-- This thread resolves in **Book One** — during Jill's second visit to the colony, when Petra names Wilhelm's grandmother and Jill hears her own family name.
-- **Canon**: Jill's surname and bloodline connection are not stated in the early colony scenes. The reveal happens in Book One — during Jill's second visit. Petra reads "Von Grutzen" aloud from Elsa's preserved records. Jill recognizes it as her own family name. That recognition is what gives Petra permission to hand over the originals. Without it, the notebooks don't move.
-
-**Item 14 — "Race to control the grid" phrase**
-
-- Tyler Durden uses it; Jill dismisses it
-- Ray uses the identical framing, arrived at independently through data
-- Not documented in CHARACTER_BIBLE or SYNOPSIS
-- **Fix**: Document this as a deliberate thematic parallel. The two characters find the same phrase because they are looking at the same underlying structure from different angles (belief vs. data). The convergence is one of the book's quiet proofs.
-
-*End of document. Total: Comprehensive working draft. All source material incorporated. Contradictions flagged. First Spark additions specified. No content omitted.*
-
-**RESOLVED ITEMS**: 2 (Sharon Teez), 5 (Rachel = news anchor), 10 (Red and Squirrel), 11 (FEDHEX5555), 13 (Jill = Elsa's granddaughter)
-
-**REMAINING OPEN ITEMS**: 1, 3, 4, 6, 7, 8, 9, 12, 14 — these are documentation/copy fixes, not decisions. All can be applied as a batch update to the CHARACTER_BIBLE, CLIFFSNOTES, and SYNOPSIS when approved.
+**Bitboy's architecture**: Runs a pre-commercial build of the same software used to build Alpha Corp's cyber-conditioning and weaponization program — the program used on Sharon. Dr. Hexo was implementing Bitboy's architecture onto a human host. Gracie can deprogram Sharon partly because she understands the code at root level.
 
 *The bible is now decision-complete. Next step: apply all fixes to the live GitHub documents.*
