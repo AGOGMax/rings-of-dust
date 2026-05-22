@@ -106,3 +106,133 @@ The car moved through the Panama City dark, past the glass towers that threw bac
 Red drove. He did not say anything. Ray appreciated this.
 
 Somewhere over the Pacific, a Collective transport was waiting for a window.
+
+
+
+---
+
+The transit case was on the seat beside him when he boarded.
+
+Red had handed it to him at the car — no explanation, just set it down on the seat and said: "From Petra. Via three couriers. Don't open it until you're airborne." He hadn't asked what was in it. He'd been in the business of not asking long enough to understand that some gifts were only gifts once you'd earned the right to receive them.
+
+He opened it at cruising altitude.
+
+Inside: four notebooks. Handmade — cloth-covered, the cloth worn at the corners in the specific way things wear when they've been handled daily for years, then stored, then handled again. The covers were labeled in a precise hand. *1 of 4. 2 of 4.* The handwriting was methodical and compressed, the handwriting of someone who had learned early that paper was not infinite.
+
+He opened the first one.
+
+The data took three hours to read. Not because it was slow — it was the densest scientific notation he had ever encountered in a private document, dense in the way a person's notation gets dense when they are not writing for an audience. Writing for themselves. Writing to catch something before it got away.
+
+He read about the 11-day sync period. He read about the 33-day lock. He read about the exterior deposits. He read about the sacrifice mechanic — what Elsa Klein had called, in her own terminology, the *return function* — and how she had documented it as a data series rather than a belief, which meant she had not started with the belief and looked for the data, she had started with the data and arrived at what she'd called the "most accurate descriptor available." He had some sympathy for that approach.
+
+Then he got to the final notebook.
+
+The handwriting changed in the final notebook — same person, same compressed precision, but something else in it. An urgency that the earlier notebooks didn't have. The early notebooks were observation. This was conclusion.
+
+She had found the plateau.
+
+Interior crystal growth under sustained lock conditions increased, plateaued at 33 days, increased again at 180 days, and then — always, in every documented test run — leveled. She had graphed it eleven times. Eleven identical curves. And every time, at a certain height, the growth rate stopped accelerating. Not stopped growing. Stopped accelerating. A ceiling.
+
+And then she had written, in the last entry of the last notebook, a note that he read three times before he believed he was reading it correctly:
+
+*The ceiling is gravity.*
+
+*I have had access to microgravity conditions only once — a brief period aboard a Directorate survey vessel, unauthorized, not logged. The fuel cell I sealed there under the same negative-pressure conditions showed no plateau behavior in the first eleven days. The growth rate at day eleven matched the standard curve. But it did not begin to level.*
+
+*I believe: in the absence of a preferred direction, the crystals grow outward in every direction at once. There is nothing to collapse into. No preferred geometry. The ceiling does not exist because there is no floor to measure from.*
+
+*I have called this the open condition. I do not have the resources to test it at scale. I am leaving it here for the person who does.*
+
+Ray set the notebook down on the tray table.
+
+He sat for a while looking at the back of the seat in front of him.
+
+He thought about fourteen months in Panama. Eleven experiments, eleven identical curves, the plateau arriving at day 180 with the patience of something that had always known it would arrive. He had been running the same experiment Elsa Klein had run. He had reached the same ceiling. He had catalogued the ceiling as a data anomaly and filed it, because he had nowhere to put the conclusion she'd arrived at, because he had not had the piece she'd had.
+
+She had been on a Directorate survey vessel. He had been in a back room in Panama City with three fuel cell units running in rotation.
+
+Neither of them had been in zero gravity.
+
+He looked at the window. The Pacific somewhere below the clouds. Somewhere over it, a Collective transport was waiting for a window.
+
+He looked at the notebook.
+
+*I am leaving it here for the person who does.*
+
+He put the notebooks back in the transit case, one by one, and held it on his lap.
+
+He thought: *I need to meet her.*
+
+---
+
+The Collective arranged it in four days.
+
+The place was a transit apartment above a currency exchange in Singapore, the kind of apartment that had seen many people pass through it on their way to things that weren't on any manifest. It smelled like dust and good coffee. There were two chairs at a small table by the window. Jill Von Grutzen was sitting in one of them.
+
+She was younger than he'd expected. Not young — there was nothing young about the way she read a room — but younger than someone who had lived next to an asteroid colony for six years felt like she ought to be. She was wearing a work jacket with nothing on it. She had her hands around a coffee mug. She watched him come in the way someone watches a variable they're not sure about.
+
+"Ray," he said.
+
+"Jill."
+
+He sat down. Red had left coffee on the counter. He poured a cup, came back to the table.
+
+She had a notebook open in front of her — not Elsa's, her own. Small, wire-bound, the kind you got at any stationery shop. She had been writing before he arrived. She did not close it.
+
+"You read them," she said. Not a question.
+
+"Cover to cover."
+
+"The final notebook."
+
+"Three times."
+
+She nodded once. "The open condition."
+
+"The open condition." He set down his cup. "She found it in microgravity. One sample, unauthorized, on a Directorate survey vessel. Brief exposure. She documented it as a single anomalous data point and built a theoretical framework around it."
+
+"She didn't have a way to test the framework."
+
+"No." He looked at the table. "I have a way."
+
+Jill was quiet for a moment. "Station Libre."
+
+"You know it."
+
+"I know the Collective has a station. I know it's in orbit." She turned her mug in both hands. "I've never been off the asteroid except in the belt. I've never been in actual zero gravity."
+
+He said: "Neither have I."
+
+They sat with that for a moment.
+
+"The theory," he said, "is that the ceiling is gravity. That the crystal growth plateaus in Earth-normal conditions because gravity gives the crystals a preferred direction — they follow the field. In zero gravity, no preferred direction. They grow outward in every direction at once." He paused. "The plateau disappears. The 180-day curve doesn't level off. It breaks through."
+
+"And the full Grid."
+
+"All 740 cells in a full Grid begin exterior cycling continuously from Day 180 onward. Not the one-time Jackpot deposit. Recurring. Every 11 days." He said it carefully, the way you say things that feel too large to say quickly. "The full Grid becomes a perpetual engine. Interior at 100 times the standard rate. Exterior cycling indefinitely." A pause. "Alpha harvested the 11-day output and reset every cycle. They never sat with it long enough to find what was underneath it. They had the same cells I did. They just never left them alone."
+
+Jill looked at him. "Because they needed the money."
+
+"Because they were afraid of what would happen to the scarcity model if anyone found out what the cells were actually capable of."
+
+She was quiet.
+
+"The colony sacrifices cells every 11 days," she said. "They don't lock them. They don't leave them alone. They give them away." She turned her mug again. "Tyler says the sacrifice is the point. That the giving is the mechanism."
+
+"The mechanism Tyler is describing is the 11-day cycle. What Elsa documented, in the final notebook — the open condition — is what happens if you don't give them away. If you hold them and let them compound in zero gravity." He paused. "I'm not arguing with Tyler about what the ritual means. I'm saying Elsa found something underneath it that neither of them knew was there."
+
+Jill said nothing for a while.
+
+"She was right about one more thing," she said finally.
+
+"Which thing."
+
+"She said the mechanic was not designed for planetary use." Jill looked at the window — the city outside, the daylight, the ordinary midday commerce of a street that had no idea what was being said in the apartment above it. "She was right."
+
+They sat across from each other for a while without speaking.
+
+Then Ray said: "We need to go up."
+
+Jill looked at him. Not surprised. Not hesitating.
+
+"Yes," she said. "We do."
