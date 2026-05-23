@@ -199,7 +199,7 @@ Two confrontations with the machine back to back. Vance in the desert heat, stee
 
 *Merged from: The Zero-G Flywheel + Max and the Station*
 
-The open condition confirmed, then the station. Eleven runs in the Panama building — eleven times the 180-day curve that only works in zero gravity. Then Jill upgrading the station, Ray arriving via a Collective transport that doesn't appear on any manifest, 2.5G burn, tunnel vision, arrival. The flywheel is real.
+The zero condition confirmed at Station Libre. Ray arrives via a Collective transport that doesn't appear on any manifest — 2.5G burn, tunnel vision, arrival. Jill has upgraded the station. The full 180-day curve, in actual zero gravity. The flywheel is real.
 
 ---
 
