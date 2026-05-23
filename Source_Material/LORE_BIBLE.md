@@ -454,7 +454,7 @@ Taylor has iRIS locked down from launch day. This is not signal degradation — 
 
 | File | Contents |
 |------|----------|
-| *The_First_Spark_Part0_Von_Grutzen.txt* | **Chapter Zero — Von Grutzen** (October 1973): Marta Von Grutzen's ritual. She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
+| *The_First_Spark_Part0_Von_Grutzen.txt* | **Chapter Zero — Von Grutzen** (Iceland, 1938): Marta Von Grutzen's ritual. She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
 | *The_First_Spark_Part1.txt* | **Part 1 — The Coal Mine**: Dr. Leora Henning descends into Site 17-B. All personnel disappear. Government seals the site: "Stone retains memory. Do not return." |
 | *The_First_Spark_Interlude_The_Watch.txt* | **Interlude — The Watch**: Wilhelm gives Klaus the pocket watch on his 20th birthday. Von Grutzen explained. The belief system: accumulation vs. sacrifice — two expressions of the same conviction. |
 | *The_First_Spark_Part2.txt* | **Part 2 — The Accessor**: Survey team finds crystalline drives. Wilhelm's arc. |
