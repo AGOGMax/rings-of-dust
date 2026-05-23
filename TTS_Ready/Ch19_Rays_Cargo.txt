@@ -301,7 +301,7 @@ continuously, with no preferred geometry and no surface to stop them.
 
 She wrote the result once. Then again in the margin, in a different ink.
 
-She called it the open condition.
+She called it the zero condition.
 
 Her final notation was a single line, set apart from the preceding data by a
 half-page left blank:
