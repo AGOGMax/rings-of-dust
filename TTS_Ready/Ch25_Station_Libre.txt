@@ -4,253 +4,79 @@ Chapter Twenty-Five
 
 Station Libre
 
-The problem with the 180-day curve was that it shouldn't exist.
+Red left with the car fifteen minutes after they walked out of the park.
 
-Ray had run the experiment eleven times in Panama, in the back room of the building on Calle Cinquenta that Lucia had eventually converted into something approaching a proper lab — climate-controlled, magnetically shielded, three fuel cell units running in parallel on a rotation so there was always at least one in an active phase. He'd run it eleven times. He'd gotten the same result eleven times. The crystal growth on the exterior casing of the fuel cell accelerated at day 180 in a way that could not be explained by the chemistry he knew.
+Panama City in the morning had its usual density — the market district doing its
+opening business, carts and foot traffic and the particular smell of oil at
+temperature, and somewhere east of them, a few blocks into streets Ray had
+learned the names of over a long time, Alpha had people moving in the other
+direction. Red didn't say this. He didn't have to. The particular quality of a
+man who moves with useful speed and doesn't look like he's moving with useful
+speed was something Ray had come to know.
 
-He thought: I'm missing a variable.
+They were in a car within ten minutes. Gray sedan, local plates. A driver Ray
+hadn't been introduced to and didn't need to be.
 
-He listed the variables he could control. Temperature. Magnetic field strength. Humidity. The specific salts in the stabilization matrix. He had varied each of them systematically. None of them changed the curve.
+Jill had the transit case. She had set it on the seat between them and rested her
+hand on it with the ease of something carried a long way already — not nervous,
+not ceremonial. Her notebook was on her lap. She was looking out the window at
+Panama City as it passed.
 
-He listed the variables he couldn't control.
+Ray looked at it too.
 
-Gravity was on that list.
+He had learned this city the way you learn a place you are careful in — not as a
+resident, not exactly as a stranger, but as someone who had learned which corners
+were visible from which windows and which routes were efficient for a contractor
+who belonged here versus a man who was watching the place. He had walked these
+streets long enough that it had changed his gait. He would need to unlearn that.
 
-He had been trying not to think about gravity for three weeks, because thinking about it led somewhere he wasn't sure he could get to. But on the morning of his fourteenth month in Panama — a Tuesday, the kind of Tuesday that had stopped feeling different from any other day — he made coffee, sat down with his notebook, and thought about it.
+The glass towers went by. The park went by — a green shape between buildings that
+might have been the heron fountain, already behind them. The city thinned to
+highway. Highway to road. Road to nothing.
 
-The fuel cell's crystal growth was a surface phenomenon. It happened on the exterior of the casing, which meant it was affected by the boundary conditions between the cell and the surrounding air. In a normal gravity environment, those boundary conditions had a preferred direction. The convection currents moved in a pattern. The crystals grew in a pattern that followed the convection.
+Red was in the passenger seat on his phone, saying numbers in a low voice. When
+he hung up he turned.
 
-What if the pattern was the problem.
+"Two hours to pickup." He looked at Ray. "The station has new equipment. Jill's
+shipment came in three weeks ago."
 
-What if the 180-day acceleration wasn't a threshold the cell crossed — what if it was the point at which the pattern became self-sustaining? And what if, in zero gravity, with no preferred convection direction, the process began immediately at a higher rate — or skipped the plateau entirely?
+Jill was still looking out the window.
 
-He sat with his coffee and looked at this idea for a long time.
+"They've been waiting for you specifically," Red said.
 
-Then he wrote down what the test would look like.
+"Then they'll be ready when I arrive," she said.
 
-Then he wrote down what he would need to run it.
+Red looked at Ray. Ray had no addition to make.
 
-He had none of what he would need.
-
----
-
-He brought it to Red that afternoon. Red was in the building's front room, which he used as an office, which meant it contained a folding table, a chair, and a line-of-sight angle on the street. Red did most of his work in other places and used the office the way some people use a hat — as a way of being somewhere.
-
-Ray put his notebook on the table.
-
-Red looked at the page Ray was pointing to. He looked at the list of what the test required.
-
-"How much of this can you source locally," Red said.
-
-"None of it," Ray said. "The fuel cell units I have can run the test, but you need the gravity variable. You need orbit."
-
-Red was quiet for a moment.
-
-"I need to make a call," he said.
-
-He made Ray wait in the back room for forty-five minutes. When he came back he sat down at the table and looked at Ray the way he looked at things that were going to take a lot of moving parts to become real.
-
-"There's a station," Red said. "Collective infrastructure. Low-orbit. It's been operational for four years and nobody outside the network knows it exists." He paused. "Getting you there is not a simple operation."
-
-"How long would it take?"
-
-"To arrange? Three weeks, maybe four. The transport route runs on a schedule we don't control." He looked at the notebook. "But if your math is right—"
-
-"The math is right," Ray said. "I've run it eleven times."
-
-Red looked at the math. He was not a scientist. He had, however, spent fifteen years working in proximity to people who were, and he had developed an accurate sense of the difference between someone showing him work they were confident in and someone showing him work they wanted to be confident in.
-
-"I'll make the calls," he said.
+The highway opened up. The last of Panama City fell behind them, and ahead was
+nothing but distance and a Collective transport running on a schedule that did
+not appear on any manifest.
 
 ---
 
-The incident happened nine days later.
-
-It was not, strictly speaking, Ray's fault. He had been careful — consistently, deliberately careful — about the lab's security protocols. The building on Calle Cinquenta was anonymous, the equipment was registered to a materials testing firm that had three employees on paper and no physical address, and Ray had been living as Mikof Forsinko long enough that the name felt more natural than the one he'd been born with.
-
-What he had not controlled for was the fuel cell unit on its 33rd day.
-
-The 33-day mark was the acceleration peak — the point where the charge rate inside the cell jumped by a factor of ten and held there. He'd seen it eleven times. He knew what it looked like. What he had not seen before was what happened when the unit on its 33rd day was placed in proximity to an experimental arrangement where all three cells were active at the same time.
-
-The power output was significant.
-
-The building's grid registered it. The building's grid was monitored by the city's infrastructure authority, which flagged residential and commercial addresses with power draw anomalies and forwarded the flags to a department that Alpha had people inside.
-
-Red found out about the flag in four hours. He spent the next two hours moving Ray's equipment to a secondary location and the two hours after that moving Ray.
-
-"How long," Ray said, while they packed.
-
-"They'll be here tomorrow," Red said. "Maybe tonight."
-
-"I meant — how long until the station."
-
-Red looked at him. He had the expression of a man who had just finished a very fast calculation. "Two weeks," he said. "I moved the timeline up."
-
-Ray nodded. He packed his notebook. He packed the chart from the 33rd-day reading — the one he'd been looking at when the power spike hit, the curve going vertical on the page in a way that still gave him the particular sensation of looking at something that wanted to be real.
-
-He left the fuel cells. They were too large and too hot to move in the time available.
-
-He left Panama the same way he'd arrived — in the dark, in someone else's car, with a bag that wasn't his, going somewhere he'd never been. He didn't look back at the building on Calle Cinquenta. He had looked back once before, at an apartment that wasn't his anymore, and it hadn't helped.
-
-He looked at the notebook in his lap instead.
-
-He thought: zero gravity. No preferred direction. The crystals growing outward in every direction at once, no pattern to collapse into, no ceiling to hit.
-
-He thought: the plateau won't exist.
-
-He thought: I need to see it.
-
-The car moved through the Panama City dark, past the glass towers that threw back the city lights, past the park where the heron listed four degrees toward the east and did not care, past the green door that was dark now, and through the outer streets where the city thinned to highway and the highway thinned to nothing.
-
-Red drove. He did not say anything. Ray appreciated this.
-
-Somewhere over the Pacific, a Collective transport was waiting for a window.
-
-
-
----
-
-The transit case was on the seat beside him when he boarded.
-
-Red had handed it to him at the car — no explanation, just set it down on the seat and said: "From Petra. Via three couriers. Don't open it until you're airborne." He hadn't asked what was in it. He'd been in the business of not asking long enough to understand that some gifts were only gifts once you'd earned the right to receive them.
-
-He opened it at cruising altitude.
-
-Inside: four notebooks. Handmade — cloth-covered, the cloth worn at the corners in the specific way things wear when they've been handled daily for years, then stored, then handled again. The covers were labeled in a precise hand. *1 of 4. 2 of 4.* The handwriting was methodical and compressed, the handwriting of someone who had learned early that paper was not infinite.
-
-He opened the first one.
-
-The data took three hours to read. Not because it was slow — it was the densest scientific notation he had ever encountered in a private document, dense in the way a person's notation gets dense when they are not writing for an audience. Writing for themselves. Writing to catch something before it got away.
-
-He read about the 11-day sync period. He read about the 33-day lock. He read about the exterior deposits. He read about the sacrifice mechanic — what Elsa Klein had called, in her own terminology, the *return function* — and how she had documented it as a data series rather than a belief, which meant she had not started with the belief and looked for the data, she had started with the data and arrived at what she'd called the "most accurate descriptor available." He had some sympathy for that approach.
-
-Then he got to the final notebook.
-
-The handwriting changed in the final notebook — same person, same compressed precision, but something else in it. An urgency that the earlier notebooks didn't have. The early notebooks were observation. This was conclusion.
-
-She had found the plateau.
-
-Interior crystal growth under sustained lock conditions increased, plateaued at 33 days, increased again at 180 days, and then — always, in every documented test run — leveled. She had graphed it eleven times. Eleven identical curves. And every time, at a certain height, the growth rate stopped accelerating. Not stopped growing. Stopped accelerating. A ceiling.
-
-And then she had written, in the last entry of the last notebook, a note that he read three times before he believed he was reading it correctly:
-
-*The ceiling is gravity.*
-
-*I have had access to microgravity conditions only once — a brief period aboard a Directorate survey vessel, unauthorized, not logged. The fuel cell I sealed there under the same negative-pressure conditions showed no plateau behavior in the first eleven days. The growth rate at day eleven matched the standard curve. But it did not begin to level.*
-
-*I believe: in the absence of a preferred direction, the crystals grow outward in every direction at once. There is nothing to collapse into. No preferred geometry. The ceiling does not exist because there is no floor to measure from.*
-
-*I have called this the open condition. I do not have the resources to test it at scale. I am leaving it here for the person who does.*
-
-Ray set the notebook down on the tray table.
-
-He sat for a while looking at the back of the seat in front of him.
-
-He thought about fourteen months in Panama. Eleven experiments, eleven identical curves, the plateau arriving at day 180 with the patience of something that had always known it would arrive. He had been running the same experiment Elsa Klein had run. He had reached the same ceiling. He had catalogued the ceiling as a data anomaly and filed it, because he had nowhere to put the conclusion she'd arrived at, because he had not had the piece she'd had.
-
-She had been on a Directorate survey vessel. He had been in a back room in Panama City with three fuel cell units running in rotation.
-
-Neither of them had been in zero gravity.
-
-He looked at the window. The Pacific somewhere below the clouds. Somewhere over it, a Collective transport was waiting for a window.
-
-He looked at the notebook.
-
-*I am leaving it here for the person who does.*
-
-He put the notebooks back in the transit case, one by one, and held it on his lap.
-
-He thought: *I need to meet her.*
-
----
-
-The Collective arranged it in four days.
-
-The place was a transit apartment above a currency exchange in Singapore, the kind of apartment that had seen many people pass through it on their way to things that weren't on any manifest. It smelled like dust and good coffee. There were two chairs at a small table by the window. Jill Von Grutzen was sitting in one of them.
-
-She was younger than he'd expected. Not young — there was nothing young about the way she read a room — but younger than someone who had lived next to an asteroid colony for six years felt like she ought to be. She was wearing a work jacket with nothing on it. She had her hands around a coffee mug. She watched him come in the way someone watches a variable they're not sure about.
-
-"Ray," he said.
-
-"Jill."
-
-He sat down. Red had left coffee on the counter. He poured a cup, came back to the table.
-
-She had a notebook open in front of her — not Elsa's, her own. Small, wire-bound, the kind you got at any stationery shop. She had been writing before he arrived. She did not close it.
-
-"You read them," she said. Not a question.
-
-"Cover to cover."
-
-"The final notebook."
-
-"Three times."
-
-She nodded once. "The open condition."
-
-"The open condition." He set down his cup. "She found it in microgravity. One sample, unauthorized, on a Directorate survey vessel. Brief exposure. She documented it as a single anomalous data point and built a theoretical framework around it."
-
-"She didn't have a way to test the framework."
-
-"No." He looked at the table. "I have a way."
-
-Jill was quiet for a moment. "Station Libre."
-
-"You know it."
-
-"I know the Collective has a station. I know it's in orbit." She turned her mug in both hands. "I've never been off the asteroid except in the belt. I've never been in actual zero gravity."
-
-He said: "Neither have I."
-
-They sat with that for a moment.
-
-"The theory," he said, "is that the ceiling is gravity. That the crystal growth plateaus in Earth-normal conditions because gravity gives the crystals a preferred direction — they follow the field. In zero gravity, no preferred direction. They grow outward in every direction at once." He paused. "The plateau disappears. The 180-day curve doesn't level off. It breaks through."
-
-"And the full Grid."
-
-"All 740 cells in a full Grid begin exterior cycling continuously from Day 180 onward. Not the one-time Jackpot deposit. Recurring. Every 11 days." He said it carefully, the way you say things that feel too large to say quickly. "The full Grid becomes a perpetual engine. Interior at 100 times the standard rate. Exterior cycling indefinitely." A pause. "Alpha harvested the 11-day output and reset every cycle. They never sat with it long enough to find what was underneath it. They had the same cells I did. They just never left them alone."
-
-Jill looked at him. "Because they needed the money."
-
-"Because they were afraid of what would happen to the scarcity model if anyone found out what the cells were actually capable of."
-
-She was quiet.
-
-"The colony sacrifices cells every 11 days," she said. "They don't lock them. They don't leave them alone. They give them away." She turned her mug again. "Tyler says the sacrifice is the point. That the giving is the mechanism."
-
-"The mechanism Tyler is describing is the 11-day cycle. What Elsa documented, in the final notebook — the open condition — is what happens if you don't give them away. If you hold them and let them compound in zero gravity." He paused. "I'm not arguing with Tyler about what the ritual means. I'm saying Elsa found something underneath it that neither of them knew was there."
-
-Jill said nothing for a while.
-
-"She was right about one more thing," she said finally.
-
-"Which thing."
-
-"She said the mechanic was not designed for planetary use." Jill looked at the window — the city outside, the daylight, the ordinary midday commerce of a street that had no idea what was being said in the apartment above it. "She was right."
-
-They sat across from each other for a while without speaking.
-
-Then Ray said: "We need to go up."
-
-Jill looked at him. Not surprised. Not hesitating.
-
-"Yes," she said. "We do."
-
----
-
-The Collective's transport route to the station did not appear on any commercial manifest, which was the point.
-
-Ray had been told: you'll feel it. He hadn't been told what "it" meant. He found out at T-plus-four-minutes when the orbital transfer burn pushed him sideways into the harness at 2.5 Gs and held him there for forty seconds while his vision tunneled and the contents of his stomach expressed strong opinions about the situation.
+Ray had been told: you'll feel it. He hadn't been told what "it" meant. He found
+out at T-plus-four-minutes when the orbital transfer burn pushed him sideways
+into the harness at 2.5 Gs and held him there for forty seconds while his vision
+tunneled and the contents of his stomach expressed strong opinions about the
+situation.
 
 Then it stopped.
 
 The ship coasted.
 
-He opened his eyes on a window that showed him the curve of the Earth from low orbit — lit white and blue, the terminator line bisecting the Pacific in a slow diagonal — and felt the particular feeling of being somewhere he had absolutely no business being.
+He opened his eyes on a window that showed him the curve of the Earth from low
+orbit — lit white and blue, the terminator line bisecting the Pacific in a slow
+diagonal — and felt the particular feeling of being somewhere he had absolutely
+no business being.
+
+Jill was in the harness two seats forward. She had her notebook open in her lap.
+She was looking at the window with the expression of someone running new data
+through existing models.
 
 "First time?" the woman next to him said.
 
-Her name was Yael. She'd been doing this run for two years. She handed him a bag without being asked.
+Her name was Yael. She'd been doing this run for two years. She handed him a bag
+without being asked.
 
 He didn't need it. He thought about needing it. He took the bag anyway.
 
@@ -262,21 +88,58 @@ He didn't need it. He thought about needing it. He took the bag anyway.
 
 ---
 
-The station had a name that the Collective used internally — Station Libre, though Ray never heard anyone say the full name. They said "the station" or, after a few weeks, nothing at all, because there was only one place you could be saying.
+The station had a name that the Collective used internally — Station Libre, though
+Ray never heard anyone say the full name. They said "the station" or, after a few
+weeks, nothing at all, because there was only one place you could be saying.
 
-It was built in three modules connected by pressurized corridors that were wide enough for one person, which meant that two people passing each other had to do a sideways shuffle that everyone had a version of and nobody liked. The common module was the chow hall. The science module had been converted to labs. The residential module had twelve berths and a shared bathroom arrangement that had required, over the course of several years, the development of a detailed social contract.
+It was built in three modules connected by pressurized corridors that were wide
+enough for one person, which meant that two people passing each other had to do
+a sideways shuffle that everyone had a version of and nobody liked. The common
+module was the chow hall. The science module had been converted to labs. The
+residential module had twelve berths and a shared bathroom arrangement that had
+required, over the course of several years, the development of a detailed social
+contract.
 
-Ray had been given a berth and a lab bench and told that his access to the dark matter cache was conditional on a two-week orientation period. He spent the two weeks learning the station's rhythms — the shift schedule, the hot water queue, the specific drawer in the kitchen where the good coffee was kept and the separate drawer where the bad coffee was kept in case of emergencies — and observing the people who had been here longer.
+Ray had been given a berth and a lab bench and told that his access to the dark
+matter cache was conditional on a two-week orientation period. He spent the two
+weeks learning the station's rhythms — the shift schedule, the hot water queue,
+the specific drawer in the kitchen where the good coffee was kept and the
+separate drawer where the bad coffee was kept in case of emergencies — and
+observing the people who had been here longer.
 
-There were eleven of them. Scientists, mostly. One communications technician. One person whose role Ray was never able to clearly identify but who seemed to fix things when they broke, which they did with the unhurried regularity of things that lived at pressure differential.
+There were eleven of them. Scientists, mostly. One communications technician. One
+person whose role Ray was never able to clearly identify but who seemed to fix
+things when they broke, which they did with the unhurried regularity of things
+that lived at pressure differential.
 
-They were, without exception, at ease in a way he hadn't seen people at ease before. The station produced it — the enforced smallness of the space, the distance from everything else, the shared project. They had arguments about small things and agreements about large ones. They ate dinner together because the table only sat twelve and it was efficient.
+Jill was not on the two-week restriction. She had come up with a crate of
+upgraded equipment — the colony's gold windfall surplus converted into resonance
+scanners and precision instruments and three replacement pressure seals that the
+station had needed for a year and a half. Before Ray had finished his second day
+of orientation, she had reorganized the lab bench layout, taught the
+communications technician how to calibrate the new scanner, and established an
+understanding with the person Ray couldn't classify about the pressure seal
+installation sequence. The eleven people who had been here longer were, by the
+end of the first week, deferential to her in ways they were not deferential to
+Ray.
+
+He did not find this surprising.
+
+They were, without exception, at ease in a way he hadn't seen people at ease
+before. The station produced it — the enforced smallness of the space, the
+distance from everything else, the shared project. They had arguments about small
+things and agreements about large ones. They ate dinner together because the
+table only sat twelve and it was efficient.
 
 In the third week, someone brought out the bottle.
 
 ---
 
-The game was called Whiskey Slap, which was a straightforward name for a straightforward game. You spun the bottle on the table — a proper glass bottle, transported up at some point for precisely this purpose, now empty and serving its second career as sporting equipment. Whoever it pointed to took a shot of whiskey and got slapped by the spinner.
+The game was called Whiskey Slap, which was a straightforward name for a
+straightforward game. You spun the bottle on the table — a proper glass bottle,
+transported up at some point for precisely this purpose, now empty and serving
+its second career as sporting equipment. Whoever it pointed to took a shot of
+whiskey and got slapped by the spinner.
 
 Not hard. Hard enough.
 
@@ -286,9 +149,12 @@ The whiskey came from a different bottle.
 
 "Because in low-g," Yael said, "the burn takes longer to hit. Slap helps."
 
-They were at approximately a third of Earth gravity. The slap hit at roughly the same time as the whiskey.
+They were at approximately a third of Earth gravity. The slap hit at roughly the
+same time as the whiskey.
 
-Ray lost twice his first round. He took the shots. He received the slaps. The second one was from a materials scientist named Dae-jung who was, as Ray had observed over three weeks, very cheerful and also had very large hands.
+Ray lost twice his first round. He took the shots. He received the slaps. The
+second one was from a materials scientist named Dae-jung who was, as Ray had
+observed over three weeks, very cheerful and also had very large hands.
 
 "Welcome to the station," Dae-jung said.
 
@@ -298,13 +164,21 @@ Ray lost twice his first round. He took the shots. He received the slaps. The se
 
 He found the flywheel in month six.
 
-It was not a discovery in the sense he'd been trained to think of discovery — the sudden illumination, the dramatic notation in the lab book. It was more like: he had been running the standard protocol, and it was on day eleven — the morning the resonance in the casings went quiet and the sync completed — that he made the first discovery the station made possible.
+It was not a discovery in the sense he'd been trained to think of discovery — the
+sudden illumination, the dramatic notation in the lab book. It was more like: he
+had been running the standard protocol, and it was on day eleven — the morning
+the resonance in the casings went quiet and the sync completed — that he made
+the first discovery the station made possible.
 
-He had been scanning all 740 casings. Routine post-sync check. He was at Cell 304 when he stopped.
+He had been scanning all 740 casings. Routine post-sync check. He was at Cell
+304 when he stopped.
 
 Cell 304 had something on the outside.
 
-Not internal growth. Exterior — a mass of darker matter crystals on the outer surface of the casing, larger than anything he had pulled from a single unit at Alpha. He measured it. He measured it again. He finished scanning the rest of the Grid.
+Not internal growth. Exterior — a mass of darker matter crystals on the outer
+surface of the casing, larger than anything he had pulled from a single unit at
+Alpha. He measured it. He measured it again. He finished scanning the rest of
+the Grid.
 
 The other 739 cells had nothing on the outside.
 
@@ -314,39 +188,62 @@ Dae-jung looked at Cell 304. He looked at the other 739. He looked at Ray.
 
 "One out of seven forty," he said. Which was a statement, not a question.
 
-"Random," Ray said. "You won't know which cell until you scan all of them. And it only happens once — after the initial sync. Not again. You get one Jackpot per new Grid. You just don't know where it's going to land."
+"Random," Ray said. "You won't know which cell until you scan all of them. And
+it only happens once — after the initial sync. Not again. You get one Jackpot
+per new Grid. You just don't know where it's going to land."
 
 "And the magnitude—"
 
-"Larger than anything Alpha has on record from a single unit. By a significant margin."
+"Larger than anything Alpha has on record from a single unit. By a significant
+margin."
 
 Dae-jung sat down.
 
-It became a thing they did — at the end of every new Grid's first sync cycle, whoever walked the casings first said the same word when they found it. Quietly. The way you say something that is true and large and you are not yet sure what to do with.
+It became a thing they did — at the end of every new Grid's first sync cycle,
+whoever walked the casings first said the same word when they found it. Quietly.
+The way you say something that is true and large and you are not yet sure what
+to do with.
 
 Jackpot.
 
-Nobody had decided this would happen. It had simply started happening and continued.
+Nobody had decided this would happen. It had simply started happening and
+continued.
 
-He did not know that the exact same word had been shouted in Alpha's laboratories — years earlier, by people in better-lit rooms with better instruments, who had found the same thing and understood immediately what it meant for everyone who was not in the room.
+He did not know that the exact same word had been shouted in Alpha's laboratories
+— years earlier, by people in better-lit rooms with better instruments, who had
+found the same thing and understood immediately what it meant for everyone who
+was not in the room.
 
 They kept the Grid locked.
 
-At day 33, the internal growth jumped. The crystals inside the locked casings accelerated to ten times the rate of any unlocked unit — the same thing he had shown Alpha, confirmed now in zero gravity, running cleaner than anything he'd measured on the ground. He logged it and kept going.
+At day 33, the internal growth jumped. The crystals inside the locked casings
+accelerated to ten times the rate of any unlocked unit — the same thing he had
+shown Alpha, confirmed now in zero gravity, running cleaner than anything he'd
+measured on the ground. He logged it and kept going.
 
 On day 180, something changed again.
 
-He went in that morning the same way he went in every morning — notebook, instruments, the specific quality of attention you maintain when you have been doing something carefully for a long time and do not want to be the person who misses something by assuming it will be the same as yesterday.
+He went in that morning the same way he went in every morning — notebook,
+instruments, the specific quality of attention you maintain when you have been
+doing something carefully for a long time and do not want to be the person who
+misses something by assuming it will be the same as yesterday.
 
 It was not the same as yesterday.
 
 Every cell in the Grid had something on the outside.
 
-Not Jackpot magnitude — not the single massive one-time deposit from day 11. Smaller. But exterior, on all 740, and when he scanned on day 191 they were there again. Day 202: all 740, slightly larger. The cycle did not stop. Every cell locked for 180 days was now producing exterior deposits on an eleven-day interval, continuously, for as long as the lock held.
+Not Jackpot magnitude — not the single massive one-time deposit from day 11.
+Smaller. But exterior, on all 740, and when he scanned on day 191 they were
+there again. Day 202: all 740, slightly larger. The cycle did not stop. Every
+cell locked for 180 days was now producing exterior deposits on an eleven-day
+interval, continuously, for as long as the lock held.
 
 He checked the interior readings.
 
-The internal crystal growth — running at ten times the unlocked rate since day 33 — had jumped again. One hundred times the rate of an unlocked cell. The interior was producing darker matter at a scale that made the ten-times figure look like a rounding error.
+The internal crystal growth — running at ten times the unlocked rate since day 33
+— had jumped again. One hundred times the rate of an unlocked cell. The interior
+was producing darker matter at a scale that made the ten-times figure look like
+a rounding error.
 
 He went and got Dae-jung.
 
@@ -354,7 +251,12 @@ Dae-jung looked at the readings for a long time.
 
 "What does this mean," he said. Which was a statement, not a question.
 
-"It means," Ray said, "that at 180 days, everything accelerates. The interior goes from ten times to a hundred times the unlocked rate. And on top of that, every cell starts producing exterior deposits on an eleven-day cycle. All of them. Smaller than the Jackpot, but continuous — every eleven days until you break the lock." He paused. "Unlimited new darker matter from existing units. No new material. No bottleneck. And it doesn't stop."
+"It means," Ray said, "that at 180 days, everything accelerates. The interior
+goes from ten times to a hundred times the unlocked rate. And on top of that,
+every cell starts producing exterior deposits on an eleven-day cycle. All of
+them. Smaller than the Jackpot, but continuous — every eleven days until you
+break the lock." He paused. "Unlimited new darker matter from existing units.
+No new material. No bottleneck. And it doesn't stop."
 
 Dae-jung sat down again. He had been sitting down a lot lately.
 
@@ -362,21 +264,66 @@ Dae-jung sat down again. He had been sitting down a lot lately.
 
 "Was a choice," Ray said. "They knew. They've known since before they fired me."
 
-He was thinking about Alpha's face in the lab. The specific expression. The room going quiet in the specific way.
+He was thinking about Alpha's face in the lab. The specific expression. The room
+going quiet in the specific way.
 
-They had seen it before he had. They'd understood it before he had. And they'd decided, before he'd finished his sentence, that he was never going to tell anyone.
+They had seen it before he had. They'd understood it before he had. And they'd
+decided, before he'd finished his sentence, that he was never going to tell
+anyone.
 
 They'd been wrong about that.
 
 ---
 
-Rachel arrived on a Tuesday, four months before the Grand Hall hearing. She came on the same transport Ray had taken — same burn, same two and a half g, same window with the curve of the Earth. She didn't use the bag.
+He ran the unlock experiment three times.
 
-She had her press credentials and a recorder and three charged batteries for the recorder, which she'd been told to bring because the station ran on a different voltage standard than anywhere else she'd worked.
+The first time, he broke the lock on a single unit at day 33 — peak internal
+rate. Interior growth rate dropped to baseline within six hours. The exterior
+was clean: nothing deposited, nothing forming. The mechanism required the lock.
+Without the lock, the compound was dormant.
+
+Second run: unlocked at day 90. Same result. The cell went quiet within hours.
+
+Third run: unlocked at day 22, before the 33-day acceleration. The cell returned
+to standard within hours.
+
+Consistent across all three runs: unlock at any stage, everything stops. You
+could not harvest the compound and maintain the lock. You had to choose. Alpha
+had always chosen harvest. They had never found out what they were giving up.
+
+He put this in the notebook. He added it next to Elsa Klein's three hundred and
+sixty-nine documented runs, which he had now confirmed in full — every mechanic
+she had mapped, every threshold she had logged, the 11-day cycle, the 33-day
+lock, the 180-day breakthrough, the zero condition: all of it confirmed, all of
+it exact.
+
+She had been right. Working alone on an asteroid with limited support and one
+unauthorized twelve-minute window on a Directorate survey vessel, she had
+documented the complete theoretical framework for a mechanism that changed the
+energy calculus of an entire civilization.
+
+He thought about the notebooks. Worn at the corners from years of daily handling.
+Left in four cloth-covered volumes for whoever came next.
+
+He sat with the notebook in his lap for a while.
+
+---
+
+Rachel arrived on a Tuesday, four months before the Grand Hall hearing. She came
+on the same transport Ray had taken — same burn, same two and a half g, same
+window with the curve of the Earth. She didn't use the bag.
+
+She had her press credentials and a recorder and three charged batteries for the
+recorder, which she'd been told to bring because the station ran on a different
+voltage standard than anywhere else she'd worked.
 
 Ray met her at the airlock.
 
-He'd been told she was coming. He'd been told who she was — not her Collective role, just her public one — and he'd recognized her face from the Alpha Corp broadcast announcements he'd spent years watching. The one they used when they needed someone credible to explain why the shortage wasn't their fault, why the timeline kept moving, why patience was the reasonable position.
+He'd been told she was coming. He'd been told who she was — not her Collective
+role, just her public one — and he'd recognized her face from the Alpha Corp
+broadcast announcements he'd spent years watching. The one they used when they
+needed someone credible to explain why the shortage wasn't their fault, why the
+timeline kept moving, why patience was the reasonable position.
 
 He'd found that interesting, before he knew anything else about her.
 
@@ -384,11 +331,18 @@ He'd found that interesting, before he knew anything else about her.
 
 "Ray," he said. "Here I'm just Ray."
 
-She looked at him for a moment — the look of someone recalibrating, not the name but the person attached to it. "Ray," she said. "Okay."
+She looked at him for a moment — the look of someone recalibrating, not the name
+but the person attached to it. "Ray," she said. "Okay."
 
-He showed her the lab. He showed her the data. He showed her the 180-day curve, the crystal growth, the numbers he had now run in triplicate across seven different fuel cell units with six different operators to make sure that what he was looking at was not specific to his method, his instruments, or his hope.
+He showed her the lab. He showed her the data. He showed her the 180-day curve,
+the crystal growth, the numbers he had now run in triplicate across seven
+different fuel cell units with six different operators to make sure that what he
+was looking at was not specific to his method, his instruments, or his hope.
 
-She asked good questions. Clear, specific, the kind that showed she'd read the background material before she arrived. She did not pretend to understand the chemistry when she didn't, and she didn't pretend not to understand it when she did.
+She asked good questions. Clear, specific, the kind that showed she'd read the
+background material before she arrived. She did not pretend to understand the
+chemistry when she didn't, and she didn't pretend not to understand it when she
+did.
 
 "Alpha suppressed this," she said.
 
@@ -396,11 +350,13 @@ She asked good questions. Clear, specific, the kind that showed she'd read the b
 
 "And you're the only independent source who can verify it."
 
-"The station can verify it. Every person here can verify it. I'm just the one who found it first."
+"The station can verify it. Every person here can verify it. I'm just the one
+who found it first."
 
 She looked at the crystal samples on the bench. "When this goes public—"
 
-"The shortage ends," he said. "Not in five years. In months. The infrastructure's already half-built. They stopped it from working on purpose."
+"The shortage ends," he said. "Not in five years. In months. The infrastructure's
+already half-built. They stopped it from working on purpose."
 
 She was quiet for a moment.
 
@@ -408,14 +364,17 @@ She was quiet for a moment.
 
 He hadn't expected that. He looked at her.
 
-"I've known for a long time," she said. "I needed to be able to prove it." She gestured at the lab. "Now I can."
+"I've known for a long time," she said. "I needed to be able to prove it." She
+gestured at the lab. "Now I can."
 
-Outside the module window, the Earth made its slow rotation. The terminator line moved across the Atlantic.
+Outside the module window, the Earth made its slow rotation. The terminator line
+moved across the Atlantic.
 
 "What happens next?" Ray asked.
 
 "The Grand Hall," she said. "And then everything changes."
 
-He looked at the curve on the display. Seven separate test runs. Seven identical results.
+He looked at the curve on the display. Seven separate test runs. Seven identical
+results.
 
 "Yeah," he said. "It does."
