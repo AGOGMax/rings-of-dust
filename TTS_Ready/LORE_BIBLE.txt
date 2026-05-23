@@ -1,4 +1,4 @@
-h# RINGS OF DUST — MASTER LORE BIBLE
+# RINGS OF DUST — MASTER LORE BIBLE
 *This is the source of truth for Rings of Dust. All other documents — CHARACTER_BIBLE.md, STORY_BIBLE.md, CLIFFSNOTES, SYNOPSIS, chapter drafts — refer to this document. This document does not refer to them. TRotR (Rings of the Reich) is a separate parallel-universe spin-off. This document does not draw from it unless explicitly instructed.*
 
 ## Significant Numbers
@@ -14,6 +14,25 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 | **369** | Number of test runs in Elsa Klein's research notebooks. Number of victims from the Polaris explosion — the disaster Cole captained. Also the number of people in the original Colony founding party: 369 went out to establish it; 11 survived. The same number lives in the science, in the catastrophe, and in the colony's founding scar. |
 | **5555** | FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. After Sharon is shot, Alpha Corp loads her body onto FEDHEX5555 — where Dr. Bruce Hexo, against his will, builds and weaponizes her. The ship follows the Golden Dawn to Saturn. Gracie (newly online) scans the approaching vessel, reads the FEDHEX5555 call sign, and identifies the figures inside — including the bionic Sharon. |
 | **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
+
+## World & Setting
+
+**Year**: 2043
+
+**The energy economy**: The world runs on fuel cells powered by Darker Matter crystals. Darker Matter (processed from raw DarkX plasma) is the dominant energy source globally. Supply is controlled, pricing is managed, and the shortage that has defined the post-2030 era is not an accident.
+
+**The energy crisis origin**: The crisis did not begin with a failed experiment. It began when the global banking system moved against energy cryptocurrency — systematically targeting the miners and nodes that had been building a decentralized energy grid outside institutional control. The attacks were coordinated: regulatory pressure, liquidity freezes, infrastructure seizures. The grid collapsed. The Collective was born in that collapse — not as a resistance movement but as the surviving infrastructure. The people who had been running the nodes went underground and kept running them.
+
+The Polaris catastrophe then aggravated the crisis by disrupting the DarkX supply chain at the worst possible moment. Alpha Corp did not yet know how to harness Darker Matter — that roadmap came from Ray. When Ray brought his findings to Alpha, they recognized immediately what it meant for them, classified everything, and went to work capturing the solution.
+
+**The core secret**: The shortage is a choice. **Ray discovered it.** Alpha Corp's response to Ray's findings was not research. It was capture. Alpha destroyed viable product to suppress supply, built a shadow government around the artificial gap, and spent years systematically worsening the energy crisis they now had the only solution to. By the time Cole Nova walked out of his cabin near Sequoia National Park, Alpha had used every one of those years.
+
+**The endgame — the Rapture**: The energy crisis was a five-year holding pattern. The real play is the Rapture — the Saturn gravitational event that will seal off the outer rings and end raw DarkX harvesting for a generation. Alpha Corp's plan: send the Golden Dawn to harvest everything possible before the window closes, stage a fatal "accident" on the ship (Taylor is the inside man), have FEDHEX5555 receive the entire harvest as the only vessel in range, and emerge from the Rapture as the sole holder of the last accessible raw DarkX supply on Earth. After that, the energy crisis is not a problem to be solved. It is a permanent condition to be managed — by Alpha Corp, indefinitely. The shortage becomes structural. The solution belongs to them. Everything else is patience.
+
+**Institutions**:
+- **Alpha Corporation**: The true governing power. Founded by Klaus Verguld in 1991. Marcus Verguld's current instrument. Runs money through the Federation. Federation budget is effectively Alpha Corp money. "The Federation is crawling with MY employees." (Marcus)
+- **The Federation**: NASA equivalent — real government, real scientists, real Astros. Captured at top levels by Alpha Corp. Hierarchy extends to the Chancellor level (DeMint).
+- **The Collective**: Distributed resistance network. Volunteers, scientists, former Federation personnel. Not an army. A living network — founded to build the world they want inside the walls of the world that exists.
 
 ## DarkX & Darker Matter — Canon Science
 
@@ -165,14 +184,6 @@ Petra says "You're not her granddaughter" — technically correct. The notebooks
 ### The bloodline reveal
 Petra reads from Elsa's notebooks — specifically the preserved records of Wilhelm's grandmother. She speaks the surname: **Von Grutzen** — the name before Wilhelm changed it to Verguld. Jill hears it and recognizes it as her own family name. That is the moment. Without it, Petra does not hand over the notebooks. Without the notebooks, Jill has nothing to bring to Ray. Without Ray and the notebooks, the zero condition goes unconfirmed and the antigravity project stalls. It is not just character payoff — it is the load-bearing event that connects the colony arc to the science arc.
 
-## Key recurring objects & motifs
-
-- **The "Jackpot" patch** — hand-stitched, irritates Cole's chest, treasured. Survives the book.
-- **The makeshift copper-wire ring** with the smooth pebble. Cole makes it, gives it to Sharon before launch. She is wearing it when she dies. See Recurring Motifs.
-- **The Collective droplet sigil** — water drop inside a circle. *"No raindrop thinks it's the flood."*
-- **The thumb drive figurine** — Conrad's Enterprise keychain. Two payloads. See Dr. Conrad's section.
-- **Bitboy's blue-stained mouth** — he raids the blackberry preserves in. Recur in the bowling-alley scene as the visual rhyme that closes the book.
-
 ## Factions & Power Hierarchy
 
 ### The chain of control (locked canon)
@@ -258,10 +269,6 @@ The Grand Admiral is referenced as rumor and legend throughout the book. Charact
 
 ### Villain attribution
 The villain named in this story is **Alpha Corp** (or Marcus by name). The Federation takes orders. It does not give them — not at the level that matters. A Federation lieutenant issuing a command is accurate; the Federation as the entity behind the crisis or the surveillance is not. The Federation is the hand. Alpha Corp is the brain. Marcus is the will.
-
-## Sharon Teez — name disambiguation
-
-**Canon**: Sharon's surname is **Teez**. There is a character of the same name in TRotR (Rings of the Reich), which is a separate parallel-universe spin-off. They are distinct. The TRotR Sharon Teez is not a source for this document.
 
 ## Main book characters (Rings of Dust)
 
@@ -454,18 +461,6 @@ Taylor has iRIS locked down from launch day. This is not signal degradation — 
 - **Voice**: Polished, controlled, with flashes of warmth she doesn't mean to show. On reread, those warmth flashes are the real her leaking through.
 - **Rank insignia**: Bronze star with olive leaf wreath. Singular. No other rank has it.
 
-### The Verguld Dynasty (locked canon)
-
-### First Spark — File Structure (as written)
-
-| File | Contents |
-|------|----------|
-| *The_First_Spark_Part0_Von_Grutzen.txt* | **Chapter Zero — Von Grutzen** (Iceland, 1938): Marta Von Grutzen's ritual. She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
-| *The_First_Spark_Part1.txt* | **Part 1 — The Coal Mine**: Dr. Leora Henning descends into Site 17-B. All personnel disappear. Government seals the site: "Stone retains memory. Do not return." |
-| *The_First_Spark_Interlude_The_Watch.txt* | **Interlude — The Watch**: Wilhelm gives Klaus the pocket watch on his 20th birthday. Von Grutzen explained. The belief system: accumulation vs. sacrifice — two expressions of the same conviction. |
-| *The_First_Spark_Part2.txt* | **Part 2 — The Accessor**: Survey team finds crystalline drives. Wilhelm's arc. |
-| *The_First_Spark_Part3.txt* | **Part 3 — Klaus in America**: Klaus on freighter to Long Beach. Culver City. Kitchen table with young Marcus. Villain-origin canon. |
-
 ```
 Wilhelm Verguld (The First Spark, Part 2)
  ↓
@@ -647,25 +642,6 @@ The Order is the original spiritual organization Marta Von Grutzen built in East
 
 **Their current state**: They are not a threat in the conventional sense. They do not have weapons or political reach. What they have is the original practice, the original records (their copies — Elsa took hers), and a long memory. They are watching.
 
-## World & Setting
-
-**Year**: 2043
-
-**The energy economy**: The world runs on fuel cells powered by Darker Matter crystals. Darker Matter (processed from raw DarkX plasma) is the dominant energy source globally. Supply is controlled, pricing is managed, and the shortage that has defined the post-2030 era is not an accident.
-
-**The energy crisis origin**: The crisis did not begin with a failed experiment. It began when the global banking system moved against energy cryptocurrency — systematically targeting the miners and nodes that had been building a decentralized energy grid outside institutional control. The attacks were coordinated: regulatory pressure, liquidity freezes, infrastructure seizures. The grid collapsed. The Collective was born in that collapse — not as a resistance movement but as the surviving infrastructure. The people who had been running the nodes went underground and kept running them.
-
-The Polaris catastrophe then aggravated the crisis by disrupting the DarkX supply chain at the worst possible moment. Alpha Corp did not yet know how to harness Darker Matter — that roadmap came from Ray. When Ray brought his findings to Alpha, they recognized immediately what it meant for them, classified everything, and went to work capturing the solution.
-
-**The core secret**: The shortage is a choice. **Ray discovered it.** Alpha Corp's response to Ray's findings was not research. It was capture. Alpha destroyed viable product to suppress supply, built a shadow government around the artificial gap, and spent years systematically worsening the energy crisis they now had the only solution to. By the time Cole Nova walked out of his cabin near Sequoia National Park, Alpha had used every one of those years.
-
-**The endgame — the Rapture**: The energy crisis was a five-year holding pattern. The real play is the Rapture — the Saturn gravitational event that will seal off the outer rings and end raw DarkX harvesting for a generation. Alpha Corp's plan: send the Golden Dawn to harvest everything possible before the window closes, stage a fatal "accident" on the ship (Taylor is the inside man), have FEDHEX5555 receive the entire harvest as the only vessel in range, and emerge from the Rapture as the sole holder of the last accessible raw DarkX supply on Earth. After that, the energy crisis is not a problem to be solved. It is a permanent condition to be managed — by Alpha Corp, indefinitely. The shortage becomes structural. The solution belongs to them. Everything else is patience.
-
-**Institutions**:
-- **Alpha Corporation**: The true governing power. Founded by Klaus Verguld in 1991. Marcus Verguld's current instrument. Runs money through the Federation. Federation budget is effectively Alpha Corp money. "The Federation is crawling with MY employees." (Marcus)
-- **The Federation**: NASA equivalent — real government, real scientists, real Astros. Captured at top levels by Alpha Corp. Hierarchy extends to the Chancellor level (DeMint).
-- **The Collective**: Distributed resistance network. Volunteers, scientists, former Federation personnel. Not an army. A living network — founded to build the world they want inside the walls of the world that exists.
-
 ## Story Events
 
 **Polaris**: Polaris explodes at Saturn's rings. 369 crew killed. Cole sole survivor (pulled out by Ricardo and Bitboy). Cole's first raw DarkX contact happens here.
@@ -688,7 +664,6 @@ The Polaris catastrophe then aggravated the crisis by disrupting the DarkX suppl
 
 **The Cabin**: Bitboy overdoses (ethanol); Cole runs stomach pump. News broadcast (Rachel reporting) mentions Conrad's disappearance. Ricardo arrives with 30-rack. Emily and Sharon arrive. Cole rubs the Enterprise figurine — dark silver stain on thumb (counter-program absorbs). Data drive decrypted. DeMint's letter. Mission accepted.
 
-**** — *[Placement disputed: see Contradictions Log, Item 6]*
 
 **The Ring**: Cabin evening. SUV loaded. Sharon kisses Cole. Ricardo jokes. Cole fashions copper-wire ring from hummingbird feeder wire around a smooth pebble. "For the first time I want to give you something to hold onto." Black SUV highway attack. Bitboy neutralizes. Cole photographs driver's license: Brandon T. Davis, Pasadena, 41.
 
@@ -756,6 +731,14 @@ The Polaris catastrophe then aggravated the crisis by disrupting the DarkX suppl
 
 ## Thematic Spine & Motifs
 
+### Key Objects
+
+- **The "Jackpot" patch** — hand-stitched, irritates Cole's chest, treasured. Survives the book.
+- **The makeshift copper-wire ring** with the smooth pebble. Cole makes it, gives it to Sharon before launch. She is wearing it when she dies. See Recurring Motifs.
+- **The Collective droplet sigil** — water drop inside a circle. *"No raindrop thinks it's the flood."*
+- **The thumb drive figurine** — Conrad's Enterprise keychain. Two payloads. See Dr. Conrad's section.
+- **Bitboy's blue-stained mouth** — he raids the blackberry preserves. Recurs in the bowling-alley scene as the visual rhyme that closes the book.
+
 ### The Spine
 
 *"A novel about the distance between what is kept from people and what they would do with it if they knew — and about the specific kind of person who decides to spend a decade building the world they want inside the walls of the world that exists."*
@@ -793,6 +776,16 @@ The DarkX sacrifice mechanic establishes two explanatory frameworks that coexist
 The text holds both. The Epilogue C line — "It was always in the reaching" — is the closest the book comes to a position, and it applies to both frameworks simultaneously.
 
 ## First Spark Prequel
+
+### File Structure (as written)
+
+| File | Contents |
+|------|----------|
+| *The_First_Spark_Part0_Von_Grutzen.txt* | **Chapter Zero — Von Grutzen** (Iceland, 1938): Marta Von Grutzen's ritual. She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
+| *The_First_Spark_Part1.txt* | **Part 1 — The Coal Mine**: Dr. Leora Henning descends into Site 17-B. All personnel disappear. Government seals the site: "Stone retains memory. Do not return." |
+| *The_First_Spark_Interlude_The_Watch.txt* | **Interlude — The Watch**: Wilhelm gives Klaus the pocket watch on his 20th birthday. Von Grutzen explained. The belief system: accumulation vs. sacrifice — two expressions of the same conviction. |
+| *The_First_Spark_Part2.txt* | **Part 2 — The Accessor**: Survey team finds crystalline drives. Wilhelm's arc. |
+| *The_First_Spark_Part3.txt* | **Part 3 — Klaus in America**: Klaus on freighter to Long Beach. Culver City. Kitchen table with young Marcus. Villain-origin canon. |
 
 ### Scene 1: Grandmother's Ritual (Part 0 — Von Grutzen, written)
 
