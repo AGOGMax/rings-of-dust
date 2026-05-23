@@ -200,8 +200,7 @@ under a name that wasn't his.
 
 And then it wouldn't.
 
-"Red is at the transit house," Squirrel said. "There's a clean route to the airport
-through the market district. Your extraction flight is at seven."
+"Red is at the transit house," Squirrel said.
 
 Ray nodded.
 
@@ -293,14 +292,6 @@ He breathed.
 
 "Okay."
 
-"The extraction flight is at seven."
-
-"Yes."
-
-"Through the market district."
-
-"Red knows the route."
-
 Ray looked at the heron one more time. He thought he might miss it, slightly —
 the degree of tilt, the empty basin, the specific quality of something that was
 going to keep listing east for the rest of its existence without anyone seeing a
@@ -316,7 +307,7 @@ belonged somewhere, or who had learned well enough how to look like he did.
 
 Squirrel folded the newspaper. He did not follow immediately. He watched Ray walk
 away, until Ray was at the path's edge and turning toward the market district
-and Red and the transit house and the seven o'clock flight, and then Squirrel sat
+and Red and the transit house, and then Squirrel sat
 for another moment on the second bench in the park near the hardware store, six
 blocks from a building where a drive's worth of truth was already absent from
 its slot, and he thought about the particular quality of a person who does the
@@ -335,61 +326,25 @@ walked out of the park in the direction that was not the direction Ray had gone.
 
 The transit house was three blocks into the market district, above a cell repair
 shop with a handwritten hours sign taped to the inside of the glass. Red was
-already at the car — a clean gray sedan, local plates, engine running, a driver
-Ray hadn't been introduced to and didn't need to be.
+there — expected. The woman at the small table near the window was not.
 
-Red held out a carrying case. Small, rigid, the kind designed for delicate
-equipment. The weight of it was modest and specific.
+She was younger than Ray would have imagined, though he hadn't known to expect
+anything. Work jacket, nothing on it — no patches, no insignia, no indication
+that she had recently come from an asteroid colony the Federation had flagged as
+a religious extremist cult. Her own wire-bound notebook was open in front of
+her, with the quality of a notebook that gets opened the moment its owner sits
+down. She had a pen behind her ear.
 
-"From Petra. Via three couriers." He paused. "Don't open it until you're
-airborne."
+A transit case sat on the table beside her.
 
-Ray took it. He didn't ask what was inside. Something in the weight of it —
-the density of paper and cloth rather than equipment or data drives — told him
-it would be self-explanatory when the time came. He put it in the carry-on.
+"Jill Von Grutzen," Red said, and stepped back.
 
-Red handed him the boarding pass. "Flight's at seven. You'll want to move."
+She looked at Ray. He looked at her. Neither of them seemed in a hurry.
 
-The sedan pulled away. Ray walked the remaining half-block to the terminal
-entrance under a sky going dark from the east, the particular late-afternoon
-smell of a city unaware of itself, and did not look back.
+She put her hand on the transit case and slid it across the table toward him.
+"From Petra." She paused. "She said you'd know what to do with them."
 
----
-
-Ray boarded the seven o'clock flight under his own name.
-
-The passport scan took three seconds. The agent at the desk looked at the photo,
-looked at him, handed it back, and turned to the next person. Ray walked through
-the gate with the carry-on that had been packed for forty-eight hours and a
-boarding pass that the Collective's transit coordinator had issued under the
-same route as any scientific conference attendee leaving Panama for the week.
-
-He found his seat. He put the carry-on in the overhead. He sat down.
-
-The aircraft began its pre-departure sequence — the overhead announcements, the
-safety demonstration, the push back from the gate, the taxi to the runway. Ray
-watched the terminal lights move past the window. He watched the runway lights
-resolve into a line. He felt the acceleration, the geometry of the nose coming
-up, the moment of departure.
-
-Below him, the city lights spread out in their grid — the parallel lines of the
-streets, the clustered brightness of the commercial district, the darker gaps of
-parks and water. He could see, at the edge of his window, the glow of the Alpha
-Corp campus across the industrial waterway. It looked, from above, like any
-other light. It was the same wattage as the residential blocks around it, the
-same color, the same spread.
-
-He turned away from the window.
-
-He closed his eyes.
-
-He sat with it for a while — the altitude, the release, the particular quality
-of having put something down that you had been carrying for a long time. The
-body's accounting was not yet complete. He let it run.
-
-When the seat belt sign clicked off, he reached for the carry-on.
-
-He pulled out the transit case and set it on the tray table.
+Ray sat down. He opened the case.
 
 Four notebooks. Cloth-covered, dark blue, worn at the corners from years of
 daily handling — the kind of wear that only accumulates on something opened and
@@ -397,32 +352,34 @@ read and set down and picked up again, over years, by the same pair of hands.
 A strip of tape along the spine of the first, penciled in block letters:
 *E. KLEIN — VOL. I.*
 
-He opened it.
+He looked at it for a moment.
 
-The handwriting was organized and deliberate — an engineer's hand trained in
-clarity. The first entry was dated. Ray ran the math quietly. She had been
-writing this before he discovered the vortex at Alpha Corp. Before Alpha had
-their version of it. Before the suppression or the patents or Disposal Protocol
-Eleven or the seventeen months of batch logs he had spent four days reading in a
-building in Panama. She was writing it from an asteroid. She had gone there with
-369 people. Eleven of them were still standing when she picked up this pen.
+He looked up at Jill.
 
-He read.
+"I'll need a few hours," he said.
+
+"I know," she said. "I've read them."
+
+Red left them.
+
+---
+
+He read through the night.
 
 The runs were numbered. Three hundred and sixty-nine of them — meticulous,
-cross-referenced, dated in her block-letter hand. The 11-day cycle. The negative
-pressure variable. The 33-day lock mechanic. The 180-day threshold. All of it
-mapped, years before Alpha Corp had named any of it, years before he had sealed
-a fuel cell in his locker on a Friday afternoon because he hadn't felt like
-carrying it across campus.
+cross-referenced, dated in her block-letter hand. The 11-day cycle. The
+negative pressure variable. The 33-day lock mechanic. The 180-day threshold.
+All of it mapped, years before Alpha Corp had named any of it, years before he
+had sealed a fuel cell in his locker on a Friday afternoon because he hadn't
+felt like carrying it across campus.
 
 She had been here first.
 
-He turned pages. Hours passed. He was somewhere in the two hundreds when he
-noticed the handwriting in the final notebook had changed — heavier at the
-down-strokes, a slight rightward lean at the margins. Not a different hand. The
-same one, writing faster, or with more on her mind. He found the transition entry
-and understood.
+He turned pages. The clock moved past two, past three. He was somewhere in the
+two hundreds when he noticed the handwriting in the final notebook had changed
+— heavier at the down-strokes, a slight rightward lean at the margins. Not a
+different hand. The same one, writing faster, or with more on her mind. He found
+the transition entry and understood.
 
 She had run a zero-gravity test.
 
@@ -448,71 +405,43 @@ half-page left blank:
 
 *The ceiling is gravity.*
 
-Ray sat at altitude for a long time with the transit case open on his tray table
-and Elsa Klein's four cloth-covered notebooks in his hands.
+Ray sat with the case open on the table and Elsa Klein's four notebooks in his
+hands. Outside, Panama City was moving through the gray hour before sunrise. The
+market district below was shifting from the sounds of late night into the first
+sounds of morning.
 
-She had found it. She had documented it and left it for whoever came next — in
-four notebooks worn at the corners from years of daily handling on an asteroid
-the Federation had registered as a soap factory, and nobody in the institutional
+She had found it. Documented it. Left it for whoever came next — in four
+notebooks worn at the corners from years of handling on an asteroid the
+Federation had registered as a soap factory, and nobody in the institutional
 science world had gone looking for them.
-
-He understood, sitting there, that what was in his hands was not supplementary
-evidence. The Panama drive was the proof that the shortage was manufactured. The
-notebooks were the proof that the solution had always been available. The physics
-had been right there, observable and documentable, waiting to be tested at scale
-by anyone who had the resources and stayed still long enough to look.
 
 He had the Panama data. She had the zero-gravity confirmation.
 
-He put the notebooks carefully back in the case. He stowed the case in the
-overhead. He settled into the seat.
+He put the notebooks carefully back in the case. He closed it.
 
-He slept.
+He sat.
 
 ---
 
-Four days later he was in Singapore.
+Jill was at the table when the light changed. Her own notebook open, a cup of
+something cooling beside it. She looked at him when he came back to the table
+and did not ask how he had slept, which was accurate on her part.
 
-The transit apartment was above a currency exchange on the second floor of a
-building that smelled of industrial cleaner and coffee, three blocks from the bus
-terminal. Two rooms. A small table near the window. A water stain on the ceiling
-shaped like nothing in particular.
+He sat down across from her.
 
-Jill Von Grutzen was already there.
-
-She was younger than he expected. He had built up an image from the notebooks,
-from what Petra had apparently seen in her, from the particular gravity of what
-she had chosen to carry out of the colony — and the woman across the small table
-was younger than all of that. Work jacket, nothing on it. No patches visible, no
-insignia, nothing to indicate she had just come from an asteroid colony the
-Federation had flagged as a religious extremist cult. Her own wire-bound notebook
-was open in front of her. She had a pen behind her ear. She had not ordered
-anything to drink.
-
-Ray set the transit case on the table between them.
-
-She looked at it. She looked at him.
-
-"The open condition," he said. "Test run three hundred and sixty-eight. She had
-one unauthorized microgravity test on a Directorate survey vessel." He paused.
-"She was right."
+"She found it in twelve minutes," he said. "One unauthorized run on a
+provisioning window." He paused. "She was right."
 
 "I know she was right."
 
-"I mean I've run the model. For two months." He put his hand on the case. "The
-plateau is a gravity effect, not a material limit. Zero gravity removes it
-entirely — crystals grow outward in every direction with no preferred geometry
+"I mean I've been running the model. For months." He put his hand on the transit
+case. "The plateau is a gravity effect. Not a material limit. Zero gravity removes
+it entirely — crystals grow outward in every direction with no preferred geometry
 and no ceiling." He paused. "I had the Panama data. The mechanism, the
 suppression, the batch logs. What I didn't have was confirmation that the
 zero-gravity variable changes everything. The notebooks are the confirmation."
 
-Jill looked at the case for a moment.
-
-"She left it for the person who would know what to do with it," she said.
-
-He pulled out his own notebook — newer than Elsa's, the ink in the margins still
-sharp — and set it on the table next to the case. She pulled her own notebook
-closer. They were quiet for a moment, looking at the things between them.
+Jill turned a page in her own notebook without reading it.
 
 "Alpha Corp took the 11-day cycle and ran it every time," Ray said. "They
 harvested. Reset. Harvested. Reset. They never locked long enough to find out
@@ -524,20 +453,19 @@ She just didn't have access to zero gravity at scale."
 
 "Station Libre." He looked at her. "The Collective's station. Zero gravity,
 properly equipped. Enough run time to test the full 180-day curve." He paused.
-"The notebooks confirm the mechanic works in theory. I need to run it and
-document it completely — not a twelve-minute survey-vessel window. A full
-observation series. When that's done, the open condition is confirmed. The case
-closes."
+"The notebooks confirm the mechanic in theory. I need to run it and document it
+completely — not a twelve-minute survey-vessel window. A full observation series.
+When that's done, the open condition is confirmed. The case closes."
 
-Jill turned a page in her own notebook without reading it.
+Jill closed her own notebook.
 
 "I own the colony now," she said. "The infrastructure, the fuel cell supply,
 the gold windfall surplus." She said it without ceremony, the way someone mentions
 a tool they have on hand. "I've seen the station specs. The Collective has been
 running essential infrastructure on parts that should have been replaced three
-years ago." She closed her notebook. "I'll upgrade it. I'll go with you."
+years ago." She looked at him. "I'll upgrade it. I'll go with you."
 
-Ray looked at her.
+Ray looked at her for a moment.
 
 She waited — the particular patience of someone who has already made the
 decision and is giving the other person time to arrive at the same place.
@@ -546,13 +474,13 @@ decision and is giving the other person time to arrive at the same place.
 
 "Yes," she said. "We do."
 
-Outside the currency exchange, Singapore traffic moved at its usual density.
-The table between them held two notebooks — one worn at the corners, one still
-sharp at the spine — and a transit case that had passed through three couriers
-from an asteroid nobody had gone looking for, carrying the missing variable for
-a decade of suppressed science.
+Outside the transit house, Panama City was awake. The market district had filled
+with its morning density — carts, foot traffic, the smell of something being
+prepared in the shop below. The table between them held two notebooks, one worn
+at the corners and one still sharp at the spine, and a transit case that had
+come from an asteroid nobody had gone looking for, carrying the missing variable
+for a decade of suppressed science.
 
 Jill reached for her pen.
 
 "Show me the Panama data," she said.
-
