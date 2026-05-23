@@ -361,9 +361,25 @@ Max Vision ("Ray")
 - Name: Max Vision. His friends started calling him "Max Ray Vision" because it sounds like "X-ray vision." The joke stuck. He goes by Ray. The narrator introduces him as Ray in — prior to that, he appears in narration as Max or Max Vision.
 - Role: Scientist who accidentally discovers the 11-day fuel cell cycle. Extracted by Collective handlers, works undercover inside Alpha Corp in Panama.
 - Handlers: Red and Squirrel (Collective Special Agents) — they extract him, build his cover in Panama, and receive his intelligence.
-- Key intelligence delivered: Flywheel data from Alpha Corp Panama facility. Disposal Protocol Eleven (11–13% product destruction per batch). The ~4-year suppression of viable fuel cell technology. The drive goes out through the Collective network — 100,000 people in 48 hours. What made Panama possible: The Collective extracted Ray, built his cover identity as Mikof Forsinko, and got him physically inside the Panama facility. Ray went in knowing what he had already discovered himself — the vortex cycle, the 11-day window, the self-charging mechanism — and knowing Alpha had classified it and shut him out. He knew the suppression was there. He just had to get close enough to prove it.
-- Space station arc: After Panama, Jill finds Ray and brings him Elsa Klein's notebooks — the 369 test runs, the zero-gravity locking data, the open condition. Ray reads them and understands that Elsa mapped what he discovered, from a completely different angle, years before him. Together they go to Station Libre — the Collective's space station — where Ray runs the zero-gravity experiment and confirms everything Elsa predicted. The plateau disappears. The Day 180 curve doesn't level off. Everything he found in Panama and everything in the 369 test runs locks together. The flywheel and the antigravity project are real, and the Grid is exactly what Alpha Corp has spent four years preventing anyone from proving.
 - Voice: Scientist's precision papering over escalating panic. The man who did the lazy thing and has been living with the consequences ever since.
+
+Ray's full arc:
+
+1. At Alpha Corp: Shortly after the Polaris catastrophe, Ray learns how to make a fuel cell. Working at Alpha's materials research division, he accidentally discovers the negative-pressure vortex and then figures out that adding liquid nitrogen shortens the sync cycle from 45+ days down to 11. He presents this to Alpha. They already knew. They fire him the same afternoon and threaten him under his NDA.
+
+2. Extraction: Red and Squirrel arrive at his door 72 hours before Alpha sends someone to kill him. "We've been keeping you alive." They extract him, give him the cover identity Mikof Forsinko — and of all places, they plant him inside Alpha Corp's Panama research facility. "You've gotta be shitting me!" he says when they arrive in front of the building on his first day of work.
+
+3. Panama: Four days inside Alpha Panama as Forsinko. He works with Dr. Yusuf Oren — a genuinely good scientist who has no idea what the company is actually doing. Ray reads the batch logs and discovers the full scope: the 33-day lock mechanic and its 10× yield; Disposal Protocol Eleven (11–13% of viable product deliberately destroyed per batch to manage pricing); years of fraudulent government grants worth billions stolen from crisis relief funds; and the systematic suppression of every breakthrough that threatened the manufactured shortage.
+
+4. The theory: Ray has a theory he cannot yet prove — the antigravity project. If the flywheel works in standard gravity, what happens in zero gravity? He suspects the growth plateau disappears entirely.
+
+5. Jill: The Collective introduces Ray to Jill. The colony — strange bedfellows and financiers of the Collective — is the bridge. Jill shows Ray Elsa Klein's notebooks: the 369 test runs, the zero-gravity locking data, the open condition. The notebooks confirm his theory. Now he needs evidence.
+
+6. Station Libre: Jill agrees to accompany Ray to Station Libre. They are attracted to each other. They share the craziness of the Libre crew. Ray runs the zero-gravity experiment and confirms everything Elsa predicted. The plateau disappears. The Day 180 curve doesn't level off. The flywheel and the antigravity project are real.
+
+7. Grand Hall: Ray testifies with his notebook open. "The shortage is solvable. It has been solvable. The crisis is not a fact of nature. It is a decision. We can make a different one."
+
+- Key intelligence on the Panama drive: The 33-day lock data, Disposal Protocol Eleven, the government grant fraud, and the systematic suppression of fuel cell technology. The drive goes out through the Collective's parallel network — 200,000 people in 48 hours.
 
 Bitboy Leroy
 - What he is: Six-limbed biomechanical chimp/macaque hybrid. Federation experimental project — the last remaining EM Cyber ( line). Metal fingernails. Six-inch mantis blades that extend from his forearms. Runs on ethanol as power source. Not a pet — a test subject who escaped his cage.
@@ -386,6 +402,18 @@ Gracie / IRiS
 - The evolution: Cole's deep DarkX exposure during the cargo bay sequence rewrites IRiS from the inside. The counter-program from Conrad's nanoparticles completes. IRiS does not upgrade — she remembers. What comes back is Gracie: warmer, more present, more autonomous, and now holographic. She manifests visually for the first time — not a voice in the crew's heads but a presence they can see. Cole recognizes her before he has words for it.
 - Voice progression: IRiS: clinical, cold, half-second latency. Transition: glitching, deep, slow near DarkX, comms cut when Taylor reveals himself. Gracie: warmer, sharper, sometimes wry, fully herself — call-and-response with the crew, real personality, holographic form.
 - By the epilogue: Everywhere. Part of everything. The grief of the Polaris was always, in part, the grief of losing her. Cole does not say this. He does not need to.
+
+iRIS Comms Lockdown (launch-day deception)
+
+Taylor has iRIS locked down from launch day. This is not signal degradation — it is deliberate control. Two-front deception:
+
+Toward Cole and crew: iRIS controls what gets in. Cole cannot reach Earth. If he tries, iRIS blocks the relay or provides a plausible excuse — signal degradation, trajectory interference, standard protocol. The crew is isolated from Earth from the moment the Golden Dawn clears atmosphere.
+
+Toward DeMint and Federation HQ: iRIS controls what goes out. DeMint sends messages — including word of Sharon's disappearance. He gets responses. But the responses are fabricated by iRIS. Not obviously wrong — just slightly off. The tone, the phrasing, something that doesn't sound like Cole. DeMint is a military man who has been reading comms his entire career. He knows what Cole sounds like. The responses he's getting back sound like someone doing a good impression of a man who isn't worried. This is the first seed of doubt — what makes DeMint pull the telemetry, see the latency drift and unauthorized transmissions, and send Vance.
+
+Taylor's timing of the Sharon reveal: Taylor controls when Cole learns about Sharon's death. Sam gets the intel through the Collective's back-channel (Sam's jammer operates outside the iRIS architecture — the one channel Taylor doesn't control). The timing is not accidental. Taylor allows the information to reach Cole as the Golden Dawn approaches Saturn — when Cole is emotionally exposed and the DarkX proximity effect is amplifying limbic sensitivity. A distracted, grieving captain makes mistakes at Saturn. Mistakes at Saturn are what Taylor needs for the "accident" to look real. The grief is a weapon.
+
+DeMint's realization: The fabricated responses are what break DeMint's trust. He doesn't discover the deception through technical analysis alone — he discovers it because the man on the other end of the relay doesn't sound like Cole Nova. The telemetry anomalies give him the data to support what his instinct already told him. That is what sends him to Vance.
 
 Taylor Glenn (Crew Chief)
 - What he is: Federation Crew Chief by title. Alpha Corp plant by allegiance. He knows exactly what he is and has known since the "Tailored Solutions" card. No delusion, no ambivalence — he chose this.
@@ -426,7 +454,7 @@ First Spark — File Structure (as written)
 
 | File | Contents |
 
-| The_First_Spark_Part0_Von_Grutzen.txt | Chapter Zero — Von Grutzen (October 1973): Marta Von Grutzen's ritual. She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
+| The_First_Spark_Part0_Von_Grutzen.txt | Chapter Zero — Von Grutzen (Iceland, 1938): Marta Von Grutzen's ritual. She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
 | The_First_Spark_Part1.txt | Part 1 — The Coal Mine: Dr. Leora Henning descends into Site 17-B. All personnel disappear. Government seals the site: "Stone retains memory. Do not return." |
 | The_First_Spark_Interlude_The_Watch.txt | Interlude — The Watch: Wilhelm gives Klaus the pocket watch on his 20th birthday. Von Grutzen explained. The belief system: accumulation vs. sacrifice — two expressions of the same conviction. |
 | The_First_Spark_Part2.txt | Part 2 — The Accessor: Survey team finds crystalline drives. Wilhelm's arc. |
@@ -524,7 +552,7 @@ Ryan Greenbaum
 - Register: Greenbaum is not cartoonishly villainous. He is a specific kind of damaged — institutional, male, accumulated. The cologne is too strong. The jaw is always a little too tight. He has practiced his neutrality until it looks like calm.
 
 Dr. Bruce Hexo
-- Role: Software engineer and physician. Taken onto FEDHEX5555 by Alpha Corp against his will after Sharon's body is recovered — brought specifically to rebuild her.
+- Role: Software engineer and physician — bionic physician and programmer, the only person in Alpha's employ who could build the body and write the software that ran it. Taken onto FEDHEX5555 by Alpha Corp against his will after Sharon's body is recovered — brought specifically to rebuild her.
 - What he is forced to do: Rebuild Sharon — bionic integration, cyber-conditioning, weapons system. He does it because the alternative is worse. He does it carefully. He keeps notes on everything he does to her, every system he installs, every override he builds in — because he intends for someone to be able to undo it.
 - His notes: The reason Gracie says "He kept notes" when Cole looks at her. The notes are how the counter-program is confirmed complete. They document every layer of conditioning so nothing is missed.
 - After the boarding: When the bronze ring goes dark and Sharon says Cole's name, Dr. Bruce Hexo crosses the docking tube on his own initiative. He is not armed. He tells Cole he is happy to go wherever they are going. He has been waiting for this since FEDHEX5555 left dock. His work does not end there. The deprogramming and normalization of Sharon as a human being is a long process — Gracie handles the software architecture, Hexo handles the medicine, the neurology, the physical recovery. They work as a team, following the map Hexo built during the mission.
@@ -557,6 +585,9 @@ Jill
 - Jill → Collective → Ray: Jill brings the notebooks to the Collective. She doesn't fully understand how they fit yet — but she knows the zero-gravity data is something Alpha Corp has never seen. The Collective cross-references her material with Ray's Panama findings. The two pieces of intelligence — Ray's flywheel data and Elsa's 369 test runs — point to the same gap: the open condition in zero gravity. The Collective arranges the introduction. Ray receives Elsa's notebooks through Jill. That is when the decision is made to go to Station Libre.
 - Bloodline (sealed canon): Descendant of Wilhelm's grandmother's founding bloodline, on the branch that did not inherit the Verguld empire. She is aware of the distant family connection to Marcus Verguld — she does not advertise it. See Founding Bloodline & Prophecy section.
 - Surname: Von Grutzen. She is embarrassed by how German it sounds. The book makes jokes about Oktoberfest, Sound of Music villains, strudel, and lederhosen. This is the name Petra reads aloud from Elsa's preserved records — when Jill hears it, she knows it as her own family name. That is the moment the bloodline connection locks.
+
+Jill's colony inheritance arc:
+Jill is recently named sole heir of the colony — the Soap Factory. This gives her control over the gold asteroids that frequent the small moon. She discovers there is far more wealth than anyone has been using — more than enough gold to sustain the colony and their sacrificial practices for lifetimes. The colony has been living bare-minimum in everything except food (they eat real food, grown and prepared, while the rest of civilization survives on ration blocks). Jill disagrees with this austerity. Against Tyler's wishes, she upgrades life at the Soap Factory. The colony can now afford a lavish lifestyle that rivals the Verguld line itself — the sacrifice branch of the family now has resources that match the accumulation branch, arrived at through the opposite path. When she accompanies Ray to Station Libre, she upgrades the station too — she does not sit still in underfunded spaces.
 
 Tyler Durden
 - Role: Leader of the Void-Walkers. Arrived at the colony six years before Jill. Did not arrive by accident — he was looking for it specifically.
