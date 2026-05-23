@@ -4,6 +4,33 @@ Chapter Eleven
 
 DeMint
 
+─────────────────────────────────────────────────────────────────────
+
+The relay came through the standard architecture — authenticated,
+timestamped, routed through the iRIS uplink the way every transmission
+from the Golden Dawn came through. Technically clean.
+
+Kate read it twice.
+
+“Petyr,” she said.
+
+He looked up from his panel.
+
+She held out the transcript. “Read the third response.”
+
+He read it. He set it down. “The pause before the answer is wrong,”
+he said. “Half a beat. Cole doesn’t do that.”
+
+“No,” Kate said. “He doesn’t.” She took the transcript back. “He
+answers before the question is finished. He’s been that way since the
+first intercept.”
+
+Petyr looked at the wall. “Someone is speaking for him.”
+
+Kate did not file the observation. She folded the transcript and kept it.
+
+─────────────────────────────────────────────────────────────────────
+
 Like the murmur of distant thunder, the containment building's underbelly
 resonated through the floor and into Chancellor DeMint's bones. His fingers
 twitched, restlessly plucking at his beard in jagged rhythms. Pluck. His lips
@@ -26,6 +53,37 @@ displayed the Golden Dawn's telemetry feed — course, velocity, crew vitals, iR
 system status. All green. All nominal.
 
 He had been staring at it for forty minutes because it was wrong.
+
+The message had arrived the day before with the Federation standard
+header and a personal note appended below the mission status request.
+
+*Thank you for returning to a difficult place. Your courage is inspiring.*
+
+He had signed the order himself. Cole Nova, back to Saturn, eleven years
+after the Polaris. There had been no version of the mission that didn't
+require the best living captain of a Saturn run, and Cole was still that,
+regardless of what the cabin years had cost him. DeMint had signed the
+conscription letter and had not enjoyed doing it. The personal note was
+the closest thing to an acknowledgment he could put in writing.
+
+The response had come back in the standard latency window.
+
+*I am honored to be of service in this crucial moment in our planet's
+history.*
+
+DeMint had read it twice. Then a third time.
+
+He had known Cole Nova for eleven years. He knew the shape of the man's
+voice in text the way he knew his own handwriting. Cole Nova did not say
+*honored*. Cole Nova did not say *crucial moment in our planet's history*.
+Cole Nova would have said something like *"Same rings. We're fine."* Or
+he would have said nothing beyond mission status, because acknowledging
+the Polaris in official correspondence was not something Cole did.
+
+He had printed the response and folded it and put it in the inside pocket
+of his jacket. That had been yesterday. Today, forty minutes at the
+telemetry console had given him language for what his instinct already
+knew.
 
 Vance stood to DeMint's left with the particular ease of someone who does not
 feel the weight of the room the same way its host does. He wore a white polo and
