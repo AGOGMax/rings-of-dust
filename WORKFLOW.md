@@ -5,7 +5,7 @@ Instead of uploading the whole book, upload your Chapter Outline or short summar
 
 
 The Prompt:
-> "Act as a brutal, highly experienced Developmental Editor. Here is the Master Story Bible for my novel [Insert Title/Genre], followed by my current Chapter-by-Chapter outline.
+> "Act as a brutal, highly experienced Developmental Editor. Use the lore bible for Rings of Dust, followed by the current Chapter guide.md.
 > Analyze the outline for the following specific issues:
 >  1. Pacing dead-zones (where the plot stalls).
 >  2. Character motivation drops (where a character acts out of alignment with the Story Bible).
@@ -15,7 +15,7 @@ The Prompt:
 ### Phase 3: The "Chunking" Prose Pass (Micro-Edit)
 Once your structure is solid, you edit one chapter at a time. To keep the AI from writing generic, boring prose, you must give it strict styling boundaries and safety rails.
 The Prompt:
-> "We are now line-editing Chapter [X]. You must strictly adhere to the Master Story Bible we created.
+> "We are now line-editing the TTS ready version of Chapter [X]. You must strictly adhere to the Master Story Bible we created.
 > CRITICAL RULES FOR EDITING:
 >  1. Preserve the Voice: Do not smooth out my writing into generic AI prose. Retain my specific sentence structures, rhythm, and tone.
 >  2. Show, Don't Tell: Point out areas where I am explaining emotions or backstories instead of letting them play out through action/dialogue.
