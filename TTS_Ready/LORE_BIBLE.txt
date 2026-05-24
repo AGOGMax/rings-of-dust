@@ -778,7 +778,7 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 
 First Spark Prequel
 
-File Structure (as written)
+File Structure
 
 Canonical Timeline
 
