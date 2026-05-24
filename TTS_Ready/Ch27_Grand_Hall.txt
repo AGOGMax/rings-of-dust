@@ -55,6 +55,12 @@ He described what a Grid was. The linked configuration — cells running togethe
 
 He described Disposal Protocol Eleven.
 
+Depletion — breaking open a sealed fuel cell to harvest its crystals — carries a fixed cost: ten percent of the Darker Matter vaporizes the instant the seal breaks. Escapes into the atmosphere. Unrecoverable. Physics, not process failure. Alpha's internal term for it was the depletion coefficient. The rate was known, documented, and factored into every supply calculation they ran.
+
+Alpha's Disposal Protocol destroyed eleven to thirteen percent per batch.
+
+One to three percentage points above the unavoidable baseline. Not an accident. Calibrated — precisely enough to disappear into the expected waste column, precisely enough to be dismissed as normal attrition by any auditor who didn't know to look for the delta. Not a disposal program. A masking program. Running every quarter, below the detection threshold, since the program began.
+
 He set his notebook down when he reached this part. He did not read from it. He
 had rehearsed this section until the numbers were inside him, and what he said
 came out with the flat precision of a man who has decided that the clearest
