@@ -7,13 +7,13 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 
 | Number | Significance |
 |--------|-------------|
-| **11** | Fuel cell cycle duration. Day 11: one of 740 cells receives the one-time exterior Jackpot deposit. The sync period ends. Also the return interval from void sacrifices (gold asteroid every 11 days). |h
+| **11** | Fuel cell cycle duration. Day 11: one cell in the Grid receives the one-time exterior Jackpot deposit. The sync period ends. Also the return interval from void sacrifices (gold asteroid every 11 days). |h
 
 | **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
-| **180** | Day at which interior growth reaches 100× AND all 740 Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
+| **180** | Day at which interior growth reaches 100× AND all Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
 | **369** | Number of test runs in Elsa Klein's research notebooks. Number of victims from the Polaris explosion — the disaster Cole captained. Also the number of people in the original Colony founding party: 369 went out to establish it; 11 survived. The same number lives in the science, in the catastrophe, and in the colony's founding scar. |
 | **5555** | FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. After Sharon is shot, Alpha Corp loads her body onto FEDHEX5555 — where Dr. Bruce Hexo, against his will, builds and weaponizes her. The ship follows the Golden Dawn to Saturn. Gracie (newly online) scans the approaching vessel, reads the FEDHEX5555 call sign, and identifies the figures inside — including the bionic Sharon. |
-| **740** | Number of fuel cells in a full Grid. The operative unit for colony-scale mechanics. |
+| **51%** | The majority stake in a Grid. Controlling 51% of a Grid's cells is the central economic and political object of the book — whoever holds that stake controls the compounding yield, the lock mechanic, and the energy output. The conflict between Alpha Corp and the Collective is a race to this number. |
 
 ## World & Setting
 
@@ -89,13 +89,13 @@ Alpha Corp knows this number. It is why Disposal Protocol Eleven destroys 11–1
 The cycle is 11 days. **Ray discovered that adding liquid nitrogen to the sealed cell shortened the cycle from 45+ days down to 11.** Earlier experiments — including Elsa Klein's — ran much longer (45 days and more) before Ray cracked it. This is Ray's second accidental breakthrough: negative pressure created the vortex; liquid nitrogen revealed the 11-day window.
 
 ### The sync period (Days 0–11)
-After a Grid of 740 cells is assembled, it enters a **sync period** during Days 0–11. The cells generate a low resonance — below the threshold of hearing, felt in the casings if you know what to listen for. Elsa Klein described it as a radio scanning through static: the sensation of something searching for a frequency just out of range. After Day 11, the feeling stops. Something has completed.
+After a Grid is assembled, it enters a **sync period** during Days 0–11. The cells generate a low resonance — below the threshold of hearing, felt in the casings if you know what to listen for. Elsa Klein described it as a radio scanning through static: the sensation of something searching for a frequency just out of range. After Day 11, the feeling stops. Something has completed.
 
-### Day 11 — The Jackpot (one of 740)
-On Day 11, exactly **one cell** in the 740-cell Grid receives a one-time exterior crystal deposit — the **Jackpot**. The Jackpot cell is random; it never repeats on the same cell. The exterior crystals appear on the base of the casing. This is separate from the normal 11-day harvest cycle — the Jackpot is singular and non-recurring for that cell.
+### Day 11 — The Jackpot (one cell)
+On Day 11, exactly **one cell** in the Grid receives a one-time exterior crystal deposit — the **Jackpot**. The Jackpot cell is random; it never repeats on the same cell. The exterior crystals appear on the base of the casing. This is separate from the normal 11-day harvest cycle — the Jackpot is singular and non-recurring for that cell.
 
 **The word "Jackpot" across the story**: Four groups use it. None of them know the others do.
-- **Ray**: the word he said to an empty apartment when he discovered the one-in-740 exterior deposit. A scientist's reflex. He never published it.
+- **Ray**: the word he said to an empty apartment when he discovered the one-cell exterior deposit. A scientist's reflex. He never published it.
 - **Alpha Corp**: a 2036 batch record annotation. The person who wrote it probably didn't know they were echoing a researcher who had already been silenced. It's in the log Ray reads in Panama, and it stops him cold.
 - **The Colony**: what members say when a gold asteroid arrives — especially a large one. Petra says it when the crater comes back twice as large as usual. It's casual. It's reverent. It's been said in that tunnel for generations. They mean it the way a prayer sounds when you've said it so many times it becomes reflex.
 - **Cole**: the callsign his crew gave him for getting out of impossible situations. Hand-stitched on a patch that irritates his chest. He treasures it.
@@ -109,7 +109,7 @@ The number 369 and its triple significance across the story are documented in th
 A locked cell can be unlocked at any point. The consequence: **all enhanced properties stop within hours.** Interior growth rate, exterior cycling — both revert immediately to baseline 11-day cycle behavior. There is no partial unlock — it is binary. Once unlocked, the accumulated advantage is gone. The only way to recover it is to begin the lock timer again from Day 0.
 
 ### The race to control the Grid
-The 740-cell Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
+51% of the Grid is the central economic and political object of the book. Alpha Corp has been attempting to monopolize it for a decade. The Collective has been trying to prevent that monopoly. The cover story — "a supply problem, something almost resolved" — is Alpha Corp's public narrative. The truth: the Grid works, the cycle is real, and controlling it means controlling the energy future of civilization.
 
 One of the Collective's primary financial backers is the asteroid colony — a group the Federation has flagged as a religious extremist cult. The colony's gold asteroid windfalls fund the Collective's operations. Alpha Corp does not know this. They are aware of the gold asteroid returns but have never traced the financial chain from the asteroid to the resistance. If they did, they would understand that the colony and the Collective are fighting the same war for entirely different reasons — one for civilization, one for the right to walk down a tunnel and let go.
 
@@ -120,7 +120,7 @@ Someone eventually figures out that a sealed, *locked* fuel cell — one made de
 
 Lock a cell for **33 days**: interior crystal growth accelerates to **10× the rate of an unlocked cell** (interior only — not exterior deposits). The crystals build inside the sealed environment with no release valve. No harvest is possible or intended. The cell must simply be left alone, locked.
 
-Lock a cell for **180 days**: two simultaneous effects trigger. **(1) Interior**: crystal growth reaches **100× the rate of an unlocked cell**. **(2) Exterior**: all 740 cells in a full Grid begin making exterior deposits on a continuous 11-day cycle — not just the one-time Day 11 Jackpot, but recurring every 11 days from Day 180 onward, indefinitely. The full Grid becomes a perpetual dual-engine: interior at 100× and exterior cycling every 11 days. **Unlock the cell at any point and all enhanced properties stop within hours.**
+Lock a cell for **180 days**: two simultaneous effects trigger. **(1) Interior**: crystal growth reaches **100× the rate of an unlocked cell**. **(2) Exterior**: all cells in a full Grid begin making exterior deposits on a continuous 11-day cycle — not just the one-time Day 11 Jackpot, but recurring every 11 days from Day 180 onward, indefinitely. The full Grid becomes a perpetual dual-engine: interior at 100× and exterior cycling every 11 days. **Unlock the cell at any point and all enhanced properties stop within hours.**
 
 In the story this is confirmed — not through Alpha Corp's data, but through Ray. Elsa Klein's final 369 test runs predicted both the 33-day and 180-day lock mechanics, including the zero condition. Ray receives her notebooks from Jill and takes the experiment to Station Libre — the Collective's space station — where he tests Elsa's predictions in zero gravity. She was right. The plateau disappears. The Day 180 curve doesn't level off — it breaks. Alpha Corp never found this because they never stopped harvesting long enough to look. They had the same cells Ray did. They just never left them alone.
 
