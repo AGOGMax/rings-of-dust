@@ -125,6 +125,8 @@ Ray.
 
 He did not find this surprising.
 
+The colony had been one of the Collective's primary financial backers for seven years. Relay infrastructure. Safe houses on three transit routes. Two Meridian resupply runs. And now Station Libre — the equipment Jill had just carried up in a crate. Jill had not known this when she first landed on the asteroid. She had been home for two years before anyone told her what home had been funding. The Collective had been operating, in part, on money the colony had generated before she arrived. Before she was part of it. Before she knew there was an it to be part of.
+
 They were, without exception, at ease in a way he hadn't seen people at ease
 before. The station produced it — the enforced smallness of the space, the
 distance from everything else, the shared project. They had arguments about small
@@ -288,7 +290,11 @@ Third run: unlocked at day 22, before the 33-day acceleration. The cell returned
 to standard within hours.
 
 Consistent across all three runs: unlock at any stage, everything stops. You
-could not harvest the compound and maintain the lock. You had to choose. Alpha
+could not harvest the compound and maintain the lock. You had to choose.
+
+The cells themselves were undamaged. You could lock again from Day 0 — begin the accumulation over, from the start. The loss was time, not the cell.
+
+Alpha
 had always chosen harvest. They had never found out what they were giving up.
 
 He put this in the notebook. He added it next to Elsa Klein's three hundred and
@@ -296,6 +302,8 @@ sixty-nine documented runs, which he had now confirmed in full — every mechani
 she had mapped, every threshold she had logged, the 11-day cycle, the 33-day
 lock, the 180-day breakthrough, the zero condition: all of it confirmed, all of
 it exact.
+
+The colony and the Collective were fighting the same war for entirely different reasons. The Collective wanted to break the scarcity model — to prove the grid was a choice, the shortage manufactured, the crisis engineered. Civilization stakes. The colony was not fighting for civilization. The colony was fighting for the right to walk down a tunnel in the dark and let go. For the void. For the sacrifice. They did not care about the grid. They cared about what the cell became at the end of the cycle. They had been here for seventeen years protecting something that Ray had discovered in a storage locker on a Tuesday, and they had never needed him to know why.
 
 She had been right. Working alone on an asteroid with limited support and one
 unauthorized twelve-minute window on a Directorate survey vessel, she had
