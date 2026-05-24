@@ -746,7 +746,7 @@ Bitboy's blue-stained mouth — he raids the blackberry preserves. Recurs in the
 
 The Spine
 
-"A novel about the distance between what is kept from people and what they would do with it if they knew — and about the specific kind of person who decides to spend a decade building the world they want inside the walls of the world that exists."
+"A novel about what is kept from people — and the specific kind of person who spends a decade building the world they want inside the walls of the world that exists."
 
 The shortage was a choice. The proof was built into the technology before the technology was handed over. The lock was made before the key. Everything else was patience.
 
@@ -754,15 +754,13 @@ Recurring Motifs
 
 The Jackpot patch: Hand-stitched by Cole's crew. Irritates his chest. He treasures it. Survives the whole book.
 
-The copper-wire ring: Hummingbird feeder wire wrapped around a smooth pebble. Cole makes it and gives it to Sharon just before the Golden Dawn launches. Sharon is wearing it when she is killed. It is on her finger when she is loaded onto FEDHEX5555. Dr. Bruce Hexo removes it before the bionic work, keeps it safe, and gives it to Cole when he crosses the docking tube. Cole holds it for the rest of the book. : he returns it to Sharon during her recovery. bowling alley: "I don't think I need to replace it. I think this is the one." Sharon: "Yes." / "That wasn't a question." / "I know. It still applies."
+The copper-wire ring: Hummingbird feeder wire wrapped around a smooth pebble. Cole makes it and gives it to Sharon just before the Golden Dawn launches. Sharon is wearing it when she is killed. It is on her finger when she is loaded onto FEDHEX5555. Dr. Bruce Hexo removes it before the bionic work, keeps it safe, and gives it to Cole when he crosses the docking tube. Cole holds it for the rest of the book. He returns it to Sharon during her recovery. At the bowling alley: "I don't think I need to replace it. I think this is the one." Sharon: "Yes." / "That wasn't a question." / "I know. It still applies."
 
 Blackberry preserves: Cabin → reunion → callback through Bitboy's blue-stained mouth. The visual rhyme that closes the book.
 
 The thumb drive figurine: Conrad's Enterprise keychain. Two payloads — nanopowder counter-program and encrypted intel drive. See Dr. Conrad's section.
 
 The Collective droplet sigil: Water drop in a circle. "No raindrop thinks it's the flood." Used as code phrase. Sewn in bag linings. Stenciled on porch railings.
-
-Bitboy's blue-stained mouth: From blackberry preserves. Visual motif that echoes across the book and closes it.
 
 The bronze indicator ring (Sharon's augmentation): It goes dark when the counter-program completes and Sharon comes back. A visual beat that marks the exact moment.
 
@@ -808,37 +806,3 @@ Elsa Klein (maiden name) left institutional science and went in the opposite dir
 The grandmother's line — "The grandmother and the grandfather drank from the same well and carried what they found there in opposite hands" — is a real relationship, not a metaphor. It is established in First Spark.
 
 Jill (who has not yet discovered her bloodline connection) comes back for the notebooks. She reads Elsa's 369 test runs and the prophecy section. The connection resolves in Book One — Jill recognizes her own family name in the founding bloodline and understands what she is. She does not announce it. She takes the notebooks and goes.
-
-Canon Decisions Log
-
-A record of settled questions. These are not open items — they are closed decisions.
-
-Ray's name: Legal name Max Vision. Nickname Ray (from "Max Ray Vision" — the joke stuck). Narrator introduces him as Ray. "Max Forster" and "Max Forster" are old draft names — purged.
-
-Sharon's surname: Teez. Sharon Teez throughout. The TRotR Sharon Teez is a separate character in a separate universe. No reconciliation needed.
-
-Conrad's first name: Stephen. Not Steven.
-
-DeMint's title: Chancellor. Federation Chancellor DeMint.
-
-Rachel Vayes's role: News anchor (public cover). Grand Admiral of the Collective (secret). Not a Federation chancellor — that is DeMint.
-
-Handler names: Red and Squirrel. "Chip & Dale" was an old draft name — purged entirely.
-
-FEDHEX5555: Alpha Corp's shadow vessel following the Golden Dawn. Sharon's body loaded onto it after the shooting. Dr. Bruce Hexo forced to rebuild and weaponize her aboard it. Gracie identifies Sharon inside before the docking tube opens. Dr. Hexo crosses voluntarily after deprogramming completes.
-
-First Spark ritual: Written as The_First_Spark_Part0_Von_Grutzen.txt. Marta Von Grutzen, October 1938. Full moon, blood of first-born calf, seven mirrors, DarkX vial in moonbeam, altered state. She feels the coal mine's location. Three months later sends Dr. Leora Henning in. Does not descend herself.
-
-Jill's bloodline: Elsa is not Jill's ancestor. Elsa was a disciple of the Von Grutzen Order who left with the records. Jill is a descendant of Marta Von Grutzen's bloodline on the branch that chose neither the empire nor the Order — she ended up in the gray market. The reveal: Petra reads "Von Grutzen" from Elsa's preserved records. Jill hears her own family name.
-
-"Race to control the grid": Tyler Durden says it from belief. Ray says it independently from data. Same phrase, same underlying truth, arrived at from opposite directions. This is deliberate. Document as a thematic parallel — the two frameworks converging on the same words.
-
-Sharon and the Collective: Informant level. The Collective gave her the water droplet patch because they desperately wanted her inside the network. She has it. She does not care about it. She is a pragmatic gray-market businesswoman who does not measure herself by rank insignia she didn't ask for. She works with them because their goals align with hers.
-
-Red and Squirrel rank progression: Technicians (Tier 3) during the Ray/Panama operation. Promoted to Special Agents (Tier 4) by the time of the Sharon/Emily crystal transfer. The Panama years built the promotion.
-
-The Von Grutzen Order: Still active in Eastern Europe. Practices the full ritual tradition. Views the colony as blasphemers. Active animosity — not violent, but real.
-
-The Boiler Room: Alpha Corp's LA operations center (where Emily confronts Marcus). Previously called "The Black Site" — renamed to avoid collision with the Nevada desert archive (which retains "The Black Site" / "Vance at the Black Site").
-
-Bitboy's architecture: Runs a pre-commercial build of the same software used to build Alpha Corp's cyber-conditioning and weaponization program — the program used on Sharon. Dr. Hexo was implementing Bitboy's architecture onto a human host. Gracie cannot enter Sharon's system alone — Cole's nanoparticles are the key that unlocks it. Once inside, Gracie understands the code at root level because it descended from Bitboy. Dr. Hexo works alongside Gracie on the full deprogramming and physical restoration.
