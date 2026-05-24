@@ -7,7 +7,7 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 
 | Number | Significance |
 |--------|-------------|
-| **11** | Fuel cell cycle duration. Day 11: one cell in 740 receives the one-time exterior Jackpot deposit. The sync period ends. Also the return interval from void sacrifices (gold asteroid every 11 days). |h
+| **11** | Fuel cell cycle duration. Day 11: one cell in 740 receives the one-time exterior Jackpot deposit. The sync period ends. Also the return interval from void sacrifices (gold asteroid every 11 days). |
 
 | **33** | Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone. |
 | **180** | Day at which interior growth reaches 100× AND all Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine. |
