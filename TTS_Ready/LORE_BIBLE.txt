@@ -13,7 +13,7 @@ Year: 2033
 
 The energy economy: The world runs on fuel cells powered by Darker Matter crystals. Darker Matter (processed from raw DarkX plasma) is the dominant energy source globally. Supply is controlled, pricing is managed, and the shortage that has defined the post-2020 era is not an accident.
 
-The energy crisis origin: It began when the global banking system moved against cryptocurrency — systematically targeting the miners and nodes that had been building a decentralized energy grid outside institutional control. The attacks were coordinated: regulatory pressure, liquidity freezes, infrastructure seizures. The grid collapsed. The Collective was born in that collapse — not as a resistance movement but as the surviving infrastructure. The people who had been running the nodes went underground and kept running them.
+The energy crisis origin: It began when the global banking system moved against cryptocurrency — systematically targeting the miners and nodes that had been building a decentralized energy grid outside institutional control. The attacks were coordinated: regulatory pressure, liquidity freezes, infrastructure seizures, power plant shutdowns, power grid defunding. The grid collapsed. The Collective was born in that collapse — not as a resistance movement but as the surviving infrastructure. The people who had been running the nodes went underground and kept running them.
 
 The Polaris catastrophe then aggravated the crisis by disrupting the DarkX supply chain at the worst possible moment. Alpha Corp did not yet know how to harness Darker Matter — that roadmap came from Ray. When Ray brought his findings to Alpha, they recognized immediately what it meant for them, classified everything, and went to work capturing the solution.
 
