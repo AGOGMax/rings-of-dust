@@ -18,9 +18,9 @@ These numbers recur across Rings of Dust with specific narrative weight. Use the
 
 ## World & Setting
 
-**Year**: 2043
+**Year**: 2033
 
-**The energy economy**: The world runs on fuel cells powered by Darker Matter crystals. Darker Matter (processed from raw DarkX plasma) is the dominant energy source globally. Supply is controlled, pricing is managed, and the shortage that has defined the post-2030 era is not an accident.
+**The energy economy**: The world runs on fuel cells powered by Darker Matter crystals. Darker Matter (processed from raw DarkX plasma) is the dominant energy source globally. Supply is controlled, pricing is managed, and the shortage that has defined the post-2020 era is not an accident.
 
 **The energy crisis origin**: The crisis did not begin with a failed experiment. It began when the global banking system moved against energy cryptocurrency — systematically targeting the miners and nodes that had been building a decentralized energy grid outside institutional control. The attacks were coordinated: regulatory pressure, liquidity freezes, infrastructure seizures. The grid collapsed. The Collective was born in that collapse — not as a resistance movement but as the surviving infrastructure. The people who had been running the nodes went underground and kept running them.
 
@@ -97,7 +97,7 @@ On Day 11, exactly **one cell in 740** receives a one-time exterior crystal depo
 
 **The word "Jackpot" across the story**: Four groups use it. None of them know the others do.
 - **Ray**: the word he said to an empty apartment when he discovered the one-in-740 exterior deposit. A scientist's reflex. He never published it.
-- **Alpha Corp**: a 2036 batch record annotation. The person who wrote it probably didn't know they were echoing a researcher who had already been silenced. It's in the log Ray reads in Panama, and it stops him cold.
+- **Alpha Corp**: a 2030 batch record annotation. The person who wrote it probably didn't know they were echoing a researcher who had already been silenced. It's in the log Ray reads in Panama, and it stops him cold.
 - **The Colony**: what members say when a gold asteroid arrives — especially a large one. Petra says it when the crater comes back twice as large as usual. It's casual. It's reverent. It's been said in that tunnel for generations. They mean it the way a prayer sounds when you've said it so many times it becomes reflex.
 - **Cole**: the callsign his crew gave him for getting out of impossible situations. Hand-stitched on a patch that irritates his chest. He treasures it.
 
@@ -136,13 +136,23 @@ This is the mechanic the asteroid colony knows and practices — Tyler Durden's 
 **What DarkX is**: DarkX is never just a fuel source. It is aware of what is being done to it. It is patient.
 
 ### The Rapture (Saturn event)
-The **Rapture** is a gravitational event at Saturn — a periodic alignment in which the rings shift, rotate, and expand outward relative to each other. During the Rapture, the outer rings circulate and seal. No ship can get into the outer rings once it begins. The raw DarkX harvesting window closes permanently until the next cycle — which is measured in generations, not years.
+The **Rapture** is a gravitational event at Saturn — a periodic alignment in which the outer rings physically rotate and shift inward, sealing against the planet's gravitational field. As the Rapture begins, the outer rings expand briefly, then reverse and draw inward — generating a progressive gravitational current that pulls anything within the ring plane toward Saturn's inner rings. The force increases the closer the outer rings draw to full closure. No ship can escape the ring plane once the full inward rotation is underway. The raw DarkX harvesting window closes permanently until the next cycle — which is measured in generations, not years.
+
+**What the Rapture does physically**: The rings move. On November 22, 2033, as the crescendo begins, Saturn's outer rings start their inward rotational phase. A ship at harvesting depth when the Rapture begins has a window — measured in hours — to achieve escape velocity out of the ring plane before the gravitational pull becomes irresistible. A ship that fails to exit in time is not merely trapped; it is pulled inward into the debris field between the inner rings and destroyed. This is felt through the hull before instruments confirm it. When the rings begin their inward rotation, the Golden Dawn shudders. Every crew member feels it before anyone names it.
 
 The Golden Dawn mission exists because the Rapture is coming. The Federation's public mandate is to harvest as much raw DarkX from the outer rings as possible before the window closes. The cover story is resource stewardship. The truth is that whoever holds the pre-Rapture DarkX harvest controls the only remaining supply of unprocessed DarkX for the foreseeable future.
 
-**Canonical date**: March 14, 2045. Saturn's outer rings enter full gravitational closure on this date. The Golden Dawn mission is timed against this deadline. DeMint's conscription letter to Cole specifies this date explicitly. Cole reads it at the cabin, makes himself remember it, and drops the letter in the steel waste bin.
+**Canonical date**: November 22, 2033. Saturn's outer rings enter full gravitational closure on this date. This is the date all four story threads converge at crescendo:
+- **Cole and crew**: inside the ring plane during the Sharon boarding sequence. The Rapture starts. The rings begin pulling the Golden Dawn toward the inner rings. Cole is fighting to restore Sharon to herself as the ship is dragged inward. The crew cannot leave until the boarding resolves. The Rapture will not wait.
+- **Ray and Jill**: at Station Libre, outside the ring plane, watching the Rapture register across every instrument they have — and knowing the ship inside those rings is the Golden Dawn.
+- **Emily**: in Los Angeles confronting Marcus at the Boiler Room as the Rapture reaches the news cycle. The Panama files are already out. The ring closure is the end of Alpha Corp's last leverage.
+- **The Colony**: in the east tunnel as Tyler releases the latest sacrifice into the void. The gold asteroid on approach. The void returning, as it always does.
 
-Alpha Corp knows this. The Rapture is the entire reason for the mission. It is why Cole was conscripted. It is why FEDHEX5555 follows.
+The physical clock and the emotional clock run simultaneously for the first time in the book. Cole must bring Sharon back before the rings bring the ship down.
+
+DeMint's conscription letter to Cole specifies this date explicitly. Cole reads it at the cabin, makes himself remember it, and drops the letter in the steel waste bin.
+
+Alpha Corp knows this. The Rapture is the entire reason for the mission. It is why Cole was conscripted. It is why Taylor was placed aboard. It is why FEDHEX5555 follows. Alpha Corp's plan required the crew to die inside the sealed ring plane — because a dead crew cannot report what Taylor did, and a sealed ring plane cannot be independently investigated for a generation.
 
 ## Founding Bloodline & Prophecy (Colony Arc Canon)
 
@@ -668,7 +678,7 @@ The Order is the original spiritual organization Marta Von Grutzen built in East
 
 **The Crater**: Day 18 (11 days after the sacrifice). Gold asteroid arrives — twice as large as usual. Gold crater on its face: solid gold. Petra says: "Jackpot." Jill goes to her ship. Comes back. Asks about the notebooks. Petra sits with her and explains where Elsa's beliefs came from — they did not begin with Elsa. They trace back to Wilhelm Verguld's grandmother, who carried a conviction about bloodlines and sacrifice that she passed down through her line. Wilhelm inherited it and built empire around it. Another branch went the other way. Petra says the grandmother's name — **Von Grutzen** — the original name, before Wilhelm changed the family name to Verguld. Jill hears it. She knows that name. It is in her family. Petra sees her face. "Then you are the one who was meant to return from her lineage." Jill reads the notebooks that night — the science takes most of a day, the zero-gravity entries she reads twice. Petra gives her the originals. "She would have wanted you to have them." Jill accepts a routing contract (Titan to Callisto). Tyler says goodbye without ceremony. Petra sits in the tunnel reading her copy of the notebooks: "When you come back, ask me again." Jill seals the transit case with the originals in her cargo locker and launches.
 
-**The Pull**: Day 23 — five days after Jill launched.  Three hours out from the colony, her grandmother's Friday evening recitation arrives unbidden — names of the ancestors, then: *"If you truly believe in something and pour yourself into it, it will continue in your children."* She has been making herself small to stay clean. She realizes she has never thought about what she wants to continue in. She forfeits the routing contract and turns the ship around. "Petra had said 'when you come back' with the particular certainty of someone who knew the difference between someone leaving and someone being done." (The reader who has read The First Spark will understand the weight of this phrase — it is the same phrase Marta Von Grutzen spoke over the mirrors in 1973.) After the return: Tyler standing in the east tunnel, the place where gravity starts to let go, holding a cell in both hands. "I think there is a difference between understanding the mechanism and understanding the intention."
+**The Pull**: Day 23 — five days after Jill launched.  Three hours out from the colony, her grandmother's Friday evening recitation arrives unbidden — names of the ancestors, then: *"If you truly believe in something and pour yourself into it, it will continue in your children."* She has been making herself small to stay clean. She realizes she has never thought about what she wants to continue in. She forfeits the routing contract and turns the ship around. "Petra had said 'when you come back' with the particular certainty of someone who knew the difference between someone leaving and someone being done." (The reader who has read The First Spark will understand the weight of this phrase — it is the same phrase Marta Von Grutzen spoke over the mirrors in 1938.) After the return: Tyler standing in the east tunnel, the place where gravity starts to let go, holding a cell in both hands. "I think there is a difference between understanding the mechanism and understanding the intention."
 
 
 
@@ -791,6 +801,39 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 | *The_First_Spark_Part2.txt* | **Part 2 — The Accessor**: Survey team finds crystalline drives. Wilhelm's arc. |
 | *The_First_Spark_Part3.txt* | **Part 3 — Klaus in America**: Klaus on freighter to Long Beach. Culver City. Kitchen table with young Marcus. Villain-origin canon. |
 
+### Canonical Timeline
+
+| Year | Event |
+|------|-------|
+| **1938** | Marta Von Grutzen funds and organizes the Iceland expedition. The mine event: all personnel disappear. Government seals Site 17-B. Wilhelm watches as a child. |
+| **1957** | Survey team recovers the crystalline drives from the sealed mine (+19 years). Drives placed in unindexed Directorate archive storage. |
+| **1962** | Klaus Verguld born. |
+| **1980** | Wilhelm accesses the drives in the Directorate archive (+23 years from survey). Reads the sequences. Understands what they are. |
+| **1981** | Wilhelm leaves the Directorate (14 months after accessing the drives). Born Wilhelm Von Grutzen; changes name to Verguld (*"to gild"*). |
+| **1982** | Wilhelm gives Klaus the pocket watch on his 20th birthday. Explains the belief, the bloodline, the two streams — accumulation and sacrifice. |
+| **~1984** | Klaus comes to America on a freighter. Settles in Culver City. Verde Sanitation trash route as cover. Builds the structure over the following decade. |
+| **1991** | Alpha Corp founded. Klaus, age ~29. |
+| **~1995** | Marcus Verguld born (Culver City). Cole Nova born (same neighborhood, four streets over). Klaus lets the friendship form. |
+| **~2006** | Marcus's mother dies of an aneurysm. Marcus, age 11. |
+| **~2012** | A Thousand Thrills summer. Cole quits to go home to his dying father. Marcus stands at the kitchen table: *"I will NEVER forget how you screwed me over."* Klaus: *"No. You won't."* |
+| **~2013** | Cole's father dies. Cole, age 17. Emily tutors him toward the Academy. |
+| **~2019** | Marcus, age 24, asks Klaus what he actually does. Klaus opens the notebook and tells him who he is. |
+| **~2026** | Ray (Max Vision) hired at Alpha Corp's materials research division. |
+| **~2027** | Ray discovers the flywheel. Fired the same afternoon. Red and Squirrel extract him 72 hours before Alpha sends someone to kill him. Ray goes undercover in Panama as Mikof Forsinko. |
+| **~2028** | Polaris explosion at Saturn's rings. 369 crew killed. Cole sole survivor. Cole's voluntary isolation begins. |
+| **~2030** | Alpha Corp batch record — annotated "Jackpot" — discovered by Ray during Panama operation. |
+| **~2032** | Ray hands drive to Squirrel at the heron fountain park. Jill Von Grutzen arrives in Panama with Elsa Klein's notebooks. Ray and Jill depart for Station Libre. Cole recalled from isolation for the Golden Dawn mission. |
+| **Jan 2033** | Ray and Jill arrive at Station Libre. Experiments begin under zero gravity. |
+| **Jun–Jul 2033** | Day 180 confirmed: 100× interior growth, all-Grid exterior cycling begins. Unlock experiment: three runs confirm that breaking the lock stops everything within hours. All 369 of Elsa's test runs confirmed exact. |
+| **Aug–Sep 2033** | Rachel Vayes arrives at Station Libre for the prep visit. *"I've known for a long time. I needed to be able to prove it. Now I can."* |
+| **Oct–Nov 2033** | The Golden Dawn approaches Saturn. Act 4 builds. Taylor positions himself. FEDHEX5555 closes on the Golden Dawn's vector. |
+| **Nov 22, 2033** | **THE RAPTURE.** Saturn's outer rings enter full gravitational closure. All four threads converge. Cole inside the ring plane — Sharon boarding sequence — as the rings begin pulling the Golden Dawn inward. |
+| **Late Nov 2033** | Earth Return. Golden Dawn breaks atmosphere over the Pacific at 0617. Taylor removed on runway. |
+| **Dec 2033–Jan 2034** | The Grand Hall hearing. Ray testifies. DeMint reads Vance's record. Conrad's statement entered into evidence. |
+| **2034** | Epilogues. Marcus in Dubai with orange juice and four ice cubes. A second glass placed across from him — not ordered. Taylor in the Nevada high-desert town. Rachel in Sequoia. |
+
+---
+
 ### Scene 1: Grandmother's Ritual (Part 0 — Von Grutzen, written)
 
 **What Scene 1 establishes**:
@@ -834,7 +877,7 @@ Jill (who has not yet discovered her bloodline connection) comes back for the no
 
 **FEDHEX5555**: Alpha Corp's shadow vessel following the Golden Dawn. Sharon's body loaded onto it after the shooting. Dr. Bruce Hexo forced to rebuild and weaponize her aboard it. Gracie identifies Sharon inside before the docking tube opens. Dr. Hexo crosses voluntarily after deprogramming completes.
 
-**First Spark ritual**: Written as The_First_Spark_Part0_Von_Grutzen.txt. Marta Von Grutzen, October 1973. Full moon, blood of first-born calf, seven mirrors, DarkX vial in moonbeam, altered state. She feels the coal mine's location. Three months later sends Dr. Leora Henning in. Does not descend herself.
+**First Spark ritual**: Written as The_First_Spark_Part0_Von_Grutzen.txt. Marta Von Grutzen, October 1938. Full moon, blood of first-born calf, seven mirrors, DarkX vial in moonbeam, altered state. She feels the coal mine's location. Three months later sends Dr. Leora Henning in. Does not descend herself.
 
 **Jill's bloodline**: Elsa is not Jill's ancestor. Elsa was a disciple of the Von Grutzen Order who left with the records. Jill is a descendant of Marta Von Grutzen's bloodline on the branch that chose neither the empire nor the Order — she ended up in the gray market. The reveal: Petra reads "Von Grutzen" from Elsa's preserved records. Jill hears her own family name.
 
