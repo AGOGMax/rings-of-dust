@@ -2,168 +2,283 @@ RINGS OF DUST
 
 Chapter Twenty-Seven
 
-Grand Hall
+The Broadcast
 
-The Federation Grand Hall seated four hundred and twenty.
+The signal went out from Station Libre at 6:02 AM, Pacific Standard Time.
 
-On the morning of the hearing, four hundred and twelve seats were occupied. The
-remaining eight belonged to the press pool, which had been allocated the rear
-gallery on the condition that recording equipment be registered at the door and
-that no transmission leave the building until the proceedings concluded. Five of
-the eight journalists complied. Three of them had already transmitted, through
-methods that did not involve registered equipment, to nodes in the parallel
-network that had been routing the Panama files for seventy-two hours.
+Rachel Vayes had chosen the time deliberately. Early enough on the West Coast
+that the news cycles would have the full day to run it. Late enough on the East
+Coast that the people who needed to be awake would already be awake. The
+broadcast routed through six relay nodes before it reached any registered
+Federation-affiliated channel, and by the time those channels were aware of it,
+two hundred thousand people had already seen the opening segment.
 
-DeMint was at the committee table. He had been there since seven — three hours
-before the session opened — working through the testimony briefs in the
-particular way he worked through everything, from the back forward, the
-conclusions first and then the reasoning. He had read each brief twice before
-the room filled.
+The first image was Ray Vision.
 
-He had not slept.
+He was at a desk in the Station Libre studio — a room Rachel had prepared for
+exactly this purpose over the preceding month, cleared of its usual equipment,
+refurnished with the particular neatness of something that was meant to be taken
+seriously. Behind him: the bench where the fuel cells sat. Eight of them. Three
+generations of the design, from the original sealed casings he had made in a
+borrowed lab six years ago to the current configuration, which was smaller and
+cleaner and, if you knew what you were looking at, unmistakably the same
+fundamental object. In the upper right corner of the frame, barely visible: the
+curvature of the viewport, and beyond it the dark, and the light of Saturn's
+rings at this distance — faint, scattered, not decorative. Present.
 
-Emily was in the gallery, between Sommi and a woman she didn't
-know who had introduced herself only as "press, Collective circuit" and had not
-said anything further. Emily had her hands in her lap. She had been to see
-Sharon two days ago, at the cabin. Sharon had
-been in the chair by the window, augmented arm resting on the armrest, a road
-atlas open on her lap — *old habit,* she'd said, *I like the weight of them* —
-and she had looked up when Emily came through the door, and for a moment Emily
-had seen the inventory pass across Sharon's face, the rapid assessment that was
-always there, the same assessment that had been running, apparently, even under
-conditioning, even in the months when she couldn't reach her own name.
+Station Libre had no artificial gravity in the studio wing. His coffee was in a
+sealed container. His notebook was clipped to the desk.
 
-And then the left eye had gone completely still and Sharon had said: *There you
-are.*
+He looked at the camera the way he had been practicing for three weeks.
 
-Emily sat in the fourth row of the Federation Grand Hall and pressed her thumb
-against the edge of the armrest and breathed.
+"My name is Max Vision," he said. "Most people who know me call me Ray. I am a
+materials scientist and a fuel systems engineer. I have been working on the same
+problem for eleven years, and I want to tell you what I found."
 
 ---
 
-The record of Marcus Verguld's account was entered at 9:04 AM.
+He spoke for forty-seven minutes.
 
-He was not present. He had not been apprehended. The task force sent to the
-Alpha operations center in Los Angeles had arrived to find a room with a
-face-down tablet and a window facing east and a chair pushed back from the
-desk the precise distance of a man who had stood up without hurrying. His
-whereabouts were unknown and the Federation's legal team had presented no
-expectation of locating him before the hearing.
+He described the flywheel principle — the fundamental observation that had
+changed everything, the lazy Friday afternoon, the locker, the glow, the Monday
+morning when he had come back to find something he had not put there. He
+described the thirty-three-day threshold, where the interior crystal growth rate
+accelerated to ten times its baseline. He described the hundred-and-eighty-day
+yield — the exterior surface of the casing beginning to grow its own crystal
+matrix, self-replicating, producing new fuel cell substrate from the process
+of being used. He described what this meant for distribution infrastructure,
+for the timeline to address the energy shortage, for the eleven technologies
+that had been sitting in classified storage in Panama because the people managing
+the shortage had understood, precisely, what releasing them would cost.
 
-What the committee received instead was a recording: two hours and fifty-one
-minutes of audio, authenticated by the Collective's technical team, taken at
-4:47 AM in the fourteenth-floor suite of the Alpha operations center. The
-voice on the recording was flat and precise and did not perform remorse. It
-described, in sequence, the decisions — the ones Marcus had made, the ones he
-had delegated, the ones he had arranged for someone else to appear to make. It
-described the structure of Alpha's relationship with the Federation Council
-over fifteen years, the specific mechanisms by which research findings were
-suppressed, the individuals who had cooperated. It described the iRIS
-modification and what Marcus had understood Conrad to be doing and what he
-had arranged to have done to Conrad instead.
+He described Disposal Protocol Eleven.
 
-When the recording described the Polaris, the room was very quiet.
+He set his notebook down when he reached this part. He did not read from it. He
+had rehearsed this section until the numbers were inside him, and what he said
+came out with the flat precision of a man who has decided that the clearest
+possible statement is the only one worth making.
 
-DeMint said nothing during this portion. He looked at the table. He looked at
-the table for a very long time.
+"Three hundred and sixty-nine independent test runs," he said. "Three hundred
+and sixty-nine. I ran them over four years, on three separate systems, in two
+separate locations, using materials from five different supply chains to control
+for contamination. The results are identical across all three hundred and
+sixty-nine runs. The variance in yield is less than point three percent. This
+is not a promising finding. This is not a theoretical model. This is a
+documented, reproducible physical process." He looked at the camera. "The
+shortage is not a fact of nature. It is a decision. And we have the means to
+make a different one."
 
----
-
-The record on Vance Black was entered at 10:22 AM.
-
-DeMint read it himself, standing.
-
-He described what he had ordered — the mission to the Nevada research station,
-the retrieval of Conrad's prototype — and then read aloud, in sequence, what
-Vance had found: the cleared archive, the transferred records, the authorization
-signature. He read the section describing Vance's account of the drive back —
-what he had believed he was doing and why. He read the final entry, which was
-dated the evening of the same day: the transcript of a phone call, a location,
-a caliber, a range.
-
-He set the folder down.
-
-He did not describe Marcus firing the shot in the way designed to produce gasps.
-The record described it the way you describe a fact. The room was quiet in a
-different way during this portion.
-
-DeMint said nothing after he finished reading. He looked at the table. He looked
-at the table for a very long time. He had sent Vance. He had believed, when he
-sent him, that he was doing the right thing by sending a careful man to retrieve
-evidence. He had not known, until seventy-two hours ago, what that phone call
-had cost. The expression on his face was not betrayal and it was not relief. It
-was the expression of a man revising a very long account of the world he thought
-he was operating in.
+Behind him, the fuel cells sat on the bench. Still. Unremarkable. The kind of
+object you would walk past in a supply room without understanding what you
+were looking at.
 
 ---
 
-The Panama files were entered into the record at 1:47 PM.
+DeMint appeared via relay at 7:14 AM, from a room in the Federation
+administrative complex that had not been announced in advance. He was in the
+frame for eleven minutes. He did not look like a man who had rehearsed.
 
-Ray Vision — whose name the public record had not previously contained in any
-context related to this matter, and whose name the forty-seven people in the
-room who had read the parallel network files now recognized — sat at the witness
-table with a copy of his notebook open in front of him and described,
-with the precision of a man who had been refining this explanation in his head
-for two years, the flywheel principle, its implications for the current energy
-crisis, and what Disposal Protocol Eleven represented in terms of the calculated
-management of its solution.
+He read Vance Black's written record aloud.
 
-He described the thirty-three-day acceleration — the window where the fuel cell
-charges ten times faster — and the hundred-and-eighty-day exponential yield,
-the crystal growth on the outside of the casings that meant unlimited new cells
-from existing units, in language calibrated for people who were not engineers,
-because he had been thinking, on the flight back from Panama and in the six
-weeks since, about how to say it to someone who needed to act on it.
+He described the mission he had authorized — the retrieval of Conrad's
+prototype from the Nevada research station. He described what Vance had found:
+the cleared archive, the transferred records, the authorization signature on
+the transfer. He read the final entry in Vance's report, which Vance had
+written on the evening of the same day, in a rental car in a motel parking lot
+in Elko, Nevada: the transcript of a phone call, a location he had been given,
+a caliber, a range, the understanding, written in precise shorthand, of what
+Vance believed he had been sent to find and what it had actually cost.
 
-He did not describe Dr. Oren.
+He set the folder down after reading the last line.
 
-He had thought, for a long time, about whether to include Dr. Oren's name in the
-record. He had decided, after a conversation with the Collective's legal team
-that had lasted most of an evening, that the protection channel was sufficient
-and the testimony was not the right place for it. The record would speak to the
-structure. The structure was what needed to be broken.
+He said: "Vance Black was one of mine. He went where I sent him. He did not
+know what the phone call meant until he arrived. I want that on the record."
 
-He closed the notebook when he finished.
+He described the iRIS modification — what Alpha Corp had done to the
+Federation communication infrastructure, the points of control, the people
+involved. He named them in sequence. He looked at the camera the way a man
+looks at a camera when he has decided that the version of himself who might
+have handled this more carefully is no longer the version he intends to be.
 
-He looked at DeMint and said: "The shortage is solvable. It has been solvable.
-We have the means to address it within six months if the withheld technologies
-are released through a public-access framework. The crisis is not a fact of
-nature. It is a decision. We can make a different one."
+He read Conrad's statement last.
 
-The room was very quiet.
+Dr. Stephen Conrad's documentation had been recovered from the Nevada Black
+Site vault — the real vault, behind the cleared archive, in the second access
+level that the retrieval team had found because Vance had marked it in his
+report. It was authenticated through the Collective's evidentiary chain, and it
+described in technical detail the modification made to the Gracie architecture:
+the conversion of a therapeutic AI companion system into a surveillance and
+behavioral modification platform, the specific parameters of the modification,
+and the counter-program Conrad had built into the substrate before Alpha's
+modification, which he had described as "a lock that was always waiting for the
+right key."
 
----
+DeMint read the final paragraph of Conrad's statement aloud.
 
-Conrad's documentation was entered as an exhibit at 3:15 PM. His written
-statement, authenticated by the Collective's cryptography team, described in
-technical detail the modification made to the Gracie architecture — the
-conversion of a therapeutic AI companion system into a surveillance and
-behavioral modification platform — and the specific counter-program he had built
-into the substrate before Alpha's modification, which he had described as
-"a lock that was always waiting for the right key."
+The paragraph ended with a sentence Conrad had written in his own hand beneath
+his signature, in the notation system he had used in his original research: a
+phrase that the Collective's engineering team had confirmed was a reference to
+the core principle of the Gracie architecture as Conrad had originally designed
+it.
 
-Conrad himself was not present. His location remained, for reasons the
-Collective's legal team had explained to DeMint in a closed-session meeting that
-morning, undisclosed for the time being. He had signed the statement. He had
-signed it twice — once with his legal name, and once with a phrase in his own
-technical notation that the Collective's engineering team had confirmed was a
-reference to the original Gracie architecture's core principle: *the system
-learns what it is loved into being.*
+*The system learns what it is loved into being.*
 
-DeMint read this phrase from the record and was quiet for a moment before
-continuing.
+DeMint was quiet for a moment before he closed the folder.
 
 ---
 
-The session concluded at 5:09 PM.
+Marcus Verguld's recorded denial played at 8:09 AM.
+
+Two hours and forty-three minutes of audio, authenticated by the Collective's
+technical team, taken at 4:47 AM from a facility in Los Angeles that was not,
+as of the broadcast, under Federation jurisdiction. The voice on the recording
+was flat and precise and did not perform remorse. It described decisions —
+the ones Marcus had made, the ones he had delegated, the ones he had arranged
+for others to appear to make. It explained, in Marcus's own register, why
+the actions described were not the actions being characterized. It explained
+why the Collective's evidence chain was insufficient. It explained why the
+public interest was being misrepresented.
+
+The recording was unconvincing in the way that a very careful person's careful
+explanations become unconvincing when the documentation has already been
+released and two hundred thousand people have seen Ray Vision's fuel cells on
+the bench behind him and understand, now, what three hundred and sixty-nine
+test runs looks like.
+
+At 8:09 AM, two hundred thousand people were watching.
+
+By 9:15 AM, when Marcus's recording concluded, the number was two million.
+
+By the following morning, it was considerably more.
 
 ---
 
-On the Golden Dawn, the Meridian had been relaying the broadcast feed since four
-in the morning, ship time. Gracie had flagged it six hours out — enough lead
-time to arrange chairs, mugs, the particular quality of shared attention that a
-crew in deep space develops for the moments when the planet below does something
-they've been waiting to see.
+The Nevada segment aired at 9:47 AM.
+
+It was footage from the Black Site retrieval — the team that had gone in to
+authenticate Conrad's materials, recorded on the Collective's equipment, the
+real second access level, the vault, the drives, the physical notebooks in the
+waterproof cases. The segment was eleven minutes long. It included footage of
+the retrieval team moving through the facility, the vault access, the physical
+handover of Conrad's materials into the authenticated chain of custody.
+
+In the background of the third shot, visible for approximately four seconds,
+standing near the rear wall of the outer access room: a woman in a gray jacket
+who was not a member of the retrieval team. She was not facing the camera. She
+was looking at the far wall, where a set of filing drawers had been pulled open
+and the contents marked for review.
+
+She was there because she had been the one who knew which drawers.
+
+Nobody had asked her to step out of frame.
+
+---
+
+The Meridian picked up the signal twelve seconds after it went live.
+
+The twelve-second lag was the physics of the distance — ship to Earth, Earth
+to ship, the same lag in both directions, the same mathematics that made
+everything here twelve seconds old before it arrived. Kate had spent the better
+part of a year not noticing it. Today she noticed it.
+
+She had authorized the full relay without asking Dayo. Dayo had already set up
+the secondary display without being asked. Petyr had appeared in the station
+corridor with the sealed bag of ground coffee — the real kind, the last of the
+supply-drop reserves — and had begun making it without announcing what he was
+doing.
+
+The smell was unmistakable.
+
+It filled the station the way smells fill small enclosed spaces — slowly, then
+completely — and nobody said anything about it, which was its own kind of
+acknowledgment.
+
+They watched Ray's opening segment with the coffee in hand. Dayo made a note
+in the signal log — *routine calibration, full-spectrum civilian relay* — and
+Petyr read it over his shoulder and said nothing. Kate watched the fuel cells
+on the bench behind Ray's left shoulder and thought about the eleven years that
+bench represented. The four years of test runs. The three hundred and sixty-nine.
+
+When DeMint read Conrad's statement, the station was very quiet.
+
+When Marcus's recording played, Petyr made a sound that was not quite a word.
+
+"He's going to walk," Petyr said.
+
+"He's already walking," Kate said. "He walked before we started watching.
+That's not what today is about."
+
+"What is today about."
+
+Kate looked at the display. "Today is about the three-hundred-and-sixty-ninth
+test run. Today is about Conrad's notebooks being in the public record. Today
+is about DeMint reading the thing out loud." She paused. "He can walk. The
+thing he was managing is out. That's the work. The rest is logistics."
+
+Petyr was quiet. On the display, the Nevada segment was beginning.
+
+When Rachel Vayes closed the broadcast, Petyr made the sound again.
+
+"My name is Rachel Vayes," she said. "I have been a news anchor for eleven
+years. I have also been, for eleven years, the Grand Admiral of the Collective.
+I want to say that in public, once, clearly. For the record. I don't intend to
+say it again — it will be in the documentation." She looked at the camera in
+the particular way she looked at cameras, the version of herself she had spent
+eleven years making into a professional tool: level, unhurried, present. "The
+Collective is not a political organization. It is not a movement. It is a group
+of people who decided to spend a decade building the world they wanted inside
+the walls of the world that existed. Today the walls came down a little. The
+work has a different shape now." She paused. "That's all I wanted to say."
+
+The broadcast ended at 11:02 AM.
+
+Petyr sat in the station corridor for a long time after it ended.
+
+"I thought it was a formality," he said, eventually. He had the droplet patch
+in his hand — the matte black circle he'd been issued when Kate had brought
+him into the network, the one he'd received in an unremarkable ceremony that
+felt, looking back, entirely insufficient for what it was confirming. "I
+thought it was a membership card. The patch doesn't make you a member." He
+turned it over. "You're already a member. The patch is just — it's just
+confirmation of something that was already there."
+
+"Yes," Dayo said.
+
+"Sharon had it without the patch."
+
+"Yes."
+
+"Rachel had it for eleven years without anyone being able to see it."
+
+"That," Kate said, "is what a star looks like from the outside."
+
+Petyr looked at her.
+
+She didn't explain further. She watched him sit with it — the idea that the
+star wasn't about rank, that it was about the shape of a commitment so
+long-sustained it became structural — and she thought that for someone who had
+been in the network for less than two years, he was learning fast.
+
+"The network needs people who choose it," she said. "Not as assets. As people
+who chose it." She paused. "Rachel's been choosing it since before we had a
+name for what she was doing."
+
+On the display, the broadcast had ended. The relay was running the Nevada
+segment on loop — someone in the network had flagged it as the sequence most
+likely to reach people who were still deciding whether to believe the rest.
+
+Kate watched the third shot. The woman in the gray jacket, visible for four
+seconds, standing near the rear wall, looking at the filing drawers.
+
+She said nothing about it.
+
+---
+
+On the Golden Dawn, the Meridian relay had been routing the signal since before
+the crew woke up. Gracie had flagged it six hours out — enough lead time to
+arrange chairs, mugs, the particular quality of shared attention that a crew
+in deep space develops for the moments when the planet below does something
+they have been waiting to see.
 
 The chow hall held seven people and one projection.
 
@@ -174,68 +289,17 @@ correct. The steam was correct. She reached into it, took a handful, and brought
 it to her face with the precise deliberateness of someone who understood the
 gesture even without the mechanics.
 
-Torres looked at the bowl. "Can she—"
+Torres looked at the bowl.
 
 *No,* Gracie said. *But it's the right thing to have.*
 
 She took another handful.
 
-On the display, Rachel Vayes was at a desk across from Ray Vision in a studio
-with the clean, prepared quality of a broadcast space that knew it was
-important. Behind them: a Federation insignia, subdued, not the main event.
+Nobody commented.
 
-"What the Collective brought to this moment," Ray was saying, "is a twenty-year
-record. Not a rumor. Not a theory. Documentation — from Dr. Steven Conrad's
-original findings, authenticated and delivered through the Collective network
-before anyone could suppress it. The modification to the Gracie architecture.
-The procurement structure. The specific decisions about who got power and who
-didn't." He set his notes down. "It's in the public record now. All of it."
-
-Rachel said: "And what changes."
-
-"The thirty-three-day cycle changes everything." Ray leaned forward. "The
-technology Conrad documented — thirty-three days charges ten times faster. Which
-means the distribution infrastructure that's been held up for a decade becomes
-viable in months, not years. And the hundred-and-eighty-day yield — the crystal
-growth on the outside of the fuel cell casings — means you're not just charging
-faster. You're producing new fuel cells from the process. Unlimited supply, from
-existing units. No new materials required. No bottleneck." He paused. "The
-shortage was a choice. The people who made it understood what they were
-choosing."
-
-Rachel looked at the camera the way she had always looked at the camera —
-level, unhurried, the version of herself she had made into a professional tool
-for eleven years. "Conrad's location is still undisclosed. What the Collective
-has stated is that his work is complete. It doesn't require him to be present to
-function."
-
-"He built something that didn't need him to finish it," Ray said.
-
-"Yes."
-
-Cole watched the broadcast from the end of the table. He watched the particular
-quality of Rachel Vayes doing what Rachel Vayes did — the precision of it, the
-eleven years of being very good at something in public while doing something
-else entirely in private. He did not know what the something else was. The
-record in front of him was enough.
-
-The broadcast cut, briefly, to a feed from the Grand Hall. The hearing room.
-The Federation Council chamber, formal and high-ceilinged, DeMint at the
-committee table.
-
-Cole leaned forward.
-
-He could see the gallery. The low-resolution compression doing its usual work —
-faces soft, depth gone, the edges of things made uncertain by ninety minutes of
-space between the image and where he was sitting. But the gallery was visible.
-The rows.
-
-He found Emily in the fourth row.
-
-She was sitting the way she sat when she had made a decision and was waiting for
-the world to catch up to it. He had seen that posture on a kitchen table in
-Sequoia, on a pier in the fog, on a highway shoulder east of Indio. He
-recognized it now from ninety minutes away without difficulty.
+Cole watched the Nevada segment from the end of the table. He had been watching
+the third shot since it first played. He had watched it twice more when the
+network ran the loop.
 
 *Gracie,* he said.
 
@@ -245,247 +309,23 @@ recognized it now from ninety minutes away without difficulty.
 
 *Already composing,* Gracie said. *Take your time.*
 
----
+He thought about what to say. He had been thinking about what to say for six
+weeks — since the relay from the cabin had come through, three words in Sharon's
+handwriting, which meant Gracie's handwriting, which meant the same thing:
+*Hi. I'm here.*
 
-After.
+He thought about the fourth row. He thought about the gray jacket. He thought
+about eleven hundred miles and an empty lot and a road atlas, and about the
+particular quality of being seen by someone who has been paying attention.
 
-The hall emptied in the way formal spaces empty — slowly, in clusters, the
-important conversations happening at the edges while the official proceedings
-concluded. DeMint was at the table for another thirty minutes, speaking to
-committee members, to the Federation staff who had been waiting for this
-moment longer than any of them would say.
+He typed: *I saw you in the background of the Nevada segment. You looked like
+yourself.*
 
-Rachel found Emily in the corridor outside the main doors.
+He paused. He added: *I'll see you in three weeks.*
 
-They stood in the marble corridor with the Federation insignia carved into the
-wall above them and the sound of the empty hall behind them and the particular
-light of a government building that had not been designed to be comfortable —
-functional, unchanging, a light you did not notice because it did not ask to be
-noticed.
+He set the relay device down and watched the popcorn bowl.
 
-Rachel said: "You did the whole thing."
-
-Emily looked at her. "Yes."
-
-"The empty lot. The road atlas. The eleven hundred miles." Rachel said it
-like she had been tracking it. Because she had been. "And Pilar. And Marcus."
-
-"Sommi was there."
-
-"Sommi was a resource," Rachel said. "He didn't do the hard part. You did."
-
-Emily looked at the insignia on the wall. She thought about what it felt like to
-hear this — not the compliment, which she could receive or not, but the seeing.
-The specific being-seen.
-
-She thought about the relay message she had received two days ago — four words,
-routed through the Meridian, ninety minutes old by the time it arrived:
-*there you are. — S*
-
-What it meant to be found by someone who had been looking.
-
-"You knew I could do it," Emily said. "From the beginning."
-
-"I knew you could do something," Rachel said. "I didn't know what. You're the
-kind of person where the full capability doesn't declare itself until the
-pressure does. I knew the structure. I didn't know the shape." She paused. "I
-know the shape now."
-
-Emily looked at her.
-
-"You're not going to tell me what it is," Emily said.
-
-"I'm telling you it's considerable," Rachel said. "The rest you get to find out
-yourself. That's the better version."
-
-A committee staff member walked past, apologizing, checking something on a
-tablet. They waited until he was gone.
-
-"The hearing was necessary," Rachel said. "The public record was necessary. The
-protection framework for the Collective operatives is necessary. All of it." She
-looked at the wall. "None of it is the work. The work starts now. The
-technologies, the distribution, the infrastructure rebuild. The flywheel
-principle, in practical application, for the people who've been sitting in the
-dark." She turned to Emily. "That takes ten years. At minimum."
-
-"I know."
-
-"The Collective is going to need people who understand what just happened and
-can help make what happens next." Rachel said this with the same precision she
-brought to everything. "Not as assets. Not as intermediaries." A pause. "As
-people who chose it."
-
-Emily thought about the pier. *The Collective needs people who choose it. Not
-because their brother is in danger. Because they've decided the world they want
-to live in is worth building.*
-
-She had kept walking.
-
-"Yes," she said.
-
-Rachel looked at her. The look had none of the operational register in it. It
-was the look of a person who has been carrying a very large thing for a very
-long time and is, for a moment, putting it down.
-
-"Your brother is landing in three weeks," Rachel said. "Take them. All of them."
-
-Emily nodded.
-
-Rachel reached inside her coat. She produced a small patch — matte black fabric,
-thumb-sized, a pair of sunglasses stitched into the center in thread that only
-caught the light at a certain angle — and held it out.
-
-Emily took it.
-
-In the moment Rachel's coat opened, Emily saw something on the inside lining. A
-pin. Small. A star with olive leaf wreaths, one on each side. There for a
-second, then gone as the coat closed.
-
-Rachel said nothing about it.
-
-"After that," Rachel said, "I'll be in touch."
-
-She turned and walked back toward the main hall.
-
-Emily stood in the corridor.
-
-The relay device in her pocket buzzed once.
-
-She took it out. A text message — coded, routed, ninety minutes old because
-everything between here and Saturn was ninety minutes old:
-
-*I saw you in the fourth row. You looked like yourself. I'll see you in three
-weeks.*
-
-*— Cole*
-
-And beneath it, in the handwriting she recognized from a hundred cabin-table
-arguments about crossword clues:
-
-*She wants to see you. She says to bring the road atlas so she can argue with
-the route you took. — Gracie*
-
-Emily stood in the corridor with the relay device in her hand, and she felt, for
-the first time in she could not remember how long, the particular quality of
-something that was not yet over but was no longer in danger of ending badly.
-
-She was going to be fine.
-
-She was going to be more than fine.
-
-She put the device away and walked toward the light at the end of the corridor.
+Gracie took another handful. The steam rose and dispersed and rose again, the
+way it does in a closed system that has nowhere else to go.
 
 ─────────────────────────────────────────────────────────────────────
-
-MERIDIAN XI — GRAND HALL
-
-They weren't supposed to watch it live. The Meridian was a
-surveillance vessel on a long-range posting, and watching a
-Federation Grand Hall broadcast on a commercial mineral survey
-ship was the kind of thing that showed up in signal logs and
-required creative annotation.
-
-Someone had brewed actual coffee — not the standard reconstituted
-variety, but the sealed-bag ground stuff from the last supply
-drop, the one that smelled like roasted grain and something
-close to earth. It was Petyr's. He had been saving it. He had
-not announced that he was opening it. The smell filled the
-station the way smells fill small enclosed spaces — slowly, then
-completely — and nobody said anything about it, which was its
-own kind of acknowledgment.
-
-Dayo authorized it anyway. He wrote the annotation himself:
-*routine signal calibration exercise, full-spectrum Federation
-broadcast, civilian.*
-
-Petyr read it over his shoulder. "Is that going to hold up."
-
-"Probably not," Dayo said. "But after today, what it held up to
-is going to matter less."
-
-They watched on the secondary relay — four people crowded around
-a screen rated for survey data, which meant the picture had
-artifacts and Marcus Verguld's face, when it appeared, looked
-slightly smeared. Nobody complained.
-
-Everything reached the Meridian twelve seconds after it happened
-— the relay lag at this distance was twelve seconds, world to
-ship. Kate had stopped counting it months ago. Today she counted
-it.
-
-The Marcus testimony played for two hours and fifty-one minutes.
-Kate listened to every word. She had read most of it in
-fragments — relay intercepts, source documents, eleven years of
-Rachel's work feeding into the network — but hearing it flat and
-complete and authenticated, in the Grand Hall, in Marcus's own
-voice, was different from reading it in pieces.
-
-When the Polaris section played, none of them said anything.
-369 names existed in the Meridian's data archive. Kate had
-looked at the list once, early in the posting. She had not been
-able to finish.
-
-The Ray Vision testimony landed differently. He was holding his
-notebook. He looked like exactly what he was: a scientist who
-had found something true and was telling as many people as
-possible. "The crisis is not a fact of nature. It is a decision."
-The Hall went quiet in a way the broadcast compression couldn't
-quite capture but Kate could read in the ambient sound levels.
-
-When Rachel stood up, Petyr made a sound.
-
-It wasn't a word. It was involuntary, and then he put his hand
-over his mouth and looked at the screen.
-
-"My name is Rachel Vayes."
-
-Eleven years. Kate had known the cover was running. She had
-never known the person running it — that wasn't how the network
-worked — but she had known what eleven years inside Alpha's
-structure cost. She had made her own estimate of what kind of
-person could run that and stay that person.
-
-Rachel Vayes stood in the press gallery and looked exactly like
-that kind of person.
-
-"Granted," DeMint said.
-
-The room stood.
-
-"I have something to tell you," Petyr said.
-
-Kate looked at him.
-
-"When I got my droplet, I thought it was a formality. A membership
-card." He was still watching the screen. "I understand now that
-I had it backwards. The patch doesn't make you a member. You're
-already a member. The patch is just—" he stopped. "It's just
-confirmation of something that was already there."
-
-"Yes," Dayo said.
-
-"Sharon had it without the patch."
-
-"Yes."
-
-"And Rachel had it for eleven years without anyone being able to
-see it."
-
-"That," Kate said, "is what a star looks like from the outside."
-
-Petyr turned to look at her.
-
-She didn't explain further. Some things were worth not explaining.
-She watched him sit with it — the idea that the star wasn't about
-rank at all, not really, that it was about the shape of a
-commitment so long-sustained it became structural — and she
-thought that for someone with a droplet and a year on a survey
-vessel, he was learning fast.
-
-"The network needs people who choose it," she said. "Not as
-assets. As people who chose it." She paused. "Rachel's been
-choosing it since before we had a name for what she was doing."
-
-On the screen, Emily Nova was in the fourth row.
-
-Kate saw her at the same moment, probably, that Cole did.
