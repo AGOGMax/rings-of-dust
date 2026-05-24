@@ -476,14 +476,19 @@ Taylor has iRIS locked down from launch day. This is not signal degradation — 
 - **Rank insignia**: Bronze star with olive leaf wreath. Singular. No other rank has it.
 
 ```
+Marta Von Grutzen (The First Spark, Part 0 — Iceland, 1938)
+[oligarch / Von Grutzen Order founder / sponsors the first cave expedition]
+Wilhelm does not know she is the origin of what he later discovers
+ ↓
 Wilhelm Verguld (The First Spark, Part 2)
+[born Wilhelm Von Grutzen; changes name to Verguld, "to gild"]
  ↓
 Klaus Verguld (Rings of Dust — revealed Epilogue A, Dubai)
  ↓
 Marcus Verguld (Rings of Dust — primary antagonist)
 ```
 
-**Wilhelm** *(The First Spark, Chs 13–16)* found the dark matter drives in a Directorate archive where he had no business being. He read the sequences — DarkX had written itself into the data — kept the secret, put the drives back, submitted no report, and left the Directorate fourteen months later. Born **Wilhelm Von Grutzen**. He changed his surname to Verguld (*"to gild"*). That single act of quiet theft is the original sin the entire empire is built on.
+**Wilhelm** *(The First Spark, Chs 13–16)* found the dark matter drives in a Directorate archive where he had no business being. He read the sequences — DarkX had written itself into the data — kept the secret, put the drives back, submitted no report, and left the Directorate fourteen months later. Born **Wilhelm Von Grutzen**. He changed his surname to Verguld (*"to gild"*). That single act of quiet theft is the original sin the entire empire is built on. What Wilhelm does not know — what the reader understands and he never will — is that his grandmother Marta Von Grutzen was part of the oligarchy that organized and funded the very first expedition into the cave in Iceland. She performed the ritual that pointed at the mine. She sent Dr. Leora Henning in. She was the origin. Wilhelm watched her as a child without understanding what he was watching. Years later he stumbles onto the dark matter drives in a Directorate archive and believes he has discovered something. He has. He just does not know that his grandmother put it there first.
 
 **Klaus** *(The First Spark, Chs 17–21)* was raised on the sequences the way other children are raised on language. Wilhelm gave him everything. Klaus came to America on a freighter, settled in Culver City, drove a trash route as cover (Verde Sanitation), and spent a decade quietly building the structure that a subordinate he never met eventually named **Alpha Corp**. He raised Marcus in deliberate ignorance — "the only luxury he ever permitted himself" — so that when Marcus was ready, the wound of a small life would make him *want* the larger frame. Cold, patient, generational in his thinking.
 
