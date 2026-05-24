@@ -319,8 +319,6 @@ Alpha Corp's Watch Dogs — Alpha muscle running surveillance — see Greenbaum 
 
 Emily is loaded into a van and taken to Alpha headquarters.
 
-**What this means for Emily**: Sharon died in the same moment the Watch Dogs were trying to take Emily. The chaos that killed Sharon is the same chaos that took Emily. She carries both — the loss and the abduction — out of that cul-de-sac. That is the engine that drives her for the rest of the book.
-
 #### The resurrection arc
 
 Sharon comes back late in the book, half-bionic.
@@ -356,6 +354,7 @@ The DarkX vision does not fake Sharon's voice or show her to Cole. The substance
 - **Relationship to Rachel**: Charged. The shoulder contact, the exchanged looks — it reads one way in the moment and differently on a reread. The charge is canon.
 - **What Sharon's death does to her**: Sharon was Emily's way into the Collective, her partner on the ground, and the person who told her she was not doomed to be average. Losing Sharon does not break Emily. It finishes building her.
 - **In Emily's solo scenes**: Emily remembers Sharon. The "I'm doomed to be average" thread always traces back to Sharon's reassurance. Sharon is the person who said it first and meant it. Emily carries that line through the whole book — every time she keeps going, that's where the permission came from.
+- **What the cul-de-sac does to her**: Sharon died in the same moment the Watch Dogs were trying to take Emily. The chaos that killed Sharon is the same chaos that took Emily. She carries both — the loss and the abduction — out of that cul-de-sac. That is the engine that drives her for the rest of the book.
 
 ### Ricardo Corazon ("Heavy Hitter" / "Heavy")
 - **Role**: Federation Astro, Cole's "brother" by service. Pilot.
