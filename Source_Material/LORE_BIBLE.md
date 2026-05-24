@@ -376,7 +376,7 @@ The DarkX vision does not fake Sharon's voice or show her to Cole. The substance
 
 **Ray's full arc:**
 
-1. **At Alpha Corp**: Ray works at Alpha's materials research division. He accidentally discovers the negative-pressure vortex and figures out that adding liquid nitrogen shortens the sync cycle from 45+ days down to 11. He presents this to Alpha. They already knew. They fire him the same afternoon and threaten him under his NDA.
+1. **At Alpha Corp**: Ray works at Alpha's materials research division. He accidentally discovers the negative-pressure vortex and figures out that adding liquid nitrogen shortens the sync cycle from 45+ days down to 11. He presents this to Alpha. They understand immediately what it means — and what it means for them. They fire him the same afternoon, threaten him under his NDA, and make clear that his continued silence is not optional.
 
 2. **Extraction**: Red and Squirrel arrive at his door 72 hours before Alpha sends someone to kill him. "We've been keeping you alive." They extract him, give him the cover identity Mikof Forsinko — and plant him inside Alpha Corp's Panama research facility. "You've gotta be shitting me!" he says when they arrive in front of the building on his first day of work.
 
