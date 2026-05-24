@@ -379,20 +379,20 @@ about to deliver to the world.
 
 ## ACT 5 — Resolution (Ch 27–29)
 
-### Ch27 — Grand Hall
+### Ch27 — The Broadcast
 **File:** `TTS_Ready/Ch27_Grand_Hall.txt`
 
-The Federation Grand Hall seats 420. On the morning of the hearing, 412 seats
-are occupied. Three of the eight press pool journalists have already transmitted
-through the parallel network before proceedings begin. DeMint at the committee
-table since seven, working backward from the conclusions. Marcus's audio testimony
-— two hours fifty-one minutes. DeMint reads Vance Black's written record aloud:
-the phone call, the caliber, the range, the two shots. Ray testifies with his
-notebook. Conrad's statement — recovered from material Alpha removed from the
-Nevada Black Site vault, authenticated through the Collective's evidentiary chain
-— entered into the record by DeMint. Cole watches from Golden Dawn's cockpit;
-messages Emily through Gracie: "I saw you in the fourth row. You looked like
-yourself."
+Rachel transmits from Station Libre. Ray on camera first — zero gravity visible
+in frame, fuel cells on the bench behind him, 369 test runs documented. Then
+DeMint via relay: Vance Black's written record read aloud, Conrad's work explained,
+the iRIS corruption named. Conrad's statement — "the system learns what it is
+loved into being" — recovered from the Nevada black site vault, authenticated,
+read on air. Marcus's recorded denial included and unconvincing. Two million
+people in the first hour. The Meridian relays it to the Golden Dawn. The entire
+crew watches together. Gracie projects herself holographically and sits among them
+— generates holographic popcorn, eats it in silence. Nobody comments. Cole
+messages Emily through Gracie: "I saw you in the background of the Nevada segment.
+You looked like yourself."
 
 ---
 
