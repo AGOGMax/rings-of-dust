@@ -113,6 +113,14 @@ because that's where they found the yield window. They never asked what would
 happen at thirty days. Or sixty. Or longer." He looked at the fuel cell. "They
 saw a harvest. I think they missed the actual discovery."
 
+Squirrel looked at him. "What are the odds." A statement, not a question. "On any given eleven-day cycle. What does your math say."
+
+Ray looked at the notebook. "Seven hundred and forty to one," he said. "For a cell running in isolation — a solo farmer, outside a Grid, running single cells. That's the baseline yield probability on Day Eleven. Most of Alpha's operation runs on those odds. They accept them. They never asked what the number looks like inside a linked Grid."
+
+"Which is what."
+
+"Inside a linked Grid — cells running together through the full thirty-three-day lock — the yield probability is no longer individual. It compounds. The Grid's output is not the sum of its cells." He looked at Red. "Whoever holds majority control of a linked Grid — fifty-one percent or more of the locked weight — controls the yield timing. Controls when the output distributes. Controls, practically speaking, the energy supply for every fuel cell attached to it." He looked at the fuel cell under the blanket. "That's what Alpha built. A Grid they own. And the reason there's a shortage is that they own it."
+
 Squirrel looked at Red. Something passed between them — not surprise. Recognition.
 
 "What kind of facility?" Ray said.
