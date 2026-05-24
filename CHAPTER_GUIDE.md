@@ -402,9 +402,9 @@ yourself."
 The Golden Dawn breaks atmosphere over the Pacific at 0617. Textbook entry —
 Gracie running the sequencing, Cole's hands on the controls barely needed. Sharon
 in the converted medical bay, belted for descent. On the runway: Taylor removed
-by two Federation task force agents, no scene. Taylor's quarters: pocket watch,
-Klaus Verguld engraved inside the lid. DeMint to Cole: Klaus founded Alpha in
-1991. Taylor was Klaus's man, not Marcus's. Recovery facility north San Diego.
+by two Federation task force agents, no scene — he still has Klaus's pocket
+watch on him when he goes. DeMint to Cole, privately: Klaus identified Taylor,
+made the approach himself, owned him the entire career. Marcus inherited him. Recovery facility north San Diego.
 Emily on the porch with coffee and the road atlas. Sharon in the window chair:
 "Hi." Bitboy: "Hi, you little bastard." Cole puts the ring on the table. No
 speech. She looks at it. She puts it on.
