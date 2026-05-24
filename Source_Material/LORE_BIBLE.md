@@ -793,15 +793,13 @@ The text holds both. The Epilogue C line — "It was always in the reaching" —
 
 ## First Spark Prequel
 
-### File Structure (as written)
+### File Structure
 
 | File | Contents |
 |------|----------|
-| *The_First_Spark_Part0_Von_Grutzen.txt* | **Chapter Zero — Von Grutzen** (Iceland, 1938): Marta Von Grutzen's ritual. She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. Does not descend herself. |
-| *The_First_Spark_Part1.txt* | **Part 1 — The Coal Mine**: Dr. Leora Henning descends into Site 17-B. All personnel disappear. Government seals the site: "Stone retains memory. Do not return." |
-| *The_First_Spark_Interlude_The_Watch.txt* | **Interlude — The Watch**: Wilhelm gives Klaus the pocket watch on his 20th birthday. Von Grutzen explained. The belief system: accumulation vs. sacrifice — two expressions of the same conviction. |
-| *The_First_Spark_Part2.txt* | **Part 2 — The Accessor**: Survey team finds crystalline drives. Wilhelm's arc. |
-| *The_First_Spark_Part3.txt* | **Part 3 — Klaus in America**: Klaus on freighter to Long Beach. Culver City. Kitchen table with young Marcus. Villain-origin canon. |
+| *The_First_Spark_Part1.txt* | **Part 1 — Von Grutzen & The Coal Mine**: Opens with Marta Von Grutzen's ritual (Iceland, 1938). She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. All personnel disappear. Government seals Site 17-B: "Stone retains memory. Do not return." |
+| *The_First_Spark_Part2.txt* | **Part 2 — The Accessor**: Survey team finds the crystalline drives. Wilhelm's arc. |
+| *The_First_Spark_Part3.txt* | **Part 3 — Klaus in America**: Opens with the Interlude — Wilhelm gives Klaus the pocket watch on his 20th birthday; Von Grutzen explained; accumulation vs. sacrifice as two expressions of the same conviction. Then Klaus on freighter to Long Beach. Culver City. Kitchen table with young Marcus. Villain-origin canon. |
 
 ### Canonical Timeline
 
