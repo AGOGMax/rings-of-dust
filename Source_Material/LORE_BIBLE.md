@@ -310,8 +310,6 @@ The bond with Cole has to feel **earned** before she dies. The relationship exis
 
 - **Anti-Federation, anti-Alpha Corp from the start.** Her politics are sharper than Cole's. She finished medical school, gave the establishment the finger the day she walked out, and never looked back. She has the training. She chose not to use it in the way they intended.
 - **En route to Saturn, after Sharon's death**: Cole has hours alone with his grief. A full flashback of the black-market run that almost got them killed — the night they decided this was the rest of their lives. The reader feels exactly what he lost.
-- **In Emily's solo scenes**: Emily remembers Sharon. The "I'm doomed to be average" thread always traces back to Sharon's reassurance.
-
 #### Death scene
 
 **The full sequence**:
@@ -357,6 +355,7 @@ The DarkX vision does not fake Sharon's voice or show her to Cole. The substance
 - **Arc across the book**: Collective operative running alongside Sharon → Sharon killed, Emily grabbed by Alpha Corp → alone inside Alpha's structure, running her own mission → the person who walked into Marcus's office and left the door open.
 - **Relationship to Rachel**: Charged. The shoulder contact, the exchanged looks — it reads one way in the moment and differently on a reread. The charge is canon.
 - **What Sharon's death does to her**: Sharon was Emily's way into the Collective, her partner on the ground, and the person who told her she was not doomed to be average. Losing Sharon does not break Emily. It finishes building her.
+- **In Emily's solo scenes**: Emily remembers Sharon. The "I'm doomed to be average" thread always traces back to Sharon's reassurance. Sharon is the person who said it first and meant it. Emily carries that line through the whole book — every time she keeps going, that's where the permission came from.
 
 ### Ricardo Corazon ("Heavy Hitter" / "Heavy")
 - **Role**: Federation Astro, Cole's "brother" by service. Pilot.
