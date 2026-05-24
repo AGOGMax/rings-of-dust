@@ -253,7 +253,7 @@ deceased" and closes the file like a minor irritant resolved.
 **File:** `TTS_Ready/Ch19_Rays_Cargo.txt`
 
 Ray walks the six-block route to the heron fountain park — the regular dead drop
-for the Mikof Forsinko operation. He hands the drive to Squirrel: seventeen
+for the Mikov Forsinko operation. He hands the drive to Squirrel: seventeen
 months of Disposal Protocol records, eleven viable technologies on a shelf, the
 energy crisis as an inventory decision. He names it: "The Antigravity project."
 He tells Squirrel he needs zero-gravity experiments to confirm the full theory.
