@@ -87,6 +87,8 @@ has been unable to reproduce reliably in two years of trying. Because they
 started from the output side. They're backward-engineering a process they don't
 have the right mental model for."
 
+He paused. "Alpha's standard containment runs nitrogen. Open cycle — nitrogen atmosphere, no seal modification. Every lab in the program. Every researcher who ever handled Darker Matter crystals ran the same protocol." He looked at Red. "Nobody sealed a cell under negative pressure. It wasn't in any protocol. You added it as a shortcut because you were trying to avoid a walk across campus. That single variable — the seal — is why they have been failing for two years trying to reproduce what you found in a locker on a Tuesday."
+
 Ray pulled the blanket away from the fuel cell. He hadn't meant to do it — his
 hands made the decision before his head caught up. The cell sat on the table,
 dull and inert in the lamplight.
