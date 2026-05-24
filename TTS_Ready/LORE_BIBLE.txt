@@ -5,6 +5,16 @@ Significant Numbers
 
 These numbers recur across Rings of Dust with specific narrative weight. Use them consistently.
 
+Number — Significance
+
+11 — Fuel cell cycle duration. Day 11: one cell in 740 receives the one-time exterior Jackpot deposit. The sync period ends. Also the return interval from void sacrifices (gold asteroid every 11 days).
+33 — Day at which a locked cell's interior crystal growth reaches 10× rate. First long-hold milestone.
+180 — Day at which interior growth reaches 100× AND all Grid cells begin continuous exterior cycling every 11 days. The full-Grid perpetual engine.
+369 — Number of test runs in Elsa Klein's research notebooks. Number of victims from the Polaris explosion — the disaster Cole captained. Also the number of people in the original Colony founding party: 369 went out to establish it; 11 survived. The same number lives in the science, in the catastrophe, and in the colony's founding scar.
+5555 — FEDHEX5555 is the cover registry for Alpha Corp's vessel shadowing the Golden Dawn. After Sharon is shot, Alpha Corp loads her body onto FEDHEX5555 — where Dr. Bruce Hexo, against his will, builds and weaponizes her. The ship follows the Golden Dawn to Saturn. Gracie (newly online) scans the approaching vessel, reads the FEDHEX5555 call sign, and identifies the figures inside — including the bionic Sharon.
+51% — The majority stake in a Grid. Controlling 51% of a Grid's cells is the central economic and political object of the book — whoever holds that stake controls the compounding yield, the lock mechanic, and the energy output. The conflict between Alpha Corp and the Collective is a race to this number.
+740 — The Jackpot denominator. On Day 11, exactly one cell in 740 receives the one-time exterior Jackpot deposit. This number applies specifically to the Day 11 odds — it is not the political object (see 51%).
+
 World & Setting
 
 Year: 2033
@@ -153,14 +163,14 @@ Your acts and deeds now bless your bloodline going forward. You can reincarnate 
 Two streams from one source
 
 Wilhelm's Grandmother (ORIGIN — started the cult/religion)
-
+ |
  +— Accumulation stream (Verguld dynasty): Wilhelm → Klaus → Marcus
  | (took the "bless your bloodline" teaching and redirected it toward ownership and empire)
-
+ |
  +— Sacrifice stream (colony tradition): the path that chose sacrifice over accumulation
  | → Elsa Klein (not a bloodline descendant — a prophetess who obtained the grandmother's records and built the colony on them; performed the first void sacrifice; Tyler Durden revived the ritual after it fell away following her death)
  | → Tyler Durden — Void-Walkers (revived the ritual; did not originate it)
-
+ |
  +— Separate branch (same bloodline, no empire, no money — chose differently):... → Jill
  | (distantly related to Marcus; knows it; chose the black market instead)
 
@@ -778,7 +788,46 @@ First Spark Prequel
 
 File Structure
 
+File — Contents
+
+The_First_Spark_Part1.txt — Part 1 — Von Grutzen & The Coal Mine: Opens with Marta Von Grutzen's ritual (Iceland, 1938). She feels the coal mine's direction. Three months later she sends Dr. Leora Henning in. All personnel disappear. Government seals Site 17-B: "Stone retains memory. Do not return."
+The_First_Spark_Part2.txt — Part 2 — The Accessor: Survey team finds the crystalline drives. Wilhelm's arc.
+The_First_Spark_Part3.txt — Part 3 — Klaus in America: Opens with the Interlude — Wilhelm gives Klaus the pocket watch on his 20th birthday; Von Grutzen explained; accumulation vs. sacrifice as two expressions of the same conviction. Then Klaus on freighter to Long Beach. Culver City. Kitchen table with young Marcus. Villain-origin canon.
+
 Canonical Timeline
+
+Year — Event
+
+1938 — Marta Von Grutzen funds and organizes the Iceland expedition. The mine event: all personnel disappear. Government seals Site 17-B. Wilhelm watches as a child.
+1957 — Survey team recovers the crystalline drives from the sealed mine (+19 years). Drives placed in unindexed Directorate archive storage.
+1962 — Klaus Verguld born.
+1980 — Wilhelm accesses the drives in the Directorate archive (+23 years from survey). Reads the sequences. Understands what they are.
+1981 — Wilhelm leaves the Directorate (14 months after accessing the drives). Born Wilhelm Von Grutzen; changes name to Verguld ("to gild").
+1982 — Wilhelm gives Klaus the pocket watch on his 20th birthday. Explains the belief, the bloodline, the two streams — accumulation and sacrifice.
+~1984 — Klaus comes to America on a freighter. Settles in Culver City. Verde Sanitation trash route as cover. Builds the structure over the following decade.
+1985 — Elsa Klein files Federation papers. 369 people follow. Colony founded on the asteroid. Elsa is 60; Petra is 25.
+1988 — Elsa Klein dies at the colony, age 63. Three years after founding. Petra is 28. The sacrifice ritual falls away without her. The DarkX mine will eventually run dry.
+1991 — Alpha Corp founded. Klaus, age ~29.
+~1995 — Marcus Verguld born (Culver City). Cole Nova born (same neighborhood, four streets over). Klaus lets the friendship form.
+~2006 — Marcus's mother dies of an aneurysm. Marcus, age 11.
+~2012 — A Thousand Thrills summer. Cole quits to go home to his dying father. Marcus stands at the kitchen table: "I will NEVER forget how you screwed me over." Klaus: "No. You won't."
+~2013 — Cole's father dies. Cole, age 17. Emily tutors him toward the Academy.
+~2019 — Marcus, age 24, asks Klaus what he actually does. Klaus opens the notebook and tells him who he is.
+~2026 — Ray (Max Vision) hired at Alpha Corp's materials research division.
+~2027 — Ray discovers the flywheel. Fired the same afternoon. Red and Squirrel extract him 72 hours before Alpha sends someone to kill him. Ray goes undercover in Panama as Mikov Forsinko.
+~2028 — Polaris explosion at Saturn's rings. 369 crew killed. Cole sole survivor. Cole's voluntary isolation begins.
+~2030 — Alpha Corp batch record — annotated "Jackpot" — discovered by Ray during Panama operation.
+~2032 — Ray hands drive to Squirrel at the heron fountain park. Jill Von Grutzen arrives in Panama with Elsa Klein's notebooks. Ray and Jill depart for Station Libre. Cole recalled from isolation for the Golden Dawn mission.
+Jan 2033 — Ray and Jill arrive at Station Libre. Experiments begin under zero gravity.
+Jun–Jul 2033 — Day 180 confirmed: 100× interior growth, all-Grid exterior cycling begins. Unlock experiment: three runs confirm that breaking the lock stops everything within hours. All 369 of Elsa's test runs confirmed exact.
+Aug–Sep 2033 — Rachel Vayes arrives at Station Libre for the prep visit. "I've known for a long time. I needed to be able to prove it. Now I can."
+Oct–Nov 2033 — The Golden Dawn approaches Saturn. Act 4 builds. Taylor positions himself. FEDHEX5555 closes on the Golden Dawn's vector.
+Nov 22, 2033 — THE RAPTURE. Saturn's outer rings enter full gravitational closure. All four threads converge. Cole inside the ring plane — Sharon boarding sequence — as the rings begin pulling the Golden Dawn inward.
+Late Nov 2033 — Earth Return. Golden Dawn breaks atmosphere over the Pacific at 0617. Taylor removed on runway.
+Dec 2033–Jan 2034 — The Broadcast. Rachel transmits from Station Libre — Ray on camera, DeMint via relay, Conrad's statement read on air. The Golden Dawn crew watches via Meridian relay. Gracie eats holographic popcorn. Two million people in the first hour.
+2034 — Epilogues. Marcus in Dubai with orange juice and four ice cubes. A second glass placed across from him — not ordered. Taylor in Eureka, Nevada. Rachel in Sequoia.
+
+---
 
 Scene 1: Grandmother's Ritual (Part 0 — Von Grutzen, written)
 
