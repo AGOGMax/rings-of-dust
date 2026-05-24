@@ -78,6 +78,8 @@ with an unnecessarily large wrench."
 
 Sam woke Cole with the sensor alert. He was in the cockpit in four minutes.
 
+He had been expecting this. Not the specific vessel, not the exact registration, but the fact of something arriving. Saturn's approach ring was the only place you could force a rendezvous — the harvest locked you into a position, the retrieval trajectory eliminated your maneuver room, and whatever had been sitting in the passive sensor data since the inner belt crossing knew this as well as he did. Cole had added it to his list in his bunk nineteen days ago. The knowing had not made it better.
+
 The vessel was Federation-registered. Rapid Response Medical Support, registry
 number FED-MRS-0409, inbound from the inner system on a route that had
 originated — Gracie confirmed, pulling the trajectory — from Earth orbit five
@@ -95,6 +97,8 @@ Corps contractor. The contractor's operating license had been filed eight months
 ago — two weeks after the Golden Dawn's mission had been authorized. The parent
 company was incorporated in Geneva. The Geneva office's primary financial backer
 was a holding entity registered in Singapore.
+
+Gracie: Cole. The vessel's Alpha registry designation is FED-HEX-5555. It is not in the public fleet record. It was in a routing transmission from Alpha's management relay — one of the encrypted packets from three weeks out that Taylor believed was unreadable. The public registration is a cover. The vessel has been FED-HEX-5555 since before the Golden Dawn was authorized.
 
 Cole looked at Gracie's work in the display and did not say what he was
 thinking.
