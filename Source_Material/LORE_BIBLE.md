@@ -140,7 +140,7 @@ The **Rapture** is a gravitational event at Saturn — a periodic alignment in w
 
 The Golden Dawn mission exists because the Rapture is coming. The Federation's public mandate is to harvest as much raw DarkX from the outer rings as possible before the window closes. The cover story is resource stewardship. The truth is that whoever holds the pre-Rapture DarkX harvest controls the only remaining supply of unprocessed DarkX for the foreseeable future.
 
-**Canonical date**: March 14, 2045. Saturn's outer rings enter full gravitational closure on this date. The Golden Dawn mission is timed against this deadline. DeMint's conscription letter to Cole specifies this date explicitly. Cole reads it at the cabin, makes himself remember it, and drops the letter in the steel waste bin.
+**Canonical date**: November 22, 2033. Saturn's outer rings enter full gravitational closure on this date. The Golden Dawn mission is timed against this deadline. DeMint's conscription letter to Cole specifies this date explicitly. Cole reads it at the cabin, makes himself remember it, and drops the letter in the steel waste bin.
 
 Alpha Corp knows this. The Rapture is the entire reason for the mission. It is why Cole was conscripted. It is why FEDHEX5555 follows.
 
