@@ -142,10 +142,10 @@ a potted plant on the way out.
 
 ---
 
-### Ch09 — Ray and The Flywheel
-**File:** `TTS_Ready/Ch09_Ray_And_The_Flywheel.txt`
+### Ch09 — Ray's Escape
+**File:** `TTS_Ready/Ch09_Rays_Escape.txt`
 
-*Merged from: Ray and the Flywheel + Ray in Panama*
+*Merged from: Ray's extraction + Ray in Panama*
 
 Ray at the scarred oak table — the stolen fuel cell under the single overhead
 light, the 180-day curve he cannot stop turning over. Squirrel and Red arrived
