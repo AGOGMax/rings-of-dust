@@ -1,4 +1,4 @@
-# RINGS OF DUST — Chapter & Epilogue Guide
+# RINGS OF DUST — Chapter & Epilogue Summary
 
 28 chapters + 3 epilogues. Four strands braided: Cole/crew, Emily, Ray, Jill/Colony.
 
