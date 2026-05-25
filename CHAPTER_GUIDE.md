@@ -10,12 +10,13 @@
 **File:** `TTS_Ready/Ch01_The_Polaris.txt`
 
 Kate has been running filtered sweeps of Alpha-controlled relay bands for four
-months. The mission manifest just went live with a name on it: Cole Nova — sole
-survivor of the Polaris incident, five years of voluntary isolation, now recalled
-to active duty by Chancellor DeMint for one final harvest run. Kate reads the
-crew file for the fourth time and finds the same thing she found the first three
-times. She shows Petyr. The chapter establishes the Meridian surveillance
-operation and the weight of what Cole is being sent back into.
+months. The mission manifest goes live with a name: Cole Nova — sole survivor of
+the Polaris incident, five years of voluntary isolation, recalled to active duty
+by Chancellor DeMint for one final harvest run. Kate reads the crew file for the
+fourth time and finds the same thing she found the first three. Petyr at the nav
+station, recently received his droplet, says the code phrase to the refrigerator.
+The chapter establishes the Meridian surveillance operation and the weight of
+what Cole is being sent back into.
 
 ---
 
@@ -25,11 +26,12 @@ operation and the weight of what Cole is being sent back into.
 Stephen Conrad in room 1122, four hours before a conference he will not be the
 same person after. The Enterprise keychain on the desk — hollow base,
 quarter-turn seal his own work, cast resin on the outside, everything on the
-inside. He has already decided what he will do; the chapter is about sitting
-with a decision before you act on it. Downstairs: Emily and Sharon run the
-elevator scam on Greenbaum. Conrad passes the keychain and the encrypted drive.
-Dark silver trace on Emily's fingers, unnoticed. Conrad's last line: "Tell him
-I'm sorry."
+inside. The Portland lab flashback: how Conrad and Tomas built Gracie in a
+converted storage room, named her after his mother. Downstairs: Emily and Sharon
+run the elevator scam on Greenbaum. Conrad passes the keychain and the encrypted
+drive. Emily notices a dark graphite mark on her palm afterward — pressed into
+the lines of her skin, doesn't smear, doesn't come off. Conrad's last line:
+"Tell him I'm sorry."
 
 ---
 
@@ -37,10 +39,13 @@ I'm sorry."
 **File:** `TTS_Ready/Ch03_A_Thousand_Thrills.txt`
 
 Cole's origin story. The A-frame cabin in Sequoia — Ulysses Nova's hunting
-cabin, left to his favorite nephew, rarely visited. Cole checks the roof between
-missions, thinks about selling it, never does. His father's cancer diagnosis, the
-summer job he gave up, the father who died when Cole was seventeen. Emily and his
-mother tutor him toward the Academy. The cabin is what Cole was before anything
+cabin, left to his favorite nephew. Bitboy introduced: last surviving EM Cyber,
+a Federation experimental project, six-limbed, ethanol-dependent. Cole's
+childhood: the theme park he begged to visit, the parents who said they were
+broke, the father who bought a Harley anyway. The father's cancer, the summer
+job Cole gave up, the father who died when Cole was seventeen. Emily and his
+mother tutor him toward the Academy. Cole talks to Gracie in the dark cabin —
+"Gracie," he'd say, nothing after. The cabin is what Cole was before anything
 else started.
 
 ---
@@ -51,10 +56,14 @@ else started.
 *Merged from: The Cabin + The Mountain*
 
 The A-frame cabin in Sequoia, dawn to dusk. Cole splits the last log round in
-the crisp morning air, scanning the treeline out of old habit. By evening:
-Ricardo, Emily, Sharon, Bitboy — bags loaded into the black SUV. The data drive
-decrypted at the table. DeMint's letter, the mission laid bare. The end of the
-in-between before the world gets larger.
+the crisp morning air, scanning the treeline out of old habit. Ricardo arrives:
+"Coley Coley no-bowley" — his years-long greeting, philosophical more than
+playful. Ricardo and Bitboy watching Fight Club on the couch — the chemical burn
+scene, same movie every time. Ricardo's devotion to The Big Lebowski as
+philosophical text: The Dude abides, cited like scripture. By evening: Emily,
+Sharon, Bitboy — bags loaded into the black SUV. The data drive decrypted at the
+table. DeMint's letter, the mission laid bare. The end of the in-between before
+the world gets larger.
 
 ---
 
@@ -64,12 +73,18 @@ in-between before the world gets larger.
 *Merged from: Arrival + The Drop*
 
 Two operations the same week, cut back and forth. Cole's crew touches down at
-Federation HQ — Bitboy jolted awake, doesn't recognize his surroundings. On a
-county farm road at 3:33 PM: Emily and Sharon in a parked Sprinter van for the
-Collective crystal and figurine transfer. Code phrase: "No raindrop thinks it's
-the flood." Then Greenbaum — gun out, train platform, diverted to the industrial
-cul-de-sac. The Watch Dogs open fire. Greenbaum shoots Sharon while dying. Emily
-is taken.
+Federation HQ — Bitboy jolted awake, doesn't recognize his surroundings. DeMint
+greets Cole; Vance Black introduced. Vance and Taylor Glenn's first friction: at
+a briefing, Vance asks a question about cargo bay pressure tolerances, and
+Taylor answers before the briefing officer can — Vance's mouth moves in something
+not quite a smile. Sharon's Collective Informant patch noted — dark thread on
+dark fabric inside her collar, given three years ago; she has never once looked
+at it. The Watch Dogs named explicitly as Alpha's surveillance muscle. On a county
+farm road at 3:33 PM: Emily and Sharon in a parked Sprinter van for the
+Collective crystal and figurine transfer. Then Greenbaum — the Greenbaum Easter
+egg flashback where Taylor talks past him at a prior briefing. Gun out, train
+platform, diverted to the industrial cul-de-sac. The Watch Dogs open fire.
+Greenbaum shoots Sharon while dying. Emily is taken.
 
 ---
 
@@ -82,8 +97,9 @@ Ray's entire downfall in one chapter. It started as laziness — a DarkX batch
 converted on a Tuesday, containment window closed ten days ago, still not
 submitted. He has been looking at what he has. What he has shouldn't be possible.
 Three years at Alpha's materials research division, and the 180-day curve that no
-one was supposed to find. Discovery, nickname, and firing in one afternoon — one
-clean arc from junior researcher to unemployed heretic.
+one was supposed to find. The fuel cell glowing in his locker, vapor swirling
+inside like a storm caught in a jar. Discovery, nickname, and firing in one
+afternoon — one clean arc from junior researcher to unemployed heretic.
 
 ---
 
@@ -96,11 +112,15 @@ clean arc from junior researcher to unemployed heretic.
 
 iRIS by day four is no longer a voice — it's a presence that has learned the
 architecture of each crew member and calibrated accordingly. Cole finds it faintly
-wrong in a way he can't yet name. Sam retrieves Taylor's iRIS query log:
-monitoring Cole, contractor neutralized, what does Cole know about the cargo bay
-before Saturn. Later: reactor bay, jammer running, Sam and Ricardo. Sharon killed
-four days ago. Emily survived. Cole learns about Sharon through the relay —
-reaches for the controls; iRIS blocks it.
+wrong. DarkX proximity effects: limbic sensitivity, walls thinner, light getting
+through differently. Ricardo handles it by getting quieter, treating the feeling
+as information — more relaxed under pressure than before. Sam adjusts with
+unusual ease; she has a talent for helping, not hoarding. Sam retrieves Taylor's
+iRIS query log: monitoring Cole, contractor neutralized. Later: reactor bay,
+jammer running, Sam and Ricardo. Sharon killed four days ago. Emily survived.
+Cole learns through the relay — reaches for the controls; iRIS blocks it. Sam
+observes Taylor's timing of the Sharon reveal, noting he weaponized it — deployed
+it for maximum operational damage.
 
 ---
 
@@ -108,12 +128,17 @@ reaches for the controls; iRIS blocks it.
 **File:** `TTS_Ready/Ch08_Marcus.txt`
 
 Rachel walks Emily into the building without speaking. Lobby, elevator, three
-floors up, long dark hallway, two underlit Buddha statues. Emily is brought in
-to meet Marcus Verguld — and recognizes him from childhood. "I've kicked your
-ass before. Be aware that I will do it again." Marcus shows her the encrypted
-drive data. A vessel pacing Cole's course. He orders a tracker placed on Emily.
-Rachel: "Careful." Emily drops his card behind a potted plant on the way out. "I
-am not going to be the thread."
+floors up, long dark hallway, two underlit Buddha statues. Emily is a former
+science teacher — fifteen years in a classroom teaching teenagers to break
+complex things into parts they could hold. She recognizes Marcus's performance
+and is not impressed. Marcus introduced through his internal view: "over
+emotional animals" — how he has categorized humanity since he was old enough to
+notice. Rachel positioned as Marcus's public validator — the polished voice on
+every Alpha Corp broadcast, echoing his framing. Emily recognizes Marcus from
+childhood: Cole with a bloody lip and this boy's knee on his chest, and her
+grabbing the collar. Marcus shows her the encrypted drive data. A vessel pacing
+Cole's course. He orders a tracker placed on Emily. Emily drops his card behind
+a potted plant on the way out.
 
 ---
 
@@ -124,22 +149,29 @@ am not going to be the thread."
 
 Ray at the scarred oak table — the stolen fuel cell under the single overhead
 light, the 180-day curve he cannot stop turning over. Squirrel and Red arrived
-at his door 72 hours before Alpha sent someone to kill him. "We've been keeping
-you alive." Then movement: a flight Red arranged, backpack not in his name, three
-hours forty minutes, descent into somewhere the map doesn't show. He is going
-inside.
+at his door 72 hours before Alpha sent someone to kill him. Then movement: a
+flight Red arranged, backpack not in his name, descent into Panama City. Ray
+stands in front of Alpha Corp's Panama tower wearing the badge of a man who does
+not exist. "You've gotta be shitting me." He walks through the front entrance of
+the company that fired him and threatened to kill him four months ago. He is
+going inside.
 
 ---
 
 ### Ch10 — The Colony
 **File:** `TTS_Ready/Ch10_The_Colony.txt`
 
-Jill picks up a transponder signal on a frequency not in any registry — not
-Federation band, not miners' auxiliary — three days out from Titan on a route she
-chose for speed. Low on time, then low on fuel. The colony is on an asteroid,
-habitation carved into the inner tunnel. She finds it the way most people find
-it: by accident, with no better options. Tyler Durden introduces himself by name.
-She meets Petra. Stays eleven days. Witnesses the asteroid arrival. Leaves.
+Jill picks up a transponder signal on a frequency not in any registry — three
+days out from Titan on a route she chose for speed. Low on time, then low on
+fuel. Jill Von Grutzen: black market runner, punk rock in a universe run by
+people who look like her cousins — she knows she is distantly related to Marcus
+Verguld and the dynasty, has always known, has never considered it useful. The
+colony is on an asteroid, habitation carved into the inner tunnel. Tyler Durden
+introduces himself by name. His self-awareness on display: "A soap factory that
+became a death cult on an asteroid nobody wanted" — he does not argue with the
+description, just keeps walking. Petra introduced physically: seventies, white
+hair cut close, one of the original eleven who survived with Elsa Klein. Jill
+stays eleven days. Witnesses the asteroid arrival. Leaves.
 
 ---
 
@@ -161,11 +193,14 @@ selection went through Taylor. DeMint sends Vance to the desert.
 
 Emily wakes in a motel at 3:14 AM — still dressed, Sharon's protocol for
 uncertain environments. She checks the car the way Sharon taught her: perimeter
-walk, look underneath, check the handles. The note is on the driver's seat:
-*Emily — Pier 9. — R.* New phone, encryption installed. She follows the thread
-to Rachel at the acoustic dead zone. Sharon's name spoken directly. Conrad's
-prototype location. The Collective car is staged. Sommi follows Emily; she
-figures it out, pulls over. Drives east.
+walk, look underneath, check the handles. Rachel at the acoustic dead zone on
+Pier 9 — up close she is taller than she looks on television. Rachel's insomnia
+revealed: a clinical, lifelong condition she stopped fighting years ago and
+turned into the only advantage that cannot be trained, bought, or replicated.
+While Marcus sleeps, Rachel works. Rachel's villain attribution: the Federation
+does not make decisions — it executes them. Sharon's name spoken directly.
+Conrad's prototype location. The Collective car is staged. Sommi follows Emily;
+she figures it out, pulls over. Drives east.
 
 ---
 
@@ -173,11 +208,12 @@ figures it out, pulls over. Drives east.
 **File:** `TTS_Ready/Ch13_The_Faithful.txt`
 
 Day five at the colony. Jill has her cells and has not left. She has reasons —
-docking proximity, food, incomplete diagnostics on the Hound's Tooth — all
-partially true. The real reason is that Tyler talked for two hours the night
-before and she couldn't find where he was wrong. Petra explains the bloodline
-belief. Tyler shows her the prep chamber: four cells approaching 180 days,
-long-locked. "When you come back, ask me again."
+all partially true. The real reason is that Tyler talked for two hours the night
+before and she couldn't find where he was wrong. Petra tells Tyler and Marla's
+backstory: his wife Marla Singer died, and he arrived at the colony carrying
+grief that had already burned through everything flammable. The belief came
+after — the grief came first. Tyler shows Jill the prep chamber: four cells
+approaching 180 days, long-locked. "When you come back, ask me again."
 
 ---
 
@@ -186,12 +222,17 @@ long-locked. "When you come back, ask me again."
 
 Cole sits in the smallest bunk with the copper-wire ring in his open palm.
 Saturn's rings outside — cold math now, no longer beautiful. He has just learned
-Sharon is dead; the crying already moved through him in the corridor and the
-locked head. The chapter moves between present grief and the memory of Sharon
-arriving at the cabin with dying Collective agent Cody, three black crystals on
-the table: "Welcome to the Collective, Captain Nova." Six weeks later he made her
-the ring from hummingbird feeder wire. She is wearing it right now. He doesn't
-know that yet.
+Sharon is dead; the crying already moved through him in the corridor. How Cole
+and Sharon met: a port of entry, dying Collective agent Cody, Sharon arriving at
+the cabin with three black crystals. She had finished medical school and walked
+away on purpose. Their first illegal job together: Bakersfield — a diner, and
+Sharon makes more pancakes than anyone Cole knows. Cole made her the ring from
+hummingbird feeder wire. Sam POV beat intercut: Sam on the Meridian tracking
+Taylor, noting his consonants — the precise way he shapes language. Taylor
+backstory flashback: the card from Tailored Solutions, the man at the fraternity
+house, the black town car. Eleven years ago Taylor followed the address to a
+building with no signage and never looked back. Vance and Taylor friction
+continues from earlier briefings.
 
 ---
 
@@ -199,21 +240,25 @@ know that yet.
 **File:** `TTS_Ready/Ch15_Surprise_Arizona.txt`
 
 Emily wakes in a Surprise, AZ motel with carpet the color of a decade-old
-decision, not sure which way east is. She lets her body file its report. Two
-thousand miles behind her, another leg ahead. Sharon's voice: "You're not doomed
-to anything." Methodical — medication three times daily, twenty-minute rest every
-three hours, road atlas on the nightstand because paper doesn't need a signal.
-She keeps going east.
+decision. Methodical — medication three times daily, twenty-minute rest every
+three hours, road atlas on the nightstand. The burner phone: Rachel tells her
+Conrad's research is at a classified facility beneath a decommissioned drive-in
+theater in the Nevada desert. Emily's Collective origin explained: Sharon didn't
+recruit her — Sharon pulled a high school science teacher into the gray market
+and made it look like the most alive thing in the world. Sharon opened the door;
+Emily walked through it. Sommi present, drinks his water at even intervals — not
+thirst, protocol. She keeps going east.
 
 ---
 
 ### Ch16 — Behind the Curtain
 **File:** `TTS_Ready/Ch16_Behind_The_Curtain.txt`
 
-Max examines the laminated badge: MIKOV FORSINKO, his face. Squirrel debriefs
+Max examines the laminated badge: MIKOF FORSINKO, his face. Squirrel debriefs
 him in a Marbella safe house above a laundry operation — contractor database live
-six hours ago, backstory clean, two Alpha-adjacent São Paulo firms made receptive.
-Red watches the street from the window. The full mechanics of the undercover
+six hours ago, backstory clean, two Alpha-adjacent Sao Paulo firms made receptive.
+Red watches the street from the window, the Collective sunglasses patch barely
+visible inside the collar of his jacket. The full mechanics of the undercover
 operation laid out. Max is about to become someone else, and the chapter is the
 last moment before he does.
 
@@ -227,25 +272,33 @@ last moment before he does.
 *Merged from: The Void + The Crater*
 
 Day 7, 0300: no announcement, no notification. Jill wakes to shifted ambient
-sound and goes to the main tunnel. All thirty-two Void-Walkers and eleven
-Loyalists including Petra. Tyler at the east end with the four long-locked cells.
-They are carried down the east tunnel — gravity letting go before they reach the
-end — and released into the void. Jill watches Tyler's face. He is not
-performing. Day 18: the tracking room at 0347, the alarm she set alone. Tyler and
-Petra already there. The gold asteroid arrives — twice the usual size. Solid gold
-crater on its face. Petra: "Jackpot."
+sound. All thirty-two Void-Walkers and eleven Loyalists including Petra. Tyler at
+the east end with four long-locked cells. Tyler speaks about Elsa Klinge, recites
+her final notebook entry from memory. The cells are carried down the east tunnel —
+gravity letting go — and released into the void. Petra describes the notebooks as
+containing three things: Elsa's science (369 test runs, locking mechanics,
+eleven-day cycle), the preserved records of the Von Grutzen Order, and Elsa's
+account of the Liber Samekh cave ritual — the three-day fast, the invocation in
+the dark, the DarkX moving through the crack toward her voice. Day 18: the
+tracking room at 0347. The gold asteroid arrives — twice the usual size. Solid
+gold crater on its face. Petra: "Jackpot." The Von Grutzen name revealed in the
+Order records; Jill goes very still.
 
 ---
 
 ### Ch18 — The Locked Bay
 **File:** `TTS_Ready/Ch18_The_Locked_Bay.txt`
 
-Cole at the command console near Saturn's rings — cold math, no longer beautiful.
-Taylor springs the trap: fake system check herds Cole, Sam, Ricardo, and Bitboy
-into the cargo bay. Doors seal. Atmosphere vents. Sam finds the override panel.
-Bitboy goes blue. Cole opens the harvester manually with the mechanical release.
-The DarkX makes contact: "It reached." On the bridge: Taylor reads "Vance Black,
-deceased" and closes the file like a minor irritant resolved.
+Cole at the command console near Saturn's rings. Taylor backstory flashback:
+seven years earlier, an Alpha Regional Briefing where Vance Black asks precise
+questions about dead-zone protocols and Taylor deflects — their friction
+established from the start. Taylor springs the trap: fake system check herds
+Cole, Sam, Ricardo, and Bitboy into the cargo bay. Doors seal. Atmosphere vents.
+Sam finds the override panel. Bitboy goes blue. Cole opens the harvester manually.
+The DarkX makes contact. Taylor's Vance death reaction shown: he reads "Vance
+Black, deceased" and closes the file like a minor irritant resolved — not grief,
+not surprise, just a ledger balancing. Sam notices — she sees his hands settle,
+sees the half-second, notes the time and goes back to the logs.
 
 ---
 
@@ -256,27 +309,30 @@ Ray walks the six-block route to the heron fountain park — the regular dead dr
 for the Mikov Forsinko operation. He hands the drive to Squirrel: seventeen
 months of Disposal Protocol records, eleven viable technologies on a shelf, the
 energy crisis as an inventory decision. He names it: "The Antigravity project."
-He tells Squirrel he needs zero-gravity experiments to confirm the full theory.
-Squirrel: there is someone working on the same thing — she is on her way. At the
-transit house, Jill Von Grutzen slides a transit case across the table: Elsa
-Klein's four notebooks, cloth-covered, worn at the corners. Ray reads through the
-night — 369 test runs, the zero condition confirmed in theory. By morning, Alpha
-knows the drive is gone and has people moving through the city. Ray and Jill
-return to the park together. Squirrel has arranged Station Libre. "You can stop
-now." "We need to go up." / "Yes. We do."
+At the transit house, Jill Von Grutzen slides a transit case across the table:
+Elsa Klein's four notebooks, cloth-covered, worn at the corners. Ray reads
+through the night — 369 test runs, the zero condition confirmed in theory. By
+morning, Alpha knows the drive is gone. Ray and Jill return to the park
+together. Squirrel has arranged Station Libre.
 
 ---
 
 ### Ch20 — The Secret Site
 **File:** `TTS_Ready/Ch20_The_Secret_Site.txt`
 
-Emily on the dirt road at 6:22 AM, awake since four. The particular silence
-before something she has been moving toward for four hundred miles. The Black
-Site is a partially demolished drive-in theater in the desert — chain link, razor
-wire, a brand-new guardhouse out of place in the wreckage. Vance's car is already
-there. The vault emptied a month ago; someone beat him here. DarkX stored deeper.
-The graphite mark from Conrad's hand glows. Gracie manifests holographically.
-Relay call to Cole at Saturn.
+Emily on the dirt road at 6:22 AM, awake since four. Sommi in the passenger seat.
+The Black Site is a partially demolished drive-in theater in the desert — chain
+link, razor wire, brand-new guardhouse. Vance's car already there. Emily's full
+DarkX experience: the graphite mark from Conrad's hand activates the dual-key
+mechanic — Conrad had engineered the nanoparticles for Cole's hands as primary,
+Emily as the backup key, the failsafe's failsafe. The DarkX shows Emily her
+father first (the absence, the cancer, the Harley, the drawer she filed the grief
+in), then Sharon (the cul-de-sac, the sound after the gunshot, driving four
+hundred miles on three hours of sleep), then Cole, then the shell she had lived
+inside because the shell was safe. The DarkX does not break the shell — it shows
+her she had already stepped out. Gracie manifests holographically: "I'm a
+holographic manifestation of a distributed intelligence." Relay call to Cole at
+Saturn.
 
 ---
 
@@ -287,29 +343,34 @@ Relay call to Cole at Saturn.
 
 The cargo bay, quieter than space. Cole catalogs the quiets he has known — the
 cabin, his father's hospital corridor — and this is quieter than all of them. The
-DarkX is present the way a person is present when you turn and find they were
-already in the room. The four-Cole vision: infant, seventeen in the Subaru, old
-man in the passenger seat. "He left you. He didn't choose to. And he still left
-you." / "You don't need a pardon. You need to stop being the warden." DarkX will
+DarkX reaches without moving. The four-Cole vision: infant, seventeen in the
+Subaru, old man in the passenger seat. The father-wound confrontation. DarkX will
 not show Cole Sharon: it doesn't lie, because she isn't here. Counter-program
-completes. Gracie. Bitboy welded to the override lever, crossing the bay on three
-limbs to cry in Cole's lap.
+completes. iRIS revealed as bastardized Gracie — Conrad corrupted her into iRIS
+because Alpha gave him no choice, then spent his remaining freedom building the
+way back. Bitboy's recognition of Gracie's birth: his eyes go wide, not amber
+threat, not blue enhanced — the original EM Cyber code recognizing its
+descendant. Gracie says: "I think I'm Gracie." Bitboy welded to the override
+lever, crossing the bay on three limbs to cry in Cole's lap.
 
 ---
 
 ### Ch22 — The Boarding
 **File:** `TTS_Ready/Ch22_The_Boarding.txt`
 
-Taylor Glenn confined to quarters — and not apologizing. FEDHEX5555 draws
-alongside; Gracie has already identified the bionic Sharon inside. The figure
-comes through the docking tube alone. Before the visor goes up, something
-registers in Cole that his body knows before his mind does. Left side of the
-face: still hers. Right side: gunmetal, bronze indicator ring. She attacks. Cole
-stops fighting — bleeding palm against her unaugmented left face, Conrad's
-nanoparticles transferring. Gracie enters the architecture. The bronze ring goes
-dark. Sharon says his name. Then Dr. Bruce Hexo follows through the tube, not
-armed: "I'm happy to go wherever you're going." He puts the copper-wire ring in
-Cole's hand.
+Taylor Glenn confined to quarters — and not apologizing. The full Hexo docking
+tube scene: FEDHEX5555 draws alongside; the bionic Sharon figure comes through
+the docking tube alone. Full abduction backstory from Dr. Bruce Hexo: taken from
+his apartment at three in the morning, bag over his head, woke aboard
+FED-HEX-5555 with her body on a table. Before the visor goes up, something
+registers in Cole. Left side of the face: still hers. Right side: gunmetal,
+bronze indicator ring. She attacks. Cole stops fighting — bleeding palm against
+her unaugmented left face, Conrad's nanoparticles transferring. Gracie enters the
+architecture. The bronze ring goes dark. Bitboy's code revealed as Sharon's
+template: the Federation EM Cyber base code was adapted by Alpha as the template
+for her conditioning architecture. Hexo puts the copper-wire ring in Cole's hand.
+Taylor's escape shuttle sealed by Gracie before he can reach it. FEDHEX5555 sent
+to Collective outpost.
 
 ---
 
@@ -318,13 +379,15 @@ Cole's hand.
 
 Day 23 — five days after Jill left the colony, three hours out on the return to
 Titan. Her grandmother's Friday evening recitation arrives unbidden: names of the
-ancestors, then the phrase that had become childhood wallpaper. *If you truly
-believe in something and pour yourself into it, it will continue in your
-children.* She has been making herself small to stay clean. She realizes she has
-never thought about what she wants to continue in. She forfeits the routing
-contract and turns the ship around. Petra had said "when you come back" with the
-particular certainty of someone who knew the difference between someone leaving
-and someone being done.
+ancestors, then the phrase that had become childhood wallpaper. She has been
+making herself small to stay clean. She forfeits the routing contract and turns
+the ship around. Petra had said "when you come back" with the particular certainty
+of someone who knew the difference between leaving and being done. Petra shows
+her the second tunnel — the moon packed with gold. The sacrifice branch of the
+family now has more than the accumulation branch ever dreamed of, arrived at by
+giving everything away. Jill-to-Collective-to-Ray mechanics established: the
+notebooks, the colony gold surplus, the Collective contact, the route to someone
+who can understand the science.
 
 ---
 
@@ -334,14 +397,15 @@ and someone being done.
 *Merged from: Vance at the Black Site + The Boiler Room*
 
 Two confrontations with the machine back to back. Vance in the desert heat,
-steering with his knee, sunglasses smearing. The drive-in theater Black Site:
-vault emptied a month ago, no leverage. That evening at Alpha Corp HQ, top floor,
-wall of TVs: the court-martial threat, the Conrad hypothesis, Marcus never
-standing up. Revolver under the desk. Two shots. Then: Emily enters the Boiler
-Room through Marcus's own assistant — a converted office building west of downtown
-LA. The Panama files already out to 200,000 people. "You never understood anyone.
-You only did utility analysis." Marcus: "Yes." His last message to Cole via Emily.
-She leaves the door open.
+steering with his knee, sunglasses smearing. The Black Site: guard cuffs him,
+face in the dirt. "Appreciate the warm welcome. Nothing like eating dirt to feel
+at home." Vault emptied a month ago. At Alpha Corp HQ: "Glenn had the answer for
+everything. That had always been the problem with men like Taylor Glenn — they
+never asked the right questions." The court-martial threat, the Conrad hypothesis,
+Marcus never standing up. Revolver under the desk. Two shots. Then: Emily enters
+the Boiler Room — Somni handles Marcus's assistant. The Panama files already out
+to 200,000 people. Marcus's recorded denial included and unconvincing. His last
+message to Cole via Emily. She leaves the door open.
 
 ---
 
@@ -350,30 +414,31 @@ She leaves the door open.
 
 *Merged from: The Zero-G Flywheel + Ray and the Station*
 
-Red drives Ray and Jill out of Panama City — Alpha in the streets behind them,
-the heron fountain park already in the mirror, the highway opening to nothing.
-The 2.5G orbital transfer burn, tunnel vision, the curve of the Earth. Station
-Libre: three modules, eleven scientists, Jill's colony gold surplus already
-converted into new equipment. Two weeks of orientation; Jill reorganizes the lab
-on day two. Month six: Day 11 delivers the Jackpot from a single random cell.
-Day 33, internal growth at ten times. Day 180 — every cell in the 740-unit Grid
-begins exterior cycling on an eleven-day interval and does not stop; interior at
-one hundred times the unlocked rate. The unlock experiment: three runs at
-different stages, all confirming that breaking the lock stops everything within
-hours. All 369 of Elsa Klein's documented runs confirmed exact. Rachel arrives for
-the prep visit. "I've known for a long time. I needed to be able to prove it.
-Now I can."
+Red drives Ray and Jill out of Panama City — Alpha in the streets behind them.
+Jill's real food and hospitality noted first at the station: she fixes the food
+before she fixes the lab, a tell about her priorities. Ray and Jill attraction
+developing — her hand on the transit case, his awareness of how she reorganizes
+the space. The 2.5G orbital transfer burn, tunnel vision, the curve of the
+Earth. Station Libre: three modules, eleven scientists, Jill's colony gold
+surplus already converted into equipment. Month six: Day 11 delivers the
+Jackpot from a single random cell. Day 33, internal growth at ten times. Day
+180 — every cell in the 740-unit Grid begins exterior cycling on an eleven-day
+interval. All 369 of Elsa Klein's documented runs confirmed exact. Rachel arrives
+for the prep visit.
 
 ---
 
 ### Ch26 — Rachel at the Station
 **File:** `TTS_Ready/Ch26_Rachel_At_The_Station.txt`
 
-Rachel returns to Station Libre for the broadcast — the same 2.5G burn, and she
-braces for it correctly this time. She is back for the endgame of eleven years of
-Collective infrastructure work: the evidence assembled, chain of custody clean,
-the case ready to close. The chapter is her final orientation to what she is
-about to deliver to the world.
+Rachel returns to Station Libre for the broadcast — the same 2.5G burn, braces
+correctly this time. The Collective communications team: four people including
+Osei (former broadcast engineer) and Priya (assembled the studio from components
+shipped through six Collective supply lines). The studio is in the science
+module. Priya's design philosophy: give them one second to understand what this
+is and they'll believe everything after. Ray at the lab bench with the 180-day
+data on display — he processes certainty through verification. The chapter is
+Rachel's final orientation to what she is about to deliver to the world.
 
 ---
 
@@ -382,17 +447,16 @@ about to deliver to the world.
 ### Ch27 — The Broadcast
 **File:** `TTS_Ready/Ch27_Grand_Hall.txt`
 
-Rachel transmits from Station Libre. Ray on camera first — zero gravity visible
-in frame, fuel cells on the bench behind him, 369 test runs documented. Then
-DeMint via relay: Vance Black's written record read aloud, Conrad's work explained,
-the iRIS corruption named. Conrad's statement — "the system learns what it is
-loved into being" — recovered from the Nevada black site vault, authenticated,
-read on air. Marcus's recorded denial included and unconvincing. Two million
-people in the first hour. The Meridian relays it to the Golden Dawn. The entire
-crew watches together. Gracie projects herself holographically and sits among them
-— generates holographic popcorn, eats it in silence. Nobody comments. Cole
-messages Emily through Gracie: "I saw you in the background of the Nevada segment.
-You looked like yourself."
+Rachel transmits from Station Libre at 6:02 AM PST. Ray on camera first — zero
+gravity visible in frame, fuel cells on the bench behind him, 369 test runs
+documented. Then DeMint via relay: Vance Black's written record read aloud,
+Conrad's work explained, the iRIS corruption named. Conrad's statement recovered
+from the Nevada black site vault, authenticated, read on air. Marcus's recorded
+denial included and unconvincing. Two hundred thousand people in the first hour.
+The Meridian relays it to the Golden Dawn. The entire crew watches together.
+Gracie projects herself holographically and sits among them — generates
+holographic popcorn, rendered in careful detail, eats it in silence. Nobody
+comments. Cole messages Emily through Gracie.
 
 ---
 
@@ -400,14 +464,21 @@ You looked like yourself."
 **File:** `TTS_Ready/Ch28_Earth_Return.txt`
 
 The Golden Dawn breaks atmosphere over the Pacific at 0617. Textbook entry —
-Gracie running the sequencing, Cole's hands on the controls barely needed. Sharon
-in the converted medical bay, belted for descent. On the runway: Taylor removed
-by two Federation task force agents, no scene — he still has Klaus's pocket
-watch on him when he goes. The cabin, outside Sequoia. Sharon's rehabilitation
-begins here. Sommi arrives with Emily, sets blackberry preserves on the step
-without ceremony. Sharon in the doorway: "Hi." Bitboy eyes the preserves.
-Sharon: "Hi, you little bastard." Cole puts the ring on the table. No
-speech. She looks at it. She puts it on.
+Gracie running the sequencing, Cole's hands barely needed. Sharon belted in the
+converted medical bay. Taylor removed by two Federation task force agents — still
+has Klaus's pocket watch on him when he goes. The tarmac reunion: Emily has
+driven through the night from Henderson. Cole comes down the ramp and stops
+walking. They walk toward each other. Sharon appears at the top of the ramp in
+the medical transport chair. "Hi." Emily's face does something she hasn't
+allowed since the cul-de-sac. The cabin: Sharon's rehabilitation. "Hey, baby
+girl" — the father-wound payoff, the name that lives between Cole and Sharon.
+Bitboy crosses the room in four bounds to cry in her lap. "Hi, you little
+bastard." Ricardo's Federation identity reckoning: he was a Federation man in
+the marrow, always had a rough taxonomy for everyone outside it — Colony people
+were unhinged, Collective were cookie people. Then Taylor turned out to be the
+machine, and the woman he loved was Collective. Big Lebowski resolution: "The
+Dude abides, Coley. You can't control what the institution turned out to be. You
+can only control whether you abide."
 
 ---
 
@@ -416,13 +487,16 @@ speech. She looks at it. She puts it on.
 
 Cosmic Lanes — Sam's find. Fog machines and black lights, carpet with
 constellations that don't match any actual sky. Reservation for six, seven
-counting Bitboy. Ricardo proposes to Sam between frames — moissanite, full
-ethical sourcing. She laughs and cries and says yes. Sharon's augmented arm sends
-the ball at near-sonic velocity; the music stops; she switches to her left arm
-and throws a spare: "Calibrating." Cole sets the copper-wire ring on the table.
-"I don't think I need to replace it. I think this is the one." Sharon: "Yes." /
-"That wasn't a question." / "I know. It still applies." Bitboy destroys a vending
-machine. Parking lot. California night.
+counting Bitboy. Ricardo arrives first because he was the most excited. "Coley
+Coley no-bowley" — callback to the cabin, years-long tradition. Ricardo proposes
+to Sam between frames — moissanite, full ethical sourcing, harder than sapphire.
+She laughs and cries and says yes. Sharon's augmented arm sends the ball at
+devastating velocity; she switches to her left arm: "Calibrating." Sam's
+sunglasses patch revealed — new, sewn in where the wrench had been, gold thread
+on dark fabric, Agent rank. The Collective promoted her for the work she did on
+the Golden Dawn. Cole sets the copper-wire ring on the table. Sharon: "Yes." /
+"That wasn't a question." / "I know. It still applies." Bitboy destroys a
+vending machine. Parking lot. California night.
 
 ---
 
@@ -431,41 +505,55 @@ machine. Parking lot. California night.
 ### Epilogue I — Dubai
 **File:** `TTS_Ready/Ep_I_Dubai.txt`
 
-Marcus Verguld has been sitting at the same corner table for ninety minutes —
-orange juice, four ice cubes, nearly perfect. The Panama files are out to two
-hundred thousand people and heading to two million. He is reviewing the
-positioning errors. Then a second glass of orange juice is placed across from
-him, not ordered. The staff knew Klaus was coming before Marcus did. Klaus: 71,
-unhurried. "You built the cover. The structure continues." / "The empire outlasted
-Wilhelm. It will need to outlast you." Marcus has no heir. Book Two's first
-problem.
+Marcus Verguld at the same corner table for ninety minutes — orange juice, four
+ice cubes, nearly perfect. The Panama files out to two hundred thousand and
+heading to two million. He is reviewing the positioning errors. A second glass
+placed across from him, not ordered. Klaus: 71, unhurried. Klaus backstory:
+arrived in America on a freighter, settled in Culver City, drove a trash route
+as cover — Verde Sanitation, a name nobody remembered — while he spent a decade
+quietly building the structure that became Alpha Corp. "You built the cover. The
+structure continues." / "The empire outlasted Wilhelm. It will need to outlast
+you." The "Nova boy" cipher line revealed: Klaus wrote in a notebook Marcus was
+never permitted to read — "The Nova boy is good. He may be useful or he may be
+in the way. Either is permissible." She was never his — Marcus has no heir.
+Book Two's first problem.
 
 ---
 
-### Epilogue II — Nevada
+### Epilogue II — Eureka
 **File:** `TTS_Ready/Ep_II_Nevada.txt`
 
 Taylor Glenn — alias Dale Custer, not a name he would have chosen — arrives in
-Ridgeline, Nevada. Population four hundred and something, end of a two-lane road,
-nobody named the hills anything useful. Pocket watch in his breast pocket, held
-through the jacket for most of the bus ride. He knows it won't take long. A man
-in a denim jacket: "He wants it back." Taylor hands over the watch. In that act
-he understands the full shape of who sent him here. Not Marcus. Klaus. The machine
-disciplines its own errors.
+Eureka (not Ridgeline). Population four hundred and something, end of a two-lane
+road, nobody named the hills anything useful. Pocket watch in his breast pocket,
+held through the jacket for most of the bus ride. The hospital shell on the
+northeast edge of town — eleven people died when the supply chain collapsed,
+acceptable attrition in the transition corridor. A man in a denim jacket: "He
+wants it back." Taylor hands over the watch. In that act he understands the full
+shape of who sent him here. Not Marcus. Klaus. The machine disciplines its own
+errors.
 
 ---
 
 ### Epilogue III — Sequoia
 **File:** `TTS_Ready/Ep_III_Sequoia.txt`
 
-Late October. First snow on the high peaks. Rachel Vayes knocks once. Cole opens
-the door before the second knock — old instinct; he heard the car from some
-distance. She sits with them, thanks Cole for not dying when he was supposed to,
-thanks Sharon for coming back from something that should have been permanent. As
-she turns to go, her coat shifts. The Collective patch visible for one moment —
-bronze star, olive leaf wreath. Nobody says anything. The door closes. Sharon
-turns from the window: "It was always in the reaching." She reaches.
+Late October. First snow on the high peaks. The full gathering — everyone at the
+cabin: Cole at the kitchen counter, Sharon in the window chair, Emily on the
+porch with the road atlas, Ricardo and Sam at the table, Sommi in the corner
+with his water and blackberry preserves, Ray and Jill on the couch with
+notebooks, Red at the door watching the road, Squirrel beside him. Bitboy on the
+floor between Cole and Sharon, blue-stained mouth from the preserves. Gracie
+projected holographically near the woodstove. Three hours of work discussion:
+implementation without Alpha recapture, Federation cleanup, patents returned to
+public domain, eleven technologies built into something that runs. Rachel arrives
+last — the room adjusts to accommodate the person who assembled it. She asks two
+questions that reframe everything. Near the end: she sets a folded dark patch on
+the counter — sunglasses in white outline thread. "For Sam. She earned it." As
+she turns to leave, her coat shifts: the patch visible for one moment. Bronze
+star, olive leaf wreath. The room of twelve understands. Nobody says anything.
+Sharon turns from the window: "It was always in the reaching." She reaches.
 
 ---
 
-*Last updated: 2026-05-23*
+*Last updated: 2026-05-24*
