@@ -5,7 +5,7 @@ Instead of uploading the whole book, upload your Chapter Outline or short summar
 
 
 The Prompt:
-> "Act as a brutal, highly experienced Developmental Editor. Use the lore bible as the ultmate source of truth for Rings of Dust, followed by the current Chapter guide.md.
+> "Act as a brutal, highly experienced Developmental Editor. Use the lore bible as the ultimate source of truth for Rings of Dust, followed by the current Chapter guide.md.
 > Analyze the outline for the following specific issues:
 >  1. Pacing dead-zones (where the plot stalls).
 >  2. Character motivation drops (where a character acts out of alignment with the Story Bible).
