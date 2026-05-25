@@ -1,6 +1,6 @@
 # RINGS OF DUST — Chapter & Epilogue Guide
 
-29 chapters + 3 epilogues. Four strands braided: Cole/crew, Emily, Ray, Jill/Colony.
+28 chapters + 3 epilogues. Four strands braided: Cole/crew, Emily, Ray, Jill/Colony.
 
 ---
 
@@ -91,15 +91,18 @@ Greenbaum shoots Sharon while dying. Emily is taken.
 ### Ch06 — Ray's Discovery
 **File:** `TTS_Ready/Ch06_Rays_Discovery.txt`
 
-*Merged from: The Discovery + Max at Alpha*
+*Merged from: Ray's Discovery + Ray's Escape*
 
-Ray's entire downfall in one chapter. It started as laziness — a DarkX batch
-converted on a Tuesday, containment window closed ten days ago, still not
-submitted. He has been looking at what he has. What he has shouldn't be possible.
-Three years at Alpha's materials research division, and the 180-day curve that no
-one was supposed to find. The fuel cell glowing in his locker, vapor swirling
-inside like a storm caught in a jar. Discovery, nickname, and firing in one
-afternoon — one clean arc from junior researcher to unemployed heretic.
+Ray's entire downfall in one continuous arc. It started as laziness — a DarkX
+batch converted on a Tuesday, containment window closed ten days ago, still not
+submitted. Three years at Alpha's materials research division, and the 180-day
+curve that no one was supposed to find. The fuel cell glowing in his locker,
+vapor swirling inside like a storm caught in a jar. Discovery, nickname, and
+firing in one afternoon — one clean arc from junior researcher to unemployed
+heretic. Then Red and Squirrel at his door, seventy-two hours before Alpha
+sends someone who isn't going to knock. The extraction: flight out, new name,
+descent into Panama City. Ray stands in front of a green door in a city he's
+never been to, holding nothing that belongs to him.
 
 ---
 
@@ -142,19 +145,16 @@ a potted plant on the way out.
 
 ---
 
-### Ch09 — Ray's Escape
-**File:** `TTS_Ready/Ch09_Rays_Escape.txt`
+### Ch09 — Behind the Curtain
+**File:** `TTS_Ready/Ch09_Behind_The_Curtain.txt`
 
-*Merged from: Ray's extraction + Ray in Panama*
-
-Ray at the scarred oak table — the stolen fuel cell under the single overhead
-light, the 180-day curve he cannot stop turning over. Squirrel and Red arrived
-at his door 72 hours before Alpha sent someone to kill him. Then movement: a
-flight Red arranged, backpack not in his name, descent into Panama City. Ray
-stands in front of Alpha Corp's Panama tower wearing the badge of a man who does
-not exist. "You've gotta be shitting me." He walks through the front entrance of
-the company that fired him and threatened to kill him four months ago. He is
-going inside.
+Max examines the laminated badge: MIKOF FORSINKO, his face. Squirrel debriefs
+him in a Marbella safe house above a laundry operation — contractor database live
+six hours ago, backstory clean, two Alpha-adjacent Sao Paulo firms made receptive.
+Red watches the street from the window, the Collective sunglasses patch barely
+visible inside the collar of his jacket. The full mechanics of the undercover
+operation laid out. Max is about to become someone else, and the chapter is the
+last moment before he does.
 
 ---
 
@@ -251,23 +251,10 @@ thirst, protocol. She keeps going east.
 
 ---
 
-### Ch16 — Behind the Curtain
-**File:** `TTS_Ready/Ch16_Behind_The_Curtain.txt`
+## ACT 3 — Peril (Ch 16–19)
 
-Max examines the laminated badge: MIKOF FORSINKO, his face. Squirrel debriefs
-him in a Marbella safe house above a laundry operation — contractor database live
-six hours ago, backstory clean, two Alpha-adjacent Sao Paulo firms made receptive.
-Red watches the street from the window, the Collective sunglasses patch barely
-visible inside the collar of his jacket. The full mechanics of the undercover
-operation laid out. Max is about to become someone else, and the chapter is the
-last moment before he does.
-
----
-
-## ACT 3 — Peril (Ch 17–20)
-
-### Ch17 — The Void and The Crater
-**File:** `TTS_Ready/Ch17_The_Void_And_The_Crater.txt`
+### Ch16 — The Void and The Crater
+**File:** `TTS_Ready/Ch16_The_Void_And_The_Crater.txt`
 
 *Merged from: The Void + The Crater*
 
@@ -286,8 +273,8 @@ Order records; Jill goes very still.
 
 ---
 
-### Ch18 — The Locked Bay
-**File:** `TTS_Ready/Ch18_The_Locked_Bay.txt`
+### Ch17 — The Locked Bay
+**File:** `TTS_Ready/Ch17_The_Locked_Bay.txt`
 
 Cole at the command console near Saturn's rings. Taylor backstory flashback:
 seven years earlier, an Alpha Regional Briefing where Vance Black asks precise
@@ -302,8 +289,8 @@ sees the half-second, notes the time and goes back to the logs.
 
 ---
 
-### Ch19 — Ray's Cargo
-**File:** `TTS_Ready/Ch19_Rays_Cargo.txt`
+### Ch18 — Ray's Cargo
+**File:** `TTS_Ready/Ch18_Rays_Cargo.txt`
 
 Ray walks the six-block route to the heron fountain park — the regular dead drop
 for the Mikov Forsinko operation. He hands the drive to Squirrel: seventeen
@@ -317,8 +304,8 @@ together. Squirrel has arranged Station Libre.
 
 ---
 
-### Ch20 — The Secret Site
-**File:** `TTS_Ready/Ch20_The_Secret_Site.txt`
+### Ch19 — The Secret Site
+**File:** `TTS_Ready/Ch19_The_Secret_Site.txt`
 
 Emily on the dirt road at 6:22 AM, awake since four. Sommi in the passenger seat.
 The Black Site is a partially demolished drive-in theater in the desert — chain
@@ -336,10 +323,10 @@ Saturn.
 
 ---
 
-## ACT 4 — Crescendo (Ch 21–26)
+## ACT 4 — Crescendo (Ch 20–25)
 
-### Ch21 — The Four Coles
-**File:** `TTS_Ready/Ch21_The_Four_Coles.txt`
+### Ch20 — The Four Coles
+**File:** `TTS_Ready/Ch20_The_Four_Coles.txt`
 
 The cargo bay, quieter than space. Cole catalogs the quiets he has known — the
 cabin, his father's hospital corridor — and this is quieter than all of them. The
@@ -355,8 +342,8 @@ lever, crossing the bay on three limbs to cry in Cole's lap.
 
 ---
 
-### Ch22 — The Boarding
-**File:** `TTS_Ready/Ch22_The_Boarding.txt`
+### Ch21 — The Boarding
+**File:** `TTS_Ready/Ch21_The_Boarding.txt`
 
 Taylor Glenn confined to quarters — and not apologizing. The full Hexo docking
 tube scene: FEDHEX5555 draws alongside; the bionic Sharon figure comes through
@@ -374,8 +361,8 @@ to Collective outpost.
 
 ---
 
-### Ch23 — The Pull
-**File:** `TTS_Ready/Ch23_The_Pull.txt`
+### Ch22 — The Pull
+**File:** `TTS_Ready/Ch22_The_Pull.txt`
 
 Day 23 — five days after Jill left the colony, three hours out on the return to
 Titan. Her grandmother's Friday evening recitation arrives unbidden: names of the
@@ -391,8 +378,8 @@ who can understand the science.
 
 ---
 
-### Ch24 — Vance at the Black Site
-**File:** `TTS_Ready/Ch24_Vance_And_The_Black_Site.txt`
+### Ch23 — Vance at the Black Site
+**File:** `TTS_Ready/Ch23_Vance_And_The_Black_Site.txt`
 
 *Merged from: Vance at the Black Site + The Boiler Room*
 
@@ -409,8 +396,8 @@ message to Cole via Emily. She leaves the door open.
 
 ---
 
-### Ch25 — Station Libre
-**File:** `TTS_Ready/Ch25_Station_Libre.txt`
+### Ch24 — Station Libre
+**File:** `TTS_Ready/Ch24_Station_Libre.txt`
 
 *Merged from: The Zero-G Flywheel + Ray and the Station*
 
@@ -428,8 +415,8 @@ for the prep visit.
 
 ---
 
-### Ch26 — Rachel at the Station
-**File:** `TTS_Ready/Ch26_Rachel_At_The_Station.txt`
+### Ch25 — Rachel at the Station
+**File:** `TTS_Ready/Ch25_Rachel_At_The_Station.txt`
 
 Rachel returns to Station Libre for the broadcast — the same 2.5G burn, braces
 correctly this time. The Collective communications team: four people including
@@ -442,10 +429,10 @@ Rachel's final orientation to what she is about to deliver to the world.
 
 ---
 
-## ACT 5 — Resolution (Ch 27–29)
+## ACT 5 — Resolution (Ch 26–28)
 
-### Ch27 — The Broadcast
-**File:** `TTS_Ready/Ch27_Grand_Hall.txt`
+### Ch26 — The Broadcast
+**File:** `TTS_Ready/Ch26_Grand_Hall.txt`
 
 Rachel transmits from Station Libre at 6:02 AM PST. Ray on camera first — zero
 gravity visible in frame, fuel cells on the bench behind him, 369 test runs
@@ -460,8 +447,8 @@ comments. Cole messages Emily through Gracie.
 
 ---
 
-### Ch28 — Earth Return
-**File:** `TTS_Ready/Ch28_Earth_Return.txt`
+### Ch27 — Earth Return
+**File:** `TTS_Ready/Ch27_Earth_Return.txt`
 
 The Golden Dawn breaks atmosphere over the Pacific at 0617. Textbook entry —
 Gracie running the sequencing, Cole's hands barely needed. Sharon belted in the
@@ -482,8 +469,8 @@ can only control whether you abide."
 
 ---
 
-### Ch29 — Cosmic Lanes
-**File:** `TTS_Ready/Ch29_Cosmic_Lanes.txt`
+### Ch28 — Cosmic Lanes
+**File:** `TTS_Ready/Ch28_Cosmic_Lanes.txt`
 
 Cosmic Lanes — Sam's find. Fog machines and black lights, carpet with
 constellations that don't match any actual sky. Reservation for six, seven
@@ -556,4 +543,4 @@ Sharon turns from the window: "It was always in the reaching." She reaches.
 
 ---
 
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-25*
