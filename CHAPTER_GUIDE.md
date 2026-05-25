@@ -9,14 +9,17 @@
 ### Ch01 — The Polaris
 **File:** `TTS_Ready/Ch01_The_Polaris.txt`
 
-Kate has been running filtered sweeps of Alpha-controlled relay bands for four
-months. The mission manifest goes live with a name: Cole Nova — sole survivor of
-the Polaris incident, five years of voluntary isolation, recalled to active duty
-by Chancellor DeMint for one final harvest run. Kate reads the crew file for the
-fourth time and finds the same thing she found the first three. Petyr at the nav
-station, recently received his droplet, says the code phrase to the refrigerator.
-The chapter establishes the Meridian surveillance operation and the weight of
-what Cole is being sent back into.
+Cole Nova steps alone into the Polaris's abandoned storage bay to verify the 14
+DarkX harvesters. The ship feels evacuated — crew confined to quarters, medical
+teams on standby. Under his suit, the hand-stitched "Jackpot" patch irritates
+his chest. He scrapes a sample from a red-glowing harvester. The DarkX resists
+separation — tendrils stretching, the substance inspecting the tube. Gracie
+warns him. Moments later, the sampled harvester explodes. The Polaris is
+destroyed. 369 crew killed. Cole is flung into the void, recording a final
+mission log — a farewell to Emily, a testament to Ricardo and Bitboy. Ricardo
+and Bitboy navigate the Falcon's shuttle through the wreckage and pull him out.
+In the cargo hold: more DarkX-laden harvesters bound for Alpha's station. Cole
+grasps the true cost of curiosity and ambition.
 
 ---
 
@@ -84,7 +87,11 @@ farm road at 3:33 PM: Emily and Sharon in a parked Sprinter van for the
 Collective crystal and figurine transfer. Then Greenbaum — the Greenbaum Easter
 egg flashback where Taylor talks past him at a prior briefing. Gun out, train
 platform, diverted to the industrial cul-de-sac. The Watch Dogs open fire.
-Greenbaum shoots Sharon while dying. Emily is taken.
+Greenbaum shoots Sharon while dying. Emily is taken. Closing beat on the
+Meridian: Kate pulls up the Golden Dawn manifest and reads Cole Nova's name for
+the fourth time. "That's a ballsy ask." Petyr, who has recently received his
+droplet and said the code phrase to the refrigerator three times this week,
+does not know who Cole Nova is. Kate tells him to read the briefing.
 
 ---
 
