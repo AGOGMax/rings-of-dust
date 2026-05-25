@@ -173,7 +173,7 @@ a potted plant on the way out.
 ### Ch09 — Behind the Curtain
 **File:** `TTS_Ready/Ch09_Behind_The_Curtain.txt`
 
-Max examines the laminated badge: MIKOF FORSINKO, his face. Squirrel debriefs
+Max examines the laminated badge: MIKOV FORSINKO, his face. Squirrel debriefs
 him in a Marbella safe house above a laundry operation — contractor database live
 six hours ago, backstory clean, two Alpha-adjacent Sao Paulo firms made receptive.
 Red watches the street from the window, the Collective sunglasses patch barely
@@ -196,7 +196,7 @@ introduces himself by name. His self-awareness on display: "A soap factory that
 became a death cult on an asteroid nobody wanted" — he does not argue with the
 description, just keeps walking. Petra introduced physically: seventies, white
 hair cut close, one of the original eleven who survived with Elsa Klein. Jill
-stays eleven days. Witnesses the asteroid arrival. Leaves.
+stays fifteen days. Witnesses the asteroid arrival. Leaves.
 
 ---
 
@@ -252,7 +252,7 @@ and Sharon met: a port of entry, dying Collective agent Cody, Sharon arriving at
 the cabin with three black crystals. She had finished medical school and walked
 away on purpose. Their first illegal job together: Bakersfield — a diner, and
 Sharon makes more pancakes than anyone Cole knows. Cole made her the ring from
-hummingbird feeder wire. Sam POV beat intercut: Sam on the Meridian tracking
+hummingbird feeder wire. Sam POV beat intercut: Sam on the Golden Dawn tracking
 Taylor, noting his consonants — the precise way he shapes language. Taylor
 backstory flashback: the card from Tailored Solutions, the man at the fraternity
 house, the black town car. Eleven years ago Taylor followed the address to a
@@ -261,10 +261,10 @@ continues from earlier briefings.
 
 ---
 
-### Ch15 — Surprise, Arizona
-**File:** `TTS_Ready/Ch15_Surprise_Arizona.txt`
+### Ch15 — Barstow
+**File:** `TTS_Ready/Ch15_Barstow.txt`
 
-Emily wakes in a Surprise, AZ motel with carpet the color of a decade-old
+Emily wakes in a motel near Barstow with carpet the color of a decade-old
 decision. Methodical — medication three times daily, twenty-minute rest every
 three hours, road atlas on the nightstand. The burner phone: Rachel tells her
 Conrad's research is at a classified facility beneath a decommissioned drive-in
@@ -334,7 +334,8 @@ together. Squirrel has arranged Station Libre.
 
 Emily on the dirt road at 6:22 AM, awake since four. Sommi in the passenger seat.
 The Black Site is a partially demolished drive-in theater in the desert — chain
-link, razor wire, brand-new guardhouse. Vance's car already there. Emily's full
+link, razor wire, brand-new guardhouse. The lot is empty — Vance arrived days
+earlier, found the vault cleared, and is already gone. Emily's full
 DarkX experience: the graphite mark from Conrad's hand activates the dual-key
 mechanic — Conrad had engineered the nanoparticles for Cole's hands as primary,
 Emily as the backup key, the failsafe's failsafe. The DarkX shows Emily her

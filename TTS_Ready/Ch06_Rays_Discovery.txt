@@ -9,7 +9,7 @@ It had started as laziness.
 The protocol was clear: submit for containment within twenty-four hours of
 crystallization. That window had closed ten days ago.
 
-Max had converted the batch on a Tuesday — standard process, salt compounds and
+Ray had converted the batch on a Tuesday — standard process, salt compounds and
 liquid nitrogen in a negative-pressure chamber until the DarkX plasma locked
 into solid form. Beautiful crystals. Dense, dark, faintly luminous at the edges.
 The kind of thing that took three hours to make and thirty seconds to ruin. The
@@ -18,7 +18,7 @@ authorization.
 
 The official containment unit was across campus. Getting there meant logging the
 transfer, signing through two security checkpoints, and explaining why a junior
-researcher had an unauthorized batch of Darker Matter crystals at all. Max
+researcher had an unauthorized batch of Darker Matter crystals at all. Ray
 looked at the crystals. He looked at the clock. He looked at the spare fuel cell
 sitting on the shelf behind him.
 
@@ -31,7 +31,7 @@ days, the mandatory turnover window long gone, the crystals now approaching
 reversion on their own schedule whether he was ready or not. Each morning he
 stood at the locker for a full minute before he could make himself open it.
 
-Max slumped over his workstation, eyes strained from hours of staring at data
+Ray slumped over his workstation, eyes strained from hours of staring at data
 screens. The fluorescent lights above cast a sterile, cold glare on the polished
 floor. His mind was a storm of thoughts, still reeling from what he'd seen. The
 fuel cell—his impulsive shortcut—hadn't just held; it had transformed.
@@ -56,10 +56,10 @@ losing everything—held him back.
 
 Instead, he tucked the cell back into the locker, slammed the door, and forced
 himself to breathe. He needed time, needed to think. The lab was a maze of risks
-and rewards, and Max knew better than most how quickly those scales could tip.
+and rewards, and Ray knew better than most how quickly those scales could tip.
 
 The following weeks were a blur of late nights and whispered conversations, the
-fuel cell hidden away like contraband. Max monitored it obsessively, his heart
+fuel cell hidden away like contraband. Ray monitored it obsessively, his heart
 pounding every time the lab door creaked open. Each day, the cell's charge grew,
 the vapor inside thickening, alive with a strange, magnetic energy. He was on
 the edge of something huge that could change everything.
@@ -84,12 +84,12 @@ discovery's potential would outweigh the protocol breach.
 It didn't.
 
 Security was on him within minutes, their hands rough as they stripped him of
-his badge and lab coat. Max barely registered the words—the accusations, the
+his badge and lab coat. Ray barely registered the words—the accusations, the
 threats. He was too stunned, his mind still fixated on the image of those
 crystals, their potential.
 
 "You'll keep quiet about this, or we'll make sure you never work again.
-Anywhere," one of the guards snapped, his voice a low growl. Max blinked, the
+Anywhere," one of the guards snapped, his voice a low growl. Ray blinked, the
 weight of the threat slowly sinking in. They weren't just talking about his
 career. This was bigger, more dangerous than he'd realized.
 
@@ -179,7 +179,7 @@ Corp controlled the future, and without them, the Federation ran out of options.
 
 --- --- ---
 
-Back in his apartment, Max sat at his kitchen table, staring at the stolen fuel
+Back in his apartment, Ray sat at his kitchen table, staring at the stolen fuel
 cell. The crystals inside glowed faintly, a promise of power just out of reach.
 He knew what he had to do. He couldn't let this go or let Alpha bury his
 work.
@@ -188,7 +188,7 @@ He would go underground and find a way to continue his research outside their
 control. He knew the risks, knew he was playing with fire, but he also knew that
 if he could crack this, he could change everything.
 
-Max took a deep breath, the decision settling like a stone in his gut. There was
+Ray took a deep breath, the decision settling like a stone in his gut. There was
 no turning back now. He had to see this through and find a way to get this
 information into the right hands.
 
@@ -253,17 +253,17 @@ didn't read it. Some things were for the person writing them.
 
 ---
 
-Max worked at Alpha's materials research division for three years before he understood what they were actually working on.
+Ray worked at Alpha's materials research division for three years before he understood what they were actually working on.
 
 The official designation was Dark Matter Stabilization. The actual designation, which nobody used in writing, was: they had something they couldn't explain and were trying to make it useful before someone else did.
 
-The something was Dark X. It arrived at the facility in sealed magnetic containers, two kilograms at a time, from a processing site that wasn't on any map Max had been shown. It was black-gray, granular, slightly iridescent in direct light. It behaved like no material he'd worked with — it responded to magnetic field variations the way iron shavings respond to a magnet, except the responses were unpredictable, and the field gradients required were precise to a degree that made the testing equipment protest.
+The something was Dark X. It arrived at the facility in sealed magnetic containers, two kilograms at a time, from a processing site that wasn't on any map Ray had been shown. It was black-gray, granular, slightly iridescent in direct light. It behaved like no material he'd worked with — it responded to magnetic field variations the way iron shavings respond to a magnet, except the responses were unpredictable, and the field gradients required were precise to a degree that made the testing equipment protest.
 
 Alpha wanted it stable.
 
 Dark X in its raw form held together for eleven days. After that it degraded — not catastrophically, just gradually, losing its structure, reverting to something that tested as a complex carbon compound with anomalous isotopic ratios. Eleven days was the window. Alpha had been trying for four years to extend it.
 
-Max's job was the stabilization matrix. He ran the salts, the additives, the magnetic curing protocols. He ran them carefully, methodically, the way he'd been trained. He documented everything. He ate lunch at his desk. He was, as his supervisor noted in his last review, thorough.
+Ray's job was the stabilization matrix. He ran the salts, the additives, the magnetic curing protocols. He ran them carefully, methodically, the way he'd been trained. He documented everything. He ate lunch at his desk. He was, as his supervisor noted in his last review, thorough.
 
 He was also, by the time the Polaris disaster cleared the news cycle, bored.
 
