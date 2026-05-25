@@ -129,6 +129,12 @@ Jill brought the colony's hospitality to Station Libre the same way the colony h
 
 Ray noticed. You could tell a lot about a person by what they fixed first when they had the resources to fix anything. Jill had fixed the food before she fixed the lab.
 
+But she fixed the lab too. And then the corridor seals. And then the water recycler, which had been running at sixty percent for months because nobody had the parts. Jill had the parts. She had brought them from a colony that had spent years learning how to make do, and the making-do had taught her exactly which things broke first and what you needed to un-break them. She spent the colony's gold the way someone spends money who has never had it and knows exactly what it's for — not carefully, not recklessly, but with the specific joy of a person putting right the things that should never have been wrong.
+
+By week two the station had actual coffee in both drawers. Better pressure readings in all three modules. A resonance scanner that didn't need to be recalibrated every six hours. The emergency ration blocks were still there, but nobody was eating them anymore.
+
+Ray watched her work and felt something he did not have a name for settling into the space between them. It was not romantic in the way stories made romance — no dramatic recognition, no single moment of clarity. It was more like: she was competent in ways that made him want to be in the room, and he was competent in ways that kept her coming back to his bench, and the distance between their stations got shorter every week without either of them deciding it should.
+
 The introduction in Panama had not been comfortable — two strangers in a transit house with Alpha's people in the streets outside, each carrying years of work they had never been able to share with anyone. What established quickly: they both understood what the notebooks meant, they both knew what Station Libre required, and neither of them was waiting for permission. The attraction developed during the station mission — shared craziness, shared work, the particular chemistry of two people who have both spent years carrying something and can finally set it down with someone else in the room.
 
 The colony had been one of the Collective's primary financial backers for seven years. Relay infrastructure. Safe houses on three transit routes. Two Meridian resupply runs. And now Station Libre — the equipment Jill had just carried up in a crate. Jill had not known this when she first landed on the asteroid. She had been home for two years before anyone told her what home had been funding. The Collective had been operating, in part, on money the colony had generated before she arrived. Before she was part of it. Before she knew there was an it to be part of.
@@ -160,13 +166,27 @@ The whiskey came from a different bottle.
 They were at approximately a third of Earth gravity. The slap hit at roughly the
 same time as the whiskey.
 
-Ray lost twice his first round. He took the shots. He received the slaps. The
-second one was from a materials scientist named Dae-jung who was, as Ray had
-observed over three weeks, very cheerful and also had very large hands.
+Ray lost twice his first round. He took the first shot from Yael and received the slap — open palm, measured, professional. She'd done this before.
 
-"Welcome to the station," Dae-jung said.
+The bottle spun again. It pointed at Ray.
 
-"Thank you," Ray said, meaning it.
+Jill was the spinner.
+
+She took the shot glass from Yael, filled it, and handed it to him. Their fingers touched on the glass. She watched him drink it — not looking away, not performing anything, just watching with the steady attention she brought to everything she did.
+
+Then she slapped him.
+
+Open palm, left side, precise and not gentle. His head turned with it. The sound was louder than it needed to be in the small module. When he turned his head back she was looking at him with an expression he hadn't seen before. Not apologetic. Not playful. Something closer to: now you know what my hand feels like.
+
+The moment held for a beat longer than the game required.
+
+Someone at the table said something. Neither of them heard it.
+
+"Welcome to the station," Jill said. Her voice was steady but her eyes hadn't moved from his.
+
+"Thank you," Ray said, meaning it in a way that had nothing to do with whiskey.
+
+The game continued. Ray's face burned on the left side for twenty minutes. He did not mind.
 
 ---
 
@@ -190,22 +210,28 @@ the Grid.
 
 The other 739 cells had nothing on the outside.
 
-He went and got Dae-jung.
+He went and got Jill.
 
-Dae-jung looked at Cell 304. He looked at the other 739. He looked at Ray.
+She was in the common module replacing the air filtration gaskets — another item from the crate, another thing the station had needed and learned to live without. She had grease on her hands and one of the colony's work scarves tied back over her hair. She looked at his face and put the gasket down.
 
-"One out of seven forty," he said. Which was a statement, not a question.
+"Show me," she said.
 
-"Random," Ray said. "You won't know which cell until you scan all of them. And
-it only happens once — after the initial sync. Not again. You get one Jackpot
-per new Grid. You just don't know where it's going to land."
+Jill looked at Cell 304. She looked at the other 739. She opened Elsa's notebook — the third volume, the one with the cloth cover worn thin at the spine — and turned to a page she had marked with a strip of pressure tape. She held the notebook next to the scanner readout.
+
+The numbers matched.
+
+"One out of seven forty," she said. "Elsa called it the Jackpot yield. Page two-twelve." She tapped the notebook entry — Elsa's handwriting, small and precise, forty years old. "She predicted the ratio. She predicted the magnitude. She just never had seven hundred and forty cells to test it on."
+
+"Random distribution," Ray said. "You won't know which cell until you scan all of them. And it only happens once — after the initial sync. Not again. You get one Jackpot per new Grid. You just don't know where it's going to land."
 
 "And the magnitude—"
 
 "Larger than anything Alpha has on record from a single unit. By a significant
 margin."
 
-Dae-jung sat down.
+Jill sat down. Not because she didn't understand it. Because she did. Because a woman she had never met — whose notebooks she had carried across the solar system in a transit case, whose handwriting she had learned to read the way you learn to read a friend's — had written this down in a room by herself on an asteroid, and nobody had tested it. Until now.
+
+"She saw this," Jill said quietly. She was looking at the notebook, not at Ray. "She wrote it down forty years ago and nobody tested it."
 
 It became a thing they did — at the end of every new Grid's first sync cycle,
 whoever walked the casings first said the same word when they found it. Quietly.
@@ -215,7 +241,7 @@ to do with.
 Jackpot.
 
 Nobody had decided this would happen. It had simply started happening and
-continued.
+continued. And every time someone said it, Jill would open the notebook to page two-twelve and add a tally mark in the margin next to Elsa's prediction. A small ritual. A confirmation.
 
 He did not know that the exact same word had been shouted in Alpha's laboratories
 — years earlier, by people in better-lit rooms with better instruments, who had
@@ -227,7 +253,7 @@ They kept the Grid locked.
 At day 33, the internal growth jumped. The crystals inside the locked casings
 accelerated to ten times the rate of any unlocked unit — the same thing he had
 shown Alpha, confirmed now in zero gravity, running cleaner than anything he'd
-measured on the ground. He logged it and kept going.
+measured on the ground. Jill cross-referenced the rate against Elsa's entries in volume two — the acceleration curve matched within three percent of what Elsa had theorized from her limited sample. He logged it and kept going.
 
 On day 180, something changed again.
 
@@ -253,11 +279,15 @@ The internal crystal growth — running at ten times the unlocked rate since day
 was producing darker matter at a scale that made the ten-times figure look like
 a rounding error.
 
-He went and got Dae-jung.
+He went and got Jill.
 
-Dae-jung looked at the readings for a long time.
+She was already awake — he found her in the corridor outside the lab, holding two cups of the actual coffee she'd stocked, as if she'd known. She handed him one. She followed him in.
 
-"What does this mean," he said. Which was a statement, not a question.
+Jill looked at the readings for a long time. She had the notebook open on the bench beside the scanner — volume four, the last volume, the one Elsa had written in the months before she left the colony for the last time. The page was open to a section labeled THEORETICAL PROJECTION: EXTENDED LOCK SCENARIO. Elsa's handwriting was smaller here, tighter, as if she'd been writing fast and trying to fit everything in.
+
+Jill looked at the projection. She looked at the readings. She looked at the projection again.
+
+"She was right," Jill said. Her voice was not loud. "She was right about everything."
 
 "It means," Ray said, "that at 180 days, everything accelerates. The interior
 goes from ten times to a hundred times the unlocked rate. And on top of that,
@@ -266,9 +296,9 @@ them. Smaller than the Jackpot, but continuous — every eleven days until you
 break the lock." He paused. "Unlimited new darker matter from existing units.
 No new material. No bottleneck. And it doesn't stop."
 
-Dae-jung sat down again. He had been sitting down a lot lately.
+Jill closed the notebook gently — the way you close something that belongs to someone who trusted you with it. She pressed her palm flat on the cover for a moment.
 
-"The shortage," he said.
+"The shortage," she said.
 
 "Was a choice," Ray said. "They knew. They've known since before they fired me."
 
@@ -281,14 +311,24 @@ anyone.
 
 They'd been wrong about that.
 
+Jill was quiet beside him. She was looking at the display with the same expression she'd had when she slapped him — not gentle, not cruel, just present and exact.
+
+"Elsa knew," she said. "And the colony knew. And they kept her notebooks for whoever came next." She looked at Ray. "That was you."
+
+"That was us," he said.
+
+Neither of them said anything for a moment. The display cycled through its readings. The Earth rotated in the window behind them.
+
 ---
 
-He ran the unlock experiment three times.
+He ran the unlock experiment three times. Jill was beside him for every run, the notebook open, tracking each result against Elsa's documented predictions.
 
 The first time, he broke the lock on a single unit at day 33 — peak internal
 rate. Interior growth rate dropped to baseline within six hours. The exterior
 was clean: nothing deposited, nothing forming. The mechanism required the lock.
 Without the lock, the compound was dormant.
+
+"She called it the zero condition," Jill said, turning to the relevant page. "Lock removed, activity ceases. She documented the same mechanic in her runs — thirty-one through fifty-eight."
 
 Second run: unlocked at day 90. Same result. The cell went quiet within hours.
 
@@ -300,14 +340,15 @@ could not harvest the compound and maintain the lock. You had to choose.
 
 The cells themselves were undamaged. You could lock again from Day 0 — begin the accumulation over, from the start. The loss was time, not the cell.
 
-Alpha
-had always chosen harvest. They had never found out what they were giving up.
+Alpha had always chosen harvest. They had never found out what they were giving up.
 
 He put this in the notebook. He added it next to Elsa Klein's three hundred and
 sixty-nine documented runs, which he had now confirmed in full — every mechanic
 she had mapped, every threshold she had logged, the 11-day cycle, the 33-day
 lock, the 180-day breakthrough, the zero condition: all of it confirmed, all of
 it exact.
+
+Jill had been there for every confirmation. She had tracked each one in the margins of Elsa's notebooks with the same small, precise marks — a check next to each prediction, a date, the station's coordinates. She was building a chain of evidence that connected a woman working alone on an asteroid forty years ago to a lab in low orbit where everything she'd written was proving true.
 
 The colony and the Collective were fighting the same war for entirely different reasons. The Collective wanted to break the scarcity model — to prove the grid was a choice, the shortage manufactured, the crisis engineered. Civilization stakes. The colony was not fighting for civilization. The colony was fighting for the right to walk down a tunnel in the dark and let go. For the void. For the sacrifice. They did not care about the grid. They cared about what the cell became at the end of the cycle. They had been here for seventeen years protecting something that Ray had discovered in a storage locker on a Tuesday, and they had never needed him to know why.
 
@@ -319,7 +360,11 @@ energy calculus of an entire civilization.
 He thought about the notebooks. Worn at the corners from years of daily handling.
 Left in four cloth-covered volumes for whoever came next.
 
-He sat with the notebook in his lap for a while.
+He sat with the notebook in his lap for a while. Jill sat beside him. She had her own notes — pages of cross-references, Elsa's predictions matched against station data, every number confirmed. She didn't say anything. She didn't need to. They had both carried something a long way and they were both, for the first time, able to set it down.
+
+After a while she leaned her shoulder against his. Not much. Enough.
+
+He did not move away.
 
 ---
 
@@ -331,7 +376,7 @@ She had her press credentials and a recorder and three charged batteries for the
 recorder, which she'd been told to bring because the station ran on a different
 voltage standard than anywhere else she'd worked.
 
-Ray met her at the airlock.
+Ray met her at the airlock. Jill was beside him — she had been reviewing the day's scan data when the docking alert came, and she'd set the notebook down and come without being asked. She did that.
 
 He'd been told she was coming. He'd been told who she was — not her Collective
 role, just her public one — and he'd recognized her face from the Alpha Corp
@@ -341,19 +386,37 @@ timeline kept moving, why patience was the reasonable position.
 
 He'd found that interesting, before he knew anything else about her.
 
-"Ray Vision," she said.
+"Ray Vision," she said, stepping through the airlock.
 
 "Ray," he said. "Here I'm just Ray."
 
 She looked at him for a moment — the look of someone recalibrating, not the name
 but the person attached to it. "Ray," she said. "Okay."
 
-He showed her the lab. He showed her the data. He showed her the 180-day curve,
+Then she looked at Jill.
+
+There was a beat — the particular beat that happens when two people who are both accustomed to being the most competent person in the room meet each other for the first time. Rachel took Jill in with a single look: the work scarf, the grease under her fingernails, the way she stood in the corridor like someone who had already memorized every pressure seal and emergency exit. Jill took Rachel in the same way: the press credentials worn like armor, the steady posture of someone who had spent years standing in rooms where she was not supposed to be and never once flinching.
+
+"Jill," Jill said. She did not extend her hand. She nodded — a nod that was also an assessment and also a welcome.
+
+"Rachel Park," Rachel said. Her warmth flashed — not performed, not diplomatic, just the specific warmth of a person recognizing something in someone else. "I've been wanting to meet the person who's been keeping the Collective's lights on."
+
+"The colony keeps the lights on," Jill said. "I just carry the crates."
+
+Rachel smiled. It was the smile of someone who recognized deflection because she used it herself. "I've carried a few crates."
+
+"I know," Jill said. And the way she said it made it clear she did know — not the details, not the role, but the weight. The particular weight of a woman who has been running something larger than herself for a long time.
+
+They liked each other immediately. Ray could see it — the way the air between them changed, the way they both relaxed a degree that neither of them would have admitted to. Two women who were both running things, recognizing that in each other without stating it. Rachel's warmth. Jill's punk rock directness. The particular understanding that passes between people who have both spent years being underestimated and have stopped caring about it.
+
+He showed Rachel the lab. Jill came with them — not because she was asked, but because the lab was as much hers as his now, and the data they were showing Rachel was data they had built together. He showed her the 180-day curve,
 the crystal growth, the numbers he had now run in triplicate across seven
 different fuel cell units with six different operators to make sure that what he
 was looking at was not specific to his method, his instruments, or his hope.
 
-She asked good questions. Clear, specific, the kind that showed she'd read the
+Jill had Elsa's notebooks open on the bench. When Rachel asked about the theoretical basis, Jill walked her through Elsa's framework — the predictions, the margins of error, the confirmation chain. She did it the way she did everything: directly, without ceremony, with the particular authority of someone who had earned her understanding the hard way.
+
+Rachel asked good questions. Clear, specific, the kind that showed she'd read the
 background material before she arrived. She did not pretend to understand the
 chemistry when she didn't, and she didn't pretend not to understand it when she
 did.
@@ -365,11 +428,17 @@ did.
 "And you're the only independent source who can verify it."
 
 "The station can verify it. Every person here can verify it. I'm just the one
-who found it first."
+who found it first." He looked at Jill. "And she's the one who carried the proof that it had been found before."
 
-She looked at the crystal samples on the bench. "When this goes public—"
+Rachel looked at Jill. Jill looked back — steady, unperforming, the look of someone who had carried four cloth-covered notebooks across the solar system because a woman she never met had left them for whoever came next.
 
-"The shortage ends," he said. "Not in five years. In months. The infrastructure's
+"Elsa Klein," Rachel said.
+
+"Elsa Klein," Jill confirmed.
+
+Rachel looked at the crystal samples on the bench. "When this goes public—"
+
+"The shortage ends," Ray said. "Not in five years. In months. The infrastructure's
 already half-built. They stopped it from working on purpose."
 
 She was quiet for a moment.
@@ -379,7 +448,7 @@ She was quiet for a moment.
 He hadn't expected that. He looked at her.
 
 "I've known for a long time," she said. "I needed to be able to prove it." She
-gestured at the lab. "Now I can."
+gestured at the lab — at the displays, at the notebooks, at Jill's cross-reference margins. "Now I can."
 
 Outside the module window, the Earth made its slow rotation. The terminator line
 moved across the Atlantic.
@@ -389,6 +458,7 @@ moved across the Atlantic.
 "The Grand Hall," she said. "And then everything changes."
 
 He looked at the curve on the display. Seven separate test runs. Seven identical
-results.
+results. Jill's hand was resting on the notebook. Rachel was already composing
+the story in her head — he could see it in the way her eyes moved across the data.
 
 "Yeah," he said. "It does."
