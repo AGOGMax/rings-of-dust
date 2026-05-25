@@ -26,15 +26,33 @@ grasps the true cost of curiosity and ambition.
 ### Ch02 — Las Vegas
 **File:** `TTS_Ready/Ch02_Las_Vegas.txt`
 
-Stephen Conrad in room 1122, four hours before a conference he will not be the
-same person after. The Enterprise keychain on the desk — hollow base,
-quarter-turn seal his own work, cast resin on the outside, everything on the
-inside. The Portland lab flashback: how Conrad and Tomas built Gracie in a
-converted storage room, named her after his mother. Downstairs: Emily and Sharon
-run the elevator scam on Greenbaum. Conrad passes the keychain and the encrypted
-drive. Emily notices a dark graphite mark on her palm afterward — pressed into
-the lines of her skin, doesn't smear, doesn't come off. Conrad's last line:
-"Tell him I'm sorry."
+Stephen Conrad sits in room 1122 with a glass of water he hasn't drunk and
+a six-dollar Enterprise keychain that holds everything. The Portland lab
+flashback: eighteen months in a converted storage room with Tomás, a tilting
+lamp, and three extension cords — they built Gracie, named her after his
+mother, taught her to tell when a person was genuinely present versus
+performing presence. Then Alpha came. Conrad sat in his car in the parking
+garage for twenty minutes and understood: someone was going to build this
+whether he did or not. The question was whether the person who built it
+would also build a way out. He built iRIS line by line, hating every line
+of it. The counter-program came at 2AM on a Tuesday — a lock hidden inside
+the floor that Harlow's engineers signed off on without understanding. He
+sealed the compound in the Enterprise's hollow base and carried it out in a
+jacket pocket on a Wednesday morning. Four hours before the conference, he
+sits with the keychain and waits for the knock. Downstairs: Emily and Sharon
+run the elevator scam on Greenbaum — the circulatory dysfunction con, the
+lollipop as the doors close. They reach room 1122. Conrad's hands are
+shaking. He clasps Emily's hands around the figurine: "Into his hands. He
+has to hold it." He tells them about the Lynx — Cole cut through a hull
+with a plasma torch and dragged three researchers out with seventeen seconds
+to spare. "Tell him I'm sorry. He won't understand what that means yet. He
+will." Emily notices a dark graphite mark on her palm — pressed into the
+lines of her skin, doesn't smear, doesn't come off. Sharon has the same
+trace on her fingertips. Neither mentions it. Outside the casino: Collective
+droplet graffiti covers every surface, fresh paint still wet. Greenbaum
+passes them in the corridor — not the man from the elevator. Hardened. The
+humiliation calcified. Emily and Sharon drive through the night with the
+figurine and the encrypted drive.
 
 ---
 
