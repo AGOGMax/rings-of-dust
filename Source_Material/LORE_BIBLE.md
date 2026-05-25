@@ -215,42 +215,42 @@ Every patch is hidden — sewn inside a bag lining, inside a jacket, inside clot
 They signal rank only to other Collective members who know to look.
 No Collective member displays rank on the outside.
 
-Metal rule: within every tier that has three ranks, Junior = bronze, Senior = silver, Lead/Chief/Special = gold. This holds across all tiers without exception.
+Metal rule: within every rank that has three levels, Junior = bronze, Senior = silver, Lead/Chief/Special = gold. This holds across all ranks without exception.
 
 ```
-TIER 1 — INFORMANTS (intelligence gathering)
+RANK 1 — INFORMANTS (intelligence gathering)
  Informant [patch: Collective water droplet — inside jacket lining]
 
-TIER 2 — OPERATORS (symbol: scalpel — move intelligence with precision)
+RANK 2 — OPERATORS (symbol: scalpel — move intelligence with precision)
  Jr. Operator [patch: scalpel, bronze — inside bag lining]
  Sr. Operator [patch: scalpel, silver — inside bag lining]
  Lead Operator [patch: scalpel, gold — inside jacket lining]
 
-TIER 3 — TECHNICIANS (symbol: wrench — the doers)
+RANK 3 — TECHNICIANS (symbol: wrench — the doers)
  Jr. Technician [patch: wrench, bronze — inside bag lining]
  Sr. Technician [patch: wrench, silver — inside bag lining]
  Lead Technician [patch: wrench, gold — inside jacket lining]
 
-TIER 4 — AGENTS (symbol: sunglasses — move people and resources)
+RANK 4 — AGENTS (symbol: sunglasses — move people and resources)
  Jr. Agent [patch: sunglasses, bronze — inside bag lining]
  Sr. Agent [patch: sunglasses, silver — inside bag lining]
  Special Agent [patch: sunglasses, gold — inside bag lining]
 
-TIER 5 — NAVIGATORS (symbol: compass — lead missions and operations)
+RANK 5 — NAVIGATORS (symbol: compass — lead missions and operations)
  2nd Navigator [patch: compass, bronze — inside jacket lining]
  1st Navigator [patch: compass, silver — inside jacket lining]
  Chief Navigator [patch: compass, gold — inside jacket lining]
 
-TIER 6 — COMMANDERS (symbol: star — move the big pieces)
+RANK 6 — COMMANDERS (symbol: star — move the big pieces)
  2nd Commander [patch: star, bronze — inside jacket lining]
  1st Commander [patch: star, silver — inside jacket lining]
  Chief Commander [patch: star, gold — inside jacket lining]
 
-TIER 7 — SINGULAR
+RANK 7 — SINGULAR
  Grand Admiral [patch: bronze star + olive leaf wreath — location: known only at Command level]
 ```
 
-**What each tier does:**
+**What each rank does:**
 - **Informants**: The eyes and ears. People in every building, agency, and shipping dock who notice things and pass them up the chain. They may not know they're working for the Collective at all — some just pass along what they see to someone they trust. Sharon operated at this level for years — black-market parts, dead drops, handlers — without ever carrying the patch.
 - **Operators**: Trusted couriers. They move intelligence from where it's gathered to where it needs to go. They know more than Informants about the Collective's structure but are not yet operational in the field. The scalpel is the right symbol — precise, unremarkable to the uninitiated, useful only in the right hands. Bronze to gold as you climb. The patch is always sewn inside a bag lining. You wouldn't find it unless you knew what you were looking for.
 - **Technicians**: The doers. Wrench is the right symbol — they build, hack, steal, and redistribute. Alpha Corp equipment, suppressed technology, resources that should belong to the public. The Technicians are the Robin Hood arm of the Collective. Sam Drummond operates at this level.
@@ -579,7 +579,7 @@ Marcus Verguld (Rings of Dust — primary antagonist)
 - **Role**: Collective Special Agents. Ray's (Max Vision's) handlers in Panama.
 - **Voice**: Practical, brisk, kind. Red is jokier, Squirrel is sharper.
 - **Function**: When Alpha Corp fires Ray and takes his fuel cell technology, Red and Squirrel are the reason he survives it. They come to his door 72 hours before Alpha sends someone to silence him. They extract him, build his cover identity as Mikov Forsinko, and get him physically inside Alpha's Panama facility. Ray feeds them intelligence — flywheel data, batch destruction logs, suppressed patents. After Panama, they facilitate the introduction between Ray and Jill — cross-referencing her colony notebooks with Ray's Panama findings, then arranging for the two of them to meet before Ray goes up to Station Libre.
-- **Collective rank**: Technicians (Tier 3 — wrench patch) when they first extract Ray and run him through Panama. Promoted to Special Agents (Tier 4 — sunglasses patch, gold) by the time of the Sharon/Emily crystal transfer. Their rise through the ranks is a direct result of what they built with Ray over those years.
+- **Collective rank**: Technicians (wrench patch) when they first extract Ray and run him through Panama. Promoted to Special Agents (sunglasses patch, gold) by the time of the Sharon/Emily crystal transfer. Their rise through the ranks is a direct result of what they built with Ray over those years.
 
 ### Sommi
 
