@@ -210,7 +210,7 @@ She keeps going east.
 ### Ch16 — Behind the Curtain
 **File:** `TTS_Ready/Ch16_Behind_The_Curtain.txt`
 
-Max examines the laminated badge: MIKOF FORSINKO, his face. Squirrel debriefs
+Max examines the laminated badge: MIKOV FORSINKO, his face. Squirrel debriefs
 him in a Marbella safe house above a laundry operation — contractor database live
 six hours ago, backstory clean, two Alpha-adjacent São Paulo firms made receptive.
 Red watches the street from the window. The full mechanics of the undercover

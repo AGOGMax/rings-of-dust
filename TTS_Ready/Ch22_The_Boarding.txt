@@ -594,6 +594,12 @@ Cole looked at Gracie. Gracie, who had been running quietly in the background si
 
 "He kept notes," Gracie said. And in the way she said it, Cole understood that the notes were not just a record. They were the surgical guide. The roadmap Gracie and Hexo would follow together — software and medicine, architecture and anatomy — to bring Sharon the rest of the way back.
 
+"The conditioning architecture they had me build," Hexo said. "It wasn't original work. It was adapted from a pre-commercial software build — a base code that was never designed for human hosts." He looked past Cole. He was looking at Bitboy. "That code. His architecture. The Federation's EM Cyber program. Alpha took it, scaled it, and gave it to me as the template for what they wanted done to her."
+
+Cole followed the line. The chimp in his lap — the junkie monkey, the test subject from the cage, the animal who had been watching Fight Club with Ricardo every night for three years — was the template for the thing that had been done to Sharon.
+
+Gracie, quietly: "That's why I could read it. The code is descended from him. I recognized it the moment I got inside."
+
 Hexo reached into his jacket pocket and held something out. Cole looked at it.
 
 The copper-wire ring. Small. A smooth pebble bent into the top. The wire still holding its shape.
