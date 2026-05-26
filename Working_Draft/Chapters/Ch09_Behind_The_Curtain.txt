@@ -4,7 +4,7 @@ Chapter Nine
 
 Behind the Curtain
 
-The badge was laminated. Max turned it over in his hands, noting the weight, the
+The badge was laminated. Ray turned it over in his hands, noting the weight, the
 specific sheen of the photo beneath the protective coating. The name read MIKOV
 FORSINKO. The face in the photo was his.
 
@@ -16,12 +16,12 @@ receptive to confirming the relationship if anyone calls."
 Red was at the window, watching the street below. The safe house was a two-room
 flat above a laundry operation in the Marbella district, which was the kind of
 neighborhood that was neither nice enough to attract attention nor rough enough
-to generate it. Laundry was going below. Max could hear the drums through the
+to generate it. Laundry was going below. Ray could hear the drums through the
 floor.
 
 Red turned from the window. She reached into her jacket and produced something
 small — folded dark fabric, stitched in thread barely darker than the
-background. He set it on the table beside the Forsinko badge.
+background. She set it on the table beside the Forsinko badge.
 
 A wrench. Rendered in outline, almost invisible unless you knew what you were
 looking at.
@@ -50,21 +50,21 @@ it's a myth the Navigators made up to give the organization weight." He
 shrugged. "Right. And I'm the Grand Admiral."
 
 Red, from the window: "Squirrel, if you were the Grand Admiral, I would
-emigrate."
+start making soap at the colony."
 
 Ray looked at the wrench patch in his hand. He folded it and put it in his
 breast pocket, the way he'd seen Red carry hers — inside the jacket, against the
 lining, invisible unless you knew to look.
 
-He noticed, without quite knowing why, that Red's own patch was different — a
-pair of sunglasses rendered in outline, dark thread on dark fabric. Not a
-wrench. Something higher.
+He noticed, without quite knowing why, that Red's own patch was the same symbol
+— a wrench — but rendered in gold thread instead of dark. Same rank. Different
+tier.
 
 "Your specialization is fuel-cell stabilization engineering," Red said without
 turning around. "That gets you lab access at the mid-tier. Not the vault. But
 the vault isn't where you need to be."
 
-Max set the badge down on the table next to his notebook. "And if someone runs a
+Ray set the badge down on the table next to his notebook. "And if someone runs a
 technical deep-dive? Asks me to explain something I don't actually know?"
 
 "Then you explain that the methodology you worked with in São Paulo was
@@ -73,7 +73,7 @@ won't happen. You're a consultant, not a hire. They want your output, not your
 credentials. The whole point of bringing in outside contractors is that nobody
 has to own the gaps."
 
-Max considered this. The logic was sound. Corporate epistemology worked exactly
+Ray considered this. The logic was sound. Corporate epistemology worked exactly
 this way: consultants existed in a categorical space where their knowledge was
 assumed and therefore never verified. He had navigated this structure his entire
 career from the other side. Now he was using it.
@@ -82,7 +82,7 @@ career from the other side. Now he was using it.
 
 Squirrel looked at him for a moment, as if waiting for something more.
 
-There wasn't anything more. This was a protocol. Max understood protocols.
+There wasn't anything more. This was a protocol. Ray understood protocols.
 
 ---
 
@@ -117,32 +117,31 @@ corridor without breaking stride, their acknowledgment of each other's existence
 compressed into a single nod.
 
 The building was designed to make you feel small. That was one of its functions
-and it worked. But Max noticed something else operating simultaneously: the
+and it worked. But Ray noticed something else operating simultaneously: the
 materials were expensive, the lines were elegant, the signage used a typeface
 that communicated precision and authority. The building also made you feel that
 being inside it meant something. That you were part of something with resources.
 With ambition. With a certain kind of importance.
 
-Both effects were intentional. Both were necessary. The smallness kept people
-obedient. The importance kept them loyal.
+Both effects were intentional.
 
 He rode the elevator to the fourteenth floor.
 
 ---
 
-Dr. Yusuf Oren was shorter than Max had expected from the name, which was not a
-rational thing to notice but Max noticed it anyway. He was perhaps fifty-five,
+Dr. Yusuf Oren was shorter than Ray had expected from the name, which was not a
+rational thing to notice but Ray noticed it anyway. He was perhaps fifty-five,
 with close-cut gray hair and the particular quality of attention that marks
 scientists who have spent decades actually listening to the problems in front of
 them rather than performing the act of listening. He came around his desk to
-shake Max's hand rather than waiting for Max to come to him.
+shake Ray's hand rather than waiting for Ray to come to him.
 
 "Mikov. Good to have you." He gestured toward a chair. "Coffee?"
 
 "Please."
 
 Oren poured from a carafe on his desk without asking for specifications. He
-handed Max a cup — black, which was correct — and sat down with his own. "São
+handed Ray a cup — black, which was correct — and sat down with his own. "São
 Paulo firms don't usually send us people who work on the stabilization side.
 That's usually handled in-house here. I was curious about the request."
 
@@ -156,7 +155,7 @@ purity that I'm not entirely confident in." He paused. "I'd rather have someone
 look at the process fresh. People who have been here five years see what they
 expect to see."
 
-"That's usually how it works," Max said.
+"That's usually how it works," Ray said.
 
 Oren smiled. It was not a performed smile. It reached his eyes and then
 retreated, which was the motion of a genuine expression rather than a social
@@ -164,19 +163,19 @@ one. "Let me show you around."
 
 The lab was large and climate-controlled, divided into sections by clear
 partitions. The air tasted faintly metallic, the specific signature of
-plasma-adjacent work. Max knew this smell from his own lab, from the years
+plasma-adjacent work. Ray knew this smell from his own lab, from the years
 before. There were twelve researchers working across two adjacent sections, and
-they moved with focused concentration. The equipment was newer than anything Max
+they moved with focused concentration. The equipment was newer than anything Ray
 had worked with. Considerably newer. The centrifuge array alone represented a
 capital investment he could not calculate from the outside but could estimate
 from its output capacity at somewhere between eight and twelve million dollars.
 
 Oren walked him through the setup with the easy familiarity of someone who had
 designed it. He explained the negative-pressure chambers, the nitrogen cycling,
-the batch-log interface. He introduced Max to two junior researchers — a young
+the batch-log interface. He introduced Ray to two junior researchers — a young
 woman named Priya who nodded without looking up from her console, and a man
-named Chen who asked Max two technical questions that were sharp enough to
-confirm he was the genuine article, not a greeter. Max answered them correctly.
+named Chen who asked Ray two technical questions that were sharp enough to
+confirm he was the genuine article, not a greeter. Ray answered them correctly.
 Chen seemed satisfied.
 
 "The batch logs are here," Oren said, pointing to a wall-mounted terminal near
@@ -184,13 +183,13 @@ the back of the lab. "Pull access is part of your standard contractor clearance.
 If you need write access to flag anomalies you'll need to submit a request, but
 I can expedite that."
 
-"Pull access is fine to start," Max said. "I'll want to review three months of
+"Pull access is fine to start," Ray said. "I'll want to review three months of
 throughput data before I form any opinions."
 
 "Exactly the right instinct." Oren clapped him once on the shoulder — not a
 territorial gesture, genuinely collegial — and returned to his own work.
 
-Max turned to the terminal and began to read.
+Ray turned to the terminal and began to read.
 
 ---
 
@@ -214,7 +213,7 @@ There was no secret ingredient. There was no breakthrough. There was a standard
 process, executed with the precision that comes from doing something exactly
 this way ten thousand times in a row.
 
-Max worked through this understanding methodically. It did not make him angry.
+Ray worked through this understanding methodically. It did not make him angry.
 He noted it the way he noted anything: as a data point. The data point was this:
 Alpha's hold on the DarkX market was not a product of superior science. It
 was a product of superior lawyers. They had acquired, at the right moment, the
@@ -228,7 +227,7 @@ It was a wall of paperwork.
 The energy crisis, as a technical problem, had been solvable for at least a
 decade.
 
-Max read the sentence twice. He made a small mark in the margin. Kept
+Ray read the sentence twice. He made a small mark in the margin. Kept
 reading.
 
 ---
@@ -247,7 +246,7 @@ Some were deliberate: an internal research project, nine months long, that
 had been run in a sealed sub-lab and then classified at a level that should
 have prevented its appearance in a pull-access terminal.
 
-Someone had made an indexing error. Or someone had wanted it findable. Max
+Someone had made an indexing error. Or someone had wanted it findable. Ray
 did not know which and did not have time to determine it.
 
 He read the yield curves.
@@ -338,16 +337,16 @@ years. They had not understood what those conditions were. The linked-cell
 research file had been sealed for eleven months. The connection had never
 been made.
 
-Max had just made it.
+Ray had just made it.
 
-Max cross-referenced the anomaly records against the grant filings he had
+Ray cross-referenced the anomaly records against the grant filings he had
 found in the public database last week. Alpha had filed, over the previous
 seven years, nine separate government research grants for the development of
 what their applications described as *next-generation fuel-cell stabilization
 technology.* Combined, the grants totaled several billion dollars, drawn from
 energy crisis relief funds allocated by the Federation Council.
 
-The technology they were describing in the grant applications was Max's
+The technology they were describing in the grant applications was Ray's
 process. His recipe. His parameters — the negative-pressure chambers, the
 nitrogen cycling, the eleven-day window. Renamed. Reformatted. Resubmitted
 with incremental variations small enough to constitute new filings and large
@@ -390,7 +389,7 @@ Not spoilage. Not error. Consistent, scheduled, deliberate destruction of viable
 DarkX crystals representing eleven to thirteen percent of everything this
 facility produced.
 
-Max sat with this for thirty seconds. He thought about the supply charts he had
+Ray sat with this for thirty seconds. He thought about the supply charts he had
 memorized in the weeks since leaving Alpha. Global DarkX supply had run at
 approximately four to eight percent below projected demand for eleven
 consecutive years. The energy crisis was, in the language of economists, a
@@ -430,7 +429,7 @@ and incident mode meant: all non-essential personnel to designated staging
 areas, all lab-adjacent doors to automatic lock-and-hold, all badge readers
 elevated to tier-two authorization.
 
-Max pulled the drive.
+Ray pulled the drive.
 
 He did this first, before he looked up, before he assessed. The drive was in his
 pocket before the second alarm pulse had completed. This was not instinct — it
@@ -446,13 +445,13 @@ had already crossed the partition into the adjacent section, presumably to
 assist with the containment. Three other researchers were moving in the same
 direction as Priya, unhurried, the way people move through a practiced drill.
 
-Oren was coming toward Max.
+Oren was coming toward Ray.
 
 "Nitrogen coupling failed in 14-C," Oren said. "Routine. We'll be in hold for
 probably twenty minutes." He gestured toward the staging area. "Come on, I'll
 finish walking you through the Q4 anomalies while we wait."
 
-Max did not go toward the staging area.
+Ray did not go toward the staging area.
 
 "I need to use the restroom," he said. "Before the hold locks me in for twenty
 minutes."
@@ -460,7 +459,7 @@ minutes."
 Oren smiled. "Corridor B, left at the junction. You have maybe two minutes
 before it locks."
 
-"I'll be quick," Max said.
+"I'll be quick," Ray said.
 
 He walked at the pace of a man who intended to return.
 
@@ -481,7 +480,7 @@ flights of stairs into a service level that smelled of refrigerant and insulated
 cable.
 
 The loading bay exit was at the west end. A man in a gray Alpha uniform was
-moving a pallet loader toward the freight elevator, his back to the door. Max
+moving a pallet loader toward the freight elevator, his back to the door. Ray
 walked past him at a consistent pace, badge in hand though there was no reader
 on this door, and pushed through the bay door into the late afternoon.
 
@@ -492,7 +491,7 @@ margins. The light was golden and horizontal. The noise was immediate and
 specific: traffic, a vendor's amplified radio somewhere to the right, the
 compressed-air grunt of a delivery truck two blocks up.
 
-Max walked.
+Ray walked.
 
 He did not move fast. A man moving fast from a loading bay draws attention. He
 moved at the pace of a contractor who has just finished a shift and is thinking
@@ -530,7 +529,7 @@ supply. To the careful, careful enterprise of making the crystals stable and the
 yields predictable.
 
 He would never see the DISPOSAL_PROTOCOL_11 entries. Not because they were hidden
-from him — Max did not think they were hidden from Oren. He thought they simply
+from him — Ray did not think they were hidden from Oren. He thought they simply
 existed in a part of the system that Oren had never had reason to look at,
 because Oren's job was the science and someone else's job was the numbers and
 the system was designed so that those two things never needed to be in the same
@@ -540,7 +539,7 @@ That was the design. Not malice toward Oren, specifically. Just the ordinary
 architecture of a machine that works better when its parts don't know what the
 other parts are doing.
 
-Max thought about the junior researcher at Alpha who had first noticed that
+Ray thought about the junior researcher at Alpha who had first noticed that
 a certain class of feedstock was yielding anomalous results. He thought about
 the report that researcher had almost certainly written. He thought about where
 that report had gone and who had read it and what decision had been made about
@@ -558,7 +557,7 @@ wrong.
 It was a product. It had been designed, maintained, and optimized over eleven
 years with the same care and precision that Oren applied to his yield models.
 
-Max walked east through the Panama City late afternoon. The smell of the city
+Ray walked east through the Panama City late afternoon. The smell of the city
 was around him: exhaust, green, something frying from an open window two floors
 up. He was sweating in the heat and his hands had stopped shaking. In his pocket
 the drive was the size of his thumbnail and it contained enough data to
@@ -584,18 +583,18 @@ jacket through the crowd.
 He kept walking.
 
 At the café, Squirrel did not look at him when he sat down. Red had a coffee
-in front of her and was watching the street. Max put the drive on the table
+in front of her and was watching the street. Ray put the drive on the table
 between them, face down, the way you set down something that has weight.
 
 Squirrel's hand moved over it without a gesture. It was in his jacket before
-anyone at the adjacent tables would have had reason to notice an exchange. Max
+anyone at the adjacent tables would have had reason to notice an exchange. Ray
 caught a brief glimpse of the jacket's inner lining as it fell closed — the
 same small embroidered outline he'd first noticed in the safe house, a pair of
 sunglasses in dark thread, sewn flat against the fabric.
 
 "What's on it," Red said. She was still watching the street.
 
-"The long-cycle data," Max said. "What happens if you link the cells together
+"The long-cycle data," Ray said. "What happens if you link the cells together
 and don't reset them at eleven days. Thirty-three days of continuous linkage:
 ten times the internal crystal yield, ongoing, as long as they stay connected.
 A hundred and eighty days: external crystal flushes every eleven days —
@@ -606,7 +605,7 @@ level."
 
 Red looked at him for the first time.
 
-"There's also documentation of the government grants," Max said. "Seven years
+"There's also documentation of the government grants," Ray said. "Seven years
 of applications. Billions drawn from the crisis relief funds. They described
 my process as their own ongoing research." He looked at the table. "And the
 destruction logs. They've been disposing of eleven to thirteen percent of
@@ -621,14 +620,14 @@ long time and have just been handed the piece that makes it load-bearing.
 "The zero-gravity yield," Squirrel said. "That's the piece they're most afraid
 of."
 
-"Yes," Max said. "You can't manufacture a shortage of something that
+"Yes," Ray said. "You can't manufacture a shortage of something that
 compounds in everyone's hands."
 
 Squirrel turned the coffee cup once. "We're going to need a name for this.
 When we move it through the network, when the parallel release goes out."
-He looked at Max. "Something that says what it is."
+He looked at Ray. "Something that says what it is."
 
-Max thought about the yield curve at a hundred and eighty days. About a fuel
+Ray thought about the yield curve at a hundred and eighty days. About a fuel
 cell in zero gravity giving back more than physics should allow — compounding,
 escalating, refusing to stop.
 
