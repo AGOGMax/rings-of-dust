@@ -19,7 +19,7 @@ neighborhood that was neither nice enough to attract attention nor rough enough
 to generate it. Laundry was going below. Max could hear the drums through the
 floor.
 
-Red turned from the window. He reached into his jacket and produced something
+Red turned from the window. She reached into her jacket and produced something
 small — folded dark fabric, stitched in thread barely darker than the
 background. He set it on the table beside the Forsinko badge.
 
@@ -53,7 +53,7 @@ Red, from the window: "Squirrel, if you were the Grand Admiral, I would
 emigrate."
 
 Ray looked at the wrench patch in his hand. He folded it and put it in his
-breast pocket, the way he'd seen Red carry his — inside the jacket, against the
+breast pocket, the way he'd seen Red carry hers — inside the jacket, against the
 lining, invisible unless you knew to look.
 
 He noticed, without quite knowing why, that Red's own patch was different — a
@@ -324,7 +324,7 @@ eleven-day review interval, produced external crystal formations. Dense,
 structured, extending through the cell housing outward. Not internal yield.
 External flush.
 
-One researcher, in a handwritten annotation attached to a 2036 batch record,
+One researcher, in a handwritten annotation attached to a 2030 batch record,
 had used a different word.
 
 *Jackpot.*
@@ -368,7 +368,7 @@ It took him two and a half shifts to find the batch destruction logs.
 He was not looking for them. He was auditing throughput across Q3 and Q4 of the
 previous year, following Oren's hypothesis about feedstock purity, when he found
 a field in the batch records he didn't recognize. The field was labeled
-DISPOSAL_PROTOCOL_7 and it appeared at irregular but recurring intervals across
+DISPOSAL_PROTOCOL_11 and it appeared at irregular but recurring intervals across
 the dataset. He filtered for it.
 
 Three hundred and twelve entries in an eighteen-month window.
@@ -379,7 +379,7 @@ immediately know, but they were consistent, which meant they were systematic,
 which meant he could decode them from context. He spent forty minutes doing
 this. When he had the schema, he read the entries again.
 
-DISPOSAL_PROTOCOL_7 was not a contamination flag. It was not a quality-control
+DISPOSAL_PROTOCOL_11 was not a contamination flag. It was not a quality-control
 rejection. The quantities attached to it were not anomalously small or large.
 They tracked, with a consistency that was striking in its precision, at roughly
 eleven to thirteen percent of each batch's usable yield.
@@ -529,7 +529,7 @@ something important. To the science of energy production. To the world's power
 supply. To the careful, careful enterprise of making the crystals stable and the
 yields predictable.
 
-He would never see the DISPOSAL_PROTOCOL_7 entries. Not because they were hidden
+He would never see the DISPOSAL_PROTOCOL_11 entries. Not because they were hidden
 from him — Max did not think they were hidden from Oren. He thought they simply
 existed in a part of the system that Oren had never had reason to look at,
 because Oren's job was the science and someone else's job was the numbers and

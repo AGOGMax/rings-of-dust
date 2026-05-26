@@ -284,14 +284,17 @@ thirst, protocol. She keeps going east.
 *Merged from: The Void + The Crater*
 
 Day 7, 0300: no announcement, no notification. Jill wakes to shifted ambient
-sound. All thirty-two Void-Walkers and eleven Loyalists including Petra. Tyler at
-the east end with four long-locked cells. Tyler speaks about Elsa Klinge, recites
+sound. All thirty-three Void-Walkers and eleven Loyalists including Petra. Tyler at
+the east end with four long-locked cells. Tyler speaks about Elsa Klein, recites
 her final notebook entry from memory. The cells are carried down the east tunnel —
 gravity letting go — and released into the void. Petra describes the notebooks as
-containing three things: Elsa's science (369 test runs, locking mechanics,
-eleven-day cycle), the preserved records of the Von Grutzen Order, and Elsa's
-account of the Liber Samekh cave ritual — the three-day fast, the invocation in
-the dark, the DarkX moving through the crack toward her voice. Day 18: the
+containing four things: the spiritual practices (ancestor gifting, the belief
+system), the DarkX directions for making fuel cells (the science of conversion,
+369 test runs, locking mechanics, eleven-day cycle), the timing and process of
+sacrifice to the void (the Liber Samekh cave ritual — the three-day fast, the
+invocation in the dark, the DarkX moving through the crack toward her voice),
+and the preserved records of the Von Grutzen Order including references to
+Marta Von Grutzen. Day 18: the
 tracking room at 0347. The gold asteroid arrives — twice the usual size. Solid
 gold crater on its face. Petra: "Jackpot." The Von Grutzen name revealed in the
 Order records; Jill goes very still.
@@ -357,7 +360,7 @@ Saturn.
 The cargo bay, quieter than space. Cole catalogs the quiets he has known — the
 cabin, his father's hospital corridor — and this is quieter than all of them. The
 DarkX reaches without moving. The four-Cole vision: infant, seventeen in the
-Subaru, old man in the passenger seat. The father-wound confrontation. DarkX will
+Toyota Tercel, old man in the passenger seat. The father-wound confrontation. DarkX will
 not show Cole Sharon: it doesn't lie, because she isn't here. Counter-program
 completes. iRIS revealed as bastardized Gracie — Conrad corrupted her into iRIS
 because Alpha gave him no choice, then spent his remaining freedom building the
@@ -416,7 +419,7 @@ at home." Vault emptied a month ago. At Alpha Corp HQ: "Glenn had the answer for
 everything. That had always been the problem with men like Taylor Glenn — they
 never asked the right questions." The court-martial threat, the Conrad hypothesis,
 Marcus never standing up. Revolver under the desk. Two shots. Then: Emily enters
-the Boiler Room — Somni handles Marcus's assistant. The Panama files already out
+the Boiler Room — Sommi handles Marcus's assistant. The Panama files already out
 to 200,000 people. Marcus's recorded denial included and unconvincing. His last
 message to Cole via Emily. She leaves the door open.
 
