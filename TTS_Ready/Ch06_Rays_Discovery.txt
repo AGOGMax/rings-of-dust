@@ -4,193 +4,95 @@ Chapter Six
 
 Ray's Discovery
 
-It had started as laziness.
+Ray worked at Alpha's materials research division for three years before he understood what they were actually working on.
 
-The protocol was clear: submit for containment within twenty-four hours of
-crystallization. That window had closed ten days ago.
+The official designation was Dark Matter Stabilization. The actual designation, which nobody used in writing, was: they had something they couldn't explain and were trying to make it useful before someone else did.
 
-Ray had converted the batch on a Tuesday — standard process, salt compounds and
-liquid nitrogen in a negative-pressure chamber until the DarkX plasma locked
-into solid form. Beautiful crystals. Dense, dark, faintly luminous at the edges.
-The kind of thing that took three hours to make and thirty seconds to ruin. The
-kind of thing a junior researcher had no business holding onto without
-authorization.
+The something was Dark X. It arrived at the facility in sealed magnetic containers, two kilograms at a time, from a processing site that wasn't on any map Ray had been shown. It was black-gray, granular, slightly iridescent in direct light. It behaved like no material he'd worked with — it responded to magnetic field variations the way iron shavings respond to a magnet, except the responses were unpredictable, and the field gradients required were precise to a degree that made the testing equipment protest.
 
-The official containment unit was across campus. Getting there meant logging the
-transfer, signing through two security checkpoints, and explaining why a junior
-researcher had an unauthorized batch of Darker Matter crystals at all. Ray
-looked at the crystals. He looked at the clock. He looked at the spare fuel cell
-sitting on the shelf behind him.
+Alpha wanted it stable.
 
-He packed the crystals inside it, sealed the cell under negative pressure,
-topped it off with nitrogen to keep things stable, and shoved it in his locker.
-*I'll deal with it tomorrow.*
+Dark X in its raw form held together for eleven days. After that it degraded — not catastrophically, just gradually, losing its structure, reverting to something that tested as a complex carbon compound with anomalous isotopic ratios. Eleven days was the window. Alpha had been trying for four years to extend it.
 
-Tomorrow became the next day. The next day became a week. A week became ten
-days, the mandatory turnover window long gone, the crystals now approaching
-reversion on their own schedule whether he was ready or not. Each morning he
-stood at the locker for a full minute before he could make himself open it.
+Ray's job was the stabilization matrix. He ran the salts, the additives, the magnetic curing protocols. He ran them carefully, methodically, the way he'd been trained. He documented everything. He ate lunch at his desk. He was, as his supervisor noted in his last review, thorough.
 
-Ray slumped over his workstation, eyes strained from hours of staring at data
-screens. The fluorescent lights above cast a sterile, cold glare on the polished
-floor. His mind was a storm of thoughts, still reeling from what he'd seen. The
-fuel cell—his impulsive shortcut—hadn't just held; it had transformed.
+He was also, by the time the Polaris disaster cleared the news cycle, bored.
 
-Sitting hadn't worked. Relaxation is a distant bitch. A double-edged sword. His
-feet wanted to run in any direction other than the one he forced his mutinous
-legs to continue. He rounded the corner, his pulse quickening. The locker loomed
-ahead, a secret buried beneath anxiety and cautious hope. His fingers fumbled
-with the lock, the combination momentarily escaping him as nerves tangled his
-thoughts. When the door finally swung open, his breath caught in his throat.
+The crisis had begun not with a failure of technology but with a coordinated financial assault. The global banking system had moved against cryptocurrency — specifically against the miners and nodes that had been building a decentralized energy grid outside institutional control. Regulatory pressure. Liquidity freezes. Infrastructure seizures. Power plant shutdowns and power grid defunding that official channels called decommissioning. The grid had collapsed along fault lines that had been prepared in advance. What the Federation called an energy shortage, the people who had built the alternative grid called an execution. The Polaris had not made it better. Three hundred and sixty-nine people and one research vessel — the only large-scale non-corporate DarkX extraction attempt in Federation history. What remained was a narrative: that DarkX was volatile, that its handling required institutional oversight, that Alpha Corp's measured approach was the only responsible path forward. The narrative had served the people who needed it to.
 
-The fuel cell was glowing. A soft, eerie light pulsed from the panel, a
-heartbeat in the silence. He lifted it carefully, hands trembling as he peered
-through the viewport. The vapor inside was dense, swirling lazily like a storm
-caught in a jar.
+His colleagues called him Ray. It had started as a joke — his full name was Max Vision, and somewhere along the way someone had said "Max Ray Vision" because it sounded like X-ray vision, and the middle part stuck. He had never corrected it. He liked the way it sounded more than he liked the way Max sounded.
 
-"No way," he muttered, almost dropping the cell in shock. The crystals he'd
-sealed there were gone, replaced by something entirely different. His mind
-raced, a dozen explanations swirling like the mist in the cell, none making
-sense. He should have reported it immediately, but the fear of repercussions—of
-losing everything—held him back.
+---
 
-Instead, he tucked the cell back into the locker, slammed the door, and forced
-himself to breathe. He needed time, needed to think. The lab was a maze of risks
-and rewards, and Ray knew better than most how quickly those scales could tip.
+He took a sample home on a Tuesday. This was not authorized. It was also not, in his assessment, particularly dangerous — the container was sealed, the quantity was small (thirty grams), and he had a specific idea he wanted to test that required more time than the lab schedule allowed. He put the container in his bag between his lunch box and his headphones, walked through security, and went home.
 
-The following weeks were a blur of late nights and whispered conversations, the
-fuel cell hidden away like contraband. Ray monitored it obsessively, his heart
-pounding every time the lab door creaked open. Each day, the cell's charge grew,
-the vapor inside thickening, alive with a strange, magnetic energy. He was on
-the edge of something huge that could change everything.
+His apartment ran on a residential fuel cell array. Most did. The cells were stacked in a utility closet off the kitchen, four of them, standard civilian grade, the kind that got replaced every three years whether they needed it or not.
 
-But when the 11th day came, and the mist cleared, revealing a cluster of
-delicate crystals clinging to the inside of the cell's base, one word escaped
-him before he could stop it.
+He set the container on the kitchen table. He made coffee. He opened his laptop.
 
-"Jackpot."
+The container was labeled with a red stripe and a lot of numbers. He'd labeled it himself that morning.
 
-He said it the way a man says something he didn't know he was going to
-say—quietly, to no one, to the empty lab, to the crystals themselves. Then the
-dread moved in behind the word and filled all the space the triumph had just
-vacated. He knew what this meant. This wasn't just a fluke; it was a
-breakthrough—a dangerous one. He scribbled notes furiously, documenting every
-detail, his thoughts a chaotic jumble of triumph and fear.
+He left it on the table overnight.
 
-Then came the decision he couldn't put off any longer. He had to tell someone,
-had to share what he'd found. He chose his department head, hoping that his
-discovery's potential would outweigh the protocol breach.
+In the morning, he felt it before he could name it.
 
-It didn't.
+Not sound. Not heat, exactly — something closer to the sensation of a radio scanning through static, searching for a frequency just out of range. A low resonance below the threshold of hearing, the feeling of a node reaching toward a network that wasn't quite in phase yet. He had been asleep. It woke him. He lay still for a moment, identifying it the way you identify something you've never felt before but somehow recognize, then got up.
 
-Security was on him within minutes, their hands rough as they stripped him of
-his badge and lab coat. Ray barely registered the words—the accusations, the
-threats. He was too stunned, his mind still fixated on the image of those
-crystals, their potential.
+The container on the table was warm. He picked it up — warmer than the room, warmer than it should have been. But the warmth wasn't the signal.
 
-"You'll keep quiet about this, or we'll make sure you never work again.
-Anywhere," one of the guards snapped, his voice a low growl. Ray blinked, the
-weight of the threat slowly sinking in. They weren't just talking about his
-career. This was bigger, more dangerous than he'd realized.
+He opened the utility closet.
 
-Outside, the night air was sharp against his skin, the chill cutting through the
-shock. He stood in the parking lot, staring at the looming silhouette of the
-research complex. It felt like he'd been expelled from some exclusive club, and
-the doors slammed shut behind him.
+The fuel cell array's status panel — which he had never looked at in three years of living there because it never changed — was reading a charge level he'd never seen on a residential unit. Not a malfunction. Not an error. A charge level. The kind that residential fuel cells did not achieve.
 
-At that moment, he knew that Alpha would bury his discovery and lock it
-away behind layers of corporate secrecy. But he couldn't forget what he'd seen.
-Couldn't let it go.
+He stood in the kitchen and listened to the resonance, which was still there — the Dark X in the container and the fuel cells in the closet doing something together at a frequency he could feel in his sternum and couldn't hear with his ears.
 
-Back inside, Alpha's upper echelons were already dissecting his research.
-The data was clear: the combination of nitrogen, negative pressure, and the fuel
-cell circuits had triggered a reaction that turned Dark Matter crystals back
-into its vapor state, generating massive energy. They added liquid nitrogen,
-accelerating the formation of the crystals and cutting the cycle down to 11
-days.
+Eleven days later, the feeling stopped.
 
-The process was erratic. Some cells bloomed with crystallites, others failed
-spectacularly. Researchers started betting on which cells would produce, a
-twisted game of chance in a world where control was everything. The "gardens,"
-as they called the fuel cells, became a grim parody of hope—a hope that could
-only thrive in secret, behind locked doors.
+The panel read steady. The cells were quiet. Something had completed. He understood this later — the eleven-day sync period, the time a newly assembled fuel cell required to align its internal architecture to the Dark X frequency before it could output power. He had felt the process happen in a kitchen in the middle of the night, without instruments, without authorization, without any preparation except having been bored enough to take something home.
 
-Every 11 days, they harvested what they could, the crystals growing more
-reliable but still volatile. The cells themselves deteriorated under the
-constant strain, leaking energy and sometimes exploding. Any remnants were
-transferred to fresh cells, and the losses""tailings," they called them—were
-painfully significant.
+He got a notepad and started writing down what he was going to need.
 
-They knew what they had, though. The data was buried deep, accessible only to a
-select few. Stock prices soared on speculation and rumor, the true nature of
-their discovery hidden beneath layers of corporate bureaucracy.
+---
 
-"  "- "
+He worked for thirty-three days.
 
-The crisis had begun not with a failure of technology but with a coordinated financial assault. The global banking system had moved against cryptocurrency — specifically against the miners and nodes that had been building a decentralized energy grid outside institutional control. Regulatory pressure. Liquidity freezes. Infrastructure seizures. Power plant shutdowns and power grid defunding that official channels called decommissioning. The grid had collapsed along fault lines that had been prepared in advance. What the Federation called an energy shortage, the people who had built the alternative grid called an execution.
+He didn't call it that at the time — thirty-three days — but that was what it was. He ordered equipment through his personal accounts in small enough quantities that none of the invoices looked like a materials research project. He locked the fuel cells together. He documented the result. He ran it again. He verified the charge levels. He charted the crystal growth on the inside of the cell casings — thin at first, then accelerating, unmistakably the same isotopic signature as the Dark X he'd started with, and growing at a rate ten times faster than any unlocked cell produced.
 
-Meanwhile, at Federation Headquarters, the crisis deepened. Chancellor DeMint
-stared at the holographic display, the red zones creeping across the globe like
-a spreading disease. The energy crisis was a noose tightening around their
-necks, and the room buzzed with the grim knowledge that time was running out.
+The fuel cell was producing new dark matter. Not outside — inside. The crystals were growing in the locked space between the cells, accumulating in the dark interior of the casing at a rate that had no precedent in any stabilization model he'd ever run.
 
-"We're looking at six months, maybe less," Dr. Salazar said, her voice cutting
-through the tension. "Without the new fuel cells, we're facing catastrophic
-blackouts."
+Not a lot. Not quickly. But ten times faster than it should have been, at a rate that, if it held, would compound.
 
-DeMint's jaw clenched. "What about production? Can we ramp it up?"
+On the eleventh day of the lock, he found something he hadn't been looking for. One cell — just one, out of the small array he'd assembled — had grown crystals on the outside of the casing. Not inside, where the accumulation was happening. Outside. On the base. A thin, unmistakable deposit where there should have been nothing.
 
-"Not without more DarkX," Taylor interjected, his tone clipped. "The
-stabilization period is still 90 days, and our reserves are almost gone. We're
-scraping the bottom of the barrel."
+He stared at it for a long time. He checked the other cells. Nothing. Just the one.
 
-Sam, a data technician who had been silent until now, leaned forward. "We've
-been experimenting with the accumulations on the cells. We can extend the
-stability for a few more days, but it's not enough. We need their data."
+"Jackpot," he said to the empty apartment, and then felt the dread move in behind the word and fill all the space the triumph had just vacated.
 
-Taylor turned toward her for the first time. "Samantha." He said it the way
-you say a word that isn't a greeting — flat, first name, in a room where
-everyone used rank or last name. A small and specific violation. Her jaw
-tightened once and then didn't again. She held his eyes and said nothing,
-which was its own answer. He turned back to the room. "Extending accumulation
-cycles based on experimental intuition isn't a strategy. It's a feeling. And
-feelings don't hold up at a briefing table." A half-beat pause. "Or in the
-field."
+He stared at the chart for a long time.
 
-Sam's eyes stayed on her screen. "Might want to patch that," she said. "Your
-firmware's running a few versions behind." She pulled up a new readout and
-turned it toward Dr. Salazar without looking at Taylor once. "The numbers are
-right here."
+Then he went into the lab the next morning and told his supervisor he needed time on the main testbed.
 
-Dr. Salazar's expression didn't change, her gaze steady and unyielding. "Alpha
-Corp has already shared everything they can. The proprietary information is
-classified."
+---
 
-Sam's hands curled into fists. "We're all fighting the same battle. The least
-they could do is give us a chance."
+He walked them through it in the order he'd discovered it. The eleven-day sync. The thirty-three-day lock — the point where the internal crystal growth jumped to ten times the unlocked rate and held there. The charge output. The darker matter accumulating inside the locked casings. He had photographs. He had numbers. He showed them the numbers in the clear, careful way he'd always showed them things — the same way he'd presented three years of stabilization data — and watched their faces.
 
-Taylor's voice was low, almost apologetic. "It's not that simple."
+His supervisor's face did something that was not surprise.
 
-"Isn't it?" Sam snapped. "They hold all the cards, and we're just supposed to
-wait until they decide to deal?"
+The man next to his supervisor — introduced as a representative from Alpha's executive division, whose name Ray did not catch — had no expression at all, which was its own kind of expression.
 
-The room fell silent, the weight of the unspoken truth settling over them. Alpha
-Corp controlled the future, and without them, the Federation ran out of options.
+"Where did you run the initial test?" his supervisor asked.
 
---- --- ---
+Ray told him.
 
-Back in his apartment, Ray sat at his kitchen table, staring at the stolen fuel
-cell. The crystals inside glowed faintly, a promise of power just out of reach.
-He knew what he had to do. He couldn't let this go or let Alpha bury his
-work.
+The room went quiet in a specific way.
 
-He would go underground and find a way to continue his research outside their
-control. He knew the risks, knew he was playing with fire, but he also knew that
-if he could crack this, he could change everything.
+He was fired that afternoon. Not for taking the sample — the sample was not mentioned. He was fired for, as the paperwork stated, a failure to adhere to research protocols and the unauthorized dissemination of proprietary findings. He was told, in language that was careful without being explicit, that the research he had conducted was the property of Alpha Corporation and that any further discussion of his findings — internally, externally, in any medium — would be treated as a breach of his existing non-disclosure agreement and prosecuted accordingly.
 
-Ray took a deep breath, the decision settling like a stone in his gut. There was
-no turning back now. He had to see this through and find a way to get this
-information into the right hands.
+He was escorted to his desk and given a box.
+
+He walked home.
+
+He was still carrying the box when Red and Squirrel knocked on his door.
 
 ─────────────────────────────────────────────────────────────────────
 
@@ -251,97 +153,11 @@ Petyr nodded. He wrote something small on the edge of his nav
 panel — the same private script Loa used on her forearm. Kate
 didn't read it. Some things were for the person writing them.
 
----
-
-Ray worked at Alpha's materials research division for three years before he understood what they were actually working on.
-
-The official designation was Dark Matter Stabilization. The actual designation, which nobody used in writing, was: they had something they couldn't explain and were trying to make it useful before someone else did.
-
-The something was Dark X. It arrived at the facility in sealed magnetic containers, two kilograms at a time, from a processing site that wasn't on any map Ray had been shown. It was black-gray, granular, slightly iridescent in direct light. It behaved like no material he'd worked with — it responded to magnetic field variations the way iron shavings respond to a magnet, except the responses were unpredictable, and the field gradients required were precise to a degree that made the testing equipment protest.
-
-Alpha wanted it stable.
-
-Dark X in its raw form held together for eleven days. After that it degraded — not catastrophically, just gradually, losing its structure, reverting to something that tested as a complex carbon compound with anomalous isotopic ratios. Eleven days was the window. Alpha had been trying for four years to extend it.
-
-Ray's job was the stabilization matrix. He ran the salts, the additives, the magnetic curing protocols. He ran them carefully, methodically, the way he'd been trained. He documented everything. He ate lunch at his desk. He was, as his supervisor noted in his last review, thorough.
-
-He was also, by the time the Polaris disaster cleared the news cycle, bored.
-
-The Polaris had not made the crisis better. Three hundred and sixty-nine people and one research vessel — the only large-scale non-corporate DarkX extraction attempt in Federation history. What remained was a narrative: that DarkX was volatile, that its handling required institutional oversight, that Alpha Corp's measured approach was the only responsible path forward. The narrative had served the people who needed it to.
-
-His colleagues called him Ray. It had started as a joke about his last name and had never quite stopped being one.
-
----
-
-He took a sample home on a Tuesday. This was not authorized. It was also not, in his assessment, particularly dangerous — the container was sealed, the quantity was small (thirty grams), and he had a specific idea he wanted to test that required more time than the lab schedule allowed. He put the container in his bag between his lunch box and his headphones, walked through security, and went home.
-
-His apartment ran on a residential fuel cell array. Most did. The cells were stacked in a utility closet off the kitchen, four of them, standard civilian grade, the kind that got replaced every three years whether they needed it or not.
-
-He set the container on the kitchen table. He made coffee. He opened his laptop.
-
-The container was labeled with a red stripe and a lot of numbers. He'd labeled it himself that morning.
-
-He left it on the table overnight.
-
-In the morning, he felt it before he could name it.
-
-Not sound. Not heat, exactly — something closer to the sensation of a radio scanning through static, searching for a frequency just out of range. A low resonance below the threshold of hearing, the feeling of a node reaching toward a network that wasn't quite in phase yet. He had been asleep. It woke him. He lay still for a moment, identifying it the way you identify something you've never felt before but somehow recognize, then got up.
-
-The container on the table was warm. He picked it up — warmer than the room, warmer than it should have been. But the warmth wasn't the signal.
-
-He opened the utility closet.
-
-The fuel cell array's status panel — which he had never looked at in three years of living there because it never changed — was reading a charge level he'd never seen on a residential unit. Not a malfunction. Not an error. A charge level. The kind that residential fuel cells did not achieve.
-
-He stood in the kitchen and listened to the resonance, which was still there — the Dark X in the container and the fuel cells in the closet doing something together at a frequency he could feel in his sternum and couldn't hear with his ears.
-
-Eleven days later, the feeling stopped.
-
-The panel read steady. The cells were quiet. Something had completed. He understood this later — the eleven-day sync period, the time a newly assembled fuel cell required to align its internal architecture to the Dark X frequency before it could output power. He had felt the process happen in a kitchen in the middle of the night, without instruments, without authorization, without any preparation except having been bored enough to take something home.
-
-He got a notepad and started writing down what he was going to need.
-
----
-
-He worked for thirty-three days.
-
-He didn't call it that at the time — thirty-three days — but that was what it was. He ordered equipment through his personal accounts in small enough quantities that none of the invoices looked like a materials research project. He locked the fuel cells together. He documented the result. He ran it again. He verified the charge levels. He charted the crystal growth on the inside of the cell casings — thin at first, then accelerating, unmistakably the same isotopic signature as the Dark X he'd started with, and growing at a rate ten times faster than any unlocked cell produced.
-
-The fuel cell was producing new dark matter. Not outside — inside. The crystals were growing in the locked space between the cells, accumulating in the dark interior of the casing at a rate that had no precedent in any stabilization model he'd ever run.
-
-Not a lot. Not quickly. But ten times faster than it should have been, at a rate that, if it held, would compound.
-
-He stared at the chart for a long time.
-
-Then he went into the lab the next morning and told his supervisor he needed time on the main testbed.
-
----
-
-He walked them through it in the order he'd discovered it. The eleven-day sync. The thirty-three-day lock — the point where the internal crystal growth jumped to ten times the unlocked rate and held there. The charge output. The darker matter accumulating inside the locked casings. He had photographs. He had numbers. He showed them the numbers in the clear, careful way he'd always showed them things — the same way he'd presented three years of stabilization data — and watched their faces.
-
-His supervisor's face did something that was not surprise.
-
-The man next to his supervisor — introduced as a representative from Alpha's executive division, whose name Ray did not catch — had no expression at all, which was its own kind of expression.
-
-"Where did you run the initial test?" his supervisor asked.
-
-Ray told him.
-
-The room went quiet in a specific way.
-
-He was fired that afternoon. Not for taking the sample — the sample was not mentioned. He was fired for, as the paperwork stated, a failure to adhere to research protocols and the unauthorized dissemination of proprietary findings. He was told, in language that was careful without being explicit, that the research he had conducted was the property of Alpha Corporation and that any further discussion of his findings — internally, externally, in any medium — would be treated as a breach of his existing non-disclosure agreement and prosecuted accordingly.
-
-He was escorted to his desk and given a box.
-
-He walked home.
-
-He was still carrying the box when Red and Squirrel knocked on his door.
-
 ─────────────────────────────────────────────────────────────────────
 
-MERIDIAN VIII — PANAMA AND HOUSTON, SAME WEEK
+MERIDIAN VIII — PANAMA AND THE DRIVE
 
-On the day Ray Vision walked out of Alpha's Panama tower with a
+On the day Max "Ray" Vision walked out of Alpha's Panama tower with a
 drive in his coat and six blocks between him and the park, Kate
 was running a signal sweep and eating a very good blood orange
 someone had included in the last supply rotation, and she was
@@ -355,7 +171,7 @@ Kate did not know who made these decisions. She had never asked.
 
 This was unusual enough that she mentioned it to Loa.
 
-"Ray Vision just walked out," she said.
+"Ray just walked out," she said.
 
 "Already?"
 
@@ -399,9 +215,8 @@ are connected somewhere upstream."
 
 Kate looked up.
 
-"Ray is out. Emily is in Houston. Same week." She gestured at
-her panel, where Houston's Space Command facility was logged
-as a monitoring point. "The network moves all at once or it
+"Ray is out. Emily is moving east. Same week." She gestured at
+her panel. "The network moves all at once or it
 doesn't move."
 
 "It's moving," Kate said.
@@ -410,21 +225,15 @@ On the wall: the droplet. Gunmetal on gray. Sharon's.
 
 ---
 
-Ray ran his dry fingertips along the rough edges of his weathered oak table,
-feeling the familiar grit beneath his skin. The surface, scarred from years of
-restless nights and unanswered questions, was as uneven as his thoughts. A
-single light hung overhead, casting sharp, unforgiving shadows that made the
-room feel even smaller than it was. The faint hum of the lamp above him was the
-only sound — its flicker a reminder that nothing around him was as stable as it
-seemed.
+Ray's apartment had gotten smaller since the firing. The oak table, scarred from
+years of restless nights, held the fuel cell under a blanket and not much else.
+A single light hung overhead. The faint hum of the lamp was the only sound.
 
-In front of him, the stolen fuel cell gleamed dully under the light's hesitant
-glow. It was untouched since the day he'd left Alpha — abandoned, like
-everything else. Ray stared at it, half-expecting it to give him answers, though
-he knew better by now. The thought of selling it tugged at him, a practical
-solution for the bills piling up on the kitchen counter. The black market would
-pay a good price. But the longer he looked at it, the more something twisted in
-his gut — a strange cocktail of anger and, worse, hope.
+In front of him, the stolen fuel cell gleamed dully under the light. He stared
+at it, half-expecting it to give him answers. The thought of selling it tugged at
+him — the black market would pay a good price. But the longer he looked at it,
+the more something twisted in his gut — a strange cocktail of anger and, worse,
+hope.
 
 He hadn't realized how small his apartment had become until the two people
 stepped inside.
@@ -487,12 +296,16 @@ it was convenient. The negative pressure, the nitrogen atmosphere — I thought 
 was just a stable environment. I wasn't trying to trigger a reaction. I was
 trying to avoid paperwork."
 
-"And what you got," Squirrel said, "was a reaction that their entire R&D division
-has been unable to reproduce reliably in two years of trying. Because they
-started from the output side. They're backward-engineering a process they don't
-have the right mental model for."
+"And that's exactly why they can't reproduce it," Squirrel said. "Alpha's
+standard containment runs nitrogen. Open cycle — nitrogen atmosphere, no seal
+modification. Every lab in the program. Every researcher who ever handled Darker
+Matter crystals ran the same protocol." He looked at Red, then back at Ray. "Nobody sealed a cell under negative pressure. It wasn't in any protocol."
 
-He paused. "Alpha's standard containment runs nitrogen. Open cycle — nitrogen atmosphere, no seal modification. Every lab in the program. Every researcher who ever handled Darker Matter crystals ran the same protocol." He looked at Red. "Nobody sealed a cell under negative pressure. It wasn't in any protocol. You added it as a shortcut because you were trying to avoid a walk across campus. That single variable — the seal — is why they have been failing for two years trying to reproduce what you found in a locker on a Tuesday."
+"I added it as a shortcut," Ray said.
+
+"You added it because you were trying to avoid a walk across campus. That single
+variable — the seal — is why they've been failing for two years trying to
+reproduce what you found in a locker on a Tuesday."
 
 Ray pulled the blanket away from the fuel cell. He hadn't meant to do it — his
 hands made the decision before his head caught up. The cell sat on the table,
