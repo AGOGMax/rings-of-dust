@@ -667,7 +667,7 @@ vessel had disengaged from the docking collar and begun its departure on a
 course that did not require communication. Gracie tracked it until it left
 scanner range.
 
-Sam handled the FEDHEX5555 disposition. She sent a three-line transmission to the Meridian, and Kate relayed it to a Collective outpost on the Callisto corridor. The vessel that had carried Sharon's body to Saturn and shadowed the Golden Dawn for fourteen months was repurposed — stripped of Alpha's surveillance architecture, refitted for cargo, and assigned to the Collective's hauling fleet. The ship that had been built to steal everything was going to spend the rest of its operational life delivering supplies. Sam did not find this ironic. She found it efficient.
+Sam handled the FED-HEX-5555 disposition. She sent a three-line transmission to the Meridian, and Kate relayed it to a Collective outpost on the Callisto corridor. The vessel that had carried Sharon's body to Saturn and shadowed the Golden Dawn for fourteen months was repurposed — stripped of Alpha's surveillance architecture, refitted for cargo, and assigned to the Collective's hauling fleet. The ship that had been built to steal everything was going to spend the rest of its operational life delivering supplies. Sam did not find this ironic. She found it efficient.
 
 Cole sent the full incident report to DeMint and to the relay address Emily had
 given him when they'd spoken, which Gracie confirmed went through a Collective

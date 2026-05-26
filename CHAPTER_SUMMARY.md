@@ -375,7 +375,7 @@ lever, crossing the bay on three limbs to cry in Cole's lap.
 **File:** `TTS_Ready/Ch21_The_Boarding.txt`
 
 Taylor Glenn confined to quarters — and not apologizing. The full Hexo docking
-tube scene: FEDHEX5555 draws alongside; the bionic Sharon figure comes through
+tube scene: FED-HEX-5555 draws alongside; the bionic Sharon figure comes through
 the docking tube alone. Full abduction backstory from Dr. Bruce Hexo: taken from
 his apartment at three in the morning, bag over his head, woke aboard
 FED-HEX-5555 with her body on a table. Before the visor goes up, something
@@ -385,7 +385,7 @@ her unaugmented left face, Conrad's nanoparticles transferring. Gracie enters th
 architecture. The bronze ring goes dark. Bitboy's code revealed as Sharon's
 template: the Federation EM Cyber base code was adapted by Alpha as the template
 for her conditioning architecture. Hexo puts the copper-wire ring in Cole's hand.
-Taylor's escape shuttle sealed by Gracie before he can reach it. FEDHEX5555 sent
+Taylor's escape shuttle sealed by Gracie before he can reach it. FED-HEX-5555 sent
 to Collective outpost.
 
 ---
