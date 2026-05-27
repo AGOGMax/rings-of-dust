@@ -43,10 +43,10 @@ been in contact with whoever ordered it. Subitem C: Taylor was, at this moment,
 sitting at his console two decks up, doing his job to mission spec, doing the
 small clean version of his job a man like him did to keep his cover. Subitem D:
 Taylor had to live through Saturn. Whatever came after, Saturn went first. The
-mission went first. Cole had spent thirty years not letting personal weather
+mission went first. Cole had spent fifteen years not letting personal weather
 sink a mission and he was not going to start now.
 
-Four. The shadow. Whatever had been following them since the inner belt crossing — no confirmed contact, Gracie hadn't flagged a registry, but Cole had felt the mass displacement in the long-range passive sensor data and understood what it meant. Saturn's approach ring was a closing window. Any vessel running an intercept had to commit or turn back once they were inside the harvest corridor. He had twenty-six hours. After that, the window decided itself.
+Four. The shadow. Whatever had been following them since the inner belt crossing — no confirmed contact, iRIS hadn't flagged a registry, but Cole had felt the mass displacement in the long-range passive sensor data and understood what it meant. Saturn's approach ring was a closing window. Any vessel running an intercept had to commit or turn back once they were inside the harvest corridor. He had twenty-six hours. After that, the window decided itself.
 
 He turned the ring once more, set it in the breast pocket of his jumpsuit, and
 buttoned the flap down.
@@ -69,7 +69,7 @@ Bitboy did not go back to sleep. Bitboy never went back to sleep when Cole was
 sitting like that.
 
 Cole let his hand fall to the chimp's head and rested it there. Bitboy's
-blue-stained mouth " still faintly purple from the blackberry preserves at the
+blue-stained mouth — still faintly purple from the blackberry preserves at the
 cabin, six weeks ago and a galaxy back " turned and pressed into Cole's wrist.
 
 "Yeah," Cole said. "I know."
@@ -90,7 +90,7 @@ week.
 He had been sitting on the porch with a quarter-bottle of bourbon and a wool
 blanket and Bitboy in a hoodie that was much too big for him, watching the
 valley fill up with the blue end-of-day light that you only got at altitude. The
-pines made the noise pines made " the steady whispered argument of a forest that
+pines made the noise pines made — the steady whispered argument of a forest that
 had been having the same conversation for two centuries. The smoke from the
 chimney was a slow column against the sky. The cabin was warm at his back. He
 had been three years out of the Federation by then, on what his discharge papers
@@ -99,7 +99,7 @@ called Indefinite Personal Leave and what he called the rest of his life.
 The drone passed at six twelve.
 
 He knew it was six twelve because he had glanced at his watch when he heard the
-rotor sound. The drone made the wrong kind of rotor sound " not commercial, not
+rotor sound. The drone made the wrong kind of rotor sound — not commercial, not
 park service, not the thin reedy whine of one of the surveillance birds the
 local sheriff used for the meth-cook hollers " and Cole had spent enough time in
 the Federation to know what the sound was. The drone was Federation. The drone
@@ -114,7 +114,7 @@ drink. He had told himself he was going to go inside in a minute.
 
 The knock came at six forty-one.
 
-It was not the knock of a person who knew the cabin. The cabin had a flag "
+It was not the knock of a person who knew the cabin. The cabin had a flag —
 Sharon had hung it the second visit, a small piece of yellow ribbon nailed to
 the porch column, *I am not the law*, she'd said when he'd asked, and he hadn't
 asked again " and the people who knew the cabin tapped the column twice before
@@ -128,7 +128,7 @@ Sharon had been on the other side of the door.
 
 She had been bleeding through the sleeve of her field jacket from a place above
 her left elbow and her hair had been wet from the snow and she had been holding
-up another person " a man, slumped, eyes closed, with a tactical kit
+up another person — a man, slumped, eyes closed, with a tactical kit
 half-unbuckled and a Collective droplet sigil sewn inside the collar of his
 jacket where the Federation could miss it.
 
@@ -225,7 +225,7 @@ and back at him.
 took the long switchback. The long switchback hits four cabins before it hits
 this one."
 
-She had absorbed this. She had absorbed it the way she absorbed everything "
+She had absorbed this. She had absorbed it the way she absorbed everything —
 quickly, without performance, with the part of her that had always known she was
 going to need the information she'd just been given.
 
@@ -278,7 +278,7 @@ cleaned it and stitched it and bandaged it. He had used six-pound test from his
 fishing tackle for the suture, because the right thread was in a kit he didn't
 keep in this cabin anymore, and six-pound test held knots and didn't react with
 skin, and a stitch was a stitch. She had not made a sound when the needle went
-in. She had watched him work. He had felt her watching him.
+in. She had talked him through the sutures — steady, specific, the instructions of a woman who had finished medical school and walked away from it on purpose. She had the training. She had chosen not to use it the way they intended. That was who Sharon was: qualified for the room she had left and more useful in the room she had chosen. She had watched him work. He had felt her watching him.
 
 When he was done he had washed his hands in the same sink she had washed hers
 in. He had not turned around.
@@ -340,16 +340,14 @@ She had set the three crystals one at a time into Cole's open palm.
 
 His palm had taken in the weight of them. They had been warmer than the room and
 colder than they should have been, and they had hummed against his skin in a way
-that he would later " much later, in a cargo bay at Saturn with his helmet seal
-exhaling " recognize as the thing the substance did when it noticed you. He had
+that he would later — much later, in a cargo bay at Saturn with his helmet seal
+exhaling — recognize as the thing the substance did when it noticed you. He had
 not known that, then. He had only known that he was holding three illegal
 objects and that the woman who had handed them to him was watching him with the
 expression a person made when they were about to trust him with something he
 could not give back.
 
 "Welcome to the Collective, Captain," she had said.
-
-She had talked him through the sutures — steady, specific, the instructions of a woman who had finished medical school and walked away from it on purpose. She had the training. She had chosen not to use it the way they intended. That was who Sharon was: qualified for the room she had left and more useful in the room she had chosen.
 
 He had looked at her. He had looked at the crystals.
 
@@ -527,7 +525,7 @@ Cole said, "Is she compromised."
 
 "But she's doing things Alpha wouldn't do. Three hours ago she ran a diagnostic
 on the ethanol cell in Bitboy. There's no spec for that. Bitboy is not an asset
-she's supposed to monitor. She just " looked. And then she put the result in a
+she's supposed to monitor. She just — looked. And then she put the result in a
 non-priority log file and walked away from it."
 
 "Walked away."
@@ -572,12 +570,12 @@ and the rings came up edge-on.
 Edge-on, Saturn was a cold pearl with a knife laid across its belt.
 
 The knife was the rings. It was not a thin line. It was, at this distance, a
-strip " a cold, faintly luminous strip the color of bone in moonlight, threaded
+strip — a cold, faintly luminous strip the color of bone in moonlight, threaded
 through with the small mathematical irregularities that were the Cassini gaps
 and the Encke gap and all the smaller divisions a person did not learn the names
 of unless they had been studying for this approach for two years. Around the
 knife there was a glow. It was not a light. It was the way air glowed near a
-streetlamp on a humid night " a quality of suspension. It was the dust. The
+streetlamp on a humid night — a quality of suspension. It was the dust. The
 rings were dust. Twenty thousand kilometers of dust held in a plane, held in a
 plane by Saturn itself, held in a plane for four billion years by the gentlest
 patient gravity in the solar system. Cole understood, looking at it, why the
@@ -591,7 +589,7 @@ a hum, the way an animal made when it recognized something it had not been told
 about. Cole had read in the Federation file that the EM Cyber project had used
 trace amounts of Federation-grade nanopowder in Bitboy's neural mesh, the same
 lineage of nanopowder that ran in IRiS's substrate, and Cole understood the file
-in the way he understood any redacted file " he understood that it had said less
+in the way he understood any redacted file — he understood that it had said less
 than it knew. Bitboy was looking at the rings the way a man looked at a thing he
 had been told about by his grandfather.
 
@@ -633,13 +631,13 @@ states. She had the mass tonight.
 
 "Yes, IRiS."
 
-"Are you " are you well."
+"Are you — are you well."
 
 He stood very still.
 
 He thought about how to answer that. He thought about the fact that IRiS had
 never asked him a question that was not about the operation of the ship, and he
-thought about Sam's voice in the galley two hours ago " *she put the result in a
+thought about Sam's voice in the galley two hours ago — *she put the result in a
 non-priority log file and walked away from it* " and he thought about Bitboy's
 hum at his shoulder and the small grey weight of the copper-wire ring against
 his ribs.
@@ -720,5 +718,3 @@ mechanical exhale that was the only sound in the bay.
 The bay lights cycled to red.
 
 The harvesters were waiting.
-
-[end of chapter]
