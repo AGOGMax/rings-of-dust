@@ -4,7 +4,7 @@ Chapter Ten
 
 The Colony
 
-She found the colony by accident, the way most people found it.
+She found the colony by accident. Nobody found it on purpose, except Tyler.
 
 The transponder signal was on a frequency she didn't recognize — not in any registry she'd filed with, not on the standard Federation band, not on the miner's auxiliary band she checked when she was past the main belt. She'd picked it up three days out from Titan on a routing she'd taken because it was shorter and she was low on time and not yet low on fuel, which turned out to be the first wrong decision in a series of wrong decisions. By the time the signal resolved into something intelligible, she was low on both.
 
@@ -90,7 +90,9 @@ He looked at the dry vein in the wall.
 
 "Elsa had a set of teachings with her. Old world — from a woman in the Von Grutzen Order whose records she'd carried since before they left. The core law: do what thou wilt shall be the whole of the Law. Which doesn't mean what it sounds like. It means: find the single irreducible purpose your existence is here to serve and pursue it without allowing anything to veer you from it." He paused. "And a ritual at the center of that practice — Liber Samekh. The invocation of your own highest self. Your truest purpose made conscious and speakable."
 
-She waited.
+She waited. The cave air was cold against her arms. She could feel the shape
+of the dry vein in the wall the way you feel a river through the ground it
+carved.
 
 "She fasted for three days first. Cold water, nothing in the body that wasn't essential. You're trying to remove the noise so you can hear the signal." He looked at the cave floor. "She came down here and practiced the ritual in the dark. Standing with her arms outstretched in the posture the practice requires. Vibrating the names." He was quiet for a moment. "Thee I invoke, the Bornless One. Thee that didst create the Earth and the Heavens. The names go on for a long time. You vibrate them from the chest, not the throat — you feel them in the body more than you hear them. The ritual isn't a petition. It's a declaration. This is what I am. This is what I came here to do. I am still here to do it. Spoken into whatever is listening, until the noise is gone and only the signal is left."
 
@@ -198,7 +200,7 @@ On the second day, a woman named Yun sat with her in the work bay while they ran
 
 "The two groups," Jill said. "The ones who were here before Tyler and the ones who came after."
 
-"Loyalists," Yun said. "Petra's people. They maintain what Elsa built — the science, the cells, the cycle. The 11-day sync. The 33-day lock: cells linked together in a Grid, internal crystal growth at ten times the rate. The 180-day threshold, when the exterior deposits begin." She set down the cable spool. "Elsa mapped all of it. Years of observation, no commercial pressure, just watching. The first cells took forty-five days. She had no liquid nitrogen — only the cold the asteroid itself provided, the deep cold of a rock that had not been near a star in an era anyone could calculate. The DarkX responded to that cold. Slowly. Forty-five days for each cycle to complete, each one Elsa's alone, each one a full asteroid rotation of patience. It was not until decades later that anyone understood what the extreme cold was doing — and that liquid nitrogen could replicate it in eleven days." A pause. "Then Tyler arrived with a different question."
+"Loyalists," Yun said. "Petra's people. They maintain what Elsa built — the science, the cells, the cycle." She set down the cable spool. "Elsa mapped all of it. Years of observation, no commercial pressure, just watching. The first cells took forty-five days — she had no liquid nitrogen, only the cold the asteroid itself provided. The deep cold of a rock that had not been near a star in an era anyone could calculate. The DarkX responded to that cold. Forty-five days for each cycle to complete, each one Elsa's alone, each one a full asteroid rotation of patience. Then she found that the extreme cold — the near-absolute-zero of the night phase, when the rotation carried the preparation room into the dark — cut the cycle to eleven days. The asteroid's own cold did what liquid nitrogen would do decades later in a laboratory." A pause. "Then Tyler arrived with a different question."
 
 "Which question."
 
@@ -292,9 +294,7 @@ He looked at the void beyond the membrane.
 
 ---
 
-She did not know, leaving, that the woman whose grave was carved into the rock at the end of the main tunnel had a grandson. That he had spent four years looking for something she had left him. That Jill had passed within forty meters of the marker without reading the name carved into it.
-
-Nobody had told her to look.
+Nobody had told her to look at the grave carved into the rock at the end of the main tunnel. She had passed within forty meters of the marker without reading the name.
 
 That was the thing about the colony. You were not a leech if you came in honest — if you ate the food they offered and asked the questions that were yours to ask and left with what they chose to give you. You were something else if you came looking to take without staying long enough to understand what you were taking from.
 
