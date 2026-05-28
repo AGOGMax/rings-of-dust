@@ -151,7 +151,10 @@ Alpha Corp matte-black. No insignia. No rank markings. Visor down.
 
 She stopped at the threshold and said nothing.
 
-Cole looked at her. "You want to start somewhere."
+Something registered in Cole before the room caught up — not a direct smell,
+but something close to it. The air around her carried a quality his body
+recognized before his mind did, the way a room holds a person after they've
+left it.
 
 No answer. The visor stayed down.
 
@@ -162,17 +165,15 @@ deployed — Cole had not put him there, he had simply arrived and stood,
 which was the thing Bitboy did when his threat-assessment protocols had
 flagged something his vocoder couldn't yet express. Now he walked forward
 two paces, stopped, and fixed the figure with the flat amber attention of
-his operational scan. His LED eyes cycled. His threat panel lit.
+his operational scan. His LED eyes cycled. Then he made a sound Cole had
+never heard from him — low, keening, the sound an animal makes when it
+finds something it lost a long time ago.
 
-It read:
-
-**SHE SMELLS LIKE SHARON.**
-
-Ricardo looked at the panel.
+Ricardo looked at Bitboy.
 
 He looked at Cole.
 
-He looked back at the panel.
+He looked back at Bitboy.
 
 "I want it on record," Ricardo said, "that I have no idea how to file
 that in any existing threat category."
@@ -404,9 +405,9 @@ Cole did not move his hand.
 
 He waited.
 
-He had been waiting for thirty-two years, and he did not know it until this
+He had been waiting for twenty years, and he did not know it until this
 moment, and the waiting had turned out to be worth it, and he would have waited
-thirty-two more if that was what it took.
+twenty more if that was what it took.
 
 "Cole."
 
@@ -644,7 +645,7 @@ recently re-learned the edges of her own body.
 She had fourteen items on the post-boarding signal integrity scan —
 standard protocol for any transfer from an unregistered vessel: airlock
 seal verification, biometric logging, active transmitter sweep, medical
-quarantine clearance, FEDHEX registry cross-reference, and eight items
+quarantine clearance, FED-HEX registry cross-reference, and eight items
 below those. She had started the scan when the docking collar engaged.
 She had completed none of them.
 
