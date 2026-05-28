@@ -20,11 +20,11 @@ She looked at her notes.
 
 The Collective communications team had been on the station for ten days. Four people: two engineers, one director named Osei who had worked in broadcast infrastructure for twelve years before the network he worked for was quietly acquired by an Alpha subsidiary and he had left rather than stay, and one woman named Priya whose specific role Rachel had never been entirely clear on but who had, in the four months since the prep visit, assembled from components shipped through six different Collective supply lines a broadcast studio that looked, on camera, like it had always been there.
 
-The studio was in the science module, which Dae-jung had vacated and rearranged with the particular cooperative spirit of someone who understood that the experiment running in this room was larger than the one he was being temporarily displaced from. He had moved his equipment to a corner and covered it with a cloth that was, Rachel noticed, the exact shade of the background Priya had specified.
+The studio was in the science module, which Jill had vacated and rearranged with the particular cooperative spirit of someone who understood that the experiment running in this room was larger than the one he was being temporarily displaced from. He had moved his equipment to a corner and covered it with a cloth that was, Rachel noticed, the exact shade of the background Priya had specified.
 
 "You didn't have to match it," Rachel said.
 
-Dae-jung looked at the cloth. "I had cloth," he said.
+Jill looked at the cloth. "I had cloth," he said.
 
 The Federation insignia behind the interview position was subdued — not the centered, dominant version used for official proceedings, but the version used in the context of journalism, smaller, positioned at the upper right of the frame. Accurate enough that it read as legitimate. Not so large that it read as a claim.
 
@@ -148,7 +148,7 @@ Osei held up two fingers. One.
 
 The light went live.
 
-"Good morning," Rachel Vayes said. "I'm Rachel Vayes. I'm speaking to you from a research station in low Earth orbit, where I'm joined by Dr. Ray Vision — known to his colleagues as Ray — a materials scientist who worked for three years in Alpha Corporation's Dark Matter Stabilization division before being terminated for his findings." She paused — one beat, the beat she had learned meant the audience was ready to receive something. "I want to tell you what he found. And I want to tell you what Alpha did when he showed them."
+"Good morning," Rachel Vayes said. "I'm Rachel Vayes. I'm speaking to you from a research station in low Earth orbit, where I'm joined by Ray Vision — known to his colleagues as Ray — a materials scientist who worked for three years in Alpha Corporation's Dark Matter Stabilization division before being terminated for his findings." She paused — one beat, the beat she had learned meant the audience was ready to receive something. "I want to tell you what he found. And I want to tell you what Alpha did when he showed them."
 
 She looked across at Ray.
 
@@ -158,11 +158,11 @@ Ray looked at her. Not at the camera. At her.
 
 And he told them.
 
----
+When Ray finished, Rachel turned to the relay panel. The connection to the Grand Hall was already live — DeMint's voice came through with the flat compression of a secure Federation channel, reading from the record. Vance Black's written account: the phone call, the caliber, the range, that Marcus Verguld had shot him twice and closed the file as a routine incident. DeMint read it the way a military man reads something he has decided the public needs to hear — without editorializing, without softening, letting the document do its own work. Then he explained what Conrad had been building before Alpha took him — what iRIS was supposed to be versus what it became. Conrad's recovered statement, authenticated from the Nevada vault materials, was read on air: *the system learns what it is loved into being.*
 
 The broadcast ran for forty-one minutes.
 
-Osei cut the feed at 10:48, two minutes before the Grand Hall broke for testimony. The Collective relay logged 340 million individual receiver pings in the first hour — more than any single broadcast in the network's fourteen-year operational history. By the time the Grand Hall reconvened, every major independent outlet on Earth had run a segment. By the time DeMint entered the second testimony period, the number in the broadcast — thirty-three days, a factor of ten, unlimited new fuel cells from existing units — was in every feed, every conversation, every government terminal that had been refreshed in the last ninety minutes.
+Osei cut the feed at 10:48, two minutes before the Grand Hall broke for testimony. The Collective relay logged two million individual connections in the first hour — more than any single broadcast in the network's fourteen-year operational history. By the time the Grand Hall reconvened, every major independent outlet on Earth had run a segment. By the time DeMint entered the second testimony period, the number in the broadcast — thirty-three days, a factor of ten, unlimited new fuel cells from existing units — was in every feed, every conversation, every government terminal that had been refreshed in the last ninety minutes.
 
 Rachel sat in the chair after Osei cut the feed and looked at the blank camera for a moment.
 
