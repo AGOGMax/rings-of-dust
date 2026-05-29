@@ -16,7 +16,11 @@ Not because she believed him. Because she couldn't find where he was wrong.
 
 The woman who had been easiest to talk to was Yun. She had started saving Jill a place at the cable runs, which was the colony's version of friendship.
 
-"You don't think it's strange," Jill said. They were in the work bay, running cable. The Void-Walker installations — the membrane equipment at the east end — required regular maintenance, and everyone rotated through it.
+"You don't think it's strange," Jill said. They were in the work bay, running cable. The Void-Walker installations — the membrane equipment at the east end — required regular maintenance, and everyone rotated through it. The cable was
+heavy-gauge and stiff in the cold — it fought the bends, and Jill's fingers were
+numb at the tips from feeding it through the conduit clips. The membrane
+equipment at the far end hummed at a frequency she could feel in the fillings of
+her back teeth.
 
 "Which part," Yun said.
 
@@ -50,7 +54,17 @@ Tyler took her to the preparation chamber on the fifth afternoon.
 
 It was a room she hadn't seen yet — small, off the main tunnel, lit differently from the rest of the colony. Not surgical-white like the lab spaces. Warmer. The kind of light you associate with things that are meant to be seen slowly.
 
-Four fuel cells were racked along one wall. Not ordinary units — these had been running for more than a hundred and eighty days. Their casings were covered in crystalline growth, exterior deposits from dozens of eleven-day cycles. They were, by any technical measure, extraordinarily valuable.
+Four fuel cells were racked along one wall. Not ordinary units — these had been
+running through cycle after cycle, each one accumulating the rare exterior
+deposits that appeared on the eleventh day of each sync. Their casings were
+crusted with crystalline growth — layers of it, built up over months, the kind
+of yield that made a single cell worth more than anything Jill had ever carried
+in her cargo hold. The crystals caught the amber light and threw it back in
+small fractured specks across the ceiling. The cells hummed together — a low
+concordance that sat in the chest the way the sync resonance had sat in hers on
+the first day. The air near them was faintly warm and smelled like mineral and
+something electrical, like the air before a storm that hasn't decided whether to
+arrive.
 
 Tyler stood beside them the way you stand beside something you're about to part with.
 
@@ -80,7 +94,11 @@ She did not ask why she was being told this. He did not explain.
 
 She asked Petra about the notebooks that evening.
 
-Petra was at her bench, logging the day's readings. She did not look up.
+Petra was at her bench, logging the day's readings. The bench was lit by a single
+adjustable lamp — the kind with a brass neck that someone had bent to exactly the
+right angle years ago and no one had moved since. The pen scratched across the
+page in a rhythm that suggested Petra had been writing these logs long enough
+that her hand no longer consulted her mind about the motion. She did not look up.
 
 "No," she said.
 
@@ -132,4 +150,11 @@ She looked back at her readings.
 
 Jill opened her mouth and then closed it.
 
-She went to her ship. She sat in the dark for a long time.
+She went to her ship. The pilot's seat was cold — the Hound's Tooth had been
+sitting powered-down for five days and the seat leather had taken on the
+temperature of the rock around it. She sat in the dark. The instrument panel was
+off. The only light was the amber glow leaking in through the bay door seal. She
+could hear her own breathing, and beyond it, the faint hum of the colony
+settling into its night cycle, and beyond that, nothing.
+
+She sat there for a long time.
