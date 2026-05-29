@@ -8,11 +8,11 @@ Ray worked at Alpha's materials research division for three years before he unde
 
 The official designation was Dark Matter Stabilization. The actual designation, which nobody used in writing, was: they had something they couldn't explain and were trying to make it useful before someone else did.
 
-The something was Dark X. It arrived at the facility in sealed magnetic containers, two kilograms at a time, from a processing site that wasn't on any map Ray had been shown. It was black-gray, granular, slightly iridescent in direct light. It behaved like no material he'd worked with — it responded to magnetic field variations the way iron shavings respond to a magnet, except the responses were unpredictable, and the field gradients required were precise to a degree that made the testing equipment protest.
+The something was DarkX. It arrived at the facility in sealed magnetic containers, two kilograms at a time, from a processing site that wasn't on any map Ray had been shown. It was black-gray, granular, slightly iridescent in direct light. It behaved like no material he'd worked with — it responded to magnetic field variations the way iron shavings respond to a magnet, except the responses were unpredictable, and the field gradients required were precise to a degree that made the testing equipment protest.
 
 Alpha wanted it stable.
 
-Dark X in its raw form held together for eleven days. After that it degraded — not catastrophically, just gradually, losing its structure, reverting to something that tested as a complex carbon compound with anomalous isotopic ratios. Eleven days was the window. Alpha had been trying for four years to extend it.
+DarkX in its raw form held together for eleven days. After that it degraded — not catastrophically, just gradually, losing its structure, reverting to something that tested as a complex carbon compound with anomalous isotopic ratios. Eleven days was the window. Alpha had been trying for four years to extend it.
 
 Ray's job was the stabilization matrix. He ran the salts, the additives, the magnetic curing protocols. He ran them carefully, methodically, the way he'd been trained. He documented everything. He ate lunch at his desk. He was, as his supervisor noted in his last review, thorough.
 
@@ -44,11 +44,11 @@ He opened the utility closet.
 
 The fuel cell array's status panel — which he had never looked at in three years of living there because it never changed — was reading a charge level he'd never seen on a residential unit. Not a malfunction. Not an error. A charge level. The kind that residential fuel cells did not achieve.
 
-He stood in the kitchen and listened to the resonance, which was still there — the Dark X in the container and the fuel cells in the closet doing something together at a frequency he could feel in his sternum and couldn't hear with his ears.
+He stood in the kitchen and listened to the resonance, which was still there — the DarkX in the container and the fuel cells in the closet doing something together at a frequency he could feel in his sternum and couldn't hear with his ears.
 
 Eleven days later, the feeling stopped.
 
-The panel read steady. The cells were quiet. Something had completed. He understood this later — the eleven-day sync period, the time a newly assembled fuel cell required to align its internal architecture to the Dark X frequency before it could output power. He had felt the process happen in a kitchen in the middle of the night, without instruments, without authorization, without any preparation except having been bored enough to take something home.
+The panel read steady. The cells were quiet. Something had completed. He understood this later — the eleven-day sync period, the time a newly assembled fuel cell required to align its internal architecture to the DarkX frequency before it could output power. He had felt the process happen in a kitchen in the middle of the night, without instruments, without authorization, without any preparation except having been bored enough to take something home.
 
 He got a notepad and started writing down what he was going to need.
 
@@ -56,7 +56,7 @@ He got a notepad and started writing down what he was going to need.
 
 He worked for thirty-three days.
 
-He didn't call it that at the time — thirty-three days — but that was what it was. He ordered equipment through his personal accounts in small enough quantities that none of the invoices looked like a materials research project. He locked the fuel cells together. He documented the result. He ran it again. He verified the charge levels. He charted the crystal growth on the inside of the cell casings — thin at first, then accelerating, unmistakably the same isotopic signature as the Dark X he'd started with, and growing at a rate ten times faster than any unlocked cell produced.
+He didn't call it that at the time — thirty-three days — but that was what it was. He ordered equipment through his personal accounts in small enough quantities that none of the invoices looked like a materials research project. He locked the fuel cells together. He documented the result. He ran it again. He verified the charge levels. He charted the crystal growth on the inside of the cell casings — thin at first, then accelerating, unmistakably the same isotopic signature as the DarkX he'd started with, and growing at a rate ten times faster than any unlocked cell produced.
 
 The fuel cell was producing new dark matter. Not outside — inside. The crystals were growing in the locked space between the cells, accumulating in the dark interior of the casing at a rate that had no precedent in any stabilization model he'd ever run.
 
