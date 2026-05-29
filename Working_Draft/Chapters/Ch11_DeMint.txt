@@ -35,8 +35,7 @@ The containment building hummed through the floor and into Chancellor DeMint's
 bones. He stood at the console, pulling at his beard in jagged rhythms the way
 he did when the numbers weren't adding up.
 
-"Show me again." It was not a request. DeMint stood at the console, one hand on
-the edge of it, the other pulling at his beard. The screen in front of him
+"Show me again." It was not a request. The screen in front of him
 displayed the Golden Dawn's telemetry feed — course, velocity, crew vitals, iRIS
 system status. All green. All nominal.
 
@@ -47,7 +46,7 @@ header and a personal note appended below the mission status request.
 
 *Thank you for returning to a difficult place. Your courage is inspiring.*
 
-He had signed the order himself. Cole Nova, back to Saturn, eleven years
+He had signed the order himself. Cole Nova, back to Saturn, five years
 after the Polaris. There had been no version of the mission that didn't
 require the best living captain of a Saturn run, and Cole was still that,
 regardless of what the cabin years had cost him. DeMint had signed the
@@ -103,15 +102,9 @@ relay architecture," DeMint said. "Using Alpha's access keys."
 
 "That's the read," Vance said.
 
-DeMint had also been receiving responses to his own messages — messages he had
-sent to Cole directly through the standard relay. The responses came back
-promptly, correctly formatted, using Cole's authorization codes. But something
-about them was wrong. Not obviously wrong. The tone. The phrasing. Something
-that didn't sound like Cole Nova. DeMint was a military man who had been reading
-comms his entire career. He knew what Cole sounded like. The responses he was
-getting back sounded like someone doing a good impression of a man who wasn't
-worried. That was the thing that had been sitting in his chest for two weeks
-before the telemetry gave him language for it.
+That was the thing that had been sitting in his chest for two weeks — the
+responses sounding like someone doing a good impression of a man who wasn't
+worried — before the telemetry gave him language for it.
 
 "And the crew selection went through Taylor. Who Alpha recommended."
 
@@ -231,8 +224,10 @@ She filed the survey report and went back to the sweep.
 ---
 
 And far away, on the Golden Dawn, Officer Taylor sat at his post in the hour
-after the ship's night cycle began and the crew had dispersed to their quarters.
-The screens blinked back at him, steady and green, the diagnostics returning
+after the ship's night cycle began and the crew had dispersed to their quarters. The bridge ran on standby lighting at
+this hour — blue-white strips along the floor, the console screens the only real
+illumination. The hum of the ship was louder in the quiet, or seemed louder, or
+Taylor had stopped having anyone to talk over it. The screens blinked back at him, steady and green, the diagnostics returning
 exactly what they should return.
 
 He was not watching the diagnostics.
