@@ -121,9 +121,10 @@ them.
 He went to the cargo bay in the early afternoon cycle. The cargo containers with
 the salt compounds and seed minerals needed a visual check — iRIS could have run
 it via sensors, but Cole needed the two minutes of dark and silence and
-mechanical purpose. He moved between the containers, reading the seals,
-listening to the hum of the ship doing what ships do at speed in the cold middle
-of nowhere.
+mechanical purpose. He moved between the containers in the cold — the cargo bay ran a few degrees
+below the rest of the ship, and the chill settled into his joints the way it
+always did, finding the old places first. He read the seals. He listened to the
+hum of the ship doing what ships do at speed.
 
 He finished the check and walked back to the bridge at the same pace he'd
 arrived.
@@ -186,7 +187,8 @@ She had been waiting for the effect to arrive, and she recognized it when it did
 
 Day four. She had been monitoring it since day one — not logging it,
 watching, the way she watched most things. The crew was experiencing it
-differently: Bitboy's threat panel lighting up on nothing, Ricardo talking
+differently: Bitboy going still at nothing, his LED eyes cycling through colors that didn't
+correspond to anything in the room, Ricardo talking
 to himself in the galley in a voice he didn't know she could hear, Cole
 going very still in periods he thought were private. She had started
 calling it the iRIS effect internally, though she suspected it was less
@@ -331,8 +333,7 @@ Ricardo stopped. "What do you mean."
 
 "I mean we were handed a mission brief and a set of objectives and a timeline,
 and those things were assembled by people who had their own objectives and their
-own timelines, and we are on the inside of something we only partly see." She
-was not anxious about it. She was observational. "That's not unusual. Most
+own timelines, and we are on the inside of something we only partly see. That's not unusual. Most
 people are on the inside of something they only partly see. I'm just wondering
 what we're in the middle of, specifically."
 
@@ -386,7 +387,10 @@ tightened. "Something happened today."
 ---
 
 Cole was in the forward crew quarters standing at the narrow porthole with his
-back to the room when Sam knocked on the frame.
+back to the room when Sam knocked on the frame. The room was small enough that
+you couldn't pace it — four steps wall to wall, a bunk he hadn't made, the
+recycled air tasting the same as every other room on the ship except colder
+because the ventilation duct above the bunk had never been calibrated right.
 
 He didn't turn around. "Come in."
 
