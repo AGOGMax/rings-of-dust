@@ -11,7 +11,11 @@ surroundings, screeched and howled, thrashing around in his chair. An attendant
 had a cart ready plane-side, and the corporal hoisted their bags onto it. Cole
 gripped one of the cart handles and dragged it along, with Bitboy clinging to
 his back like a living backpack. Armed guards escorted Cole and Ricardo through
-broad, mirrored doors reflecting the warm, setting sun.
+broad, mirrored doors reflecting the warm, setting sun. The corridor smelled
+like waxed floors and machine oil — the particular chemical cocktail of a
+military facility that had been cleaned by people who cleaned for a living.
+Their footsteps echoed off the polished concrete. Bitboy's screeching bounced
+between the pillars and came back doubled.
 
 Ricardo cracked a smile. "A lot has changed since you took a sabbatical, bud.
 More than just the building."
@@ -44,8 +48,10 @@ bunks. You'll want to take advantage of tonight; we begin at 0430 hours."
 
 DeMint motioned to two young corpsmen, who came to collect Bitboy for kenneling
 and cleaning. Although Cole and Ricardo had managed to hose some of the gore off
-of him, the monkey still personified an entire crime scene. Cole worried about
-parting with Bitboy but was also excited about being alone for a few hours.
+of him, the monkey still personified an entire crime scene. Cole watched Bitboy go. His hand stayed at his side for a beat too long. Then
+he turned toward the empty corridor and let out a breath he hadn't known he was
+holding — the particular relief of a man who hadn't been alone in five years and
+had missed it.
 
 "I'll need you to read and sign these papers," Black said, handing Cole and
 Ricardo a small stack of legal documents.
@@ -187,7 +193,9 @@ opened, and he entered a small briefing room where Ricardo was already seated.
 
 Vance stood at the front. A man in his late 30s with "Taylor Glenn" embroidered
 on his jumpsuit and a deadpan expression sat at a circular table. Next to him
-was a pleasant-looking plump female, also in her 30s, "Drummond," stitched on her name patch. A holographic display of Saturn and its surrounding space
+was a woman in her 30s, "Drummond" stitched on her name patch, sitting with her
+hands flat on the table in the symmetrical arrangement of someone who had been
+ready for a while. A holographic display of Saturn and its surrounding space
 floated in the center console. "Gentlemen, meet your crew for this mission."
 Through a side door, a private led Bitboy into the room.
 
@@ -216,19 +224,17 @@ Cole said nothing. He had been doing the math since the cabin. The date
 in the letter. The number he had made himself remember before he dropped it
 in the waste bin. It checked out here too.
 
-Chancellor DeMint entered the room, his presence commanding immediate attention.
-"Listen up, everyone. This mission is not just about retrieval. It's about
-securing the future of the Federation. We cannot afford any mistakes."
+Chancellor DeMint entered the room. He did not raise his voice.
 
-His voice was a blend of authority and control. "You will follow iRIS's
-instructions to the letter. There is no room for error. Understood?"
+"I signed the order that put you on this ship," he said. "I signed it knowing
+what I was asking. The mission parameters are not negotiable. iRIS runs the
+approach and the systems. You run each other. If something breaks, you fix it or
+you call it." He looked at Cole. "Questions come to me. Not through channels. To
+me. Directly."
 
-"Yes, sir," Cole and Ricardo responded in unison. Sam and Taylor nodded
-obediently.
+"Yes, sir," Cole said.
 
-DeMint's eyes bore into them, ensuring his message was clear. "Good. Now, gear
-up and be ready for launch. This is our one shot, and we cannot afford to miss
-it."
+DeMint held the look a moment longer, then turned to the room. "Gear up."
 
 As they left the briefing room, Cole and Ricardo walked beside their new
 teammates.
@@ -253,7 +259,11 @@ competing with him. This was not, in Sam's assessment, going to be a
 comfort to Taylor. It was going to be the source of every problem they
 would have for the next six months.
 
-"Hey there, looks like we're in good company," he said warmly.
+"Hey there, looks like we're in good company," he said warmly. Cole caught the
+way Ricardo's eyes took her in — not the scan of a man assessing a colleague,
+the scan of a man who had just found the most interesting person in the hallway
+and was trying not to be obvious about it. Ricardo had always had a type, and
+Sam Drummond was exactly it.
 
 A touch of color flashed in Sam's cheeks as she reached out and took Heavy's
 hand. "Samantha Drummond." A short pause. "Sam." Not a question. Not a request.
@@ -302,8 +312,7 @@ stopped. She had seen this before. Some men register a room. Some men
 register a threat. Taylor Glenn had walked into a briefing room and found
 a rival.
 
-She pressed the wrench patch flat with one thumb and closed the
-duffel. She had shared quarters with versions of this man across twelve
+She had shared quarters with versions of this man across twelve
 years of Federation service. They were always excellent at the work and
 excellent at the leverage, committed to both in equal measure. You worked
 around them. You documented everything. You did not give them a reason to
@@ -361,12 +370,12 @@ belied the chaos outside. He surveyed the control panel. Closing his eyes, he
 visualized the forthcoming ordeal, the suit's familiar pressure points, and the
 sequence of actions that would propel them into the unknown.
 
-But as the ship came alive with the hum of startup sequences and the soft
-beeping of system diagnostics, an unwelcome guest invaded Cole's solitude—fear.
-A visceral, gut-wrenching terror that constricted his chest and set his nerves
-on edge. Memories of past failures, the echo of screams, and the searing pain of
-loss flooded back. The cockpit, once a place of control, now felt like a trap
-closing around him, threatening to suffocate him under the weight of his dread.
+The ship came alive — startup sequences humming, system diagnostics beeping
+their small confirmations. His hands were on the console and they were not
+steady. The harness pressed against his chest in the way it always had and his
+breathing was doing the thing it did before a launch — short, shallow, counting
+itself. The Polaris had started exactly like this. Same checklist. Same chair.
+Same view through the viewport of a sky about to become something else.
 
 Ricardo and Bitboy clambered into the cabin. Ricardo strapped himself in while
 Cole helped Bitboy into a seat next to his own.
@@ -442,10 +451,10 @@ casual ease of a man who has done the same thing a hundred times and knows
 exactly what he's looking for. He registered the indicator, pocketed the device,
 and returned his attention to the console without breaking sentence.
 
-Sam was relaxed at her console, surrounded by a nest of monitors. Her eyes
-sparkled with intelligence, and she had an air of confidence that put Cole at
-ease. Her lighthearted approach balanced the situation's intensity, making the
-grueling preparations more bearable.
+Sam was already two screens deep in a diagnostic Cole hadn't asked her to run.
+She worked the way people work when they've stopped needing to prove they belong
+in the room — unhurried, precise, occasionally humming something under her
+breath that Ricardo had started humming back.
 
 For ninety seconds while Cole and Taylor talked, Sam's hands moved through a
 sequence on her secondary panel that looked from behind like standard diagnostic
@@ -616,19 +625,16 @@ below.
 "The entire thing was pretty forgettable, to be honest," Sharon replied.
 
 At the bottom of the stairs, a white Range Rover with government plates waited
-for them. Greenbaum swung open the back door with a gesture that seemed more
-obligatory than courteous, signaling the transition from a semblance of freedom
-to a more constrained reality. Emily and Sharon, hesitantly stepping into the
-vehicle's plush interior, found themselves enveloped in the sterile atmosphere,
-contrasting sharply with the vibrant chaos of the city outside.
+for them. Greenbaum swung open the back door. Emily and Sharon got in. The interior
+smelled like new leather and something chemical — the air freshener working too
+hard against whatever the car usually smelled like.
 
 "Interesting," Greenbaum remarked. "Can't say I feel the same."
 
 Once inside, Greenbaum selected a preset location on the central display, and
-the car propelled itself forward into traffic. Despite the churn of her stomach,
-Emily maintained a facade of indifference; her smile was a mask to disguise the
-unease knotting her insides. She brushed her hair out of her eyes with a coy
-smile.
+the car propelled itself forward into traffic. Emily's stomach was doing something she didn't have time for. She kept her face
+still. She brushed her hair out of her eyes with a smile that cost her more than
+it showed.
 
 "I'm really sorry. We were just having fun, and..."
 
@@ -691,16 +697,11 @@ firearm under his armpit, the metal glinting ominously in the dim light.
 Recognizing the imminent threat, Sharon met Greenbaum's gaze, her expression a
 blend of defiance and calculated calm.
 
-Engulfed in fear and disbelief, Sharon struggled to suppress the scream welling
-up within her. The tension encircled each occupant of the car tightly. Suddenly,
-Sharon flung the car door open and leaped from her seat, compelling Emily to
-follow with a look that brooked no hesitation. Propelled by adrenaline, Emily
-mirrored Sharon's actions, their feet hitting the gritty pavement. They stood
-up, momentarily disoriented by their sudden shift from the car's confines to the
-vast, danger-filled openness. Greenbaum, cursing under his breath, clambered out
-of the vehicle. His previously composed movements were now hurried and awkward,
-the gun in his grasp now pointed threateningly at Sharon as he rounded the car,
-his expression contorting in rage and desperation.
+Sharon's hand found the door handle. She did not look at Greenbaum. She looked
+at Emily — one look, the kind that meant *now* — and flung the car door open.
+Emily followed. Their feet hit the gritty pavement. Greenbaum cursed and
+clambered out after them, the gun in his hand now, his composure cracking at
+the edges.
 
 Sharon squared off against Greenbaum. Her posture implied a grim acceptance.
 With her heart pounding, Emily watched in frozen terror, frantically searching
@@ -708,7 +709,9 @@ for a solution that stayed out of reach.
 
 In the stretched-thin silence, a sharp crack split the night — not from
 Greenbaum's gun, but from the far edge of the lot. Alpha Corp's Watch Dogs — the muscle running surveillance on the drop — opened fire. Greenbaum's body pitched
-forward, throat burst, weapon discharging in a wild arc as he fell. Emily's gaze
+forward, throat burst, weapon discharging in a wild arc as he fell. The sound
+was still ringing — not fading, just flattening, the way a gunshot in an open
+space spreads instead of echoes. The air tasted like burnt metal. Emily's gaze
 found Sharon in the same instant. Sharon was down.
 
 The van that had looked dead lurched to life. The side door opened before it
@@ -830,11 +833,12 @@ Rachel nodded.
 as she started toward the door. "I'm in the next room. If you need anything at
 all, knock on the wall, and I will come right over."
 
-As Rachel stepped out to leave Emily to her thoughts, her heart and mind felt at
-peace. A moment of clarity only accessible in isolation. She desperately wanted
-to tell Sharon what had happened and to talk to Cole. Looking around at the
-darkened corners of the room, she could see only Sharon's blood pooling on the
-dirty ground with the stars reflected in its glossy, crimson brilliance.
+Rachel stepped out. The room was quiet in a way that had nothing to do with the
+room. Emily wanted to call Cole. She wanted to tell Sharon what had happened,
+and the wanting hit the wall of the fact that Sharon wasn't there to tell, and
+she sat with that for a long time. When she closed her eyes she saw the lot —
+the concrete, the dark stain spreading, the stars reflected in it, cold and far
+away.
 
 ─────────────────────────────────────────────────────────────────────
 
@@ -863,8 +867,8 @@ more than the situation."
 Petyr had started a running log on his personal tablet. He called
 it Mineral Survey Notes, which was technically accurate since they
 were on a mineral survey vessel. Nobody had told him to do this.
-Nobody had told him not to. He wrote: *E. Nova confirmed Houston
-trajectory. Sommi walking distance. Clear passage expected.* Then
+Nobody had told him not to. He wrote: *E. Nova confirmed eastbound.
+Sommi walking distance. Clear passage expected.* Then
 he wrote: *She pulled over for Sommi instead of driving away. She
 figured out he was friendly before she had reason to know. I
 don't know what rank that is.*
