@@ -47,8 +47,9 @@ has to hold it." He tells them about the Lynx — Cole cut through a hull
 with a plasma torch and dragged three researchers out with seventeen seconds
 to spare. "Tell him I'm sorry. He won't understand what that means yet. He
 will." Emily notices a dark graphite mark on her palm — pressed into the
-lines of her skin, doesn't smear, doesn't come off. Sharon has the same
-trace on her fingertips. Neither mentions it. Outside the casino: Collective
+lines of her skin, doesn't smear, doesn't come off. Sharon's hands are
+clean — she never touched the figurine. Emily closes her fist around
+the mark and keeps walking. Outside the casino: Collective
 droplet graffiti covers every surface, fresh paint still wet. Greenbaum
 passes them in the corridor — not the man from the elevator. Hardened. The
 humiliation calcified. Emily and Sharon drive through the night with the
@@ -176,8 +177,8 @@ a potted plant on the way out.
 Max examines the laminated badge: MIKOV FORSINKO, his face. Squirrel debriefs
 him in a Marbella safe house above a laundry operation — contractor database live
 six hours ago, backstory clean, two Alpha-adjacent Sao Paulo firms made receptive.
-Red watches the street from the window, the Collective sunglasses patch barely
-visible inside the collar of his jacket. The full mechanics of the undercover
+Red watches the street from the window, her Collective wrench patch barely
+visible inside the collar of her jacket. The full mechanics of the undercover
 operation laid out. Max is about to become someone else, and the chapter is the
 last moment before he does.
 
@@ -245,7 +246,7 @@ approaching 180 days, long-locked. "When you come back, ask me again."
 ### Ch14 — Saturn's Edge
 **File:** `TTS_Ready/Ch14_Saturns_Edge.txt`
 
-Cole sits in the smallest bunk with the copper-wire ring in his open palm.
+Cole sits in the smallest bunk with his hands empty — the ring is with Sharon.
 Saturn's rings outside — cold math now, no longer beautiful. He has just learned
 Sharon is dead; the crying already moved through him in the corridor. How Cole
 and Sharon met: a port of entry, dying Collective agent Cody, Sharon arriving at
@@ -420,8 +421,9 @@ everything. That had always been the problem with men like Taylor Glenn — they
 never asked the right questions." The court-martial threat, the Conrad hypothesis,
 Marcus never standing up. Revolver under the desk. Two shots. Then: Emily enters
 the Boiler Room — Sommi handles Marcus's assistant. The Panama files already out
-to 200,000 people. Marcus's recorded denial included and unconvincing. His last
-message to Cole via Emily. She leaves the door open.
+to 200,000 people. Marcus has already escaped by the time Emily arrives — he calls her
+from an undisclosed location. Cooperates on his own terms. His last
+message to Cole via Emily: "Tell him he was the right choice."
 
 ---
 
@@ -507,10 +509,8 @@ counting Bitboy. Ricardo arrives first because he was the most excited. "Coley
 Coley no-bowley" — callback to the cabin, years-long tradition. Ricardo proposes
 to Sam between frames — moissanite, full ethical sourcing, harder than sapphire.
 She laughs and cries and says yes. Sharon's augmented arm sends the ball at
-devastating velocity; she switches to her left arm: "Calibrating." Sam's
-sunglasses patch revealed — new, sewn in where the wrench had been, gold thread
-on dark fabric, Agent rank. The Collective promoted her for the work she did on
-the Golden Dawn. Cole sets the copper-wire ring on the table. Sharon: "Yes." /
+devastating velocity; she switches to her left arm: "Calibrating." Cole sets
+the copper-wire ring on the table. Sharon: "Yes." /
 "That wasn't a question." / "I know. It still applies." Bitboy destroys a
 vending machine. Parking lot. California night.
 
@@ -565,11 +565,11 @@ implementation without Alpha recapture, Federation cleanup, patents returned to
 public domain, eleven technologies built into something that runs. Rachel arrives
 last — the room adjusts to accommodate the person who assembled it. She asks two
 questions that reframe everything. Near the end: she sets a folded dark patch on
-the counter — sunglasses in white outline thread. "For Sam. She earned it." As
+the counter — sunglasses in gold thread. "For Sam. She earned it." As
 she turns to leave, her coat shifts: the patch visible for one moment. Bronze
 star, olive leaf wreath. The room of twelve understands. Nobody says anything.
 Sharon turns from the window: "It was always in the reaching." She reaches.
 
 ---
 
-*Last updated: 2026-05-25*
+*Last updated: 2026-05-30*
