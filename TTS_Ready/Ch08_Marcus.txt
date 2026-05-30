@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Eight
 
@@ -87,7 +87,7 @@ voice had the quality of a man reading from a list he had memorized a
 long time ago. "What's inside it."
 
 She thought about the hollow base. Conrad's specific instruction, calm
-and level: *it has to reach Cole's hands. He must hold it.* She had
+and level: it has to reach Cole's hands. He must hold it. She had
 thought that was sentiment. She had thought Conrad was being theatrical
 about a trinket.
 
@@ -123,8 +123,8 @@ recognize it."
 
 "I've never seen that in my life."
 
-"No." And she understood he did not mean *I don't believe you.* He meant
-*that's the right answer, and I haven't decided yet if it's the true one.*
+"No." And she understood he did not mean I don't believe you. He meant
+that's the right answer, and I haven't decided yet if it's the true one.
 He was filing it separately from what he thought she knew.
 
 He moved to the window. The clouds moved behind him.
@@ -160,7 +160,7 @@ land yet because there had been too many miles to drive, too many things
 to do, and now she was standing in this room and the grief was still
 waiting and she was still not done.
 
-She thought: *the only way to help him is to get out of this room.*
+She thought: the only way to help him is to get out of this room.
 
 "I don't know what was in the keychain," she said. "I handed it to Cole
 and I drove away. Conrad didn't explain it to me."
@@ -243,7 +243,7 @@ of everything and had very deliberately not paid it.
 
 She got in the taxi.
 
-─────────────────────────────────────────────────────────────────────
+
 
 ALPHA II — FED-HEX-5555
 PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S

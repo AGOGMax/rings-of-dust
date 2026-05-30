@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Fourteen
 
@@ -10,7 +10,7 @@ it.
 He sat on the edge of the mattress with his elbows on his knees and his
 hands empty. The ring was with Sharon. Hummingbird feeder wire bent around a
 smooth pebble — he had pressed it into her hand in the cabin driveway and she
-had closed her fingers around it and said *I will*. He did not know where it
+had closed her fingers around it and said I will. He did not know where it
 was now. He did not know where she was now. Both of those things had the same
 weight.
 
@@ -56,8 +56,8 @@ doing whatever Bitboy's other three limbs did when no one was watching.
 
 "Hey, buddy," Cole said, quiet.
 
-Bitboy made the small interrogative noise that meant *are we doing the thing
-yet*.
+Bitboy made the small interrogative noise that meant are we doing the thing
+yet.
 
 "Not yet," Cole said. "Soon. Go back to sleep."
 
@@ -112,7 +112,7 @@ The knock came at six forty-one.
 
 It was not the knock of a person who knew the cabin. The cabin had a flag —
 Sharon had hung it the second visit, a small piece of yellow ribbon nailed to
-the porch column, *I am not the law*, she'd said when he'd asked, and he hadn't
+the porch column, I am not the law, she'd said when he'd asked, and he hadn't
 asked again — and the people who knew the cabin tapped the column twice before
 they came up the steps. This person had not tapped the column.
 
@@ -185,8 +185,8 @@ face. She had not closed his eyes.
 "She lives in Bakersfield."
 
 He had nodded. There had been nothing to say to that, because in fifteen years
-of the Federation he had learned that the thing you said when someone said *he
-had a wife* was the dead man's name, and you said it again if asked, and that
+of the Federation he had learned that the thing you said when someone said he
+had a wife was the dead man's name, and you said it again if asked, and that
 was all of it.
 
 She had stood up. She had walked to the sink. She had washed her hands without
@@ -217,7 +217,7 @@ and back at him.
 
 "They followed me up the road," she had said.
 
-"Then they followed you to a cabin. They didn't follow you to *this* cabin. You
+"Then they followed you to a cabin. They didn't follow you to this cabin. You
 took the long switchback. The long switchback hits four cabins before it hits
 this one."
 
@@ -266,7 +266,7 @@ They had wrapped the man in the blue tarp from the woodshed. They had carried
 him out the back of the cabin to the root cellar. They had set him down on the
 cold dirt floor next to the pickling jars. Cole had said a thing he could not
 later remember the exact words of, but the shape of the thing he had said was
-*we will get you home, Cody*. They had latched the cellar door. The drone had
+we will get you home, Cody. They had latched the cellar door. The drone had
 not come.
 
 Inside, she had peeled out of the field jacket. Her arm had been bad. He had
@@ -359,7 +359,7 @@ He had not, technically, joined the Collective that night. He had never
 officially joined. He had simply stopped being the law and started being hers,
 and that distinction had carried him for the next four years, and it had carried
 Sharon for the next four years, and it had carried them up to the day he had
-stood on a launchpad in the cold dawn and said *in the pipe, five by five*, and
+stood on a launchpad in the cold dawn and said in the pipe, five by five, and
 Sharon had been in the crowd four miles away with her hair coming out of its
 braid the way it had on the night with Cody, and she had blown him a kiss
 across four miles of distance and a quarter-second of relay delay, and that had
@@ -481,7 +481,7 @@ Sam did not flinch. Ricardo nodded, slow.
 I trust him on that."
 
 Bitboy, on Cole's shoulder, made the small flat noise that was his version of
-*understood*.
+understood.
 
 "And IRiS," Sam said.
 
@@ -490,8 +490,8 @@ Bitboy, on Cole's shoulder, made the small flat noise that was his version of
 "You hear her lately."
 
 He had. He had heard it three nights ago in the sleep cycle, when IRiS had said
-the routine *vitals within range* in the back of his head and the *within* had
-stretched out like a piece of taffy and the *r* had had something underneath it
+the routine vitals within range in the back of his head and the within had
+stretched out like a piece of taffy and the r had had something underneath it
 that was not in the spec for IRiS's voice. He had assumed it had been him. He
 had assumed it had been the second day of grief. Sam was watching him now with
 the expression of a person who had not assumed.
@@ -570,8 +570,8 @@ streetlamp on a humid night — a quality of suspension. It was the dust. The
 rings were dust. Twenty thousand kilometers of dust held in a plane, held in a
 plane by Saturn itself, held in a plane for four billion years by the gentlest
 patient gravity in the solar system. Cole understood, looking at it, why the
-texts always said *rings* when *rings of dust* was the more accurate phrase.
-*Rings* was a thing you wore on a finger. *Rings of dust* was a thing you stood
+texts always said rings when rings of dust was the more accurate phrase.
+Rings was a thing you wore on a finger. Rings of dust was a thing you stood
 in front of and felt the size of yourself.
 
 Bitboy made a sound on Cole's shoulder. It was not a sound Cole had heard
@@ -609,7 +609,7 @@ four hours twenty minutes."
 
 Her voice was in the back of his head where she lived. The cadence was the
 cadence she always used. The pitch was the pitch she always used. There was a
-thing under the *nominal* that should not have been there. A second voice,
+thing under the nominal that should not have been there. A second voice,
 fractionally slower than the first, riding the same word.
 
 "Acknowledged, IRiS."
@@ -628,8 +628,8 @@ He stood very still.
 
 He thought about how to answer that. He thought about the fact that IRiS had
 never asked him a question that was not about the operation of the ship, and he
-thought about Sam's voice in the galley two hours ago — *she put the result in a
-non-priority log file and walked away from it* — and he thought about Bitboy's
+thought about Sam's voice in the galley two hours ago — she put the result in a
+non-priority log file and walked away from it — and he thought about Bitboy's
 hum at his shoulder and the absence of the copper-wire ring against
 his ribs where it should have been and was not.
 
@@ -639,7 +639,7 @@ A pause again. The pause was longer.
 
 "Acknowledged."
 
-She went back to the cadence she had always had. The thing under the *nominal*
+She went back to the cadence she had always had. The thing under the nominal
 did not come back. But Cole had heard it once and once was enough, and he stood
 at the viewport and felt the small new shape of it in the back of his head and
 did not know yet that he had just been spoken to by a thing that was, at that
@@ -661,9 +661,9 @@ She came around the corner. Taylor was at his console. The message was already c
 
 "Routine," Taylor said.
 
-She poured coffee. She drank it standing at the galley counter with her back to him, looking at the viewport, watching Saturn's rings in the distance — still small enough to be abstract, close enough to be real. She thought about the word *routine* and the way Taylor had said it. She had been studying the way Taylor said things for eleven days, and she had learned the difference between Taylor saying something true and Taylor saying something he had prepared. The difference was in the consonants. When he was honest, the words came out slightly softer — not warm, never warm, but undefended. When he was performing, every consonant hit its mark.
+She poured coffee. She drank it standing at the galley counter with her back to him, looking at the viewport, watching Saturn's rings in the distance — still small enough to be abstract, close enough to be real. She thought about the word routine and the way Taylor had said it. She had been studying the way Taylor said things for eleven days, and she had learned the difference between Taylor saying something true and Taylor saying something he had prepared. The difference was in the consonants. When he was honest, the words came out slightly softer — not warm, never warm, but undefended. When he was performing, every consonant hit its mark.
 
-*Routine* had hit its mark.
+Routine had hit its mark.
 
 She filed it. She said nothing. She drank her coffee.
 

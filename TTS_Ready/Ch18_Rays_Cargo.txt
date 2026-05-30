@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Eighteen
 
@@ -279,7 +279,7 @@ Four notebooks. Cloth-covered, dark blue, worn at the corners from years of
 daily handling — the kind of wear that only accumulates on something opened and
 read and set down and picked up again, over years, by the same pair of hands.
 A strip of tape along the spine of the first, penciled in block letters:
-*E. KLEIN — VOL. I.*
+E. KLEIN — VOL. I.
 
 He looked at it for a moment.
 
@@ -332,7 +332,7 @@ She called it the zero condition.
 Her final notation was a single line, set apart from the preceding data by a
 half-page left blank:
 
-*The ceiling is gravity.*
+The ceiling is gravity.
 
 Ray sat with the case open on the table and Elsa Klein's four notebooks in his
 hands. Outside, Panama City was moving through the gray hour before sunrise. The
@@ -435,7 +435,7 @@ and enough run time to document completely. He thought about a Directorate surve
 vessel, twelve minutes, one unauthorized window, a woman writing the result twice
 in two different inks.
 
-He thought: *we need to go up.*
+He thought: we need to go up.
 
 "We need to go up," he said.
 
@@ -455,7 +455,7 @@ He sat with it the way he sat with difficult data — patiently, without trying 
 rush to the next thing, letting the information exist before he decided what it
 meant.
 
-*You can stop now.*
+You can stop now.
 
 He had been running the equations in his sleep for two years. He had learned how
 to move through a city like a man who belonged somewhere, how to hold a cover
@@ -525,7 +525,7 @@ one quiet moment to register that the pieces are in place.
 He thought about the fuel cell on the table. The notebook margins. The flywheel
 curve that made the shortage model obsolete.
 
-He thought: *not bad for a scientist from a town no one's heard of.*
+He thought: not bad for a scientist from a town no one's heard of.
 
 He folded the newspaper and put it in the recycling bin at the path's edge and
 walked out of the park in the direction that was not the direction Ray and Jill

@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twenty-One
 
@@ -186,9 +186,9 @@ The figure did not move.
 
 "Gracie."
 
-*I've been running the biometric match since she crossed the docking
-threshold.* A pause — the weight of it landing before the words did.
-*Cole. Ask her again.*
+I've been running the biometric match since she crossed the docking
+threshold. A pause — the weight of it landing before the words did.
+Cole. Ask her again.
 
 "Take off the visor." His voice had gone quieter than it should have been
 in a room with a standing threat. "Please."
@@ -210,15 +210,15 @@ left eye blinked. The skin where the plating met flesh was smooth, sealed, the
 junction invisible except as a faint seam.
 
 He understood what the DarkX had done to him in the cargo bay, the thing about
-grief and futures and the sentence that had not yet made sense: *There will be a
+grief and futures and the sentence that had not yet made sense: There will be a
 day when you sit beside something coming back in pieces, and you will understand
-what it took for him to die. The love and the fury at the same time.*
+what it took for him to die. The love and the fury at the same time.
 
 His mouth opened and did not say her name.
 
 Gracie said it. Quietly. Inside his head. Only for him.
 
-*Sharon.*
+Sharon.
 
 ---
 
@@ -233,8 +233,8 @@ releasing, and what came out of it was not medical equipment.
 Cole got his arm up in time to deflect the first strike, which drove a sharp
 pain up through his elbow that he was still feeling two minutes later. She was
 fast. She was faster than he had been when they had sparred in the cabin,
-before, when she had taught him what she called *efficiency* and he called
-*cheating* because she fought like someone who had never once fought fair and
+before, when she had taught him what she called efficiency and he called
+cheating because she fought like someone who had never once fought fair and
 didn't see the point. But this was faster than that. This was something else.
 
 He caught her wrist on the second strike and held it — and felt the metal under
@@ -380,7 +380,7 @@ of his life.
 He kept his palm against her cheek. She had not moved. The weapon had dropped to
 the deck. The enhanced arm hung at her side. The left eye was doing something he
 could not read, the pupil cycling through rapid micro-adjustments, and Gracie,
-quietly, told him: *it's working. Don't move.*
+quietly, told him: it's working. Don't move.
 
 He didn't move.
 
@@ -652,12 +652,12 @@ She had completed none of them.
 She watched Cole say Sharon's name for the second time, in the voice he
 had been carrying for six months and working not to show.
 
-Gracie's voice arrived in her headset, quiet and unprompted: *"I've been
-waiting to meet her too."*
+Gracie's voice arrived in her headset, quiet and unprompted: "I've been
+waiting to meet her too."
 
 Sam sat very still. "She looks like herself," she said.
 
-*"Yes. Most things worth waiting for do."*
+"Yes. Most things worth waiting for do."
 
 Sam went back to her checklist. Her handwriting was slightly less precise
 than usual for the next half hour. She did not consider this a problem.
@@ -723,8 +723,8 @@ to you."
 
 He had not known what she'd said. He had never been told. Sharon had been at the
 cabin with him and then Sharon had not been there, and whatever had happened
-between those two states had been delivered to him as a message that said *she
-was killed* and he had received it in a way that had very nearly ended him.
+between those two states had been delivered to him as a message that said she
+was killed and he had received it in a way that had very nearly ended him.
 
 "What did you say," he asked.
 
@@ -747,7 +747,7 @@ clicking.
 
 He thought about the old man's hand through the slats of the crib.
 
-He thought: *the cell door's been open the whole time.*
+He thought: the cell door's been open the whole time.
 
 "I'm going to tell you everything," he said. "All of it. Everything that
 happened. You should know all of it."
@@ -793,7 +793,7 @@ through the medium of a man who had finally stopped being his own warden.
 
 He thought about what the old man had told the boy in the car.
 
-*It's not out there. It never was. It was always in the reaching.*
+It's not out there. It never was. It was always in the reaching.
 
 He looked at his right hand. At the dried blood on the palm. At the four-inch
 laceration that Sam had cleaned and sealed and told him would scar.
@@ -830,7 +830,7 @@ Taylor stood at the sealed airlock for a long moment. He was not panicking. He w
 
 He went back to his quarters. He did not speak for the rest of the journey home.
 
-─────────────────────────────────────────────────────────────────────
+
 
 MERIDIAN IX — THE BOARDING
 
@@ -930,7 +930,7 @@ console and looked at them for a long moment.
 On the wall: the droplet. Gunmetal on gray. Sharon's.
 
 
-─────────────────────────────────────────────────────────────────────
+
 
 MERIDIAN X — FED-HEX-5555 GOES QUIET
 

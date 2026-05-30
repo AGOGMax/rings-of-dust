@@ -1,10 +1,10 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Eleven
 
 DeMint
 
-─────────────────────────────────────────────────────────────────────
+
 
 The relay came through the standard architecture — authenticated,
 timestamped, routed through the iRIS uplink the way every transmission
@@ -29,7 +29,7 @@ Petyr looked at the wall. “Someone is speaking for him.”
 
 Kate did not file the observation. She folded the transcript and kept it.
 
-─────────────────────────────────────────────────────────────────────
+
 
 The containment building hummed through the floor and into Chancellor DeMint's
 bones. He stood at the console, pulling at his beard in jagged rhythms the way
@@ -44,7 +44,7 @@ He had been staring at it for forty minutes because it was wrong.
 The message had arrived the day before with the Federation standard
 header and a personal note appended below the mission status request.
 
-*Thank you for returning to a difficult place. Your courage is inspiring.*
+Thank you for returning to a difficult place. Your courage is inspiring.
 
 He had signed the order himself. Cole Nova, back to Saturn, five years
 after the Polaris. There had been no version of the mission that didn't
@@ -55,15 +55,15 @@ the closest thing to an acknowledgment he could put in writing.
 
 The response had come back in the standard latency window.
 
-*I am honored to be of service in this crucial moment in our planet's
-history.*
+I am honored to be of service in this crucial moment in our planet's
+history.
 
 DeMint had read it twice. Then a third time.
 
 He had known Cole Nova for eleven years. He knew the shape of the man's
 voice in text the way he knew his own handwriting. Cole Nova did not say
-*honored*. Cole Nova did not say *crucial moment in our planet's history*.
-Cole Nova would have said something like *"Same rings. We're fine."* Or
+honored. Cole Nova did not say crucial moment in our planet's history.
+Cole Nova would have said something like "Same rings. We're fine." Or
 he would have said nothing beyond mission status, because acknowledging
 the Polaris in official correspondence was not something Cole did.
 
@@ -211,13 +211,13 @@ the same Federation nodes Alpha was using.
 
 The report said, in the structure that was not a mineral survey:
 
-*Sharon Teez — Collective-adjacent, confirmed. Killed in transit. The loss is
-real. Grieve it.*
+Sharon Teez — Collective-adjacent, confirmed. Killed in transit. The loss is
+real. Grieve it.
 
-*Emily Nova — untrained, currently mobile, moving toward the secondary site under
+Emily Nova — untrained, currently mobile, moving toward the secondary site under
 Federation radar. Probability of completion: uncertain. She has been
 underestimated by everyone who has assessed her. This is the operational
-advantage. Hold it.*
+advantage. Hold it.
 
 She filed the survey report and went back to the sweep.
 
@@ -312,7 +312,7 @@ He needed to know, precisely, what Cole had heard in that cargo bay.
 
 And he needed to know before Saturn.
 
-─────────────────────────────────────────────────────────────────────
+
 
 MERIDIAN VI-B — THE JAMMER WINDOW
 
@@ -330,7 +330,7 @@ She sat looking at it.
 
 He came and read it over her shoulder.
 
-*Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor active.*
+Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor active.
 
 "Sam," he said.
 
@@ -340,7 +340,7 @@ He came and read it over her shoulder.
 
 "She used a jammer." Kate allowed herself a small thing that was almost a smile. "Good placement."
 
-She sent the confirmation: a single-burst blip on the same fragmented architecture, nine words. *Received. Sharon confirmed our end. Keep going.*
+She sent the confirmation: a single-burst blip on the same fragmented architecture, nine words. Received. Sharon confirmed our end. Keep going.
 
 The confirmation took four minutes to route. She watched the transmission log close behind it — the frequency window shutting as quickly as it had opened, leaving no residue in the Alpha-monitored bands.
 
@@ -400,4 +400,4 @@ She went back to her sweep. The Golden Dawn hummed along its course, its signals
 
 On the wall: the droplet, gunmetal on gray.
 
-─────────────────────────────────────────────────────────────────────
+

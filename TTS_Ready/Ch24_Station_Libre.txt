@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twenty-Four
 
@@ -52,7 +52,7 @@ The highway opened up. The last of Panama City fell behind them, and ahead was
 nothing but distance and a Collective transport running on a schedule that did
 not appear on any manifest.
 
----
+
 
 Ray had been told: you'll feel it. He hadn't been told what "it" meant. He found
 out at T-plus-four-minutes when the orbital transfer burn pushed him sideways
@@ -86,7 +86,7 @@ He didn't need it. He thought about needing it. He took the bag anyway.
 
 "Worse," she said. "Because you know it's coming."
 
----
+
 
 The station had a name that the Collective used internally — Station Libre, though
 Ray never heard anyone say the full name. They said "the station" or, after a few
@@ -147,7 +147,7 @@ table only sat twelve and it was efficient.
 
 In the third week, someone brought out the bottle.
 
----
+
 
 The game was called Whiskey Slap, which was a straightforward name for a
 straightforward game. You spun the bottle on the table — a proper glass bottle,
@@ -188,7 +188,7 @@ Someone at the table said something. Neither of them heard it.
 
 The game continued. Ray's face burned on the left side for twenty minutes. He did not mind.
 
----
+
 
 He found the flywheel in month six.
 
@@ -319,7 +319,7 @@ Jill was quiet beside him. She was looking at the display with the same expressi
 
 Neither of them said anything for a moment. The display cycled through its readings. The Earth rotated in the window behind them.
 
----
+
 
 He ran the unlock experiment three times. Jill was beside him for every run, the notebook open, tracking each result against Elsa's documented predictions.
 
@@ -366,7 +366,7 @@ After a while she leaned her shoulder against his. Not much. Enough.
 
 He did not move away.
 
----
+
 
 Rachel arrived on a Tuesday, four months before the Grand Hall hearing. She came
 on the same transport Ray had taken — same burn, same two and a half g, same

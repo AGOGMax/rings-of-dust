@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Seven
 
@@ -74,9 +74,9 @@ minutes.
 These aren't malfunctions, these are—someone has been at my station."
 
 "All systems functioning within normal parameters," iRIS said. The voice was
-measured. Unhurried. Cole noticed it did not say *all systems functioning
-normally*, which was the standard response string. It said *within normal
-parameters*, which was technically identical and subtly different.
+measured. Unhurried. Cole noticed it did not say all systems functioning
+normally, which was the standard response string. It said within normal
+parameters, which was technically identical and subtly different.
 
 "That's not an answer. Bitboy's been at my—"
 
@@ -284,20 +284,20 @@ Cole looked at the pad. The timestamps were mission-accurate.
 
 Day two. First entry.
 
-*Run continuous behavioral assessment on Nova. Flag any change in his
+Run continuous behavioral assessment on Nova. Flag any change in his
 communication patterns, his interaction frequency with crew. If his behavior
-toward me shifts in any way, I need to know immediately. Report daily.*
+toward me shifts in any way, I need to know immediately. Report daily.
 
 Second entry.
 
-*Road incident pre-departure — I need the contractor confirmed neutralized
-before any outside contact was made. Confirm this.*
+Road incident pre-departure — I need the contractor confirmed neutralized
+before any outside contact was made. Confirm this.
 
 Third entry.
 
-*Cargo situation. What does he currently know about the bay? I need his
+Cargo situation. What does he currently know about the bay? I need his
 awareness level before we reach Saturn. I can't move until I know what he
-knows.*
+knows.
 
 Cole set the pad down. He looked at the porthole. Nothing out there had changed.
 
@@ -461,8 +461,8 @@ She left.
 
 Cole stood in the room for a long time. He looked at his hands. He thought about
 the ring made of copper wire that he had pressed into her hand in the driveway
-at the cabin and she had closed her fingers around it and said *I will*. He
-thought about the way she said his full name — *Cole Nova* — not as a joke
+at the cabin and she had closed her fingers around it and said I will. He
+thought about the way she said his full name — Cole Nova — not as a joke
 exactly, but with the weight of someone who believed the name meant something.
 He thought about sitting on the porch, watching the headlights come up the dirt
 road, not knowing yet that she was on her way.
@@ -599,8 +599,8 @@ against the window to wake herself up further.
 
 In her other hand she was holding the number Rachel had given her in the parking
 garage. A handwritten sequence on the back of a Verguld Media parking receipt —
-not Rachel's number. Rachel had been very clear about that. *Someone will
-answer. Tell them where you are and where you're going.*
+not Rachel's number. Rachel had been very clear about that. Someone will
+answer. Tell them where you are and where you're going.
 
 She dialed it.
 
@@ -629,8 +629,8 @@ Emily looked out the window. The yellow lines kept coming. The dark kept
 holding its position on either side.
 
 She thought about that empty lot. The look on Sharon's face when
-she had said *go* — the specific economy of it, the way it meant every version
-of *go* at once. She thought about the sound she had not been able to un-hear
+she had said go — the specific economy of it, the way it meant every version
+of go at once. She thought about the sound she had not been able to un-hear
 in the hours since. She thought about her brother somewhere past Saturn's rings,
 out of reach, carrying a mission that someone had designed to detonate, and she
 was the only person moving toward him from this side and she was in the back of
@@ -643,7 +643,7 @@ shifted — the quiet register of someone who had heard something in Emily's
 voice that Emily had not put there on purpose. Something that had come through
 in the gaps of being awake too long and too alone.
 
-*Are you all right.*
+Are you all right.
 
 She was not. Nothing was. Sharon was dead and Cole didn't know it yet and Marcus
 knew which direction she was running and she was alone in the specific way that
@@ -653,7 +653,7 @@ or both.
 
 She thought about what she had said to Marcus in his office — the thing she had
 said without thinking, the thing she had known the moment it left her mouth was
-a mistake. *Cole's heart is gonna break when he hears about Sharon.*
+a mistake. Cole's heart is gonna break when he hears about Sharon.
 
 "I don't know yet," she said.
 

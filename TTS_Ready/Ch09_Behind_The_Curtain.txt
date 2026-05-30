@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Nine
 
@@ -277,7 +277,7 @@ for as long as the cells remained connected.
 
 He read that line twice.
 
-*For as long as the cells remained connected.*
+For as long as the cells remained connected.
 
 At one hundred and eighty days of continuous linkage, the data changed
 character entirely.
@@ -297,8 +297,8 @@ Alpha had known about this for at least nine months. They had run the data,
 understood what it meant, and classified it.
 
 He scrolled to the end of the file. The last entry was a single line, a
-recommendation from the lead researcher: *Proceed to Saturn field test.
-Recommend continuous-linkage protocol.*
+recommendation from the lead researcher: Proceed to Saturn field test.
+Recommend continuous-linkage protocol.
 
 The entry had no response logged. No approval. No denial. Just the
 recommendation, sitting there, with a timestamp from eleven months ago,
@@ -330,7 +330,7 @@ External flush.
 One researcher, in a handwritten annotation attached to a 2030 batch record,
 had used a different word.
 
-*Jackpot.*
+Jackpot.
 
 The yield from a single flush event was equivalent to forty to sixty standard
 harvests. Alpha tracked these separately. They did not appear in the public
@@ -346,8 +346,8 @@ Ray had just made it.
 Ray cross-referenced the anomaly records against the grant filings he had
 found in the public database last week. Alpha had filed, over the previous
 seven years, nine separate government research grants for the development of
-what their applications described as *next-generation fuel-cell stabilization
-technology.* Combined, the grants totaled several billion dollars, drawn from
+what their applications described as next-generation fuel-cell stabilization
+technology. Combined, the grants totaled several billion dollars, drawn from
 energy crisis relief funds allocated by the Federation Council.
 
 The technology they were describing in the grant applications was Ray's

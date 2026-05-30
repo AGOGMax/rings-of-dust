@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Six
 
@@ -22,7 +22,7 @@ The crisis had begun not with a failure of technology but with a coordinated fin
 
 His colleagues called him Ray. It had started as a joke — his full name was Max Vision, and somewhere along the way someone had said "Max Ray Vision" because it sounded like X-ray vision, and the middle part stuck. He had never corrected it. He liked the way it sounded more than he liked the way Max sounded.
 
----
+
 
 He took a sample home on a Tuesday. This was not authorized. It was also not, in his assessment, particularly dangerous — the container was sealed, the quantity was small (thirty grams), and he had a specific idea he wanted to test that required more time than the lab schedule allowed. He put the container in his bag between his lunch box and his headphones, walked through security, and went home.
 
@@ -52,7 +52,7 @@ The panel read steady. The cells were quiet. Something had completed. He underst
 
 He got a notepad and started writing down what he was going to need.
 
----
+
 
 He worked for thirty-three days.
 
@@ -72,7 +72,7 @@ He sat with the chart until the numbers stopped moving.
 
 Then he went into the lab the next morning and told his supervisor he needed time on the main testbed.
 
----
+
 
 The conference room was windowless and over-lit — the flat fluorescent kind that
 made everyone look like they hadn't slept. The table was long, the coffee
@@ -98,7 +98,7 @@ He walked home.
 
 He was still carrying the box when Red and Squirrel knocked on his door.
 
-─────────────────────────────────────────────────────────────────────
+
 
 MERIDIAN V — EMILY IN THE CAR
 
@@ -157,7 +157,7 @@ Petyr nodded. He wrote something small on the edge of his nav
 panel — the same private script Loa used on her forearm. Kate
 didn't read it. Some things were for the person writing them.
 
-─────────────────────────────────────────────────────────────────────
+
 
 MERIDIAN VIII — PANAMA AND THE DRIVE
 
@@ -227,7 +227,7 @@ doesn't move."
 
 On the wall: the droplet. Gunmetal on gray. Sharon's.
 
----
+
 
 Ray's apartment had gotten smaller since the firing. The oak table, scarred from
 years of restless nights, held the fuel cell under a blanket and not much else. The place smelled like
@@ -374,7 +374,7 @@ At the door, he turned back and looked at the apartment once — the lamp still
 burning, the oak table still scarred, the lamp's flicker still going. Then he
 followed them out into the dark.
 
----
+
 
 The flight was three hours and forty minutes. Ray slept through one of them, not by choice but because his body had been making decisions without him since the apartment.
 

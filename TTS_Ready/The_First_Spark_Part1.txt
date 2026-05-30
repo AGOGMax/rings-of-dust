@@ -1,4 +1,4 @@
-THE FIRST SPARK
+﻿THE FIRST SPARK
 Part One: Von Grutzen & The Coal Mine
 Iceland, 1938
 
@@ -175,8 +175,8 @@ They took their positions at the edge of the outer circle.
 Marta spoke the opening invocation. She had spoken it at every working since
 she memorized it at sixteen from her great-grandmother's journal:
 
-*Aperiat fons. Veniat lux quae non est lux. Nos hic stamus — heredibus
-antiquae lineae, portatoribus antiquae scientiae — et petimus: aperiat via.*
+Aperiat fons. Veniat lux quae non est lux. Nos hic stamus — heredibus
+antiquae lineae, portatoribus antiquae scientiae — et petimus: aperiat via.
 
 The source opens. The light that is not light, come. We stand here — inheritors
 of the old line, bearers of the old knowledge — and we ask: let the way open.
@@ -198,10 +198,10 @@ statement of the work. She had translated it into Church Slavonic and back into
 Latin and the result moved differently from either original, carried a specific
 weight in the mouth:
 
-*Quaerimus: magnam collectionem potestatis et scientiae. Quaerimus: viam
+Quaerimus: magnam collectionem potestatis et scientiae. Quaerimus: viam
 aperire sub terram. Quaerimus: quod antiqui vocaverunt fontem — quod nos
 vocamus resonantiam — quod scientistae nostri in tenebris huius montis
-invenient.*
+invenient.
 
 We seek: a great harvest of power and knowledge. We seek: to open the way
 below the earth. We seek: what the ancients called the source — what we call

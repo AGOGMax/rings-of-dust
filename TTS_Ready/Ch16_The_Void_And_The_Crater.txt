@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Sixteen
 
@@ -30,13 +30,13 @@ He spoke about the eleven years she had spent building this colony out of rock a
 
 He did not read from the notebook. He had it memorized.
 
-*The cells are not ours. We assembled them. We stabilized them. We gave them conditions in which to become what they are. But the process they run — the sync, the lock, the Jackpot, the void alignment — this did not come from us. We found it. We observed it. We learned to work with it the way a farmer learns to work with rain: not by controlling it but by understanding when to plant.*
+The cells are not ours. We assembled them. We stabilized them. We gave them conditions in which to become what they are. But the process they run — the sync, the lock, the Jackpot, the void alignment — this did not come from us. We found it. We observed it. We learned to work with it the way a farmer learns to work with rain: not by controlling it but by understanding when to plant.
 
-*I believe the void receives what we give it because the void is not empty. I believe the energy that moves through these cells moves through everything — through us, through the line of who we are and who we came from and who we will be. I believe this because I have watched the math long enough to understand that the math is describing something larger than the math.*
+I believe the void receives what we give it because the void is not empty. I believe the energy that moves through these cells moves through everything — through us, through the line of who we are and who we came from and who we will be. I believe this because I have watched the math long enough to understand that the math is describing something larger than the math.
 
-*I am going to die in this asteroid. I am not afraid of that. I am going to die and the energy I carried through this life is going to move — forward, into the cells I helped stabilize, into the notebooks my friends will keep, into the people who come after and find this place and understand what it is. I am going to be received by the same void that receives everything I give it.*
+I am going to die in this asteroid. I am not afraid of that. I am going to die and the energy I carried through this life is going to move — forward, into the cells I helped stabilize, into the notebooks my friends will keep, into the people who come after and find this place and understand what it is. I am going to be received by the same void that receives everything I give it.
 
-*The gold will keep coming. I want my colleagues to keep sending.*
+The gold will keep coming. I want my colleagues to keep sending.
 
 ---
 
@@ -264,7 +264,7 @@ Jill stood there for a moment in the amber light.
 
 She went to the ship. She sealed the transit case with the notebooks in the cargo locker. She ran the full launch sequence. She launched.
 
-─────────────────────────────────────────────────────────────────────
+
 
 MERIDIAN III — LAUNCH DAY
 

@@ -1,4 +1,4 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Twenty-Two
 
@@ -14,17 +14,17 @@ She had been three hours out when it happened.
 
 Not a voice. She would have said there was no voice, if anyone had asked. It was the rhythm — the specific cadence of her grandmother's Friday evening recitation, the way she had said the names of the ancestors before lighting the candles, and the phrase that came at the end of the names, the one Jill had heard so many times as a child that it had stopped meaning anything and become wallpaper. Background sound in a childhood kitchen.
 
-*If you truly believe in something and pour yourself into it, it will continue in your children.*
+If you truly believe in something and pour yourself into it, it will continue in your children.
 
 She had been running the post-launch checks, which she did on autopilot, her hands doing what hands do when the mind is somewhere else. She was somewhere else. She had been somewhere else since the asteroid had disappeared from the rear scope.
 
 The phrase arrived the way things arrive when you have heard them five hundred times and never listened: all at once, and with the specific weight of something that had been waiting for the right conditions to land.
 
-*It will continue in your children.*
+It will continue in your children.
 
 She didn't have children. She had never thought about children — not seriously, not in any way that meant something. She had spent her adult life moving around the edges of the empire her bloodline built, staying lean and unencumbered and deliberately unreachable, because the one thing she was certain of was that she did not want to become the thing the Vergluds had become. She had made herself small to keep herself clean.
 
-But that wasn't the whole thought her grandmother had been saying, was it. The thought was: *if you believe in something and pour yourself into it.*
+But that wasn't the whole thought her grandmother had been saying, was it. The thought was: if you believe in something and pour yourself into it.
 
 She had just spent twenty-three days watching a community of people pour themselves into something. She had watched Tyler walk down a tunnel until gravity let go of him. She had watched Petra sit with those notebooks for decades, keeping them alive, keeping the record. She had watched the gold crater appear in the side of an asteroid eleven days after a sacrifice, and felt something in her chest that she had spent three hours trying to name and had eventually filed away because she didn't have a category for it.
 
@@ -38,7 +38,7 @@ Then she put the ship in a holding pattern, opened the comm panel, and sent a sh
 
 She turned the ship around.
 
-The asteroid appeared again in the forward scope. Tiny, then growing. The colony's cargo lights were still on — amber, steady, the same as when she'd left. Petra had said *when you come back* with the calm certainty of someone who knew the difference between someone leaving and someone being done.
+The asteroid appeared again in the forward scope. Tiny, then growing. The colony's cargo lights were still on — amber, steady, the same as when she'd left. Petra had said when you come back with the calm certainty of someone who knew the difference between someone leaving and someone being done.
 
 Jill had thought she was done.
 
@@ -138,11 +138,11 @@ She launched.
 
 For the first two hours she ran the Hound's Tooth on autopilot and sat in the back with the lights low and thought about nothing in particular.
 
-Then she thought about the gold crater on the face of the asteroid. The spectrometric reading. The way Petra had said *Jackpot* in the specific tone of someone who has stopped being surprised by a thing without stopping being troubled by it.
+Then she thought about the gold crater on the face of the asteroid. The spectrometric reading. The way Petra had said Jackpot in the specific tone of someone who has stopped being surprised by a thing without stopping being troubled by it.
 
 She thought about Elsa Klein's notebooks, sealed in a case in a supply room in an asteroid she was currently moving away from at eleven kilometers per second.
 
-She thought about what Tyler had said: *I think there is a difference between understanding the mechanism and understanding the intention.*
+She thought about what Tyler had said: I think there is a difference between understanding the mechanism and understanding the intention.
 
 She thought about the woman buried in the asteroid wall who had come out here with eleven people and eleven years of research and a belief she had carried from her family through her work to the furthest place she could reach. Who had written, three days before she died, about energy moving forward through lines.
 
@@ -154,7 +154,7 @@ She would think about the gold crater for a long time.
 
 She would not be able to stop.
 
-─────────────────────────────────────────────────────────────────────
+
 
 ALPHA I — FED-HEX-5555
 PROGRESS REPORT: ASSET MODIFICATION, SUBJECT TEEZ-S
@@ -208,7 +208,7 @@ writing.
 Note appended by Station Commander Holt: Noted. Disregarded.
 
 
-─────────────────────────────────────────────────────────────────────
+
 
 MERIDIAN IV — THE NIGHT AFTER THE FARM ROAD
 
