@@ -755,7 +755,7 @@ Near the end of the evening Rachel stands to go. She is composed, warm, entirely
 - **The makeshift copper-wire ring** with the smooth pebble. Cole makes it, gives it to Sharon before launch. She is wearing it when she dies.
 - **The Collective droplet sigil** — water drop inside a circle. *"No raindrop thinks it's the flood."*
 - **The thumb drive figurine** — Conrad's Enterprise keychain. Two payloads.
-- **Bitboy's blue-stained mouth** — he raids the blackberry preserves. Recurs in the bowling-alley scene as the visual rhyme that closes the book.
+- **Bitboy's blue-stained mouth** — he raids the blackberry preserves at the cabin. The stain is a visual marker of the cabin era.
 
 ### The Spine
 
