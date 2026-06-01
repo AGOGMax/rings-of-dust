@@ -54,7 +54,7 @@ Tyler took her to the preparation chamber on the fifth afternoon.
 
 It was a room she hadn't seen yet — small, off the main tunnel, lit differently from the rest of the colony. Not surgical-white like the lab spaces. Warmer. The kind of light you associate with things that are meant to be seen slowly.
 
-Four fuel cells were racked along one wall. Not ordinary units — each one a
+Four FuelCells were racked along one wall. Not ordinary units — each one a
 Jackpot cell, the one-in-seven-forty that had produced the rare exterior crystal
 deposit on its eleventh day. One chance. One cell. These were the four best the
 colony had ever made, and their single exterior deposits were dense enough that
@@ -115,7 +115,7 @@ Petra looked at her directly for the first time. "The parts that are harder to v
 
 She looked back at her readings. The pen moved across the page in strokes that were unhurried and exact.
 
-"Tyler arrived six years ago," Petra said. Not a change of subject — a continuation. "Alone. He had a pack and a commercial fuel cell — the first any of us had seen. Nothing else. No tools. No provisions. No plan beyond getting here."
+"Tyler arrived six years ago," Petra said. Not a change of subject — a continuation. "Alone. He had a pack and a commercial FuelCell — the first any of us had seen. Nothing else. No tools. No provisions. No plan beyond getting here."
 
 "Why here?"
 
@@ -129,7 +129,7 @@ Petra's pen stopped. She did not look up, but the quality of her attention chang
 
 She set the pen down.
 
-"Tyler had the fuel cell. He studied the notebooks. Then he asked me if the east tunnel was still accessible. I said yes. He asked me if anyone would stop him. I said no. He asked me if I thought it would work."
+"Tyler had the FuelCell. He studied the notebooks. Then he asked me if the east tunnel was still accessible. I said yes. He asked me if anyone would stop him. I said no. He asked me if I thought it would work."
 
 "What did you say?"
 

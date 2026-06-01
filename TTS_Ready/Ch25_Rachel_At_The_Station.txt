@@ -52,7 +52,7 @@ There was a second chart on the display beside it: the unlock data.
 
 "Walk me through the unlock experiments," she said.
 
-Ray looked at the chart. "I unlocked cells at different points — some at day 40, some at day 90, some after the 180-day threshold. Different cells, different stages." He paused. "Same result every time. The moment you break the lock, everything stops. The hundred-times interior growth drops back to baseline within hours. The exterior deposits stop forming. The mini-jackpot cycle ends. The one-time Jackpot window — gone. It reverts to an ordinary fuel cell."
+Ray looked at the chart. "I unlocked cells at different points — some at day 40, some at day 90, some after the 180-day threshold. Different cells, different stages." He paused. "Same result every time. The moment you break the lock, everything stops. The hundred-times interior growth drops back to baseline within hours. The exterior deposits stop forming. The mini-jackpot cycle ends. The one-time Jackpot window — gone. It reverts to an ordinary FuelCell."
 
 She looked at the unlock curve — the sharp drop, the flatline after.
 
@@ -162,7 +162,7 @@ When Ray finished, Rachel turned to the relay panel. The connection to the Grand
 
 The broadcast ran for forty-one minutes.
 
-Osei cut the feed at 10:48, two minutes before the Grand Hall broke for testimony. The Collective relay logged two million individual connections in the first hour — more than any single broadcast in the network's fourteen-year operational history. By the time the Grand Hall reconvened, every major independent outlet on Earth had run a segment. By the time DeMint entered the second testimony period, the number in the broadcast — thirty-three days, a factor of ten, unlimited new fuel cells from existing units — was in every feed, every conversation, every government terminal that had been refreshed in the last ninety minutes.
+Osei cut the feed at 10:48, two minutes before the Grand Hall broke for testimony. The Collective relay logged two million individual connections in the first hour — more than any single broadcast in the network's fourteen-year operational history. By the time the Grand Hall reconvened, every major independent outlet on Earth had run a segment. By the time DeMint entered the second testimony period, the number in the broadcast — thirty-three days, a factor of ten, unlimited new FuelCells from existing units — was in every feed, every conversation, every government terminal that had been refreshed in the last ninety minutes.
 
 Rachel sat in the chair after Osei cut the feed and looked at the blank camera for a moment.
 
@@ -182,7 +182,7 @@ He was quiet for a moment.
 
 She looked at the window. The Earth was past the Pacific now — she could see the edge of the North American continent, the light on the coast.
 
-"After the Grand Hall," she said, "the shortage ends. Not because anyone decided to end it. Because thirty-three days from now, every fuel cell unit that was already running will be charging at ten times the rate it was this morning. And nobody will be able to explain why it wasn't always doing that, without explaining everything."
+"After the Grand Hall," she said, "the shortage ends. Not because anyone decided to end it. Because thirty-three days from now, every FuelCell unit that was already running will be charging at ten times the rate it was this morning. And nobody will be able to explain why it wasn't always doing that, without explaining everything."
 
 Ray looked at the window.
 

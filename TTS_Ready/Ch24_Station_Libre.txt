@@ -414,7 +414,7 @@ They liked each other immediately. Ray could see it — the way the air between 
 
 He showed Rachel the lab. Jill came with them — not because she was asked, but because the lab was as much hers as his now, and the data they were showing Rachel was data they had built together. He showed her the 180-day curve,
 the crystal growth, the numbers he had now run in triplicate across seven
-different fuel cell units with six different operators to make sure that what he
+different FuelCell units with six different operators to make sure that what he
 was looking at was not specific to his method, his instruments, or his hope.
 
 Jill had Elsa's notebooks open on the bench. When Rachel asked about the theoretical basis, Jill walked her through Elsa's framework — the predictions, the margins of error, the confirmation chain. She did it the way she did everything: directly, without ceremony, with the quiet authority of someone who had earned her understanding the hard way.

@@ -18,7 +18,7 @@ The first image was Ray Vision.
 He was at a desk in the Station Libre studio — a room Rachel had prepared for
 exactly this purpose over the preceding month, cleared of its usual equipment,
 refurnished with the careful neatness of something that was meant to be taken
-seriously. Behind him: the bench where the fuel cells sat. Eight of them. Three
+seriously. Behind him: the bench where the FuelCells sat. Eight of them. Three
 generations of the design, from the original sealed casings he had made in a
 borrowed lab six years ago to the current configuration, which was smaller and
 cleaner and, if you knew what you were looking at, unmistakably the same
@@ -45,17 +45,17 @@ morning when he had come back to find something he had not put there. He
 described the thirty-three-day threshold, where the interior crystal growth rate
 accelerated to ten times its baseline. He described the hundred-and-eighty-day
 yield — the exterior surface of the casing beginning to grow its own crystal
-matrix, self-replicating, producing new fuel cell substrate from the process
+matrix, self-replicating, producing new FuelCell substrate from the process
 of being used. He described what this meant for distribution infrastructure,
 for the timeline to address the energy shortage, for the eleven technologies
 that had been sitting in classified storage in Panama because the people managing
 the shortage had understood, precisely, what releasing them would cost.
 
-He described what a Grid was. The linked configuration — cells running together through the thirty-three-day lock, compounding internally at ten times the isolated rate. He described what it meant to hold fifty-one percent of a Grid's locked weight: not a preference, not a majority in any parliamentary sense, but a threshold. The line past which one entity determined when and how the Grid's yield was allocated. He described, precisely, what Alpha controlled. And he named the number: fifty-one percent of every major fuel cell Grid currently operating in Federation territory.
+He described what a Grid was. The linked configuration — cells running together through the thirty-three-day lock, compounding internally at ten times the isolated rate. He described what it meant to hold fifty-one percent of a Grid's locked weight: not a preference, not a majority in any parliamentary sense, but a threshold. The line past which one entity determined when and how the Grid's yield was allocated. He described, precisely, what Alpha controlled. And he named the number: fifty-one percent of every major FuelCell Grid currently operating in Federation territory.
 
 He described Disposal Protocol Eleven.
 
-Depletion — breaking open a sealed fuel cell to harvest its crystals — carries a fixed cost: ten percent of the Darker Matter vaporizes the instant the seal breaks. Escapes into the atmosphere. Unrecoverable. Physics, not process failure. Alpha's internal term for it was the depletion coefficient. The rate was known, documented, and factored into every supply calculation they ran.
+Depletion — breaking open a sealed FuelCell to harvest its crystals — carries a fixed cost: ten percent of the Darker Matter vaporizes the instant the seal breaks. Escapes into the atmosphere. Unrecoverable. Physics, not process failure. Alpha's internal term for it was the depletion coefficient. The rate was known, documented, and factored into every supply calculation they ran.
 
 Alpha's Disposal Protocol destroyed eleven to thirteen percent per batch.
 
@@ -78,7 +78,7 @@ make a different one."
 
 He said it once more. Quietly. Stripped to its essential form: "The shortage is a choice."
 
-Behind him, the fuel cells sat on the bench. Still. Unremarkable. The kind of
+Behind him, the FuelCells sat on the bench. Still. Unremarkable. The kind of
 object you would walk past in a supply room without understanding what you
 were looking at.
 
@@ -152,7 +152,7 @@ public interest was being misrepresented.
 
 The recording was unconvincing in the way that a very careful person's careful
 explanations become unconvincing when the documentation has already been
-released and two hundred thousand people have seen Ray Vision's fuel cells on
+released and two hundred thousand people have seen Ray Vision's FuelCells on
 the bench behind him and understand, now, what three hundred and sixty-nine
 test runs looks like.
 
@@ -204,7 +204,7 @@ acknowledgment.
 
 They watched Ray's opening segment with the coffee in hand. Dayo made a note
 in the signal log — routine calibration, full-spectrum civilian relay — and
-Petyr read it over his shoulder and said nothing. Kate watched the fuel cells
+Petyr read it over his shoulder and said nothing. Kate watched the FuelCells
 on the bench behind Ray's left shoulder and thought about the eleven years that
 bench represented. The four years of test runs. The three hundred and sixty-nine.
 

@@ -116,7 +116,7 @@ profitable yet."
 "What happens next."
 
 "The proof goes out. Through the parallel network — the same grey market your
-fuel cell research has been circulating in for two years. Decentralized. No
+FuelCell research has been circulating in for two years. Decentralized. No
 single point of control for Alpha to suppress. It's going to reach about two
 hundred thousand people in the first forty-eight hours." Squirrel paused. "After
 that, it's not ours to manage."
@@ -167,7 +167,7 @@ And then it wouldn't.
 
 "I've been thinking about the flywheel since I left the building," Ray said.
 "The curve." He turned the math over in the way he always turned the math over,
-the way he had been turning it over since the oak table and the fuel cell and
+the way he had been turning it over since the oak table and the FuelCell and
 the first data point that shouldn't have been possible. "Link the cells
 together and hold them past the eleven-day window. Thirty-three days of
 continuous linkage: ten times the internal yield, ongoing, as long as they
@@ -299,7 +299,7 @@ The runs were numbered. Three hundred and sixty-nine of them — meticulous,
 cross-referenced, dated in her block-letter hand. The 11-day cycle. The
 negative pressure variable. The 33-day lock mechanic. The 180-day threshold.
 All of it mapped, years before Alpha Corp had named any of it, years before he
-had sealed a fuel cell in his locker on a Friday afternoon because he hadn't
+had sealed a FuelCell in his locker on a Friday afternoon because he hadn't
 felt like carrying it across campus.
 
 She had been here first.
@@ -422,7 +422,7 @@ question is the funding."
 
 Squirrel looked at her.
 
-"I own the colony infrastructure now," she said. "The fuel cell supply, the
+"I own the colony infrastructure now," she said. "The FuelCell supply, the
 gold windfall surplus. I've seen the station specs. I'll upgrade it." She paused.
 "I'll go with him."
 
@@ -479,7 +479,7 @@ thumb against his eye and looked at the fountain with its concrete heron listing
 east and its thin green growth and its empty basin, and he thought about all of
 the things he had been holding.
 
-The fuel cell on the oak table. The notebook. The 33-day yield data. The
+The FuelCell on the oak table. The notebook. The 33-day yield data. The
 180-day curve. The colleagues in the building who would come in today and find
 a different world than they had left. The drive. Elsa Klein's final notation,
 one line, a half-page of white space before it, written by a woman on a survey
@@ -522,7 +522,7 @@ them, Squirrel stood at the fountain for another moment — the still quality
 of a man who has arranged the last piece of a long thing and is allowing himself
 one quiet moment to register that the pieces are in place.
 
-He thought about the fuel cell on the table. The notebook margins. The flywheel
+He thought about the FuelCell on the table. The notebook margins. The flywheel
 curve that made the shortage model obsolete.
 
 He thought: not bad for a scientist from a town no one's heard of.
