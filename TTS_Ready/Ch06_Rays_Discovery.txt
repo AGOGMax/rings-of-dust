@@ -197,24 +197,9 @@ battered notebook. Several pages were covered in diagrams, heat maps, rough
 models of accumulation behavior. "What I don't know is what happens if you
 don't reset."
 
-Red looked at the notebook. "You think longer cycles change the math."
+Red looked at the notebook.
 
-"I think they change everything." Ray's voice had changed. He was not frightened
-anymore. He was precise, and precision was, for him, a kind of territory. "I've
-run the calculations a dozen times. I keep getting results that don't make sense
-under any model I can test here. What I need—" he stopped. He had spent three
-weeks trying to say this clearly and still couldn't quite get there. "I need
-proper instruments. A controlled environment. I need to test this under
-conditions I cannot replicate in an apartment."
-
-He tapped the notebook. "Alpha built their entire operation on eleven days
-because that's where they found the yield window. They never asked what would
-happen at thirty days. Or sixty. Or longer." He looked at the FuelCell. "They
-saw a harvest. I think they missed the actual discovery."
-
-Squirrel looked at him. "What are the odds." A statement, not a question. "On any given eleven-day cycle. What does your math say."
-
-Ray looked at the notebook. "I know what the cell does in isolation. Negative pressure, vapor vortex, eleven-day cycle, charges itself. That's what I showed Alpha and that's what got me fired." He looked at the FuelCell under the blanket. "What I don't know is what happens when you scale it. What happens when you run hundreds of cells together. What happens at thirty-three days, or sixty, or longer." He paused. "I think Alpha knows. I think they've been running those numbers for years and burying the results. But I can't prove it from out here."
+"I need proper instruments," Ray said. His voice had changed. He was not frightened anymore. He was precise, and precision was, for him, a kind of territory. "A controlled environment. I need to test what happens if you don't reset. I cannot do that here."
 
 Squirrel looked at Red. Something passed between them — not surprise. Recognition. The kind of look two people exchange when the person across the table has just described exactly the gap they've been trying to fill.
 
