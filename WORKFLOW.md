@@ -1,33 +1,46 @@
-Your job is to analyze them for contradictions and synthesize them into a clean, structured reference guide. Do not rewrite anything yet. Acknowledge if you are ready to receive the notes."
+# Rings of Dust — Editorial Workflow
 
-### Phase 2: The Structural Structural Overhaul (Macro-Edit)
-Instead of uploading the whole book, upload your Chapter Outline or short summaries of each rewritten chapter alongside your new Master Story Bible.
+**Source of truth:** `TTS_Ready/` is the canonical manuscript. All changes go to `TTS_Ready/` files and are committed to GitHub immediately. Do not edit Working_Draft (deleted) or any dist snapshot.
 
+**Lore reference:** `TTS_Ready/LORE_BIBLE.txt` is the ultimate arbiter on all character, timeline, and science details. `CHAPTER_SUMMARY.md` is the chapter-by-chapter plot map.
 
-The Prompt:
-> "Act as a brutal, highly experienced Developmental Editor. Use the lore bible as the ultimate source of truth for Rings of Dust, followed by the current Chapter guide.md.
+---
+
+## 1. The Three-Phase Edit Process
+
+### Phase 1: Story Bible Consolidation
+
+Before any structural pass, feed all existing notes, outlines, and reference documents to establish the source of truth.
+
+> "You are a senior story editor working on *Rings of Dust*. I am going to give you a set of notes, outlines, and reference documents that may contain contradictions. Your job is to analyze them for contradictions and synthesize them into a clean, structured reference guide. Do not rewrite anything yet. Acknowledge when you are ready to receive the notes."
+
+### Phase 2: Structural Overhaul (Macro-Edit)
+
+Use the LORE_BIBLE and CHAPTER_SUMMARY as the source of truth. Upload chapter summaries, not full text.
+
+> "Act as a brutal, highly experienced Developmental Editor. Use the lore bible as the ultimate source of truth for *Rings of Dust*, followed by the current CHAPTER_SUMMARY.md.
 > Analyze the outline for the following specific issues:
->  1. Pacing dead-zones (where the plot stalls).
->  2. Character motivation drops (where a character acts out of alignment with the Story Bible).
->  3. Plot holes or unresolved setups.
-> Give me a bulleted critique of where the structural integrity of the story breaks down, and suggest 2-3 ways to tighten the narrative arc."
- 
-### Phase 3: The "Chunking" Prose Pass (Micro-Edit)
-Once your structure is solid, you edit one chapter at a time. To keep the AI from writing generic, boring prose, you must give it strict styling boundaries and safety rails.
-The Prompt:
-> "We are now line-editing the TTS ready version of Chapter [X]. You must strictly adhere to the Master Story Bible we created.
-> CRITICAL RULES FOR EDITING:
->  1. Preserve the Voice: Do not smooth out my writing into generic AI prose. Retain my specific sentence structures, rhythm, and tone.
->  2. Show, Don't Tell: Point out areas where I am explaining emotions or backstories instead of letting them play out through action/dialogue.
->  3. Pacing: Highlight sentences that are repetitive, overly wordy, or slow down the scene's momentum.
-> Do not rewrite the chapter for me yet. First, provide a list of specific, actionable feedback on how to improve this chapter's prose. Then, ask me which changes I agree with before we generate an edited version."
-> 
-## 3. Advanced Prompts for Fixing Specific "AI Blindspots"
-Because AI naturally defaults to cliché tropes and overly dramatic "the air was thick with tension" phrasing, use these hyper-targeted prompt modifiers to break its bad habits:
- * To fix flat dialogue: *"Analyze the dialogue in this scene. Identify where characters sound exactly the same. Help me differentiate their voices by adjusting their cadence, vocabulary, and subtext based on their personalities in our Story Bible."*
- * To fix pacing issues: *"Look at this action/suspense scene. Break down the sentence lengths. Where are the sentences too long or complex, ruining the urgency? Suggest where to use short, punchy fragments to increase the tension."*
- * The "Cliché Vacuum": *"Scan this chapter and list every single cliché, overused metaphor, or melodramatic phrase. Provide 3 unique, grounded, and sensory-rich alternatives for each."*
- Here's the comprehensive per-chapter sweep prompt:
+> 1. Pacing dead-zones (where the plot stalls).
+> 2. Character motivation drops (where a character acts out of alignment with the Story Bible).
+> 3. Plot holes or unresolved setups.
+> Give me a bulleted critique of where the structural integrity of the story breaks down, and suggest 2–3 ways to tighten the narrative arc."
+
+### Phase 3: Prose Pass (Micro-Edit, one chapter at a time)
+
+> "We are now line-editing the TTS-ready version of Chapter [X]. You must strictly adhere to the Master Story Bible.
+> CRITICAL RULES:
+> 1. Preserve the Voice — do not smooth out the writing into generic AI prose. Retain specific sentence structures, rhythm, and tone.
+> 2. Show, Don't Tell — point out areas where emotions or backstories are explained instead of played out through action and dialogue.
+> 3. Pacing — highlight sentences that are repetitive, overly wordy, or slow down the scene's momentum.
+> Do not rewrite yet. First give a list of specific, actionable feedback. Then ask which changes to apply before generating an edited version."
+
+---
+
+## 2. AI Blindspot Fixes
+
+- **Flat dialogue:** *"Analyze the dialogue in this scene. Identify where characters sound identical. Differentiate their voices by adjusting cadence, vocabulary, and subtext based on their Story Bible entries."*
+- **Pacing in action scenes:** *"Break down sentence lengths in this scene. Where are sentences too long or complex, ruining urgency? Suggest where to use short, punchy fragments."*
+- **Cliché sweep:** *"Scan this chapter and list every cliché, overused metaphor, or melodramatic phrase. Provide 3 unique, grounded, sensory-rich alternatives for each."*
 
 ---
 
@@ -43,20 +56,22 @@ Read the entire chapter from start to finish — not a keyword search, a full re
 - Does the chapter start and end at the right narrative moment, or does it bleed into adjacent chapters?
 
 **2. SPOILER / TIMING VIOLATIONS**
-- Does any character describe, predict, or explain a discovery that the story hasn't made yet? (e.g. Ray describing Station Libre results before Station Libre happens)
+- Does any character describe, predict, or explain a discovery the story hasn't made yet? (e.g. Ray describing Station Libre results before Station Libre happens)
 - Does the narrator reveal information the POV character wouldn't have at that point in the timeline?
 - Are any plot points named or resolved here that should land later?
 
 **3. LORE BIBLE COMPLIANCE**
-- Check all technical mechanics: void sacrifice (no push, carry until they lift free), DarkX awareness/behavior, Rapture date (November 22, 2033), ring plane sealing, FuelCell cycle terminology
-- Check all rank/patch details: correct symbol per tier, always hidden, bronze/silver/gold metal rule, Sam has wrench patch until Ep_III
-- Check the Von Grutzen / Verguld connection: not named to Jill before Ch16 (The Void), not named by Tyler
-- Check the power hierarchy framing where relevant (Marcus → Alpha → Federation → Populace)
+- Check all technical mechanics: void sacrifice (no push — carry cells down the east tunnel until gravity lets go of them, then release), DarkX awareness/behavior, Rapture date (November 22, 2033), ring plane sealing, FuelCell cycle terminology (11-day standard cycle; 33-day lock = 10× interior yield; 180-day lock = 100× interior yield + all 740 cells begin continuous exterior cycling every 11 days)
+- Check all rank/patch details: correct symbol per tier, always hidden under clothing, bronze/silver/gold metal rule, Sam has wrench patch until Ep_III
+- Check the Von Grutzen / Verguld bloodline connection: Jill's surname is not revealed to her before Ch22 (The Pull) — it is revealed by Petra reading from Elsa's preserved records; Tyler never names it
+- Check the power hierarchy framing where relevant: Marcus → Alpha Corp → Federation → Populace
 
 **4. CHARACTER NAMING**
-- Cole is "Jackpot" from: Heavy/Ricardo, Taylor, Bitboy, Federation personnel, engineers
+- Cole is "Jackpot" from: Heavy/Ricardo, Taylor, Federation personnel, engineers
 - Cole is "Cole" from: Emily, Sharon, Gracie, Sam (intimate contexts), DarkX visions
-- Check any other character who has a call sign or nickname — is it used consistently by the right people?
+- iRIS capitalization: always lowercase-i, uppercase RIS — "iRIS" (never "IRiS" or "IRIS")
+- Collective rank order: Informant → Operator (Jr/Sr/Lead) → Agent/Field Agent (sunglasses patch) → Navigator → Grand Admiral — "Technician" is not a rank
+- Check any other character with a call sign or nickname — is it used consistently by the right people?
 
 **5. DIALOGUE ATTRIBUTION**
 - Are all dialogue lines clearly attributed? Any orphaned quotes where the speaker is ambiguous?
@@ -67,25 +82,38 @@ Read the entire chapter from start to finish — not a keyword search, a full re
 - Does anything here give away what happens in the next chapter in a way that kills the landing?
 
 **7. DATES AND TIMELINE**
-- Any dates mentioned — do they match the canonical timeline? (Story present = early 2030s, Rapture = November 22, 2033, Golden Dawn mission = 2033)
+- Any dates mentioned — do they match the canonical timeline? (Story present = early 2030s, Golden Dawn mission = 2033, Rapture = November 22, 2033)
 - Does the chapter's internal timeline (days passing, events in sequence) hold together?
+- Jill's colony timeline: arrival → 15-day first stay → departs → Day 23 she returns (Ch22)
 
 **8. PROSE INTEGRITY**
 - Any unfinished sentences, mid-scene cuts, or passages that trail off without resolution?
 - Any duplicate passages — same scene or information appearing twice?
-- Any formatting artifacts (ALL CAPS headers, bracketed notes, [INSERT], draft annotations)?
+- Any formatting artifacts (ALL CAPS headers, bracketed notes, [INSERT], draft annotations, voice-transcription fragments)?
 
 ---
 
 Report format:
 > **[ISSUE TYPE] Line X:** What's wrong. Recommended fix.
 
-If the chapter is clean on a given item, write **[CLEAN]** next to it. Don't skip items.
+If the chapter is clean on a given item, write **[CLEAN]** next to it. Don't skip items. After completing all 8 checks, compare any flagged items against the Lore Bible before finalizing recommendations.
 
 ---
 
-write every suggestion out and show me the full pros also after you go through all of these steps go back and compare all of these changes to the lore Bible.
-## Summary Checklist for Success
- 1. Never do a "mega-prompt" where you ask it to fix grammar, plot, and character all at once. It will fail. Pick *one* focus per prompt.
- 2. Always use a multi-stage chat. Keep the Story Bible at the very top of the chat thread so the model's attention mechanism constantly weights it heavily.
- 3. Be the boss. If the AI outputs a rewrite that feels soulless, reject it immediately: *"That sounds like a robot wrote it. It lost the grit/emotion of the original. Try again, but keep 90% of my original phrasing and only change the structural flow."*
+## OPEN DEV EDIT ISSUES
+
+Structural gaps flagged for attention. Verify whether each has been addressed in current TTS_Ready files before acting — some may have been resolved in recent passes.
+
+1. **Emily disappears Ch05–Ch11** — no Emily POV between the highway ambush and Pier Nine. Needs at least one interstitial beat showing her grief and rage building before she resurfaces at Ch12 (Pier Nine).
+
+2. **Cole's grief has no oxygen Ch08–Ch17** — gap between learning Sharon is dead (Ch08, Proximity) and the reckoning (Ch17, The Locked Bay). Needs a beat between the wound and the acknowledgment.
+
+3. **Conrad's graphite mark needs a callback** — mark transfers in Ch02 (Las Vegas). Pays off in Ch19 (The Secret Site). 17 chapters with no mention in between. Suggested: Emily notices it at the motel, in the car, or at the pier before the payoff.
+
+4. **The Rapture needs to be seeded as a ticking clock** — Saturn's closing window (Nov 22, 2033) is a plot constraint but may not be established as such before it becomes relevant. Needs at least one early chapter reference.
+
+5. **Sam needs one POV window** — set up as the most perceptive person on the Golden Dawn but has no perspective scene of her own.
+
+6. **DeMint reading fabricated comms** — the fabricated message needs to land on-page before Ch11 (DeMint) so his reaction reads as payoff, not introduction.
+
+7. **Greenbaum's setup in Ch02 needs weight** — his humiliation in the Las Vegas elevator needs enough presence that his return in Ch05 (Launch and the Ambush) reads as a pre-established threat, not a stranger with a gun.
