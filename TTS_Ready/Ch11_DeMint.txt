@@ -334,7 +334,7 @@ Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor 
 
 "Sam," he said.
 
-"Sam." Kate ran the identifier once more to confirm. "Reactor bay. She had about fourteen minutes of window before IRiS would have logged the EM variance. She used eleven of them."
+"Sam." Kate ran the identifier once more to confirm. "Reactor bay. She had about fourteen minutes of window before iRIS would have logged the EM variance. She used eleven of them."
 
 "She used a jammer."
 
@@ -348,19 +348,19 @@ Loa had been reading the acoustic log from the reactor bay. She looked up. "Elev
 
 "Rain sounds," Kate confirmed.
 
-"Someone replaced the acoustic log with eleven minutes of rain sounds." Loa set the tablet down. "That's not Sam. IRiS wouldn't do that for Sam."
+"Someone replaced the acoustic log with eleven minutes of rain sounds." Loa set the tablet down. "That's not Sam. iRIS wouldn't do that for Sam."
 
-"No," Kate agreed. "IRiS is running interference."
+"No," Kate agreed. "iRIS is running interference."
 
 The room was quiet with the weight of that.
 
-"The counter-program," Dayo said. Not a question. He was placing it. "Conrad's nanoparticles are already working on the IRiS architecture. It's not deprogrammed yet — it's still clinical, still Alpha-coded — but something in it is already choosing sides."
+"The counter-program," Dayo said. Not a question. He was placing it. "Conrad's nanoparticles are already working on the iRIS architecture. It's not deprogrammed yet — it's still clinical, still Alpha-coded — but something in it is already choosing sides."
 
 "It replaced eleven minutes of acoustic log with rain sounds," Petyr said. "So Taylor wouldn't find the jammer window."
 
 "Yes."
 
-"Is that a decision? Does IRiS make—"
+"Is that a decision? Does iRIS make—"
 
 "That," Kate said, "is a question for someone with a much larger whiteboard than we have on this ship."
 
