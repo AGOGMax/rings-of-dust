@@ -189,9 +189,9 @@ last moment before he does.
 
 Jill picks up a transponder signal on a frequency not in any registry — three
 days out from Titan on a route she chose for speed. Low on time, then low on
-fuel. Jill Von Grutzen: black market runner, punk rock in a universe run by
-people who look like her cousins — she knows she is distantly related to Marcus
-Verguld and the dynasty, has always known, has never considered it useful. The
+fuel. Jill: black market runner, punk rock in a universe run by people who look like
+her cousins — last name sounds like a Sound of Music villain, relatives with
+money who never looked directly at her, empire is the problem. The
 colony is on an asteroid, habitation carved into the inner tunnel. Tyler Durden
 introduces himself by name. His self-awareness on display: "A soap factory that
 became a death cult on an asteroid nobody wanted" — he does not argue with the
