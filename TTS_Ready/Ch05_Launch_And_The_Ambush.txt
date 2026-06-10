@@ -206,8 +206,7 @@ gather."
 
 Vance asked a question about the cargo bay pressure tolerances — mild, professional, the kind of question that implied he already knew the answer and was interested in whether Taylor did. Taylor answered before the briefing officer had a chance to. Vance's mouth moved in something that was not quite a smile. He said nothing further. The moment passed. Nobody in the room noticed it except the two men it was between.
 
-"How long do we have?" Cole asked, taking a seat as Bitboy Joined him in a
-partnering chair.
+"How long do we have?" Cole asked, taking a seat as Bitboy joined him in a partnering chair.
 
 "Nine and a half years from the initial deployment," Vance replied. "We estimate
 just under two years to get there and position ourselves, a few months for the
@@ -239,8 +238,7 @@ DeMint held the look a moment longer, then turned to the room. "Gear up."
 As they left the briefing room, Cole and Ricardo walked beside their new
 teammates.
 
-"Cole Nova." he introduced himself as he stuck out his hand to Taylor, who let
-it hang for half a beat before extending his.
+"Cole Nova." He introduced himself as he stuck out his hand to Taylor, who let it hang for half a beat before extending his.
 
 "Your reputation precedes you," Taylor said; the tone was not complimentary. He
 challenged Cole's grip and looked past him with his eyes. Ricardo instantly
@@ -332,7 +330,7 @@ After one particularly strenuous module, Ricardo turned to Cole, horsing around
 to break the tension. "I know kung fu!"
 
 Cole had noticed, somewhere in the second day of training, that Sam had adjusted
-to iRIS with unusual ease. No lag. No the brief unfocused look he and Ricardo
+to iRIS with unusual ease. No lag. None of the brief unfocused look he and Ricardo
 had both worn for the first forty-eight hours while their heads recalibrated
 around a presence that was no longer only theirs. Sam's eyes had been clear from
 the first morning. He didn't know what to make of it yet. He kept moving.
@@ -758,7 +756,7 @@ squawking, bitch."
 
 The Range Rover turned towards a manufacturing district with abandoned factories
 standing like silent sentinels of a bygone era of productivity. Its headlights
-pierced the deepening night, illuminating a chain link and shadows that embraced
+pierced the deepening night, illuminating a chain-link fence and shadows that embraced
 forgotten streets and buildings. Heavy with the stench of rust and decay, the
 air signaled desolation and danger. Emily spotted a vehicle, untouched by
 scavengers and understandably so, for it no longer bore any of its intended
@@ -782,7 +780,7 @@ The heavy silence that descended upon the car, punctuated only by the subtle hum
 of its idling engine, was palpable. Greenbaum's hand, previously resting
 casually by his side, moved with chilling deliberation towards the concealed
 firearm under his armpit, the metal glinting ominously in the dim light.
-Recognizing the imminent threat, Sharon met Greenbaum's gaze, She did not move.
+Recognizing the imminent threat, Sharon met Greenbaum's gaze. She did not move.
 
 Sharon's hand found the door handle. She did not look at Greenbaum. She looked
 at Emily — one look, the kind that meant now — and flung the car door open.
