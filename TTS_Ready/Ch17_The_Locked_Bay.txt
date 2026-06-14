@@ -11,7 +11,7 @@ close, the rings were just math — ice density, particle distribution, the colu
 of DarkX plasma threading the B-ring's inner edge like a bruise under skin.
 
 He was at the command console. Sam was at her station three meters to his left.
-Ricardo stood at the munitions panel, which had nothing to do with munitions
+Heavy stood at the munitions panel, which had nothing to do with munitions
 today and everything to do with the drone telemetry coming back from the first
 two harvesters. Bitboy moved in the far end of the cargo bay — not
 patrol-moving, not assigned-task moving. Just moving. The way he'd been moving
@@ -114,11 +114,11 @@ virtue.
 
 This was the moment they had agreed would come. In the conversation in Cole's
 quarters three weeks ago, when Sam had laid out what she'd found in the iRIS
-cache and Ricardo had stood in the corner with his arms folded and Cole had
+cache and Heavy had stood in the corner with his arms folded and Cole had
 said, okay, so when it comes, we play it through. We go where he asks. We don't
 spook him before we know the shape of what he's trying to do.
 
-Sam closed her station. Ricardo secured the drone telemetry panel. Bitboy was
+Sam closed her station. Heavy secured the drone telemetry panel. Bitboy was
 already near the cargo bay entrance, his LED eyes a steady amber.
 
 They went.
@@ -294,7 +294,7 @@ room."
 She said it the way she said most things. As information.
 
 The atmospheric gauge was at ninety-four percent. Falling slowly. The
-temperature had dropped another degree. Ricardo was near the storage rack — he
+temperature had dropped another degree. Heavy was near the storage rack — he
 had grabbed a thermal wrap from the emergency supply without being told, was
 calculating the same math Cole was calculating.
 
@@ -338,7 +338,7 @@ He chose.
 
 "Get anchored," Cole said. "Both of you. Now."
 
-Ricardo was already moving. Sam dropped to the floor anchor point near the panel
+Heavy was already moving. Sam dropped to the floor anchor point near the panel
 and locked her suit clip without looking. Cole crossed to the harvester housing
 in four steps and worked the manual release — the mechanical one, not the
 electronic seal, because the electronic seal was routed through the bay control
