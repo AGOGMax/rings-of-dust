@@ -21,7 +21,7 @@ equations and his porthole and his expressions that communicated nothing, and
 Cole managed the distance between them the way you manage a splinter you can't
 reach — by leaving it alone and watching for infection.
 
-It was Ricardo who told Cole that this was going to cost him something later.
+It was Heavy who told Cole that this was going to cost him something later.
 
 "Not because he deserves better," Heavy said. They were in the galley, the
 Saturn light coming through the porthole at the long gold angle that meant
@@ -30,7 +30,7 @@ mid-cycle. "Because you do."
 Cole looked at his food.
 
 "You can't carry a man's guilt for him and run a mission at the same time,"
-Ricardo said. "One of those jobs is going to give."
+Heavy said. "One of those jobs is going to give."
 
 "Noted," Cole said.
 
@@ -73,7 +73,7 @@ He looked at the porthole. That was enough for now.
 
 The vessel appeared on long-range scan at 0314 hours, ship time, which meant Sam
 was monitoring and Cole was sleeping his fragmented six-hour cycle and Bitboy
-was in the cargo bay doing something Ricardo described later as "maintenance
+was in the cargo bay doing something Heavy described later as "maintenance
 with an unnecessarily large wrench."
 
 Sam woke Cole with the sensor alert. He was in the cockpit in four minutes.
@@ -385,7 +385,7 @@ quietly, told him: it's working. Don't move.
 He didn't move.
 
 Heavy was at the corridor entrance. Cole could hear him without looking — the
-particular quality of Ricardo's breathing when he was controlling it, the inhale
+particular quality of Heavy's breathing when he was controlling it, the inhale
 held for two beats too long before the exhale. Sam was behind him. Bitboy was
 behind Sam, and Bitboy was making no sound at all, which was louder than any
 noise he could have made.
@@ -553,7 +553,7 @@ going to fall apart."
 
 "I know."
 
-She was quiet for a moment. In the corridor, Ricardo had stopped controlling his
+She was quiet for a moment. In the corridor, Heavy had stopped controlling his
 breathing. Cole could hear him not controlling it. He could hear Bitboy making a
 very small sound that was not sadness and not relief and was both of those
 things.
@@ -597,7 +597,7 @@ Cole looked at Gracie. Gracie, who had been running quietly in the background si
 
 "The conditioning architecture they had me build," Hexo said. "It wasn't original work. It was adapted from a pre-commercial software build — a base code that was never designed for human hosts." He looked past Cole. He was looking at Bitboy. "That code. His architecture. The Federation's EM Cyber program. Alpha took it, scaled it, and gave it to me as the template for what they wanted done to her."
 
-Cole followed the line. The chimp in his lap — the junkie monkey, the test subject from the cage, the animal who had been watching Fight Club with Ricardo every night for three years — was the template for the thing that had been done to Sharon.
+Cole followed the line. The chimp in his lap — the junkie monkey, the test subject from the cage, the animal who had been watching Fight Club with Heavy every night for three years — was the template for the thing that had been done to Sharon.
 
 Gracie, quietly: "That's why I could read it. The code is descended from him. I recognized it the moment I got inside."
 
