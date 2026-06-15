@@ -1,4 +1,4 @@
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Five
 
@@ -43,8 +43,8 @@ Cole managed to extract his hand from the Chancellor's iron grip and hurriedly
 shook Vance's hand. Vance shook hands the way you shake hands when you know the
 grip won't be the most interesting thing about the next five minutes.
 
-"Now, let's get you presentable," DeMint said. "Black will show you to your
-bunks. You'll want to take advantage of tonight; we begin at 0430 hours."
+"Now, let's get you squared away," DeMint said. "Black will handle your
+paperwork. I'd give you the night if we had it — but we don't. We begin now."
 
 DeMint motioned to two young corpsmen, who came to collect Bitboy for kenneling
 and cleaning. Although Cole and Heavy had managed to hose some of the gore off
@@ -114,11 +114,14 @@ efficiency he could not fault and a warmth he could not locate.
 
 "Thank you, iRIS," he said. "Let's get to work."
 
-"Well damn," Heavy said behind him, his tone carrying the dark humor of a man
-who had decided the only way through an uncanny situation was to lean into it,
-"if I had to have another voice in my head, iRIS, I sure am glad it's that of a
-beautiful woman." He grinned at Cole. "You're not alone in the space divorce
-anymore, Jackpot. Now we're both remarried."
+Heavy was rubbing the back of his own hand, watching the silver lines fade
+beneath the skin. "I am Jack's nanoparticle infection," he said.
+
+Then he went on, his tone carrying the dark humor of a man who had decided the
+only way through an uncanny situation was to lean into it, "if I had to have
+another voice in my head, iRIS, I sure am glad it's that of a beautiful woman."
+He grinned at Cole. "You're not alone in the space divorce anymore, Jackpot. Now
+we're both remarried."
 
 Cole shot him a look. Heavy held up his hands in the universal way of a man
 who knows he's right.
@@ -191,7 +194,7 @@ the sound of hidden machinery. The walls glowed soft blue as he was sprayed with
 a disinfectant mist. Moments later, the door at the opposite end of the chamber
 opened, and he entered a small briefing room where Ricardo was already seated.
 
-Vance stood at the front. A man in his late 30s with "Taylor Glenn" embroidered
+Vance stood at the front. A man in his late 30s with "Glenn" embroidered
 on his jumpsuit and a deadpan expression sat at a circular table. Next to him
 was a woman in her 30s, "Drummond" stitched on her name patch, sitting with her
 hands flat on the table in the symmetrical arrangement of someone who had been
@@ -209,9 +212,9 @@ Vance asked a question about the cargo bay pressure tolerances — mild, profess
 "How long do we have?" Cole asked, taking a seat as Bitboy joined him in a partnering chair.
 
 "Nine and a half years from the initial deployment," Vance replied. "We estimate
-just under two years to get there and position ourselves, a few months for the
-retrieval operations, and then two months to return using its energy to expedite
-our journey back."
+six weeks to get there and position ourselves, a couple of months for the
+retrieval operations, and then eight weeks to return, using its energy to
+expedite our journey back. Six months, all told."
 
 "Why is this mission so urgent now?" Heavy asked.
 
@@ -238,11 +241,12 @@ DeMint held the look a moment longer, then turned to the room. "Gear up."
 As they left the briefing room, Cole and Heavy walked beside their new
 teammates.
 
-"Cole Nova." He introduced himself as he stuck out his hand to Taylor, who let it hang for half a beat before extending his.
+"Cole Nova," he said, sticking out his hand to Taylor. "Call me Jackpot."
 
-"Your reputation precedes you," Taylor said; the tone was not complimentary. He
-challenged Cole's grip and looked past him with his eyes. Heavy instantly
-repositioned himself next to Sam.
+Taylor let it hang for half a beat before extending his. "Your reputation
+precedes you, Nova." The tone was not complimentary, and the surname was
+deliberate. He challenged Cole's grip and looked past him with his eyes. Heavy
+instantly repositioned himself next to Sam.
 
 She had watched the handshake. Two seconds. Taylor made it a test and
 Cole didn't take the test — the correct response — which Taylor clocked
@@ -260,14 +264,15 @@ would have for the next six months.
 "Hey there, looks like we're in good company," he said warmly. Cole caught the
 way Ricardo's eyes took her in — not the scan of a man assessing a colleague,
 the scan of a man who had just found the most interesting person in the hallway
-and was trying not to be obvious about it. Ricardo had always had a type, and
+and was trying not to be too obvious about it. Ricardo had always had a type, and
 Sam Drummond was exactly it.
 
 A touch of color flashed in Sam's cheeks as she reached out and took Heavy's
 hand. "Samantha Drummond." A short pause. "Sam." Not a question. Not a request.
 Just the correction, offered once, in the tone of someone who had offered it
 before and knew which people would use it and which people wouldn't. "I read
-your profiles on the way here. You and Officer Nova have quite the resume. We
+your profiles on the way here. You and Jackpot have quite the resume." She used
+the callsign the way she'd offered her own name — easily, already decided. "We
 look forward to assisting you with this vital mission."
 
 She walked over to Bitboy. "Wow, the last remaining EM Cyber, so much cuter than
@@ -926,57 +931,6 @@ away.
 
 
 
-MERIDIAN VII — EMILY DRIVES I-10
-
-Loa had a theory about Emily Nova that she delivered while running
-diagnostics, which was when she delivered all her theories.
-
-The diagnostics panel ran warm. Loa worked with her compass wrist
-resting against the cool edge of the console — a habit she'd had
-long enough that she no longer knew she was doing it.
-
-"She's managing something physical," she said. "The rest schedule
-isn't anxiety. It's a protocol. She's been on it a while."
-
-Kate had noticed the same pattern. "What does that have to do
-with anything."
-
-"Nothing. Operationally." Loa ran a calibration pass. "I just
-think it's worth knowing she's doing this with something working
-against her from the inside, and she's doing it better than
-people who don't have that going on." A pause. "Sharon said she
-was better than the situation required. I think Sharon meant
-more than the situation."
-
-Petyr had started a running log on his personal tablet. He called
-it Mineral Survey Notes, which was technically accurate since they
-were on a mineral survey vessel. Nobody had told him to do this.
-Nobody had told him not to. He wrote: E. Nova confirmed eastbound.
-Sommi walking distance. Clear passage expected. Then
-he wrote: She pulled over for Sommi instead of driving away. She
-figured out he was friendly before she had reason to know. I
-don't know what rank that is.
-
-He showed it to Kate later.
-
-She read it. "There's a reason we don't put them in order."
-
-"I know. You explained."
-
-"A compass tells you where north is. A compass doesn't tell you
-whether north is where you need to go." She handed back his
-tablet. "Emily Nova has been pointing herself in the right
-direction since before she knew the network existed. That's not
-rank. That's orientation."
-
-"There should be a patch for that."
-
-Kate thought about it. "There is. It's called a droplet. But
-the droplet isn't the end state. The droplet just means you're
-wet." She paused. "She's soaked."
-
----
-
 Kate had been running the filtered sweep for four months before anything interesting happened.
 
 "Interesting" was relative. Everything that moved through Alpha-controlled relay bands was interesting in the way a locked door was interesting: the interest was in the fact of the lock, not in what you could hear through the wood.
@@ -1008,60 +962,3 @@ The recycled air tasted like metal and old effort. Kate had stopped smelling it 
 A pause. "Who's Cole Nova?"
 
 She turned around and looked at him for a long moment. "Get your patch out of wherever you've sewn it and read the briefing that came with it."
-
-
-
-MERIDIAN IV — THE NIGHT AFTER THE FARM ROAD
-
-Kate had been on the Meridian for three years. She had run sweeps
-through six significant operations. She had logged intercepts that
-became the evidentiary backbone of what was now being built toward
-the Grand Hall.
-
-She had not cried on the job before.
-
-"Confirm," Dayo said. He wasn't asking. He knew she had confirmed.
-
-"Sniper shot. Empty lot at the edge of the city. Sharon Teez. Not
-expected to survive." She stopped. Started again. "Confirmed
-taken by the Alpha vehicle. Not confirmed dead. But the
-augmentation vessel is on its way to intercept the Golden Dawn's
-course." Another stop. "They're going to use her."
-
-No one spoke.
-
-"I ran with her for six months," Loa said finally. She had her
-back to the room. "Before we stopped having reasons to be in the
-same city."
-
-Kate hadn't known that.
-
-"She had a droplet," Loa said. "She never asked what it meant.
-She just understood it. Immediately. She said: 'Okay, you're
-people who do something about it instead of just watching.' And
-then she asked how she could help."
-
-Petyr was very still. He was learning that stillness was the
-appropriate response to some things, which was better than the
-alternatives.
-
-The ship at 0200 was different from the ship at 0800 — not
-quieter, but heavier. The hull made a specific sound at this hour
-that Loa said was thermal expansion. Kate had started thinking of
-it as the ship breathing.
-
-"Emily Nova is alive," Kate said, because someone had to say it.
-"She was taken to an Alpha facility and she got out. She's alive.
-Rachel has her."
-
-"Then we have something to work with," Dayo said.
-
-On the wall beside Kate's station — where no modification to
-standard vessel interior guidelines had been officially authorized,
-but where such authorizations had never been specifically enforced
-either — there was a small stencil. A water droplet, gunmetal on
-gray. Sharon had not put it there. But the person who had put it
-there had known her.
-
-Kate touched it briefly before she went back to her panel.
-
