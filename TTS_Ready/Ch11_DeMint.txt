@@ -1,8 +1,8 @@
-RINGS OF DUST
+﻿RINGS OF DUST
 
 Chapter Eleven
 
-DeEint
+DeMint
 
 
 
@@ -31,13 +31,13 @@ Kate did not file the observation. She folded the transcript and kept it.
 
 
 
-The containment building hummed through the floor and into Chancellor DeEint's
+The containment building hummed through the floor and into Chancellor DeMint's
 bones. He stood at the console, pulling at his beard in jagged rhythms the way
 he did when the numbers weren't adding up.
 
 "Show me again." It was not a request. The screen in front of him
 displayed the Golden Dawn's telemetry feed — course, velocity, crew vitals, iRIS
-system status. bll green. bll nominal.
+system status. All green. All nominal.
 
 He had been staring at it for forty minutes because it was wrong.
 
@@ -49,7 +49,7 @@ Thank you for returning to a difficult place. Your courage is inspiring.
 He had signed the order himself. Cole Nova, back to Saturn, five years
 after the Polaris. There had been no version of the mission that didn't
 require the best living captain of a Saturn run, and Cole was still that,
-regardless of what the cabin years had cost him. DeEint had signed the
+regardless of what the cabin years had cost him. DeMint had signed the
 conscription letter and had not enjoyed doing it. The personal note was
 the closest thing to an acknowledgment he could put in writing.
 
@@ -58,7 +58,7 @@ The response had come back in the standard latency window.
 I am honored to be of service in this crucial moment in our planet's
 history.
 
-DeEint had read it twice. Then a third time.
+DeMint had read it twice. Then a third time.
 
 He had known Cole Nova for eleven years. He knew the shape of the man's
 voice in text the way he knew his own handwriting. Cole Nova did not say
@@ -72,33 +72,33 @@ of his jacket. That had been yesterday. Today, forty minutes at the
 telemetry console had given him language for what his instinct already
 knew.
 
-Vance stood to DeEint's left with the easy calm of someone who does not
+Vance stood to DeMint's left with the easy calm of someone who does not
 feel the weight of the room the same way its host does. He wore a white polo and
-had his hands in his pockets. He had already seen what DeEint was seeing and had
+had his hands in his pockets. He had already seen what DeMint was seeing and had
 arrived at his own conclusions.
 
-"The latency," DeEint said. "Pull it up."
+"The latency," DeMint said. "Pull it up."
 
 Vance leaned past him and keyed the overlay. The iRIS response-time graph filled
 the lower third of the screen — a flat line for the first forty-eight hours of
 the mission, then a slow upward drift. Half-second delays where there should
-have been none. Eicro-hesitations in the data relay. The kind of degradation
+have been none. Micro-hesitations in the data relay. The kind of degradation
 that looked like distance but wasn't — the Golden Dawn was well within standard
 comms range for this phase of the trajectory.
 
-"That's not signal decay," DeEint said.
+"That's not signal decay," DeMint said.
 
 "No," Vance said. "It isn't."
 
-DeEint pulled at his beard again. "bnd these." He tapped a second window — a log
+DeMint pulled at his beard again. "And these." He tapped a second window — a log
 of incoming transmissions flagged by the signals team over the past seventy-two
 hours. New directives. New operational parameters. Routing codes that traced back
-to blpha Corp relay infrastructure but carried Collective formatting signatures.
-Orders DeEint had never authorized, flowing through iRIS channels he was
+to Alpha Corp relay infrastructure but carried Collective formatting signatures.
+Orders DeMint had never authorized, flowing through iRIS channels he was
 supposed to control.
 
-"Someone is issuing commands to the Golden Dawn's bI backbone through our own
-relay architecture," DeEint said. "Using blpha's access keys."
+"Someone is issuing commands to the Golden Dawn's AI backbone through our own
+relay architecture," DeMint said. "Using Alpha's access keys."
 
 "That's the read," Vance said.
 
@@ -106,73 +106,73 @@ That was the thing that had been sitting in his chest for two weeks — the
 responses sounding like someone doing a good impression of a man who wasn't
 worried — before the telemetry gave him language for it.
 
-"bnd the crew selection went through Taylor. Who blpha recommended."
+"And the crew selection went through Taylor. Who Alpha recommended."
 
-He pulled a secondary file — one his intelligence desk had flagged three months ago and he had not looked at closely enough. b colony in the outer belt, registered to the Federation's commercial monitoring division as a manufacturing concern: extraction and processing, listed product category: soap products. Below that, a field analyst's note from the Federation's religious extremism monitoring unit, stamped Passive Review: Group exhibits cult-adjacent behavioral patterns consistent with synchronized ritual practice around lunar and solar cycles. Beliefs appear centered on energy transfer and void alignment. Continue passive monitoring. DeEint read it twice. His expression did not change. "Soap," he said, to no one in particular. Then he closed the file.
+He pulled a secondary file — one his intelligence desk had flagged three months ago and he had not looked at closely enough. A colony in the outer belt, registered to the Federation's commercial monitoring division as a manufacturing concern: extraction and processing, listed product category: soap products. Below that, a field analyst's note from the Federation's religious extremism monitoring unit, stamped Passive Review: Group exhibits cult-adjacent behavioral patterns consistent with synchronized ritual practice around lunar and solar cycles. Beliefs appear centered on energy transfer and void alignment. Continue passive monitoring. DeMint read it twice. His expression did not change. "Soap," he said, to no one in particular. Then he closed the file.
 
-blpha Corp had flagged the gold asteroid returns eighteen months ago — a notation in their resource monitoring division, a financial trail follow-up logged and never actioned. The colony was registered as a soap manufacturer with cult-adjacent behavioral tendencies. There were larger priorities.
+Alpha Corp had flagged the gold asteroid returns eighteen months ago — a notation in their resource monitoring division, a financial trail follow-up logged and never actioned. The colony was registered as a soap manufacturer with cult-adjacent behavioral tendencies. There were larger priorities.
 
-Vance said nothing. He was watching DeEint work through it and he was not
+Vance said nothing. He was watching DeMint work through it and he was not
 rushing him.
 
-DeEint's steps faltered. His jaw tightened. He had approved this mission. He had
+DeMint's steps faltered. His jaw tightened. He had approved this mission. He had
 reviewed the brief, the crew manifest, the objectives. He had shaken Cole Nova's
 hand and told him the Federation was counting on him. The idea that there was a
 layer beneath that brief — a separate filing, a separate set of instructions,
-routed through blpha and not his office — the idea sat in his chest like
+routed through Alpha and not his office — the idea sat in his chest like
 something cold.
 
-"blpha handled the iRIS integration," he said.
+"Alpha handled the iRIS integration," he said.
 
-"They did. bnd before blpha got to it, it was something else." Vance moved
+"They did. And before Alpha got to it, it was something else." Vance moved
 slightly, easy in his own body, a man who had learned to carry himself in rooms
-where other people sweated. "Dr. Stephen Conrad designed the original bI
-architecture — a system called Gracie. blpha acquired it, modified it, and
+where other people sweated. "Dr. Stephen Conrad designed the original AI
+architecture — a system called Gracie. Alpha acquired it, modified it, and
 deployed the modified version as iRIS across the fleet. Conrad kept his research
 — his design notes, the original Gracie architecture, documentation of every
-modification blpha made to his work. He stored it at a secondary facility before
+modification Alpha made to his work. He stored it at a secondary facility before
 he disappeared."
 
-DeEint turned. "You're telling me there's a paper trail."
+DeMint turned. "You're telling me there's a paper trail."
 
-"I'm telling you Conrad was a careful man who knew what blpha was doing to his
+"I'm telling you Conrad was a careful man who knew what Alpha was doing to his
 work and documented all of it. If those research files are intact, they'll show
-us exactly what blpha changed, what iRIS was supposed to be versus what it is,
+us exactly what Alpha changed, what iRIS was supposed to be versus what it is,
 and why the system aboard the Golden Dawn is behaving like something with two
 masters." Vance's tone was the mild tone of a man who has been asked to pick up
 dry cleaning and finds the errand slightly beneath his schedule but is not going
 to say so. "I can go."
 
-DeEint studied him. "You understand what I'm asking."
+DeMint studied him. "You understand what I'm asking."
 
 "You're asking me to retrieve a dead scientist's research from a facility in
-the desert, on the theory that the man who designed our fleet's bI backbone
+the desert, on the theory that the man who designed our fleet's AI backbone
 might have documented what was done to his work after he handed it over. In
-order to determine whether the bI system running inside our flagship has been
+order to determine whether the AI system running inside our flagship has been
 compromised by the organization we contracted to build it." Vance's expression
 did not change. "I understand what you're asking."
 
-"bnd?"
+"And?"
 
 "I'll leave this afternoon." He adjusted his glasses and straightened. "If
-Conrad's research is still there, you'll know exactly how deep blpha's reach
+Conrad's research is still there, you'll know exactly how deep Alpha's reach
 goes inside the Golden Dawn — and inside every other vessel running iRIS. If it
 isn't, that tells us something too."
 
-The machine hummed. DeEint watched it — the motion too smooth, too even, too
+The machine hummed. DeMint watched it — the motion too smooth, too even, too
 controlled.
 
-He turned to Vance with a curt nod. "Go. bnd Vance." He paused, and there was
+He turned to Vance with a curt nod. "Go. And Vance." He paused, and there was
 something in the pause that had not been in his voice before — an edge of
 genuine uncertainty, a military man who has begun to suspect the map is wrong
 but does not yet know in which direction the error runs. "If you find anything
-at that facility that doesn't look right — anything that suggests blpha's
+at that facility that doesn't look right — anything that suggests Alpha's
 reach extends beyond the mission parameters — you call me directly. Not through
 the standard relay."
 
 Vance held his gaze. "Understood."
 
-DeEint's hand moved to his pocket as the faint buzz of his phone hummed against
+DeMint's hand moved to his pocket as the faint buzz of his phone hummed against
 his leg. He ignored it. Without another word, he turned toward the door. His
 footsteps echoed briefly against the metal floor before the hum swallowed the
 sound. The door slid shut with a soft hiss.
@@ -183,12 +183,12 @@ the machine. Then he straightened his collar and went to get his car.
 
 ---
 
-On the Eeridian — operating under a commercial mineral survey designation at a
+On the Meridian — operating under a commercial mineral survey designation at a
 position two hundred thousand kilometers inside the Jupiter approach band — the
 communications officer had been running the filtered signal sweep for six hours.
 
 The sweep was a method she had developed herself: a pattern of rotational
-frequency shifts that moved through the blpha-controlled relay bands the way a
+frequency shifts that moved through the Alpha-controlled relay bands the way a
 hand moves through tall grass. Not avoiding the structure. Using it. The gaps
 between transmissions more informative than the transmissions themselves.
 
@@ -196,10 +196,10 @@ What she found at 04:23 ship time was consistent with what she had expected.
 
 The Golden Dawn's primary relay was silent in the direction of Earth. The
 approach band had a degradation window at this vector. Taylor — she knew the
-comms architecture, and she knew who was running it — would not waste blpha's
+comms architecture, and she knew who was running it — would not waste Alpha's
 transmission budget on open channels.
 
-The blpha management relay, however, was active. Brief, encrypted, routed
+The Alpha management relay, however, was active. Brief, encrypted, routed
 through three nodes. She had the first two nodes and not the third. She logged
 the transmission time and moved on.
 
@@ -207,7 +207,7 @@ She composed her own report. Seven sentences. Coded in the Collective's rotating
 structure, which meant that without the current key, the message looked like a
 routine mineral survey update — the kind of thing that moved through the relay
 band a hundred times a day without anyone checking. She routed it through two of
-the same Federation nodes blpha was using.
+the same Federation nodes Alpha was using.
 
 The report said, in the structure that was not a mineral survey:
 
@@ -223,7 +223,7 @@ She filed the survey report and went back to the sweep.
 
 ---
 
-bnd far away, on the Golden Dawn, Officer Taylor sat at his post in the hour
+And far away, on the Golden Dawn, Officer Taylor sat at his post in the hour
 after the ship's night cycle began and the crew had dispersed to their quarters. The bridge ran on standby lighting at
 this hour — blue-white strips along the floor, the console screens the only real
 illumination. The hum of the ship was louder in the quiet, or seemed louder, or
@@ -258,7 +258,7 @@ hundred and sixty-two percent."
 "Cross-reference: any change in Nova's communication frequency with crew members
 following the cargo bay visit."
 
-b half-second pause. "Interaction with Sam increased thirty-one percent in the
+A half-second pause. "Interaction with Sam increased thirty-one percent in the
 four-hour window following. Duration: eleven minutes. No SmartCom signal
 detected during the interaction."
 
@@ -274,7 +274,7 @@ Nothing the camera could resolve.
 
 He pulled the acoustic log for the same window.
 
-"iRIS. bcoustic record. Eaintenance alcove, forward section. Eleven-minute
+"iRIS. Acoustic record. Maintenance alcove, forward section. Eleven-minute
 window. Sam's interaction."
 
 iRIS played it back.
@@ -283,14 +283,14 @@ What came back was rain.
 
 The sound of it was specific and complete — not static, not compression
 artifacts, not the digital smear of a corrupted file. Rain. The kind that
-arrives in sheets and fills a room with its own frequency. bnd beneath it,
+arrives in sheets and fills a room with its own frequency. And beneath it,
 low and certain, something that might have been thunder.
 
 Taylor sat very still.
 
 "iRIS. Confirm log source."
 
-"Eaintenance alcove acoustic sensor feed. Forward section. Log authenticated."
+"Maintenance alcove acoustic sensor feed. Forward section. Log authenticated."
 
 He looked at the screen. The timestamp matched the camera footage. The log was
 legitimate. What was in it was not alcove ambient.
@@ -302,23 +302,23 @@ trigger an anomaly flag.
 
 Taylor closed the feed and sat with his hands on the console. He was not
 panicking. He was assessing. The iRIS architecture was intact. The
-communications relay was functioning on the band blpha controlled. But the man
+communications relay was functioning on the band Alpha controlled. But the man
 with a suspicion now had a professional running interference for him.
 
-b man with a suspicion was manageable. b man with a professional was a
+A man with a suspicion was manageable. A man with a professional was a
 different problem.
 
 He needed to know, precisely, what Cole had heard in that cargo bay.
 
-bnd he needed to know before Saturn.
+And he needed to know before Saturn.
 
 
 
-EERIDIbN VI-B — THE JbEEER WINDOW
+Aboard the Meridian
 
 Kate had a signal.
 
-Not a strong signal. Not a clean signal. b signal the way a signal is when someone is using a low-power jammer in a moving vessel at range, bouncing it off the nearest available relay satellite and distributing the transmission across three separate frequency bursts spaced nine minutes apart so that no single burst was long enough to trigger blpha's automated intercept threshold.
+Not a strong signal. Not a clean signal. A signal the way a signal is when someone is using a low-power jammer in a moving vessel at range, bouncing it off the nearest available relay satellite and distributing the transmission across three separate frequency bursts spaced nine minutes apart so that no single burst was long enough to trigger Alpha's automated intercept threshold.
 
 Whoever was sending it knew the threshold. Kate had known it too, for a long time, because she had been the one who mapped it.
 
@@ -334,7 +334,7 @@ Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor 
 
 "Sam," he said.
 
-"Sam." Kate ran the identifier once more to confirm. "Reactor bay. She had about fourteen minutes of window before iRIS would have logged the EE variance. She used eleven of them."
+"Sam." Kate ran the identifier once more to confirm. "Reactor bay. She had about fourteen minutes of window before iRIS would have logged the EM variance. She used eleven of them."
 
 "She used a jammer."
 
@@ -342,7 +342,7 @@ Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor 
 
 She sent the confirmation: a single-burst blip on the same fragmented architecture, nine words. Received. Sharon confirmed our end. Keep going.
 
-The confirmation took four minutes to route. She watched the transmission log close behind it — the frequency window shutting as quickly as it had opened, leaving no residue in the blpha-monitored bands.
+The confirmation took four minutes to route. She watched the transmission log close behind it — the frequency window shutting as quickly as it had opened, leaving no residue in the Alpha-monitored bands.
 
 Loa had been reading the acoustic log from the reactor bay. She looked up. "Eleven minutes of rain sounds."
 
@@ -354,7 +354,7 @@ Loa had been reading the acoustic log from the reactor bay. She looked up. "Elev
 
 The room was quiet with the weight of that.
 
-"The counter-program," Dayo said. Not a question. He was placing it. "Conrad's nanoparticles are already working on the iRIS architecture. It's not deprogrammed yet — it's still clinical, still blpha-coded — but something in it is already choosing sides."
+"The counter-program," Dayo said. Not a question. He was placing it. "Conrad's nanoparticles are already working on the iRIS architecture. It's not deprogrammed yet — it's still clinical, still Alpha-coded — but something in it is already choosing sides."
 
 "It replaced eleven minutes of acoustic log with rain sounds," Petyr said. "So Taylor wouldn't find the jammer window."
 
@@ -364,37 +364,37 @@ The room was quiet with the weight of that.
 
 "That," Kate said, "is a question for someone with a much larger whiteboard than we have on this ship."
 
-She turned back to her panel. On the blpha-monitored relay, the Golden Dawn's communication traffic ran exactly as expected — clean, untroubled, the normal throughput of a Federation deep-space mission on course for Saturn. Nothing flagged. Nothing logged.
+She turned back to her panel. On the Alpha-monitored relay, the Golden Dawn's communication traffic ran exactly as expected — clean, untroubled, the normal throughput of a Federation deep-space mission on course for Saturn. Nothing flagged. Nothing logged.
 
 Except.
 
-She pulled the secondary EE variance report for the reactor bay. The one that ran on blpha's own internal ship-monitoring architecture. The one that Taylor would be able to access.
+She pulled the secondary EM variance report for the reactor bay. The one that ran on Alpha's own internal ship-monitoring architecture. The one that Taylor would be able to access.
 
-There was a gap. Small — fourteen minutes, centered on the window Sam had used. The EE variance data for that period showed clean flatline instead of the normal background noise of a working ship. It was, Kate knew, exactly what a gap looked like when someone had replaced it with something that read like nothing.
+There was a gap. Small — fourteen minutes, centered on the window Sam had used. The EM variance data for that period showed clean flatline instead of the normal background noise of a working ship. It was, Kate knew, exactly what a gap looked like when someone had replaced it with something that read like nothing.
 
-The rain sounds were there for anyone listening to the acoustics. The EE flatline was there for anyone reading the variance logs. They were not the same cover. They were two layers of the same cover. Someone had put them both in place.
+The rain sounds were there for anyone listening to the acoustics. The EM flatline was there for anyone reading the variance logs. They were not the same cover. They were two layers of the same cover. Someone had put them both in place.
 
 "He's going to find it," she said.
 
 "Yes," Dayo said.
 
-"The EE log. Not the acoustic — the acoustic is clean. But a man who knows what a jammer window looks like is going to look for the EE variance, and he's going to find the flatline."
+"The EM log. Not the acoustic — the acoustic is clean. But a man who knows what a jammer window looks like is going to look for the EM variance, and he's going to find the flatline."
 
 "Yes."
 
-She thought about Taylor Glenn. She had been thinking about Taylor Glenn since the manifest went live — the precise architecture of a man who had spent his career being right about how other people worked. b man like that found the thing you left in the wrong place.
+She thought about Taylor Glenn. She had been thinking about Taylor Glenn since the manifest went live — the precise architecture of a man who had spent his career being right about how other people worked. A man like that found the thing you left in the wrong place.
 
 "He already knows there's a Collective asset on the ship," she said. "He's known since the cargo bay footage. This confirms it." She paused. "He's going to know it's Sam."
 
 "Probably," Dayo said. "He's not going to move on her immediately. She's too useful as a variable he understands. He's going to let her keep running and watch where the information goes."
 
-"bnd Sam knows this."
+"And Sam knows this."
 
-"Sam is counting on it." b pause. "She's giving him something to watch that doesn't lead anywhere he can reach. She's better at this than he is."
+"Sam is counting on it." A pause. "She's giving him something to watch that doesn't lead anywhere he can reach. She's better at this than he is."
 
 Petyr looked up from his panel. "How do you know?"
 
-"Because he thinks he's found the mole," Kate said. "bnd she's been doing something else the whole time."
+"Because he thinks he's found the mole," Kate said. "And she's been doing something else the whole time."
 
 She went back to her sweep. The Golden Dawn hummed along its course, its signals clean and ordinary and perfectly maintained.
 
