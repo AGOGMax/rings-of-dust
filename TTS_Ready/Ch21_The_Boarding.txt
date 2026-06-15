@@ -1,4 +1,4 @@
-﻿RINGS OF DUST
+RINGS OF DUST
 
 Chapter Twenty-One
 
@@ -832,7 +832,7 @@ He went back to his quarters. He did not speak for the rest of the journey home.
 
 
 
-MERIDIAN IX — THE BOARDING
+Aboard the Meridian
 
 There was no good way to watch the thermal signature data and
 know what it meant.
@@ -932,7 +932,7 @@ On the wall: the droplet. Gunmetal on gray. Sharon's.
 
 
 
-MERIDIAN X — FED-HEX-5555 GOES QUIET
+Aboard the Meridian
 
 The Alpha vessel stopped transmitting to its home relay at 05:17.
 
