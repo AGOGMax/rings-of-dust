@@ -68,13 +68,13 @@ She waited.
 
 "I've handled Darker Matter cells for six years."
 
-"So had Elsa, in theory. She had read the process. She understood it on paper." He looked at her. "Then she came out here and encountered the material at cave-scale and understood that she hadn't understood anything."
+"Handling them is not the same thing." He looked at her. "When Elsa started, there were no Darker Matter cells to handle. No process to read, no industry, no laboratory that had ever made one — the world still ran on the old fuels. She didn't learn this from anyone. She came out here with a set of old teachings and a theory about the material, and she found out what DarkX was, and what it would do, and how to make it hold — alone, at cave-scale, years before anyone in a clean lab on Earth stumbled onto a piece of what she already knew."
 
 "How long."
 
 "Three or four days to make them. Eleven days to sync." He watched her work through the math. "You're not waiting eleven days to find out if they work. You're waiting eleven days because that's how long it takes."
 
-She thought about her contract window. She thought about leaving with two cells she had made herself, in a room where Elsa Klein had made the first ones, three days past the moon that people back on Earth spent their whole lives dreaming about reaching.
+She thought about her contract window. She thought about leaving with two cells she had made herself, by hand, the way Elsa Klein had made the first ones, three days past the moon that people back on Earth spent their whole lives dreaming about reaching.
 
 "Show me," she said.
 
@@ -86,7 +86,7 @@ Forty meters down, through a passage cut by hand in the colony's third year, the
 
 She stopped at the entrance.
 
-The walls were dark and irregular — natural formation, a cave the rock had made over millions of years without consulting anyone. The DarkX had run through the stone here once in every direction: not a pocket or a seam but a vein system threading through the asteroid's interior like a nervous system. It was dry now, had been dry for seventeen years. But the rock remembered. The veins were dry, the material gone, and the cave
+The walls were dark and irregular — natural formation, a cave the rock had made over millions of years without consulting anyone. The DarkX had run through the stone here once in every direction: not a pocket or a seam but a vein system threading through the asteroid's interior like a nervous system. It had been dry for seventeen years now — the material gone, the asteroid's whole supply spent. But the rock remembered, and the cave
 still held the quality of a room where something important had happened.
 
 "When the 369 arrived, the asteroid was harder than anything they'd modeled," Tyler said. "The pressurization kept failing. The thermal systems took longer than projected. People died in the first weeks and kept dying — cold, equipment failures, the ways a hostile environment finds every gap." He paused. "It took most of a year for the numbers to fall to eleven. One at a time, over months."
@@ -95,12 +95,12 @@ Jill said nothing.
 
 "They hadn't brought provisions for the return trip. That wasn't an accident." He said it simply, the way you state something that has always been true. "They flew past Titan — past the moon that people back on Earth spent their whole lives dreaming about reaching — and they didn't save anything for the swim back. That was the commitment they made before they left, and three hundred and fifty-eight of them kept it completely." A pause. "By the time eleven were left, the ship's heat and food stores were gone. No extraction window. No path out. An asteroid and a partially pressurized tunnel and eleven people at the end of everything they'd brought with them."
 
-He looked at the dry vein in the wall.
+He looked at the vein in the wall, long spent.
 
 "Elsa had a set of teachings with her. Old world — from a woman in the Order whose records she'd carried since before they left. The core law: do what thou wilt shall be the whole of the Law. Which doesn't mean what it sounds like. It means: find the single irreducible purpose your existence is here to serve and pursue it without allowing anything to veer you from it." He paused. "And a ritual at the center of that practice — Liber Samekh. The invocation of your own highest self. Your truest purpose made conscious and speakable."
 
 She waited. The cave air was cold against her arms. She could feel the shape
-of the dry vein in the wall the way you feel a river through the ground it
+of the vein in the wall the way you feel a river through the ground it
 carved.
 
 "She fasted for three days first. Cold water, nothing in the body that wasn't essential. You're trying to remove the noise so you can hear the signal." He looked at the cave floor. "She came down here and practiced the ritual in the dark. Standing with her arms outstretched in the posture the practice requires. Vibrating the names." He was quiet for a moment. "Thee I invoke, the Bornless One. Thee that didst create the Earth and the Heavens. The names go on for a long time. You vibrate them from the chest, not the throat — you feel them in the body more than you hear them. The ritual isn't a petition. It's a declaration. This is what I am. This is what I came here to do. I am still here to do it. Spoken into whatever is listening, until the noise is gone and only the signal is left."
@@ -108,8 +108,6 @@ carved.
 He looked at the far wall, at the thin exhausted trace of the old vein.
 
 "She was mid-ritual when something moved."
-
----
 
 He said it without drama. The way you report what a careful scientist wrote down.
 
@@ -127,13 +125,13 @@ Jill thought about the Polaris. What everybody in any transit corridor knew abou
 
 "It chose to separate," she said.
 
-"It chose to separate. Small amounts, slowly, into a vessel it had decided to enter. That's the whole difference." He turned toward the passage up. "Elsa didn't discover a technique. She was given one."
+"It chose to separate. Small amounts, slowly, into a vessel it had decided to enter. That's the whole difference." He turned back toward the passage that led up out of the cave. "Elsa didn't discover a technique. She was given one."
 
 ---
 
 She stood in the cave after he left.
 
-The vein in the far wall was dry now, had been dry for seventeen years, the DarkX long since spent through decades of making and sacrifice. She could feel the shape of what had been here — not a presence anymore, more like the impression a presence leaves in a room. She thought about Elsa in this cave, in the dark, speaking her purpose into it, and something in the wall beginning to move toward the sound of her.
+The vein in the far wall held nothing now, the asteroid's DarkX long since spent through decades of making and sacrifice. She could feel the shape of what had been here — not a presence anymore, more like the impression a presence leaves in a room. She thought about Elsa in this cave, in the dark, speaking her purpose into it, and something in the wall beginning to move toward the sound of her.
 
 She thought about the children running in the late afternoon light.
 
@@ -208,19 +206,27 @@ Syncing. It would do this for eleven days. She would feel it the whole time.
 
 She walked the tunnel. She ate in the kitchen. She watched Petra run her logs without comment and did not ask about the notebooks and noticed Petra notice this.
 
-On the second day, a woman named Yun sat with her in the work bay while they ran cable for the Void-Walker membrane equipment. Yun had been at the colony for three years and had the quality of someone who had thought very carefully about something and arrived at a position she was comfortable defending.
+On the second day, a woman named Yun sat with her in the work bay while they ran cable for the Void-Walkers' tunnel rigging. Yun had been at the colony for three years and had the quality of someone who had thought very carefully about something and arrived at a position she was comfortable defending.
 
 "The two groups," Jill said. "The ones who were here before Tyler and the ones who came after."
 
-"Loyalists," Yun said. "Petra's people. They maintain what Elsa built — the science, the cells, the cycle." She set down the cable spool. "Elsa mapped all of it. Years of observation, no commercial pressure, just watching. The first cells took forty-five days — she had no liquid nitrogen, only the cold the asteroid itself provided. The deep cold of a rock that had not been near a star in an era anyone could calculate. The DarkX responded to that cold. Forty-five days for each cycle to complete, each one Elsa's alone, each one a full asteroid rotation of patience. Then she found that the extreme cold — the near-absolute-zero of the night phase, when the rotation carried the preparation room into the dark — cut the cycle to eleven days. The asteroid's own cold did what liquid nitrogen would do decades later in a laboratory." A pause. "Then Tyler arrived with a different question."
+"Loyalists," Yun said. "Petra's people. They maintain what Elsa built — the science, the cells, the cycle." She set down the cable spool. "Elsa mapped all of it. Years of observation, no commercial pressure, just watching. The first cells took forty-five days — she had no liquid nitrogen, only the cold the asteroid itself provided. The deep cold of a rock that had not been near a star in an era anyone could calculate. The DarkX responded to that cold. Forty-five days for each cycle to complete, each one Elsa's alone, each one a full asteroid rotation of patience. Then she found that the extreme cold — the near-absolute-zero of the night phase, when the rotation carried the preparation room into the dark — cut the cycle to eleven days. The asteroid's own cold did what liquid nitrogen would do decades later in a laboratory."
 
-"Which question."
+"And now?" Jill said. "You told me the rock's been dry seventeen years."
 
-"Not how. Why." Yun looked at the membrane equipment. "Elsa understood the mechanics completely. Tyler asked what the mechanics were for."
+"Now we get the raw material the long way around." Yun rolled the spool back up. "The Collective runs us Darker Matter crystals — cells they've depleted off Alpha's grid, crystals they can't sit on forever anyway. We sit on them. After eleven days a crystal gives up the lattice and reverts to raw DarkX, plasma again, and that's the thing Elsa's whole process was built on. We make the cells from that, in her room, the way she did." A pause. "It wasn't always like this. When the asteroid first ran dry, the making just stopped — Elsa was already gone, there was no DarkX and no maker, and the sacrifices stopped with it. The colony didn't starve over it. We had more gold by then than three generations could spend. We bought what we needed and we lived. But the cave went quiet. For years nobody walked the east tunnel."
+
+"So what started it again."
+
+"Tyler." She looked toward the tunnel. "Six years ago he came in off a supply hauler carrying his own grief and a crate of factory cells — the commercial kind, the kind the rest of the world burns without thinking about it. He'd read everything Elsa ever wrote. He stood in the main tunnel and made the most coherent argument Petra had ever heard for why a cell should be given to the void instead of managed, and then he carried one down the east tunnel and let it go. Eleven days later a gold asteroid came back. The ceremony's been running again ever since — Petra's people for the science of it, Tyler's people for the meaning."
+
+"Not how. Why," Jill said.
+
+"Not how. Why." Yun nodded slowly. "Elsa understood the mechanics completely. Tyler asked what the mechanics were for."
 
 Jill thought about the cave. About what moved toward the sound of a woman declaring her purpose in the dark.
 
-"Six years ago Tyler stood in the main tunnel with one of his own cells and delivered the most coherent argument Petra had ever heard for why the cells should be given to the void rather than managed," Yun said. "She told him he was wrong. He agreed she might be right. Then he carried his cell down the east tunnel and released it where the gravity let go." A pause. "Eleven days later, a gold asteroid appeared. The Loyalists called it the void sacrifice. Tyler didn't argue with the name — he agreed it was a sacrifice, just disagreed about what was lost. Twenty meters across. Petra did the math herself. She told him he was still wrong. She still means it."
+"That first time, Petra told him he was wrong," Yun said. "He agreed she might be right. He let the cell go anyway. He didn't argue with the word sacrifice — he just disagreed about what was lost." A pause. "When the gold came back — twenty meters across — Petra did the math herself. She told him he was still wrong. She still means it."
 
 "But the math is right."
 
@@ -234,7 +240,7 @@ On day five Tyler brought her to where the sacrifice cells were racked at the fa
 
 On day seven the Void-Walkers gathered at the east tunnel.
 
-She stood at the entrance and watched — cells carried with both hands, the walk into the east tunnel, the long quiet after each one went past the point where the rock's gravity let go. Whatever passed that threshold was not coming back. She watched their faces after. Not grief, not relief. The specific quality of completion.
+She stood at the entrance and watched — cells carried with both hands, the walk into the east tunnel, the long quiet after each one went past the point where the rock's gravity let go. The tunnel ran toward the black hole the asteroid sat at the edge of. Past that threshold the hole's pull took over from the rock's, and whatever crossed the line went into it and did not come back. She watched their faces after. Not grief, not relief. The specific quality of completion.
 
 She felt the resonance of the cell in the carry case shift — deeper, as if the proximity to the void's threshold changed the quality of what it was searching for.
 
@@ -271,7 +277,7 @@ She was in her seventies — white hair cut close, the posture of someone who ha
 
 She said it to the screen.
 
-"We had been down to two meals a day for six weeks. The heat was rationing itself. Elsa had come back from the cave four days before — three days in there, alone, with nothing but the ritual and what came through the wall to meet her. She built the first cell in three days and walked it to the east tunnel and released it where the gravity let go, and none of us said anything because there was nothing that covered what we were watching." She paused. "Eleven people who had flown past Titan and not looked back. Who had buried three hundred and fifty-eight others in this rock and kept going. Who had no provisions for a return trip and had known that before they left — standing in a tunnel watching Elsa Klein carry a jar into the dark until it lifted from her hands."
+"We had been down to two meals a day for six weeks. The heat was rationing itself — we were burning the last of what we'd carried out, and when it was gone we were going to freeze in the dark. Elsa had come back from the cave four days before — three days in there, alone, with nothing but the ritual and what came through the wall to meet her. She built the first cell in three days." She paused. "Understand what that cell was. It was the only source of energy we had left. It could have run the heat. It could have held the pressure, kept the lights, kept eleven people breathing through the worst of it — it was enough to save us. She carried it to the east tunnel and let it go into the dark instead. None of us stopped her. None of us said anything, because there was nothing that covered what we were watching — people at the very end of everything, giving away the one thing that could have kept them alive." A pause. "Eleven people who had flown past Titan and not looked back. Who had buried three hundred and fifty-eight others in this rock and kept going. Who had carried no provisions for a return trip and had known that before they left."
 
 The asteroid's mass and density resolved into numbers on the screen.
 
@@ -279,7 +285,7 @@ The asteroid's mass and density resolved into numbers on the screen.
 
 "What did she do with it?"
 
-"She ordered supplies," Petra said. "Food, heat cells, pressurization equipment. Everything the colony needed to stop dying and start building." She looked at Jill. "That was when the colony made it past its trial. Not when she found the cave. Not when she built the first cell. When the return came and she understood that the void had answered."
+"She ordered supplies," Petra said. "Food, heat cells, pressurization equipment. Everything the colony needed to stop dying and start building." She looked at Jill. "That was the test. Not the cold and not the dying — anyone can die. The test was whether eleven starving people would give away the one thing that could have saved them, on nothing but the faith that something would answer. When the gold came back, Elsa understood that it had. That was the moment the colony made it past its trial. Not when she found the cave. Not when she built the first cell. When the void answered."
 
 In the carry case at Jill's hip, the cell went quiet for the first time in eleven days.
 
@@ -383,7 +389,7 @@ She didn't say any of this.
 
 "Which one of you is right?" she said.
 
-He looked at the void beyond the membrane.
+He looked toward the east tunnel, and the void beyond it.
 
 "Ask me in eleven days," he said.
 
