@@ -13,9 +13,9 @@ close. It had calibrated itself to each person individually, which should have
 been reassuring and which Cole found, instead, faintly wrong in a way he could
 not yet name.
 
-The other thing he could not name was what the Dark Matter was doing to him.
+The other thing he could not name was what the DarkX was doing to him.
 
-iRIS had explained it, clinically, on day two. Proximity to the Dark Matter
+iRIS had explained it, clinically, on day two. Proximity to the DarkX
 payload at cruising velocity — ten percent of the speed of light — produced
 measurable neuroplastic cascades in human neural tissue. The effect was
 documented in the mission parameters as a known variable and had not been
@@ -34,7 +34,7 @@ That's a polite way of saying we feel things more."
 
 Sam had said nothing. Sam had adjusted to the effect with what Cole could only
 describe as unusual ease. She moved through her shifts with the same precise,
-unhurried competence she had shown from the first day, and if the Dark Matter
+unhurried competence she had shown from the first day, and if the DarkX
 was doing anything to the floor of her inner world, she did not show it. He had
 watched her once or twice, looking for the seams in it, and hadn't found any.
 Sam was no stranger to this kind of interior weather. She had simply assessed
@@ -243,13 +243,13 @@ Cole looked at where the device had been on the deck. Then he looked at Sam.
 She nodded and went back to the diagnostic panel. He stayed at the threshold for
 a moment.
 
-"The Dark Matter," he said. "You're not having any trouble with it."
+"The DarkX," he said. "You're not having any trouble with it."
 
 "No."
 
 "You know what it is."
 
-"I have some experience with this kind of interior weather." She ran a
+"I've spent enough time alone with my own head to know the feeling." She ran a
 calibration sequence. "It's not comfortable. I'm just familiar with it."
 
 Cole leaned against the alcove frame. Outside the small porthole at the far end
@@ -262,10 +262,8 @@ something to hold onto before you left."
 
 "He told you about her."
 
-"Yes." The flatness of it was its own information. She set down the tool and
-looked at him steadily. "I'm sorry, Cole."
-
-He didn't answer. He looked out the porthole. The black held its position.
+"Yes." She set down the tool and looked at him steadily — not prying, just
+letting it sit. He looked out the porthole. The black held its position.
 
 "I can't wait to meet her when we get back," Sam said. "I bet you two are an
 adorable couple."
@@ -360,7 +358,7 @@ he had managed not to look at it directly. "You think we've been lied to."
 "I think we've been given a specific portion of the truth. Which is different
 from a lie. But it produces similar navigational problems." She looked at her
 hands. "What would you do, if the mission turned out to be something other than
-what we signed on for?"
+what we signed up for?"
 
 Sam reached into her pocket. The matte-gray device came out small and flat in
 her hand. She pressed the lower-left corner. A single red pulse — then steady.
@@ -378,7 +376,7 @@ explain more when there's time. Right now I want to know what you'd do."
 Ricardo considered it, genuinely, without deflection. He sat down across from
 her. His voice had dropped half an octave — the low ease it only got
 when the stakes went up. His hands were steady. "Make sure everyone gets home," he said. "The objective, the brief — I
-don't care what those turn out to be. That's what I signed on for." He paused.
+don't care what those turn out to be. That's what I signed up for." He paused.
 He looked at her. "That includes you. By the way."
 
 Sam looked at him. The look had precision to it — not surprised, registering.
@@ -447,8 +445,9 @@ it. "The message said she didn't make it."
 
 The room was very quiet.
 
-"Emily survived. That's confirmed. She was released and she's clear." Sam
-stayed with him in the silence for a moment. "Emily is okay."
+"Emily survived. That's confirmed — she wasn't killed in that lot." Sam
+stayed with him in the silence for a moment. "I don't have more than that yet.
+But she's alive."
 
 Cole said nothing for a long time.
 
@@ -477,9 +476,7 @@ Present. Real.
 She left.
 
 Cole stood in the room for a long time. He looked at his hands. He thought about
-the ring made of copper wire that he had pressed into her hand in the driveway
-at the cabin and she had closed her fingers around it and said I will. He
-thought about the way she said his full name — Cole Nova — not as a joke
+the way she said his full name — Cole Nova — not as a joke
 exactly, but with the weight of someone who believed the name meant something.
 He thought about sitting on the porch, watching the headlights come up the dirt
 road, not knowing yet that she was on her way.
@@ -598,84 +595,3 @@ Cole walked out.
 Sam, watching from the galley alcove, understood the timing. Saturn approach. Maximum DarkX proximity. Maximum limbic exposure. Cole was at his most emotionally exposed and someone had chosen this exact moment to let the information through. The Collective's back-channel — Sam's jammer, operating outside the iRIS architecture — was the one pathway Taylor didn't control. But the timing was not accidental. Taylor had allowed the information to land now, when a distracted, grieving captain would make the kind of mistakes that made accidents look real.
 
 She filed it. She said nothing. The grief was a weapon and she had just watched it deployed.
-
----
-
-Eleven hundred miles south of Federation airspace, Emily Nova was in the back of
-a taxi with her head against the window and her eyes closed. The cab smelled
-like pine air freshener and old coffee. She had been awake for thirty-one hours
-and the road under the tires was a rhythm she could almost follow but not quite,
-and the almost-following of it kept dragging her toward the edge.
-
-She jerked awake when her head slid on the glass.
-
-The city lights were behind them. She could see the highway and the dark on
-either side and the yellow dividing lines running past in a steady pulse. She
-had seen this before — the yellow lines and the dark — and she pressed her palm
-against the window to wake herself up further.
-
-In her other hand she was holding the number Rachel had given her in the parking
-garage. A handwritten sequence on the back of a Verguld Media parking receipt —
-not Rachel's number. Rachel had been very clear about that. Someone will
-answer. Tell them where you are and where you're going.
-
-She dialed it.
-
-It rang twice.
-
-"Go ahead." A woman's voice. Not Rachel's. Measured, unhurried, with the
-settled quality of someone accustomed to receiving information at odd hours.
-
-"This is Emily Nova," Emily said. Her voice came out rougher than she expected.
-"I'm in a taxi. I was told to call this number when I was clear."
-
-A brief pause. "We know who you are. Are you clear of Verguld?"
-
-"Yes."
-
-"All right." Another pause — not uncertainty, the pause of someone consulting
-something. "Keep heading east. Someone will meet you on the road. You'll know
-them when you see them."
-
-"How?"
-
-"You'll know." The voice shifted slightly — not
-warmer exactly, but more direct. "Are you all right, Ms. Nova?"
-
-Emily looked out the window. The yellow lines kept coming. The dark kept
-holding its position on either side.
-
-She thought about that empty lot. The look on Sharon's face when
-she had said go — the specific economy of it, the way it meant every version
-of go at once. She thought about the sound she had not been able to un-hear
-in the hours since. She thought about her brother somewhere past Saturn's rings,
-out of reach, carrying a mission that someone had designed to detonate, and she
-was the only person moving toward him from this side and she was in the back of
-a taxi she had paid for with a traceable card and she had been awake for
-thirty-one hours and she had said the wrong thing in Marcus's office and she
-did not know yet what it had cost.
-
-She thought about what the question actually was. Not protocol. The voice had
-shifted — the quiet register of someone who had heard something in Emily's
-voice that Emily had not put there on purpose. Something that had come through
-in the gaps of being awake too long and too alone.
-
-Are you all right.
-
-She was not. Nothing was. Sharon was dead and Cole didn't know it yet and Marcus
-knew which direction she was running and she was alone in the specific way that
-is not solitude — not quiet, not private, but the kind of alone that arrives
-when you run out of people to call and the ones you had are gone or unreachable
-or both.
-
-She thought about what she had said to Marcus in his office — the thing she had
-said without thinking, the thing she had known the moment it left her mouth was
-a mistake. Cole's heart is gonna break when he hears about Sharon.
-
-"I don't know yet," she said.
-
-The line closed.
-
-Emily leaned her head back against the seat. She watched the highway. She kept
-her eyes open this time, watching the yellow lines come and go in the dark, and
-did not let herself drift.
