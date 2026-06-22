@@ -22,13 +22,12 @@ through the floorboards, making the room warmer than it should have been for the
 hour.
 
 Red turned from the window. She reached into her jacket and produced something
-small — folded dark fabric, stitched in thread barely darker than the
-background. She set it on the table beside the Forsinko badge.
+small — folded dark fabric, a wrench worked into it in fine silver thread. She
+set it on the table beside the Forsinko badge.
 
-A wrench. Rendered in outline, almost invisible unless you knew what you were
-looking at.
+Silver. Rendered in outline, small enough to vanish into a seam.
 
-"Lead Technician," Red said. "You're not an informant anymore. You're not
+"Senior Technician," Red said. "You're not an informant anymore. You're not
 adjacent. You're in."
 
 Ray picked it up. It weighed almost nothing. He turned it over in his fingers —
@@ -59,8 +58,8 @@ breast pocket, the way he'd seen Red carry hers — inside the jacket, against t
 lining, invisible unless you knew to look.
 
 He noticed, without quite knowing why, that Red's own patch was the same symbol
-— a wrench — but rendered in gold thread instead of dark. Same rank. Different
-tier.
+— a wrench — but rendered in gold thread instead of silver. Lead Technician. A
+tier above the rank she had just handed him.
 
 "Your specialization is fuel-cell stabilization engineering," Red said without
 turning around. "That gets you lab access at the mid-tier. Not the vault. But
@@ -134,26 +133,29 @@ He rode the elevator to the fourteenth floor.
 
 ---
 
-Dr. Yusuf Oren was shorter than Ray had expected from the name, which was not a
+Dr. Vince Oren was shorter than Ray had expected from the name, which was not a
 rational thing to notice but Ray noticed it anyway. He was perhaps fifty-five,
 with close-cut gray hair and the steady quality of attention that marks
 scientists who have spent decades actually listening to the problems in front of
 them rather than performing the act of listening. He came around his desk to
 shake Ray's hand rather than waiting for Ray to come to him.
 
-"Mikov. Good to have you." He gestured toward a chair. "Coffee?"
+"Dr. Forsinko. Good to have you." He gestured toward a chair. "Coffee?"
 
-"Please."
+"Please. And it's Mikov." Ray offered it the way you offer a thing you want
+taken — easily, already decided. "Nobody's called me Dr. Forsinko since the
+paperwork went through."
 
-Oren poured from a carafe on his desk without asking for specifications. He
-handed Ray a cup — black, which was correct — and sat down with his own. "São
+"Vince, then." He poured from a carafe on his desk without asking for
+specifications, handed Ray a cup — black, which was correct — and sat down with
+his own. "The doctor part wears off around the second pot in here anyway. São
 Paulo firms don't usually send us people who work on the stabilization side.
-That's usually handled in-house here. I was curious about the request."
+That's usually handled in-house. I was curious about the request."
 
 "My understanding was you had a throughput bottleneck in the batch processing
 stage."
 
-"We do." Oren nodded. "Third shift is running about twelve percent below
+"We do." Vince nodded. "Third shift is running about twelve percent below
 projection. The models say it's a crystallization rate issue — the yield windows
 are tightening. But the models are based on assumptions about the feedstock
 purity that I'm not entirely confident in." He paused. "I'd rather have someone
@@ -162,7 +164,7 @@ expect to see."
 
 "That's usually how it works," Ray said.
 
-Oren smiled. It reached his eyes and then retreated — there and gone, the way
+Vince smiled. It reached his eyes and then retreated — there and gone, the way
 real ones were. "Let me show you around."
 
 The lab was large and climate-controlled, divided into sections by clear
@@ -174,15 +176,15 @@ had worked with. Considerably newer. The centrifuge array alone represented a
 capital investment he could not calculate from the outside but could estimate
 from its output capacity at somewhere between eight and twelve million dollars.
 
-Oren walked him through the setup with the easy familiarity of someone who had
+Vince walked him through the setup with the easy familiarity of someone who had
 designed it. He explained the negative-pressure chambers, the nitrogen cycling,
 the batch-log interface. He introduced Ray to two junior researchers — a young
-woman named Priya who nodded without looking up from her console, and a man
+woman named Anushka who nodded without looking up from her console, and a man
 named Chen who asked Ray two technical questions that were sharp enough to
 confirm he was the genuine article, not a greeter. Ray answered them correctly.
 Chen seemed satisfied.
 
-"The batch logs are here," Oren said, pointing to a wall-mounted terminal near
+"The batch logs are here," Vince said, pointing to a wall-mounted terminal near
 the back of the lab. "Pull access is part of your standard contractor clearance.
 If you need write access to flag anomalies you'll need to submit a request, but
 I can expedite that."
@@ -190,7 +192,7 @@ I can expedite that."
 "Pull access is fine to start," Ray said. "I'll want to review three months of
 throughput data before I form any opinions."
 
-"Exactly the right instinct." Oren clapped him once on the shoulder — not a
+"Exactly the right instinct." Vince clapped him once on the shoulder — not a
 territorial gesture, genuinely collegial — and returned to his own work.
 
 Ray turned to the terminal and began to read.
@@ -236,6 +238,26 @@ reading.
 
 ---
 
+The months made him into Mikov Forsinko. Not all at once — the way a name
+becomes yours, by being said. He learned the bus that ran along Balboa, the
+fruit vendor who set aside the good papayas, the particular green smell of the
+city after the afternoon rain that arrived at the same hour like an appointment.
+He went home to a small flat with a fan that ticked. He read the batch logs by
+day and wrote in the notebook by night, and the notebook got heavier by the
+season, not the week. This was a long con measured in years, and Ray, who had
+always been patient with data, found he could be patient with this too.
+
+Red and Squirrel were a city away and a phone call closer than that. Red turned
+out to be from somewhere cold she wouldn't name and to have opinions about every
+meal she was served. Squirrel had a habit of answering a question four minutes
+after it was asked, having apparently needed the time. Somewhere in the second
+year Ray realized he trusted them — not operationally, which had come fast, but
+the other way: the way you trust people you've been bored and scared and
+unimpressed with in the same small rooms. They were the only three people on
+Earth who knew who he actually was. It made a kind of family out of the secret.
+
+---
+
 The long-cycle data was buried three directories deep under a project
 designation he did not recognize: EXTENDED_HORIZON_ANALYSIS. He found it
 because he was methodical and because the indexing structure had a gap between
@@ -272,24 +294,12 @@ At thirty-three days of continuous linkage, the internal crystal formation
 rate was not elevated by a small margin. It was ten times the standard. The
 Darker Matter structure, when cells were left coupled past the eleven-day
 harvest threshold, did not stabilize or deplete — it accelerated. Tenfold.
-And the acceleration did not plateau. It continued, at that elevated rate,
-for as long as the cells remained connected.
+And the acceleration did not plateau. It kept climbing for as long as the
+cells stayed connected — and then Alpha's own data simply stopped, mid-curve,
+at the edge of what they had been willing to test.
 
-He read that line twice.
-
-For as long as the cells remained connected.
-
-At one hundred and eighty days of continuous linkage, the data changed
-character entirely.
-
-The crystal growth no longer accumulated internally. Every eleven days —
-with the regularity of a clock — the coupled cells produced a synchronized
-external flush: dense, structured crystalline formations extending through
-the cell housing outward, equivalent each cycle to forty to sixty standard
-harvests. Not a single event. A recurring one. Every eleven days, for as
-long as the linkage held.
-
-When you disconnected the cells, the flushes stopped.
+He read that line twice. The number had nowhere to go but up, and no one had
+followed it.
 
 He sat with this for a moment.
 
@@ -306,6 +316,35 @@ never acted on.
 
 ---
 
+The apartment had become a place where the three of them talked at night, after
+Ray's shift, with the laundry gone quiet below. Red sat on the floor with her
+back to the couch. Squirrel ate something out of a tin.
+
+"Thirty-three days, linked, and the inside yield goes to ten times," Ray said.
+"And then it just keeps going. Alpha stopped measuring. They never leave a cell
+linked longer than they have to, because every day a cell sits is a day they're
+not harvesting it." He turned his cup without drinking from it. "But here's the
+part I can't stop thinking about. If time does that to the curve — what does
+gravity?"
+
+Squirrel stopped chewing. "Say it the simple way."
+
+"Every test in that building runs in standard gravity, on a planet, under a
+ceiling nobody's noticed is a ceiling. The crystal forms against the pull. I
+think the pull is the limit." He looked at them. "Take it off-world. Leave it
+linked. No reset, no gravity. I think the curve never levels out at all. I think
+it breaks."
+
+"You think," Red said.
+
+"I can't prove it. Alpha hasn't done either — they've never left a cell linked
+long enough to find the top, and they've never run one in zero gravity. They had
+no reason to. The model that pays them is the eleven-day model." He set the cup
+down. "Somebody would have to actually leave it alone, in orbit, and watch.
+Nobody has ever just watched."
+
+---
+
 The anomaly records were now legible to him in a way they hadn't been twenty
 minutes ago.
 
@@ -317,31 +356,28 @@ The field appeared at irregular intervals. Not random — irregular. When he
 filtered for it, he got one entry for approximately every seven hundred and
 forty standard batches.
 
-Each of these entries documented a cell that had, during processing or
-extended storage, been left in sustained contact with an adjacent cell.
-In transit packaging. In staging queues where cells were stacked port-to-port
-without separation buffers. No one had designed this. No one had intended it.
-But cells that had been in continuous contact for long enough — through months
-of shipping backlogs, warehouse holding, staging delays — had, at their
-eleven-day review interval, produced external crystal formations. Dense,
-structured, extending through the cell housing outward. Not internal yield.
-External flush.
+Each of these entries documented a single cell that had, on its eleven-day
+review, produced something no model predicted: a one-time external crystal
+deposit on the housing — dense, structured, extending outward from the base.
+Not internal yield. Not a recurring flush. Once, on roughly one cell in seven
+hundred and forty, and never on the same cell twice.
 
 One researcher, in a handwritten annotation attached to a 2030 batch record,
 had used a different word.
 
 Jackpot.
 
-The yield from a single flush event was equivalent to forty to sixty standard
-harvests. Alpha tracked these separately. They did not appear in the public
-supply figures.
+The yield from a single Jackpot deposit was enormous — the exterior crystal ran
+to roughly three hundred and thirty-three times the mass that had gone into
+assembling the cell. Alpha tracked these separately. They did not appear in the
+public supply figures.
 
-They had been watching for the conditions that produced a jackpot event for
-years. They had not understood what those conditions were. The linked-cell
-research file had been sealed for eleven months. The connection had never
-been made.
-
-Ray had just made it.
+They had been watching for the conditions that produced a Jackpot for years.
+They had never understood what those conditions were — the events were rare,
+scattered, impossible to force. Ray didn't understand them either, not yet. But
+he wrote the number down and underlined it, because a one-in-seven-forty event
+that gave back three hundred and thirty-three times its input was not noise. It
+was a door, and nobody had found the handle.
 
 Ray cross-referenced the anomaly records against the grant filings he had
 found in the public database last week. Alpha had filed, over the previous
@@ -357,25 +393,52 @@ with incremental variations small enough to constitute new filings and large
 enough to maintain the appearance of ongoing research.
 
 Alpha had been paid billions of dollars to develop technology that already
-existed. Technology that a junior researcher had discovered by accident in an
-apartment. Technology that the company had then taken, patented, and presented
+existed. Technology that a junior researcher had discovered by accident in a work
+locker. Technology that the company had then taken, patented, and presented
 to the Federation Council as the product of years of sophisticated R&D.
 
 He added it to the notebook without commentary. The notebook was getting heavy.
 
 ---
 
+Vince invited him to a thing at his apartment after the third-quarter numbers
+came in — "not optional, Mikov, the third quarter is the only thing worth
+celebrating in this business." There was real food, which during the energy
+crisis still meant something. Chen argued with him about lattice geometry for an
+hour and was right about half of it. Anushka, who never looked up from her
+console in the lab, turned out to be funny in the loud, sideways way of people
+who spend all day being quiet — she did an impression of the building's
+ventilation system that made Ray laugh before he could decide whether Mikov
+Forsinko was a man who laughed.
+
+That was the part he hadn't planned for.
+
+He had planned for the lying. He was good at the lying; it was just protocol
+with stakes. What he had not planned for was liking them — Chen's sharp
+questions, Anushka's ventilation impression, Vince refilling his glass and
+asking, with real interest, what São Paulo had been like. These were not the
+architects of the machine. They were its hands, and the hands didn't know. He
+sat in Vince's apartment with good food in front of him and a false name in his
+mouth and felt the first real edge of it: that getting the truth out was going
+to cost these specific, decent people something, and they would never understand
+why, and he was going to let it happen anyway.
+
+He wrote nothing about the party in the notebook. Some things he kept off the
+record even from himself.
+
+---
+
 It took him two and a half shifts to find the batch destruction logs.
 
 He was not looking for them. He was auditing throughput across Q3 and Q4 of the
-previous year, following Oren's hypothesis about feedstock purity, when he found
+previous year, following Vince's hypothesis about feedstock purity, when he found
 a field in the batch records he didn't recognize. The field was labeled
 DISPOSAL_PROTOCOL_11 and it appeared at irregular but recurring intervals across
 the dataset. He filtered for it.
 
 Three hundred and twelve entries in an eighteen-month window.
 
-Each entry recorded a quantity of crystallized DarkX product, a timestamp, and a
+Each entry recorded a quantity of Darker Matter crystals, a timestamp, and a
 status code. The status codes were internal Alpha nomenclature he didn't
 immediately know, but they were consistent, which meant they were systematic,
 which meant he could decode them from context. He spent forty minutes doing
@@ -389,13 +452,13 @@ eleven to thirteen percent of each batch's usable yield.
 Alpha was destroying product.
 
 Not spoilage. Not error. Consistent, scheduled, deliberate destruction of viable
-DarkX crystals representing eleven to thirteen percent of everything this
+Darker Matter crystals representing eleven to thirteen percent of everything this
 facility produced.
 
 Ray sat with this for thirty seconds. He thought about the supply charts he had
 memorized in the weeks since leaving Alpha. Global DarkX supply had run at
-approximately four to eight percent below projected demand for eleven
-consecutive years. The energy crisis was, in the language of economists, a
+approximately four to eight percent below projected demand for four and a half
+years. The energy crisis was, in the language of economists, a
 demand-side problem: there was not enough supply to meet demand at any
 reasonable price point, which drove prices up, which made DarkX unaffordable for
 most of the world's population outside of priority industrial contracts.
@@ -405,52 +468,53 @@ percent supply gap.
 
 The math was not subtle.
 
-He thought, briefly and precisely, about Dr. Oren. About whether Oren knew. He
-looked across the lab to where Oren was bent over a console, reading something,
+He thought, briefly and precisely, about Dr. Vince. About whether Vince knew. He
+looked across the lab to where Vince was bent over a console, reading something,
 and he considered the man's face: the quality of attention, the genuine
 curiosity, the enthusiasm with which he had explained the nitrogen cycling this
 morning. He thought about what it meant to be a good scientist working inside a
 machine without knowing what the machine was for.
 
-Then he opened the drive housing on the terminal's secondary port and inserted
-the Collective drive, which was the size of a thumbnail and the color of the
-housing it was inserted into.
+It was then that the terminal did something small and wrong — a status line he
+hadn't seen before, bottom corner: ACCESS LOGGED — TIER REVIEW PENDING. The
+sealed archive had a tripwire on it. Of course it did. He had just stepped on it.
 
-He had three minutes before the batch log session would auto-expire and require
-re-authentication.
+He did not hurry. He opened the drive housing on the terminal's secondary port
+and inserted the Collective drive — the size of a thumbnail, the color of the
+housing it went into — and pulled everything: the linked-cell file, the grant
+filings, the disposal logs. The copy bar crawled. His pulse did not. Then he
+took out his phone and sent the one line he and Squirrel had agreed on months
+ago, for exactly this and nothing else: Dinner tonight. The usual place. It
+meant: I'm burned. I'm coming out. Be at the spot.
 
-He worked efficiently.
+He pocketed the drive and the notebook and stood up.
 
----
+Then he made his own chaos.
 
-The alarm was not his.
+On his way toward the corridor he stopped at the nitrogen-cycling bank in
+14-C — the unit Vince had walked him through on his first morning, whose manual
+pressure-bleed he had filed away the way he filed everything — and opened it a
+quarter-turn past tolerance. The unit complained, then failed the way it was
+built to fail: safely, loudly, with the distinctive three-pulse containment tone
+that meant a pressure fault in a cycling chamber. Not catastrophic. Not
+dangerous. But by protocol the floor dropped straight into incident mode — all
+non-essential personnel to staging, all lab-adjacent doors to lock-and-hold, all
+badge readers elevating to tier-two on a countdown.
 
-It came from the adjacent lab, a containment alert — the distinctive three-pulse
-tone that indicated a pressure failure in a nitrogen cycling unit. Not
-catastrophic. Not dangerous. But by protocol, the floor went into incident mode,
-and incident mode meant: all non-essential personnel to designated staging
-areas, all lab-adjacent doors to automatic lock-and-hold, all badge readers
-elevated to tier-two authorization.
+It would seal the floor in about two minutes. It would also, for those two
+minutes, turn the room into exactly the kind of practiced, preoccupied scramble
+that nobody watches a contractor walk out of.
 
-Ray pulled the drive.
+Two minutes. He had planned for ninety seconds.
 
-He did this first, before he looked up, before he assessed. The drive was in his
-pocket before the second alarm pulse had completed. This was not instinct — it
-was the result of having spent three days thinking carefully about what he would
-do if something like this happened, which was the same thing he did with every
-protocol: he thought through the failure modes in advance so that when they
-occurred he did not have to think.
-
-He stood up from the terminal and turned around.
-
-Priya was moving toward the designated staging area near the north wall. Chen
+Anushka was moving toward the designated staging area near the north wall. Chen
 had already crossed the partition into the adjacent section, presumably to
 assist with the containment. Three other researchers were moving in the same
-direction as Priya, unhurried, the way people move through a practiced drill.
+direction as Anushka, unhurried, the way people move through a practiced drill.
 
-Oren was coming toward Ray.
+Vince was coming toward Ray.
 
-"Nitrogen coupling failed in 14-C," Oren said. "Routine. We'll be in hold for
+"Nitrogen coupling failed in 14-C," Vince said. "Routine. We'll be in hold for
 probably twenty minutes." He gestured toward the staging area. "Come on, I'll
 finish walking you through the Q4 anomalies while we wait."
 
@@ -459,7 +523,7 @@ Ray did not go toward the staging area.
 "I need to use the restroom," he said. "Before the hold locks me in for twenty
 minutes."
 
-Oren smiled. "Corridor B, left at the junction. You have maybe two minutes
+Vince smiled. "Corridor B, left at the junction. You have maybe two minutes
 before it locks."
 
 "I'll be quick," Ray said.
@@ -518,10 +582,10 @@ Six blocks east. That was the extraction point. He had forty minutes before Red 
 
 He started walking.
 
-He thought about Oren.
+He thought about Vince.
 
-He thought about Oren the way you think about a fact you have not yet fully
-integrated: turning it over, testing its edges. Oren was not performing
+He thought about Vince the way you think about a fact you have not yet fully
+integrated: turning it over, testing its edges. Vince was not performing
 goodness. He was good, in the way that some people are simply good, the way some
 scientists are simply curious — not because it is useful but because it is the
 thing they are made of. He would go back to his lab after the nitrogen cycling
@@ -532,13 +596,13 @@ supply. To the careful, careful enterprise of making the crystals stable and the
 yields predictable.
 
 He would never see the DISPOSAL_PROTOCOL_11 entries. Not because they were hidden
-from him — Ray did not think they were hidden from Oren. He thought they simply
-existed in a part of the system that Oren had never had reason to look at,
-because Oren's job was the science and someone else's job was the numbers and
+from him — Ray did not think they were hidden from Vince. He thought they simply
+existed in a part of the system that Vince had never had reason to look at,
+because Vince's job was the science and someone else's job was the numbers and
 the system was designed so that those two things never needed to be in the same
 room.
 
-That was the design. Not malice toward Oren, specifically. Just the ordinary
+That was the design. Not malice toward Vince, specifically. Just the ordinary
 architecture of a machine that works better when its parts don't know what the
 other parts are doing.
 
@@ -557,8 +621,8 @@ been the right one from the perspective of the current model's beneficiaries.
 The energy crisis was not a crisis in the sense of something that had gone
 wrong.
 
-It was a product. It had been designed, maintained, and optimized over eleven
-years with the same care and precision that Oren applied to his yield models.
+It was a product. It had been designed, maintained, and optimized over four and
+a half years with the same care and precision that Vince applied to his yield models.
 
 Ray walked east through the Panama City late afternoon. The smell of the city
 was around him: exhaust, green, something frying from an open window two floors
@@ -571,10 +635,10 @@ He thought: nobody in that building thinks they are doing something wrong.
 
 He thought: that is the most frightening thing about all of this.
 
-Not the calculation. Not the destroyed crystals. Not the eleven years and the
+Not the calculation. Not the destroyed crystals. Not the four and a half years and the
 billions of people who had paid for it in energy costs and cold winters and
-factories that couldn't run. The most frightening thing was Oren, and Chen
-asking sharp questions about crystallization rates, and Priya not looking up
+factories that couldn't run. The most frightening thing was Vince, and Chen
+asking sharp questions about crystallization rates, and Anushka not looking up
 from her console. The most frightening thing was a building full of careful,
 competent, genuinely dedicated people who went home at the end of each shift and
 slept well, because the machine they worked inside had been constructed so that
@@ -596,19 +660,23 @@ between them, face down, the way you set down something that has weight.
 
 Squirrel's hand moved over it without a gesture. It was in his jacket before
 anyone at the adjacent tables would have had reason to notice an exchange. Ray
-caught a brief glimpse of the jacket's inner lining as it fell closed — the
-same small embroidered outline he'd first noticed in the safe house, a wrench in gold thread, sewn flat against the fabric.
+caught a brief glimpse of the jacket's inner lining as it fell closed. The patch
+had changed. Where the wrench had been — that first night in the Marbella safe
+house — there was a different shape now: a pair of sunglasses in gold thread,
+sewn flat against the lining. Agents, both of them. The network had moved them
+up while he'd been inside, and kept them on him anyway. He didn't say anything
+about it.
 
 "What's on it," Red said. She was still watching the street.
 
 "The long-cycle data," Ray said. "What happens if you link the cells together
 and don't reset them at eleven days. Thirty-three days of continuous linkage:
-ten times the internal crystal yield, ongoing, as long as they stay connected.
-A hundred and eighty days: external crystal flushes every eleven days —
-recurring, each one equivalent to forty to sixty standard harvests — until
-you disconnect them." He paused. "They've known for nine months. It's buried
-under an access tier that shouldn't have been reachable from my clearance
-level."
+ten times the internal yield, and still climbing — the curve never plateaus, and
+Alpha's own data just stops, because they never left a cell linked long enough
+to find the top." He paused. "They've known about the thirty-three-day number
+for nine months. It's buried under an access tier that shouldn't have been
+reachable from my clearance level. What they don't have — what nobody has yet —
+is what happens if you take the ceiling off the whole thing."
 
 Red looked at him for the first time.
 
@@ -616,7 +684,7 @@ Red looked at him for the first time.
 of applications. Billions drawn from the crisis relief funds. They described
 my process as their own ongoing research." He looked at the table. "And the
 destruction logs. They've been disposing of eleven to thirteen percent of
-production per batch for eleven years to maintain the supply gap."
+production per batch for four and a half years to maintain the supply gap."
 
 The table was quiet for a moment. Outside, a motorcycle passed on the street.
 
@@ -624,21 +692,43 @@ Red looked at Squirrel. Something moved between them — not surprise. The
 particular stillness of people who have been building toward something for a
 long time and have just been handed the piece that makes it load-bearing.
 
-"The zero-gravity yield," Squirrel said. "That's the piece they're most afraid
-of."
+"That theory of yours," Squirrel said. "Zero gravity, no reset, no ceiling.
+That's the piece they'd be most afraid of — if it's true."
 
-"Yes," Ray said. "You can't manufacture a shortage of something that
-compounds in everyone's hands."
+"If it's true. And I think it is," Ray said. "You can't manufacture a shortage
+of something that compounds in everyone's hands."
 
 Squirrel turned the coffee cup once. "We're going to need a name for this.
 When we move it through the network, when the parallel release goes out."
 He looked at Ray. "Something that says what it is."
 
-Ray thought about the yield curve at a hundred and eighty days. About a fuel
-cell in zero gravity giving back more than physics should allow — compounding,
-escalating, refusing to stop.
+Ray thought about the curve that had no top — the one Alpha had stopped
+measuring. About what a cell might do off-world, linked and left alone, if
+anyone ever bothered to find out. A theory, still. Something that would have to
+be proven somewhere there was no gravity to hold it down.
 
 "Antigravity project," he said.
 
 Red looked at him. "That works," she said. She went back to watching the
 street. "That's what we'll call it."
+
+Ray didn't get up. Red noticed.
+
+"There's something else," he said. "Vince Oren. The man who runs that lab. He
+doesn't know what the building is for — none of them do. Chen, Anushka, any of
+them. But Vince especially." He turned the cup. "When this comes out, it's going
+to land on him. He'll find out he spent his career as the careful, honest face
+of a thing that was rotting people in the dark — and he'll find out the same
+week the rest of the world does, with his name on it." He looked at Squirrel.
+"I want to tell him first. Offer him a way out."
+
+Red set her coffee down. "You want to walk up to an active Alpha lab director,
+burn what's left of your cover, and recruit him."
+
+"I want to give him the choice I got. Somebody knocked on my door once and told
+me the truth seventy-two hours before it would have killed me." He didn't look
+away. "He's a good man inside a bad machine. That used to be me."
+
+Squirrel and Red traded the look. "Not now," Squirrel said. "Not while you're
+still inside the operation. If the work moves somewhere we can't reach you from
+here — we'll talk about it then." A beat. "It's not a no, Ray. It's a not-yet."
