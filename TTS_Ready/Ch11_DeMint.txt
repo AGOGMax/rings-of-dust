@@ -6,6 +6,8 @@ DeMint
 
 
 
+Aboard the Meridian
+
 The relay came through the standard architecture — authenticated,
 timestamped, routed through the iRIS uplink the way every transmission
 from the Golden Dawn came through. Technically clean.
@@ -29,7 +31,7 @@ Petyr looked at the wall. “Someone is speaking for him.”
 
 Kate did not file the observation. She folded the transcript and kept it.
 
-
+---
 
 The containment building hummed through the floor and into Chancellor DeMint's
 bones. He stood at the console, pulling at his beard in jagged rhythms the way
@@ -73,8 +75,8 @@ telemetry console had given him language for what his instinct already
 knew.
 
 Vance stood to DeMint's left with the easy calm of someone who does not
-feel the weight of the room the same way its host does. He wore a white polo and
-had his hands in his pockets. He had already seen what DeMint was seeing and had
+feel the weight of the room the same way its host does. He wore a white polo, and his
+hands were in his pockets. He had already seen what DeMint was seeing and had
 arrived at his own conclusions.
 
 "The latency," DeMint said. "Pull it up."
@@ -122,16 +124,19 @@ layer beneath that brief — a separate filing, a separate set of instructions,
 routed through Alpha and not his office — the idea sat in his chest like
 something cold.
 
-"Alpha handled the iRIS integration," he said.
+"Alpha handled the iRIS integration," he said. "And iRIS started as Conrad's
+work. Gracie." He said the name without having to reach for it — he had read the
+acquisition file years ago, the quiet absorption of a small Portland lab and the
+brilliant, difficult man who had come with it. "I always assumed Alpha bought the
+architecture and rebuilt it in-house."
 
-"They did. And before Alpha got to it, it was something else." Vance moved
-slightly, easy in his own body, a man who had learned to carry himself in rooms
-where other people sweated. "Dr. Stephen Conrad designed the original AI
-architecture — a system called Gracie. Alpha acquired it, modified it, and
-deployed the modified version as iRIS across the fleet. Conrad kept his research
-— his design notes, the original Gracie architecture, documentation of every
-modification Alpha made to his work. He stored it at a secondary facility before
-he disappeared."
+"Close," Vance said, easy in his own body, a man who had learned to carry himself
+in rooms where other people sweated. "They didn't rebuild it. They made Conrad
+do it — coerced him into corrupting his own system into iRIS, his own hands on
+the knife — and then layered their own modifications on top of what he'd done
+before they pushed it across the fleet. Conrad kept all of it. His design notes,
+the original Gracie architecture, documentation of every modification — his and
+theirs both. He stored it at a secondary facility before he disappeared."
 
 DeMint turned. "You're telling me there's a paper trail."
 
@@ -145,7 +150,7 @@ to say so. "I can go."
 
 DeMint studied him. "You understand what I'm asking."
 
-"You're asking me to retrieve a dead scientist's research from a facility in
+"You're asking me to retrieve a presumed-dead scientist's research from a facility in
 the desert, on the theory that the man who designed our fleet's AI backbone
 might have documented what was done to his work after he handed it over. In
 order to determine whether the AI system running inside our flagship has been
@@ -214,10 +219,9 @@ The report said, in the structure that was not a mineral survey:
 Sharon Teez — Collective-adjacent, confirmed. Killed in transit. The loss is
 real. Grieve it.
 
-Emily Nova — untrained, currently mobile, moving toward the secondary site under
-Federation radar. Probability of completion: uncertain. She has been
-underestimated by everyone who has assessed her. This is the operational
-advantage. Hold it.
+Emily Nova — untrained, alive, out of Alpha's custody and not yet activated. She
+has been underestimated by everyone who has assessed her. That is the operational
+advantage, when the time comes. Hold it.
 
 She filed the survey report and went back to the sweep.
 
@@ -330,7 +334,7 @@ She sat looking at it.
 
 He came and read it over her shoulder.
 
-Sharon confirmed. Emily alive and moving. Crew intact. Cargo bay secure. Taylor active.
+Sharon confirmed. Emily alive. Crew intact. Cargo bay secure. Taylor active.
 
 "Sam," he said.
 
