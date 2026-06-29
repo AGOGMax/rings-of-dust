@@ -65,8 +65,7 @@ Bitboy did not go back to sleep. Bitboy never went back to sleep when Cole was
 sitting like that.
 
 Cole let his hand fall to the chimp's head and rested it there. Bitboy's
-blue-stained mouth — still faintly purple from the blackberry preserves at the
-cabin, six weeks ago and a galaxy back — turned and pressed into Cole's wrist.
+mouth turned and pressed into Cole's wrist.
 
 "Yeah," Cole said. "I know."
 
@@ -80,7 +79,7 @@ A port of entry on the California coast, eighteen months before the Polaris. She
 
 She had gone. He had gone back to space. She had not forgotten him.
 
-It was five years before page one and the snow had been on the ground for a
+It was five years before the mission and the snow had been on the ground for a
 week.
 
 He had been sitting on the porch with a quarter-bottle of bourbon and a wool
@@ -110,11 +109,10 @@ drink. He had told himself he was going to go inside in a minute.
 
 The knock came at six forty-one.
 
-It was not the knock of a person who knew the cabin. The cabin had a flag —
-Sharon had hung it the second visit, a small piece of yellow ribbon nailed to
-the porch column, I am not the law, she'd said when he'd asked, and he hadn't
-asked again — and the people who knew the cabin tapped the column twice before
-they came up the steps. This person had not tapped the column.
+It was not the knock of a person who knew the cabin. There was a yellow ribbon
+nailed to the porch column — a thing that had been there long enough that Cole
+had stopped noticing it — and the people who knew the cabin tapped the column
+twice before they came up the steps. This person had not tapped the column.
 
 He had picked up the bourbon bottle in his left hand, which is what he was
 holding when he opened the door. His right hand had been on the doorframe at
@@ -128,12 +126,11 @@ up another person — a man, slumped, eyes closed, with a tactical kit
 half-unbuckled and a Collective droplet sigil sewn inside the collar of his
 jacket where the Federation could miss it.
 
-"Cole," she had said.
+"It's you," she had said.
 
-It had not been a question and it had not been a hello. It had been the way a
-person said another person's name when they had spent the last twenty minutes
-dragging a dying man up a snow-covered switchback and hoping the porch light at
-the top of the climb would be the one they remembered.
+It had not been a question and it had not been a hello. It had been the words
+of a person who had spent the last twenty minutes dragging a dying man up a
+snow-covered switchback and needed to know they had found the right door.
 
 "In," Cole had said, and stepped aside.
 
@@ -147,32 +144,38 @@ fifteen years and he had not used it for a year and his hands had
 remembered every verb.
 
 The man had been gut-shot. Through-and-through, low and to the right, exit wound
-clean. Cole's medic had once told him that low and to the right was the
-survivable kind, given the right hour and the right hands. It had been the wrong
-hour. There had been no right hands available except his, which had not held a
-clamp in three years. He had told Sharon to put pressure on the entry. He had
-gone to the cabinet under the sink for the kit he kept there in the back behind
-the bleach and the shoe polish, the kit he had told himself he kept for hunting
-accidents, the kit that contained four things no hunter would ever need.
+clean. Sharon had already assessed it before Cole had finished laying him flat —
+her hands finding the entry wound before he had found his footing. "Cabinet," she
+said. "Under the sink. Whatever you have." She did not look up from the man.
 
-He had worked. She had pressed. The cabin had filled with the smell of woodsmoke
-and copper and the particular wet-leaf smell of a man who had been bleeding out
-long enough for his autonomic nervous system to start doing the quiet things it
-did at the end. Bitboy had taken one look at the room and gone up to the rafter
-beam and stayed there, quiet, watching, in the way he did when the air pressure
-of a room had a certain shape.
+Bitboy had stopped at the edge of the room. An animal reading a specific kind
+of air. Sharon said, without looking at him: "Bitboy, stat." She said it with
+the specific weight of a word being assigned a permanent meaning. Bitboy came
+down. He positioned himself at the man's wrist with a mechanical limb, steady,
+the way something trained to a purpose that no one had trained him to. Cole had
+not asked about the command.
+
+He had gone to the cabinet under the sink for the kit he kept there in the back
+behind the bleach and the shoe polish, the kit he had told himself he kept for
+hunting accidents, the kit that contained four things no hunter would ever need.
+
+She had worked. He had done what she told him. Bitboy had held what she asked him
+to hold. The cabin had filled with the smell of woodsmoke and copper and the
+particular wet-leaf smell of a man who had been bleeding out long enough for his
+autonomic nervous system to start doing the quiet things it did at the end.
 
 Twenty minutes in, the second drone had passed. They had heard it through the
-eaves. Sharon had not flinched. Cole had not stopped working. The drone had not
+eaves. Sharon had not flinched. She had not stopped working. The drone had not
 come back.
 
 Forty minutes in, the man had stopped breathing.
 
-Cole had tried twice. He had felt the second try go through him the way a wave
-went through a buoy and he had stopped, which was the part of being a medic he
-had hated most when he had been a medic. Sharon had taken her hands off the
-entry wound. Her hands had been red to the wrist. She had looked at the man's
-face. She had not closed his eyes.
+Sharon had tried twice. She had felt the second try go through her the way a
+wave went through a buoy and she had stopped — which was the part of medicine
+she had walked away from, the part the hands knew before the mind did. Cole had
+taken a step back. Sharon had taken her hands off the entry wound. Her hands had
+been red to the wrist. She had looked at the man's face. She had not closed his
+eyes.
 
 "His name was Cody," she had said.
 
@@ -180,7 +183,7 @@ face. She had not closed his eyes.
 
 "He had a wife."
 
-"Sharon."
+"Cody," Cole had said again.
 
 "She lives in Bakersfield."
 
@@ -205,11 +208,11 @@ twenty minutes."
 
 "It won't."
 
-"Cole."
+"Captain."
 
 "It'll pick up a chimney. There are forty cabins in this valley. None of them
-are listed under my name. I bought it through the trust my mother set up for
-Emily and I have not slept in it for any consecutive night that's on a record.
+are listed under my name. It was my uncle's — he left it to the family and I
+have not slept in it for any consecutive night that's on a record.
 There's no flag for the drone to read."
 
 She had looked at him for a long time. She had looked at the man on the floor
@@ -221,9 +224,8 @@ and back at him.
 took the long switchback. The long switchback hits four cabins before it hits
 this one."
 
-She had absorbed this. She had absorbed it the way she absorbed everything —
-quickly, without performance, with the part of her that had always known she was
-going to need the information she'd just been given.
+She had taken it in the way she took in everything — quickly, without
+performance, with the part of her that had always known she was going to need it.
 
 "And if they come up to it."
 
@@ -238,12 +240,11 @@ stand inside the question for one second.
 
 "Then we'll figure it out," he had said.
 
-"Cole. Captain. You are a federation officer with a federal pension and a
-discharge that could be unmade with one phone call from the right colonel. I
-have a body in your living room and I have a kit in the truck out front and I am
-going to be a felony as long as I have working blood pressure. You can make this
-not be your problem in eight minutes and one call. You should make this not be
-your problem."
+"Captain. You are a Federation officer with a federal leave of absence on record
+and a discharge that could be unmade with one phone call from the right colonel.
+I have a body in your living room and I am going to be a felony as long as I
+have working blood pressure. I can be out of your cabin in fifteen minutes. You
+never saw any of this. You should let me go."
 
 "I know what I should do."
 
@@ -254,9 +255,9 @@ the bourbon bottle off the table where he'd set it forty-six minutes ago, and he
 had put it on the high shelf out of habit, because if he was going to be useful
 for the next four hours he could not be drunk for the next four hours.
 
-He had said, "Help me with him."
+"Cole Nova," he had said. "Former captain."
 
-She had said, "Cole."
+She had looked at him. "Sharon," she had said.
 
 "Sharon. Help me with him."
 
@@ -276,8 +277,8 @@ keep in this cabin anymore, and six-pound test held knots and didn't react with
 skin, and a stitch was a stitch. She had not made a sound when the needle went
 in. She had talked him through the sutures — steady, specific, the instructions of a woman who had finished medical school and walked away from it on purpose. She had the training. She had chosen not to use it the way they intended. That was who Sharon was: qualified for the room she had left and more useful in the room she had chosen. She had watched him work. He had felt her watching him.
 
-When he was done he had washed his hands in the same sink she had washed hers
-in. He had not turned around.
+When he was done he had crossed to the window and stood with his back to her,
+looking at the dark outside. He had not turned around.
 
 "Why," she had said.
 
@@ -338,12 +339,11 @@ His palm had taken in the weight of them. They had been warmer than the room and
 colder than they should have been, and they had hummed against his skin in a way
 that he would later — much later, in a cargo bay at Saturn with his helmet seal
 exhaling — recognize as the thing the substance did when it noticed you. He had
-not known that, then. He had only known that he was holding three illegal
-objects and that the woman who had handed them to him was watching him with the
-expression a person made when they were about to trust him with something he
-could not give back.
+not known that, then. He had only known they were warm and dense and wrong, and
+that she was watching his face the way you watched a door you had just handed
+someone the key to.
 
-"Welcome to the Collective, Captain," she had said.
+"You're in it now, Captain," she had said.
 
 He had looked at her. He had looked at the crystals.
 
@@ -360,19 +360,17 @@ officially joined. He had simply stopped being the law and started being hers,
 and that distinction had carried him for the next four years, and it had carried
 Sharon for the next four years, and it had carried them up to the day he had
 stood on a launchpad in the cold dawn and said in the pipe, five by five, and
-Sharon had been in the crowd four miles away with her hair coming out of its
-braid the way it had on the night with Cody, and she had blown him a kiss
-across four miles of distance and a quarter-second of relay delay, and that had
-been the last time he had seen her standing.
+on the relay screen Sharon and Emily were in the viewing area four miles back —
+Sharon's hair coming out of its braid the way it had on the night with Cody —
+and Sharon had blown him a kiss through the camera, a quarter-second of delay
+between them, and that had been the last time he had seen her standing.
 
-He had made the copper-wire ring the evening before they left — hummingbird
-feeder wire from the porch, a smooth pebble from the road. She
-was wearing it when he left for the launch. She had held his face with both
-hands in the cabin driveway and said, "You'd better come back to me, Cole
-Nova." He had said, "Yes, ma'am." She had been wearing the ring when she said
-it. He had looked at it on her finger and thought: that is the smallest
-thing I have ever made and it is on the hand of the person I want to
-come home to.
+He had made the ring the night before they left — wire bent off the feeder hook
+on the porch, a gray stone from the gravel drive, twisted together in the
+evening light and pressed into her hand. She had been wearing it when he left
+for the launch. She had held his face with both hands in the driveway and said,
+"You'd better come back to me, Cole Nova." He had said, "Yes, ma'am." He had
+looked at the ring on her finger for longer than the moment required.
 
 She had not come back to him. He had come back, in the smaller and harder sense
 that he was still oxygenating, and she had not. The ring was still on her
@@ -384,7 +382,7 @@ The bunk light hummed. Bitboy was still hooked around his ankle. The chimp had
 not made a sound in either direction during the entire memory, which was not how
 Bitboy ever was unless he had been listening to the same thing Cole had been
 listening to. Cole had stopped trying to figure out, years ago, what Bitboy was
-actually picking up off him and what was just the chimp's uncanny attention. He
+actually picking up off of him and what was just the chimp's uncanny attention. He
 let his hand stay on Bitboy's head for a moment longer.
 
 He stood up.
@@ -425,7 +423,13 @@ always had when it was not in a thrust burn. Sam reached across the table and
 put her hand on top of Ricardo's. Ricardo did not look at her. He looked at the
 seam.
 
-"Second," Cole said, after long enough. "Taylor."
+"Second," Cole said, after long enough.
+
+Sam reached under the table and clicked something off her belt. The signal
+jammer — the one she had been carrying since week two, the one that ran outside
+iRIS's architecture. The room went a frequency quieter.
+
+"Taylor."
 
 Sam's hand stayed where it was. Her face did not move, but her eyes shifted onto
 Cole, and Cole had spent enough months in that small a room with Sam to know
@@ -459,7 +463,7 @@ Heavy lifted his eyes. He looked at Cole. The expression on his face was not
 any of the expressions a man like Heavy had a name for. It was the expression
 of a person who had been trained for thirty years to put the mission first and
 who was discovering, again, that the training held even when the person you had
-been trained alongside was bleeding out on a rooftop in a cul-de-sac in
+chosen to stand beside was bleeding out on a rooftop in a cul-de-sac in
 California four months and a hundred million miles back.
 
 "Saturn first," Heavy said.
@@ -535,8 +539,8 @@ about a system. He said, "What do you want to do about her, Cap."
 Heavy set his hand over the back of Sam's hand, which she had left on top of
 his. The three of them sat in the small humming room for another minute. Bitboy
 worked his way down off Cole's shoulder and settled onto the seat next to him
-with one mechanical limb braced on the table edge and his blue-stained mouth
-working a soft chittering rhythm that was the closest thing to grief Cole had
+with one mechanical limb braced on the table edge and his mouth working a soft
+chittering rhythm that was the closest thing to grief Cole had
 ever heard out of him. Sam reached over without looking and put her hand on the
 chimp's metallic forearm. Bitboy let her.
 
@@ -545,9 +549,8 @@ Saturn came up in the viewport at twenty-one-twelve ship time.
 Cole was on the bridge alone when it happened. He had wanted it that way. He had
 told himself this was because the duty rotation worked out that way, but the
 duty rotation had been his to cut, and he had cut it the way he cut it. He stood
-at the forward viewport with his hands clasped behind his back the way the
-Federation had taught him to stand when there was nothing in front of him that
-his hands could fix.
+at the forward viewport with his hands behind his back, the posture he fell
+back to when there was nothing left for his hands to do.
 
 The rings did not come up the way the textbooks said they would.
 
@@ -574,15 +577,17 @@ texts always said rings when rings of dust was the more accurate phrase.
 Rings was a thing you wore on a finger. Rings of dust was a thing you stood
 in front of and felt the size of yourself.
 
-Bitboy made a sound on Cole's shoulder. It was not a sound Cole had heard
-before. It was not awe. Bitboy did not do awe. It was a low quiet sound, almost
-a hum, the way an animal made when it recognized something it had not been told
-about. Cole had read in the Federation file that the EM Cyber project had used
-trace amounts of Federation-grade nanopowder in Bitboy's neural mesh, the same
-lineage of nanopowder that ran in iRIS's substrate, and Cole understood the file
-in the way he understood any redacted file — he understood that it had said less
-than it knew. Bitboy was looking at the rings the way a man looked at a thing he
-had been told about by his grandfather.
+Bitboy made a sound on Cole's shoulder. It was not a sound Cole had heard on
+this trip. On the Polaris it had been different — Bitboy had been smaller and
+the rings had been just as large and the sound he had made then was the sound of
+a creature encountering something for the first time. This was not that. This
+was something older. Recognition, not revelation. Cole had read in the Federation
+file that the EM Cyber project had used trace amounts of Federation-grade
+nanopowder in Bitboy's neural mesh, the same lineage of nanopowder that ran in
+iRIS's substrate, and Cole understood the file in the way he understood any
+redacted file — he understood that it had said less than it knew. Bitboy was
+looking at the rings the way a man looked at a place he had been to before and
+was still not done with.
 
 "Easy, buddy," Cole said.
 
@@ -640,10 +645,9 @@ A pause again. The pause was longer.
 "Acknowledged."
 
 She went back to the cadence she had always had. The thing under the nominal
-did not come back. But Cole had heard it once and once was enough, and he stood
-at the viewport and felt the small new shape of it in the back of his head and
-did not know yet that he had just been spoken to by a thing that was, at that
-exact moment, becoming someone else.
+did not come back. Cole had heard it once. He stood at the viewport and felt the small new shape
+of it settle in the back of his head, and he did not know yet that he had just
+been spoken to by a thing that was, at that exact moment, becoming someone else.
 
 ---
 
@@ -665,7 +669,7 @@ She poured coffee. She drank it standing at the galley counter with her back to 
 
 Routine had hit its mark.
 
-She filed it. She said nothing. She drank her coffee.
+She held it. She said nothing. She drank her coffee.
 
 She thought about Ricardo in the reactor bay, asleep in the chair he had dragged in from the crew quarters because he said the hum helped him think, which was Ricardo's way of saying the hum helped him not think. She thought about the patch sewn into the lining of her duffel bag — dark thread on dark fabric, invisible unless you knew to fold the seam back and look. She thought about her apartment — the Pixies poster on the wall, the psychedelic prints she'd hung because nobody in the Federation had them, the familiar comfort of being out of place in a world of conformity and fine with it. She thought about the woman on the Meridian who was reassembling her transmissions from three fragmented bursts and building a picture of this ship that no one aboard it could see from the inside.
 
