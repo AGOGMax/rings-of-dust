@@ -274,28 +274,41 @@ meant to be authorized for something that required a word like authorized.
 
 "Do you know what she's asking me to get there," Emily said.
 
-"Conrad's research. His documentation of what Alpha did to Gracie when they turned it into iRIS." He had already known. "I know the
-facility layout. I know the access route. I know what happens after." He paused. "I
-don't know your brother."
+"The research files are already out — Rachel moved them two weeks ago." He
+looked at the road. "What's still down there I know as a layout and an access
+route. What it is, specifically — Rachel said you'd recognize it when you saw
+it." He paused. "I don't know your brother."
 
 "You don't need to."
 
 "No," he said. "I don't."
 
 They drove for a while in a silence that was not uncomfortable. The high desert
-flattened out toward the state line. Emily ate the second granola bar. Sommi
-declined when she offered the box without looking at it. Sommi drank his water at even intervals — not thirst, protocol.
-She noticed this the way she had noticed his shoes — not as evidence of
-anything, just as information about the kind of person he was.
+flattened out toward the state line. Emily ate the second granola bar. She
+reached for the radio at some point and found static and turned it off.
+
+"Two days out here and the Collective doesn't budget for anything you can
+actually eat," Sommi said. Not complaining. Just noting a fact.
+
+She looked at him. Then she held out the box without taking her eyes off the
+road.
+
+He took one. Read the label. "Oat and honey."
+
+"They were out of your preference."
+
+"My preference is a sandwich," he said. "But I adapt."
+
+Sommi drank his water at even intervals — not thirst, protocol. She noticed
+this the way she had noticed his shoes — not as evidence of anything, just as
+information about the kind of person he was.
 
 "Your condition," he said, not as a question.
 
-"It's managed." Her voice was flat.
-
-"I'm not questioning the operation. I just want to know the rest schedule."
-
-She thought about it. "Every three hours. Twenty minutes. I need to get out and
-move." She looked at the road. "I don't need you to drive."
+"Performance anxiety." Her voice was flat. Not embarrassed. Not explaining
+more than the fact. "I freeze when it matters if I'm not careful. Sharon
+helped me build the protocol — movement, medication, rest windows." She looked
+at the road. "Every three hours. Twenty minutes. I need to get out and move."
 
 "I know." He looked at the horizon. "Every three hours is fine."
 
@@ -406,6 +419,32 @@ seeing. "Conrad," she said.
 Sommi held his attention on it for one beat longer than the answer
 required. Then he handed her the water fully and turned back toward the car.
 
+They were back on the highway before she asked.
+
+"How did you end up doing this."
+
+He looked at the road for a moment. "Air filtration calibration. Federation
+data centers. Clearance three, decent pay, no interesting questions."
+
+"That doesn't explain the Collective."
+
+"I found a spec sheet I wasn't supposed to find." He was quiet for a moment.
+"Disposal Protocol Eleven. They were destroying inventory on purpose — just
+enough above natural waste to pass a line-item audit. Calibrated. Very
+careful." He looked at the horizon. "I made a copy and spent about six weeks
+trying to figure out whether I was the kind of person who did something about
+it."
+
+"And?"
+
+"Turns out I was neither kind. I couldn't stay in that building after I knew,
+and the Collective was the only door that opened." A pause. "I'm very good
+at staying behind people."
+
+"I noticed."
+
+"It's in my file," he said.
+
 Sharon hadn't recruited her. Sharon didn't recruit anyone — she didn't have the patience for organizational structure. What Sharon had done was pull a high school science teacher into the gray market and make it look like the most alive thing in the world. Emily had loved it. She had joined the Collective herself, afterward — because she believed in standing up to bullies and because she had already decided what side she was on before anyone asked. Sharon opened the door. Emily walked through it.
 
 She thought about Cole.
@@ -416,7 +455,7 @@ way you keep a candle burning without watching it. She knew him well enough to
 know that he was managing. She knew him well enough to know that managing
 covered a wide range of situations that would terrify anyone who was not Cole
 Nova. She knew that he had iRIS in his head and Taylor in his crew and a ship
-full of DarkX and nine months until he was close enough to a return window.
+full of DarkX and four months until he was close enough to a return window.
 She knew that Conrad's counter-program, in the right hands, could reach him.
 
 She was the hands.
@@ -437,17 +476,21 @@ moved past her without requiring anything.
 She thought about Sharon and average.
 
 Doomed to be average had been the formulation that landed, but it wasn't the
-original sentence. The original sentence, the one Sharon had said when Emily was
-thirteen, in their kitchen, after Emily had come home from a school presentation
-gone badly and sat at the table with her forehead on her arms and refused
-dinner, was something closer to: You know what your problem is? You see the
-distance between where you are and where you want to be and you call it failure.
-Most people don't even see the distance. You're not average. You're just
-impatient.
+original sentence. The original sentence was something Sharon had said during
+Emily's second year in the classroom — after Emily had driven forty minutes on a
+Friday night to show up at Sharon's door with the particular exhaustion of a
+teacher who had given everything to a lesson that had landed with no one, and
+sat at the kitchen table and said she was seriously considering whether she was
+in the wrong profession.
 
-Emily had thought that was wrong.
+Sharon had looked at her for a long moment and then said: You know what your
+problem is? You see the distance between where you are and where you want to be
+and you call it failure. Most people don't even see the distance. You're not
+average. You're just impatient.
 
-She had kept being thirteen about it for the better part of two decades.
+Emily had thought that was a convenient thing to say.
+
+She had kept believing that for the better part of a decade.
 
 The doomed to be average version had come later, when Emily was older and knew
 better how to be self-deprecating, and Sharon had used it because by that point
@@ -458,6 +501,30 @@ other one was not going to let them get away with anything.
 Sharon was not here to not let her get away with anything.
 
 Emily was going to have to do that for herself.
+
+---
+
+---
+
+Vance Black
+
+The dirt road ended around the time his phone signal did. He had taken the 215
+south and then a county road the GPS had been certain about right up until it
+stopped being certain and gave him a gray square. He went by the signpost after
+that, which said nothing useful, and by the logic of a man who had been doing
+this long enough to know that classified sites were almost always down roads
+that looked like they went nowhere.
+
+He was right. The razor wire gave it away before the fence did.
+
+He pulled to a stop outside the gate and looked at the guardhouse — fresh white
+paint, brand new, the kind of install you did when you were covering something
+with more money than patience. He rolled down the window. The desert poured in,
+still warm from the day, dry and flat and indifferent.
+
+He picked up his badge off the passenger seat.
+
+"Here we go," he said, to no one.
 
 ---
 
@@ -477,7 +544,7 @@ three hours. The full night. Your body is running on fumes and you're not going
 to be useful at dawn if you're running on the next set of fumes."
 
 Emily thought about Rachel — how she'd sounded at five in the morning, how
-she'd sounded at midnight at the pier, how neither voice had carried the weight
+she'd sounded at the pier with the afternoon light still on the water, how neither voice had carried the weight
 of someone running on fumes. Some people's lights just didn't go out.
 
 "I know that too."
@@ -500,11 +567,18 @@ At some point you stop re-evaluating a decision and start executing it, and she
 had crossed that line somewhere in the Mojave, and she was not going
 back.
 
-She found a motel at the edge of Henderson, the same class of anonymous refuge
-as the one in Barstow — which felt appropriate, somehow, as if the universe had
-a sense of continuity about unremarkable places. She checked in under the same
-fake name, paid cash, carried the bag to the room herself when Sommi offered to
-carry it.
+She found a motel at the edge of Henderson — the same class as Barstow, maybe
+the same motel in a different body. The parking lot had a pothole near the
+entrance the size of a small ambition and a burnt-out security light throwing
+orange nothing onto cracked asphalt. The office window still had the old
+transaction slot in the glass — the kind you'd slide a credit card through, from
+back when that counted for something. A laminated sign behind the glass said
+NO CHECKS · NO PETS · THANK YOU FOR NOT SMOKING IN ROOMS, the SMOKING visible
+where someone had tried to peel it off and given up. The carpet inside was the
+color of a decision no one could remember making. There was a vending machine
+at the end of the corridor that was down to two options, and both of them were
+the same brand of chip. She checked in under the same fake name, paid cash,
+carried the bag to the room herself when Sommi offered to carry it.
 
 She sat on the edge of the bed and checked the burner one more time. Nothing.
 She set it on the nightstand. She set the road atlas next to it.
@@ -535,9 +609,10 @@ Stronger than you think, Sharon had said.
 
 Emily wasn't sure she believed it yet.
 
-But she had made it to Nevada. She had made it to Nevada on three hours of
-sleep and four hundred miles of desert highway, and she had parked the car,
-and she had walked up the stairs, and she was here.
+But she had made it to Nevada. She had made it to Nevada on six hours of sleep
+across two motel rooms in two different states and four hundred miles of desert
+highway, and she had parked the car, and she had walked up the stairs, and she
+was here.
 
 She would figure out belief in the morning.
 
