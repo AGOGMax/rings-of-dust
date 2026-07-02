@@ -191,8 +191,6 @@ Vance had always believed that confrontation was the one thing people like Marcu
 
 He did not compose a message. He drove to Marcus's building and walked in.
 
-That was who Vance was.
-
 ---
 
 The cargo bay was cold. The raw DarkX plasma in the harvester housing required near-vacuum containment temperatures — Taylor had cited this in the mission briefings as a reason to keep crew time in the bay to a minimum, which had seemed reasonable then.
@@ -242,11 +240,7 @@ what he was doing.
 
 Taylor was venting the bay.
 
-The intercom clicked on again.
-
-"Bay systems are running on isolated power. The door's electronic seal is mine." A pause — the pause of someone who finds it useful to be precise. "The mechanical release on the harvester is behind the housing. You're welcome to try it." He let that sit for a second. "I've done the math on what happens to three humans and a monkey when you put raw DarkX plasma in a sealed room. I'm comfortable with the numbers."
-
-He was betting on two things: that no one in their right mind would open the harvester, and that without power to the door locking circuit, the only exit stayed shut. Both reasonable bets. Both the kind of calculation a man like Taylor made because he had never seen the people he was calculating against do something genuinely unreasonable.
+He had run the math. No power to the door's locking circuit — Taylor held the isolated bay systems — meant the only exit stayed shut. And the one mechanical variable left, the harvester housing, contained raw DarkX plasma. Nobody opened that in a sealed room. Nobody deliberately bridged a live electrical arc through their own body to restore circuit power. These were not things people did. Taylor's model of the situation did not include things people did not do.
 
 ---
 
