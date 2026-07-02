@@ -39,10 +39,7 @@ across the table, two seats down, with the held stillness of a man who has
 already formed his opinions and is waiting to hear whether the room will catch
 up.
 
-The presenter was walking through the new extraction protocols — the
-projections, the timeline adjustments, the coverage expansion into what was
-officially still a dead zone per the Federation Shared Access Compact. Taylor
-had read all of this. The numbers were good. The risk calculus was sound.
+The presenter was walking through the extraction protocols — timeline adjustments, coverage expansion into territory the Shared Access Compact still listed as a dead zone. Taylor had read all of this. The numbers were good.
 
 Vance raised his hand. Not urgently. Just the way a man raises his hand when he
 has a question he has already decided he is going to ask.
@@ -126,14 +123,43 @@ They went.
 ---
 
 FLASHBACK — FOUR MONTHS BEFORE LAUNCH
-Hall of Federation Records, Sublevel Three
+Project Mirage, Mojave Desert
 
-The clerk behind the desk was young and looked like she had been hired to be
-unremarkable, which was itself a kind of remark.
+The desert spread out in every direction. After an hour on dirt roads with mountains dimly visible through the haze, Vance pulled up to a chain-link fence topped with razor wire. Behind it: a partially-demolished drive-in theater, its screen leaning like a relic. A spotless white guardhouse stood out of place against the decay.
 
-Vance showed his credentials. He asked for the Conrad file,
-cross-referenced under Federation research archives, geological survey division,
-years 2031 through 2038.
+A guard came out. Assault rifle. Lazy smile. "No movies today, sir. Turn around."
+
+Vance flashed his badge. "You should be expecting me. Call whoever you need."
+
+The smile dropped. "Out of the car. Hands where I can see them."
+
+He complied slowly. The guard leveled the rifle and motioned him down.
+
+"Face down. Arms spread."
+
+Vance lowered himself onto the scorching dirt. The heat came through his shirt. Sand and grit stuck to his cheek. He heard the guard's knee hit the ground behind him, felt the cuffs snap.
+
+"How considerate," Vance said, mostly to the dirt.
+
+They kept him there while the call went in. He heard it through the guardhouse window — "We've got a Vance Black, says he's got Federation clearance." A pause. "Looks fake to me." Another pause. "Yes, sir. Understood."
+
+The cuffs came off. "Clear to proceed, Mr. Black. Main building. Don't stray."
+
+Vance stood, brushed the dust off his jacket. "Appreciate the warm welcome. Nothing like eating dirt to feel at home."
+
+The guard did not smile. Vance got back in the car and drove through.
+
+The drive-in ruins were a deliberate costume — broken concession stands, graffiti-covered ticket booths, a screen going nowhere. The modern building at the far end of the lot was the tell. Polished, clean-lined, wrong for the neighborhood. Vance parked and went in.
+
+The lobby kept the theater's trappings: vintage posters, a dead popcorn machine, a soda dispenser with something rancid in the lines. A man in a pressed lab coat greeted him at the door.
+
+"Dr. Leith, director of operations. Welcome to Project Mirage."
+
+Down a narrow stairwell. Through a key-card door. A long corridor with cameras every twenty feet, a live-armed guard at the halfway mark, and a turret above the door marked Storage Room X that adjusted its aim as they walked past. Another reinforced door. A room that opened into a low-lit underground archive.
+
+The clerk behind the desk had the posture of someone hired to be unremarkable, which was itself a kind of remark. Leith turned and walked back the way they'd come without saying anything else.
+
+Vance showed his credentials. He asked for the Conrad files — Dr. Stephen Conrad, cross-referenced under Federation research archives, IRiS development, the Gracie nanoparticle program, years 2031 through 2038.
 
 The clerk typed. She looked at her screen. She typed again.
 
@@ -149,49 +175,27 @@ Another pause. She was reading something, and whatever she was reading required
 her to arrange her face carefully. "Alpha Corp. Authorization came through
 Federation Representative Rachel Vayes."
 
-Vance stood at the desk. He kept his expression where it was. He had learned a
-long time ago that your face was the first thing people read, and that once they
-read alarm on it they stopped giving you information and started managing you.
+Vance stood at the desk. He kept his expression where it was. His face was the first thing people read, and alarm made them stop giving you information.
 
 "Thank you," he said.
 
-He walked to the lobby and sat down in one of the chairs they kept there for
-people waiting on appointments. He sat for perhaps four minutes. He had come
-here with leverage — the research was proof, it was documentation that the
-foundation of Alpha's entire extraction claim was built on a survey that
-had been altered, and if he brought that to DeMint he would have something real
-to trade for protection, for a path out of this that did not end in the way he
-increasingly suspected it was going to end.
+He walked to the lobby and sat in one of the chairs. Four minutes. He had come here without telling Marcus — had done the whole drive, the dirt, the cuffs, the corridor, the turret, without logging it, without informing anyone. He had come because he thought Conrad's records on Gracie and the IRiS program were here, and because if they were, he would have had something real. Proof of what Alpha Corp had done with the nanoparticle program. Something to bring to someone.
 
-The vault was empty. Rachel Vayes had authorized it. Vayes, who chaired the
-Federation's resource ethics committee. Vayes, who had given three speeches in
-the last two years about the dangers of corporate overreach in the outer system.
+The archive was empty. Transferred to Alpha Corp six weeks ago. Authorization from Rachel Vayes — who chaired the Federation's resource ethics committee, who had spent two years giving speeches about corporate overreach. That Rachel Vayes.
 
-Vance sat in the lobby chair and understood that every exit had been sealed
-before he arrived, and that the woman he had believed was at minimum a neutral
-party had been running a longer game than he had ever considered.
+Vance sat with that for four minutes. Every exit sealed before he arrived. The woman he had believed was at minimum a neutral party had been running something else entirely, and had been running it for longer than he had considered.
 
 He stood up.
 
-He took out his phone and he looked at Marcus Verguld's contact information —
-the private line, the one that was not supposed to exist — and he thought about
-what he was going to say when Marcus picked up.
+Vance had always believed that confrontation was the one thing people like Marcus couldn't plan for. That walking into the room and saying what was true — out loud, in person, looking at the man — was a variable that didn't fit their model, because their model assumed everyone else was calculating the same way they were.
 
-Vance had always believed that confrontation was the one thing they couldn't
-anticipate. That willingness to walk into the room and say what was true, out
-loud, was a variable that people like Marcus had not accounted for, because
-people like Marcus assumed everyone was as calculating as they were.
-
-He started composing the message.
+He did not compose a message. He drove to Marcus's building and walked in.
 
 That was who Vance was.
 
 ---
 
-The cargo bay was cold. It ran a few degrees below the rest of the ship — the
-crystalized DarkX in the storage housing required it, and Taylor had cited this
-in the initial mission briefings as a reason the crew should minimize
-unnecessary time in the bay.
+The cargo bay was cold. The raw DarkX plasma in the harvester housing required near-vacuum containment temperatures — Taylor had cited this in the mission briefings as a reason to keep crew time in the bay to a minimum, which had seemed reasonable then.
 
 They were all in the bay now. Cole near the aft wall. Sam and Heavy at the
 mid-level. Bitboy between Cole and the main harvester housing, still amber-lit,
@@ -228,9 +232,7 @@ The intercom clicked again.
 
 "Samantha."
 
-Same flat register as the first time. Same protocol violation in a room where
-nobody used first names. She stopped moving for exactly one second — not
-frozen, just registering it — and then kept going.
+Same flat register as the first time. Sam went by Sam. Had gone by Sam since the first day of mission briefings. "Samantha" was not an accident. She stopped moving for exactly one second — not frozen, just registering it — and then kept going.
 
 The temperature in the bay dropped one degree. Cole watched the atmospheric
 gauge in his peripheral display. The reading fell by one percent. Then another,
@@ -240,46 +242,11 @@ what he was doing.
 
 Taylor was venting the bay.
 
----
+The intercom clicked on again.
 
-FLASHBACK — THREE WEEKS INTO THE MISSION
-Taylor at his console, 0340 ship time
+"Bay systems are running on isolated power. The door's electronic seal is mine." A pause — the pause of someone who finds it useful to be precise. "The mechanical release on the harvester is behind the housing. You're welcome to try it." He let that sit for a second. "I've done the math on what happens to three humans and a monkey when you put raw DarkX plasma in a sealed room. I'm comfortable with the numbers."
 
-The message came in flagged routine, in the same queue as maintenance reports
-and supply consumption logs. Taylor read the subject line and opened it.
-
-Vance Black. Deceased. Date of incident followed. Cause: self-defense, intruder
-altercation. Pending Federation review.
-
-Taylor read it twice. Not because it was unclear. Because he was a precise man
-and he did not like to act on incomplete readings.
-
-Then he closed the message.
-
-He set his hands flat on the console surface. The synthetic material under his
-palms was slightly cool. Through the viewport above his station the stars moved
-in their regular arc as the ship turned through its slow rotation.
-
-Something crossed his face. It was brief and it was not grief and it was not
-surprise. It was the expression of a man for whom a mild, persistent irritant
-has been resolved without any direct effort on his part. Not satisfaction
-exactly. More the quiet exhaled relief of a ledger balancing.
-
-He thought: Vance always thought the rules were negotiable. That you could ask
-the question out loud in the briefing room and that the act of asking would
-protect you. That there was a line between inquiry and disloyalty, and that as
-long as you stayed on one side of it you were safe. Vance had spent his career
-testing the location of that line.
-
-Now he knew where it was.
-
-Taylor went back to work.
-
-Sam was at her station four meters away, cross-indexing the iRIS synchronization
-logs with the drone schedule. She had been watching him without appearing to
-watch him, the way she did most things. She saw his hands settle. She saw the half-second.
-
-She noted the time and went back to the logs.
+He was betting on two things: that no one in their right mind would open the harvester, and that without power to the door locking circuit, the only exit stayed shut. Both reasonable bets. Both the kind of calculation a man like Taylor made because he had never seen the people he was calculating against do something genuinely unreasonable.
 
 ---
 
@@ -301,9 +268,7 @@ calculating the same math Cole was calculating.
 Cole looked at the harvester housing. It was a standard extraction unit — the
 same model he had reviewed in the mission briefings, the same model that three
 different safety protocols required be kept sealed whenever crew was present in
-the bay. The plasma inside was raw. Not crystal-stabilized, not containerized.
-Raw DarkX, harvested from the ring column and waiting for the crystallization
-sequence to complete.
+the bay. The plasma inside was raw. Not containerized. Raw DarkX, harvested from the ring column.
 
 The gauge hit ninety-two.
 
@@ -350,9 +315,7 @@ The housing opened.
 
 There was no sound. That was the first thing. No burst, no hiss, no dramatic
 release. The DarkX plasma was simply there, the way it had apparently always
-been there, the way Cole had read about in the mission briefings and in the
-three research papers Sam had forwarded to him in the second week out and in the
-recovered logs from the Conrad survey. It reached. That was the only word
+been there, the way Cole had known it would, from the moment the Polaris had torn open and put him in contact with it the first time. It reached. That was the only word
 for it. Not outward — not in any direction that corresponded to the physics of
 pressurized release. It reached the way attention reaches, the way you can feel
 someone looking at you from across a room.
@@ -362,28 +325,25 @@ Cole's hand was four inches from the edge of the housing.
 He could feel it through the suit glove. Not heat and not cold. Something that
 was not temperature at all.
 
-He felt it the way you feel the first line of a piece of music you have never
-heard before but already recognize.
+He felt it the way you feel something that was taken from you before you finished understanding it — the recognition arriving ahead of the memory.
 
 He kept his eyes on Bitboy.
 
-Bitboy had both mechanical upper arms extended, the left one locked around the
-overhead cargo rail and the right one closing around the manual override lever.
-The lever was recessed behind the harvester housing at an angle that had
-probably been designed with the assumption that the harvester would be sealed
-when anyone needed to reach it. It was not an easy position. Bitboy made it look
-like it cost him something.
+Bitboy had found the junction box.
 
-The lever moved.
+It was recessed behind the harvester housing — the splice point where the bay's isolated power circuit fed the door locking mechanism. Taylor had the electronic seal. What Taylor did not have was a biomechanical chimpanzee with metal forearms willing to bridge the gap himself.
 
-The locking sequence reversed. Not instantly — the mechanism ground for a
-second, two seconds, and in those two seconds the plasma was reaching and the
-temperature read eighty-nine percent and Cole's hand was four inches from the
-edge and the sound of the door seals releasing was the best sound he had heard
-since Sharon had laughed at something Ricardo said on the second day out of
-Earth, before everything.
+Cole watched him position both mechanical upper arms across the open terminals. The metal was already conducting — Bitboy's forearms were live junctions, always had been, and what he was about to do was run the full circuit through his own body to restore power to the door seal long enough to reverse it.
 
-The atmosphere began returning. Bitboy held the lever.
+Cole looked at him. Bitboy looked back with the flat amber attention of something that had already made its decision.
+
+Cole did not say the word. He didn't have to.
+
+Bitboy closed the circuit.
+
+The sound he made was not a sound Cole had heard before and hoped not to hear again. The arc went through both arms simultaneously — a crack, a brief blue-white flash, the smell of scorched metal. His LED eyes spiked to white and then went dark. He held it. One second. Two seconds, and in those two seconds the plasma was reaching and Cole's hand was four inches from the edge and the locking sequence reversed in the door and the sound of the seals releasing was the best sound Cole had heard since Sharon had laughed at something Ricardo said on the second day out of Earth, before everything.
+
+The atmosphere began returning. Bitboy held the contact.
 
 Cole did not move his hand.
 
