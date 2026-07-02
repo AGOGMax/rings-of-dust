@@ -26,7 +26,7 @@ He was not loud. He did not need to be — the tunnel was quiet enough that a no
 
 He spoke about Elsa Klein.
 
-He spoke about the eleven years she had spent building this colony out of rock and belief and the four notebooks she had left behind. He spoke about the day she had arrived with eleven people and one resolution: that what she had found deserved to be handled with care rather than stripped for profit. He spoke about the last entry in the last notebook, written three days before she died, in handwriting that Petra had described to him as shaky but precise.
+He spoke about the eleven years she had spent building this colony out of rock and belief and the four notebooks she had left behind. He spoke about the day she had arrived with three hundred and sixty-nine people and one resolution: that what she had found deserved to be handled with care rather than stripped for profit. He spoke about the eleven who had survived the first decade, and what had been lost to the asteroid and the years and the things an outpost this far from everything required of a person. He spoke about the last entry in the last notebook, written three days before she died, in handwriting that Petra had described to him as shaky but precise.
 
 He did not read from the notebook. He had it memorized.
 
@@ -92,11 +92,77 @@ He looked at Jill.
 
 ---
 
+The Golden Dawn had been running a twenty-six-day supply loop between Pell Station and the outer ring when Heavy discovered Fight Club.
+
+He had not looked for it. He had cycled through the library in a bored moment on the fourteenth day and it had appeared in the recommendations, and he had watched it at 0200 with the volume low and the monitor angled away from Bitboy's alcove. The next morning Bitboy had watched it at 0600, alone, without mentioning it to anyone.
+
+By the eighteenth day they were on their fourth watch.
+
+Cole came in for coffee. He could hear the monitor from the galley corridor — a specific scene he hadn't placed yet, Brad Pitt delivering something in the register of a person who has burned everything down on purpose and found the air on the other side clean.
+
+*It's only after we've lost everything that we're free to do anything.*
+
+Cole stood in the doorway with his mug.
+
+Heavy was in the big chair. Bitboy was on the equipment bench to his left — all six limbs folded in the compact configuration he used when he was paying close attention to something and didn't want anyone to know how much. His LED eyes were dim. That was the tell.
+
+"He talking to himself again?" Cole said.
+
+"He does that," Heavy said, without looking away from the screen.
+
+Cole poured his coffee. He thought about the cabin. He had been in it for fourteen months before he found Bitboy — in the equipment locker of a decommissioned research vessel, not because anyone had left him there, but because Bitboy had decided it was a good place to be and no one had been paying close enough attention to notice. Before the cabin there had been the university. Before the university there had been a life that had made sense in the way lives make sense when you haven't tested them yet.
+
+He had not chosen to lose any of it. The losing had happened to him, incrementally, by a series of events that hadn't asked. He'd arrived at the other side — at the bourbon, the snow, the CyberMonkey, and eventually Sharon — not because he'd understood what the losing was doing but because at a certain point the absence of a choice becomes the choice.
+
+He watched Brad Pitt talk to himself on the monitor.
+
+"Good movie," he said.
+
+"Best one," Heavy said.
+
+Bitboy's upper left arm twitched. Cole had learned, over the years, to read this as agreement.
+
+Cole went back to bed.
+
+---
+
 She stayed.
 
 She didn't decide to. She just didn't leave. The morning after the ceremony she ran the full diagnostic on the Hound's Tooth — actually ran it this time, every system, every readout — and found nothing wrong, which she had expected, but the process took three hours and by the time it was done it was midday and she was hungry and the kitchen had food.
 
 She told herself she was leaving tomorrow.
+
+The kitchen had better food than she had expected. Real protein — from an actual animal, from somewhere with atmosphere. She asked Yun about it on the second day.
+
+"Pell," he said, without looking up. "Tyler runs a standing order. Best grade the station stocks."
+
+"The colony budgets for that."
+
+"Gold receipts," he said. "The sacrifice is the big show. But the returns come back in a form that trades. Pell has access to markets we don't." He glanced over. "Tyler wants to sacrifice more than we keep. I think that's easier to believe when you've had a good meal."
+
+She thought about this for the rest of lunch and did not argue with it.
+
+On the third day she found the memorial wall.
+
+It was at the junction between the main tunnel and the east branch — not marked, not framed, just carved directly into the asteroid rock in handwriting that had changed over the years as different people had added to it. Three hundred and fifty-eight names. She stood there for a while. She read what she could read and stood with the rest.
+
+Nobody came by. Nobody explained it. Nobody needed to.
+
+On the fourth day Yun took her into the tunnel — not to the sacrifice point, but to the section about two hundred meters in where the gradient started. He was carrying two mugs. He handed her one and they walked.
+
+She noticed it after a while. The weight of the mug hadn't changed, exactly — but the claim gravity made on it had. As if the asteroid had stopped insisting and was only suggesting.
+
+"Here," Yun said.
+
+She tilted her mug. The liquid lifted toward the rim. Not a slosh. A rise. Measured. Like something had quietly revised its opinion about where it should be.
+
+"It's a metaphor," Yun said. He had said it on purpose and he knew it.
+
+"You walk in with a full cup," he said, "and somewhere in the middle it becomes something you're holding differently than you held it at the entrance." He took a slow sip, completely unbothered. "Doesn't spill if you know what you're doing."
+
+She had run this kind of differential for years — the numbers, the tolerances, the launch windows a gravity gradient opened and closed. She had delivered cargo through tighter corridors at higher differential than this.
+
+She still stood there for a while and watched her coffee lift toward the rim.
 
 She told herself this for ten days.
 
@@ -198,13 +264,11 @@ She picked up the case and took it back to the supply room.
 
 She was gone for a moment. When she came back, she was not carrying the case. She was carrying a single sheet — a piece of paper, old, the edges soft from handling, a copy made from something older still. She set it on the bench between them.
 
-"The notebooks contain four things," Petra said. "The first is the spiritual practices — the ancestor gifting, the belief system, the conviction that what you give to the void moves forward through your bloodline. The second is what Elsa called the DarkX directions — the science of conversion. Three hundred and sixty-nine documented test runs, the locking mechanics, the eleven-day cycle, the void sacrifice data, the final zero-gravity experiments she called the zero condition. The instructions for making FuelCells from raw DarkX, step by step. The third is the timing and process of sacrifice to the void — the Liber Samekh ritual, the three-day fast, the invocation in the dark. How the DarkX moved through the crack in the wall toward the sound of her voice. What it chose to give. And what she understood afterward about the structure of the material — the cold and the containment and the geometry of the lock. The science came from the encounter. Not the other way around. The fourth is the preserved records of the Von Grutzen Order — the foundational documents Elsa transcribed during her years as a disciple, including references to a woman named Marta Von Grutzen. That name will mean something at the proper time." She smoothed the edge of the paper without looking at it. "I am going to read you one thing from the last set — the Order records. Then I am not going to ask you anything."
+"The notebooks contain four things," Petra said. "The first is the spiritual practices — the ancestor gifting, the belief system, the conviction that what you give to the void moves forward through your bloodline. The second is what Elsa called the DarkX directions — the science of conversion. Three hundred and sixty-nine documented test runs, the locking mechanics, the eleven-day cycle, the void sacrifice data, the final zero-gravity experiments she called the zero condition. The instructions for making FuelCells from raw DarkX, step by step. The third is the timing and process of sacrifice to the void — the Liber Samekh ritual, the three-day fast, the invocation in the dark. How the DarkX moved through the crack in the wall toward the sound of her voice. What it chose to give. And what she understood afterward about the structure of the material — the cold and the containment and the geometry of the lock. The science came from the encounter. Not the other way around. The fourth is the preserved records of the old European mystic order Elsa studied before she came here — the foundational documents she transcribed during her years as a disciple. The woman who founded that order appears throughout. Her name will mean something at the proper time." She smoothed the edge of the paper without looking at it. "I am going to read you one thing from the last set — the Order records. Then I am not going to ask you anything."
 
 She read it.
 
-What she read was not about cells. It was not about the void or the sacrifice or the eleven-day clock. It was a name. A family name. The name of the woman who had written the foundational records — the woman from the Order, the ancestor, the one whose belief had traveled forward in two directions and become two entirely different things.
-
-The name was Von Grutzen.
+What she read was not about cells. It was not about the void or the sacrifice or the eleven-day clock. It was a record of a woman's life — the founder of the order, in her own hand. Where she had come from. What she had walked away from. Her conviction that the bloodline she carried would produce, eventually, someone who came back to the sacrifice path and chose it freely — not from duty, not from inheritance. From recognition.
 
 Jill went very still.
 
@@ -212,7 +276,7 @@ Petra looked at her. She did not ask. She did not need to.
 
 She folded the paper. She returned to the supply room. She came back with the sealed case and set it on the bench in front of Jill. "Read them tonight," she said. "Return them in the morning. I have copies."
 
-Jill stood at the bench alone for a while. Then she went to find Tyler Durden.
+Jill stood at the bench alone for a while. She put the notebooks back in the case. She went to the main hall and sat with a cup of something hot and did not drink it. She sat there for close to an hour. Yun came in at some point — said nothing, sat beside her for twenty minutes, then got up and went back to the cable run without asking. That helped. The not asking helped. Then she went to find Tyler Durden.
 
 
 
@@ -242,7 +306,19 @@ He nodded once.
 
 "The math is good," she said.
 
-"The math is good," he agreed. He turned back to the screen. He was already done with her. He had what he needed from her presence — he had given her the watch and the proof, and now she was leaving, and that was as it should be. Tyler Durden moved on the way that people move on when they have somewhere specific to be inside themselves.
+"The math is good," he agreed.
+
+She looked at the tracking display. She thought about the notebooks. She thought about the zero condition.
+
+"The open condition," she said. "The zero-gravity locking. Do you know if anyone outside the colony has been working on it?"
+
+Tyler was quiet for a moment. Then: "The Collective has been asking us this question. For months. Two of them — they called themselves Red and Squirrel — reached out through our trade channels. They have a physicist working on it. He believes that a locked cell in zero gravity changes the growth rate entirely. Interior yield at a hundred times the standard. Exterior cycling on every cell in the grid, every eleven days, without limit." A pause. "I told them Elsa documented exactly that. I told them it was in the notebooks."
+
+Jill was quiet.
+
+"They found us," Tyler said. "About four months ago. They knew about the sacrifice stream. They knew about the zero condition." He looked at her. "They knew more than I expected."
+
+He turned back to the screen. He was done with her. He had what he needed from her presence — he had given her the watch and the proof, and now she was leaving, and that was as it should be. Tyler Durden moved on the way that people move on when they have somewhere specific to be inside themselves.
 
 Petra was at the far end of the main tunnel.
 
@@ -264,20 +340,26 @@ They stood with that for a moment. Down at the far end of the tunnel, where grav
 
 "I understand what she documented," Petra said. "I don't understand the implications. I'm not a physicist."
 
-"I might know someone who is."
-
-Petra looked at her.
-
-"The Collective," Jill said. "They have resources. People. They've been in contact. If what's in those notebooks is what I think it is—"
+"I might know someone who is." She paused. "Or someone who knows someone."
 
 "The notebooks are yours," Petra said. "Elsa made sure of that."
 
 Jill started to say something.
 
-"Take the originals," Petra said. "You came back once already. You'll be back." She stood, slowly, with the care of someone who has made peace with her joints. "When you come back, ask me again."
+"The colony is yours as well," Petra said. "Everything we hold. Everything the void has returned to us. Elsa's instructions were precise — legal documents in the archive room, filed with the independent registry on Pell Station, authenticated and irrevocable. I am the executor. You are the heir." She said it the way she said everything — without ceremony, without needing a response. "There is one more thing you should see before you go."
 
-She walked back toward the tunnel entrance without waiting for a response.
+She took Jill to the east tunnel. Not to the dark at the end — to the secondary branch, the door Jill had walked past twice and never been shown inside. Petra opened it.
 
-Jill stood there for a moment in the amber light.
+Jill stood in the doorway.
+
+The chamber was carved wide over decades, hollowed out with the patience of people who had somewhere specific to put what the void returned. The walls were ordinary asteroid rock. The floor was not.
+
+Six asteroids over seventeen years. Each one broken down in parts and consolidated here, stored here, accumulated with the slow certainty of a practice that had not missed a cycle. It was not bars. It was not formatted for transport or display. It was just gold — dense and dull in the amber work lights, the accumulated value of seventeen years of sacrifice filling the secondary branch from the floor to chest height, the way water fills a vessel over time without anyone watching it rise.
+
+"How much," Jill said.
+
+"I stopped calculating three asteroids ago," Petra said. "The number became very large and I found large numbers stopped telling me anything useful." She looked at the chamber. "Tyler has opinions about what to do with it. The Void-Walkers have different opinions. The Loyalists have a third set." She turned. "You'll need to decide."
+
+Jill stood there for a moment. Then she took the originals.
 
 She went to the ship. She sealed the transit case with the notebooks in the cargo locker. She ran the full launch sequence. She launched.
