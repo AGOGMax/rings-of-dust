@@ -134,8 +134,30 @@ never been to, holding nothing that belongs to him.
 
 ## ACT 2 — Build (Ch 7–16)
 
-### Ch07 — Proximity and The Message
-**File:** `TTS_Ready/Ch07_Proximity_And_The_Message.txt`
+### Ch07 — The Colony
+**File:** `TTS_Ready/Ch07_The_Colony.txt`
+
+Jill picks up a transponder signal on a frequency not in any registry — three
+days out from Titan on a route she chose for speed. Low on time, then low on
+fuel. Jill: black market runner, scavenger, punk rock in a universe run by people
+who look like her cousins. The colony is on an asteroid, habitation carved into
+the inner tunnel. Tyler Durden introduces himself by name. His self-awareness on
+display: "A soap factory that became a death cult on an asteroid nobody wanted" —
+he does not argue with the description, just keeps walking. Petra introduced
+physically: seventies, white hair cut close, one of the original eleven who
+survived with Elsa Klein. Loyalists vs. Void-Walkers split established. The only
+way to get FuelCells here is to make them by hand — in the prep room above the
+cave floor, warmth setting the lattice, cold of the asteroid's night phase
+locking it. Three days per cell. Jill makes two. She sits through the full night
+cycles on days eight and nine, feeling the cells sync in the cold. Day 11: a
+gold asteroid arrives. One of her cells hits Jackpot — the rare exterior crystal
+deposit, 1,332× yield. She leaves the Jackpot crystals with the colony. She
+takes both cells. Stays fifteen days total. Leaves.
+
+---
+
+### Ch08 — Proximity and The Message
+**File:** `TTS_Ready/Ch08_Proximity_And_The_Message.txt`
 
 *Merged from: Proximity + The Message*
 
@@ -153,8 +175,8 @@ it for maximum operational damage.
 
 ---
 
-### Ch08 — Marcus
-**File:** `TTS_Ready/Ch08_Marcus.txt`
+### Ch09 — Marcus
+**File:** `TTS_Ready/Ch09_Marcus.txt`
 
 Rachel walks Emily into the building without speaking. Lobby, elevator, three
 floors up, long dark hallway, two underlit Buddha statues. Emily is a former
@@ -167,12 +189,15 @@ every Alpha Corp broadcast, echoing his framing. Emily recognizes Marcus from
 childhood: Cole with a bloody lip and this boy's knee on his chest, and her
 grabbing the collar. Marcus shows her the encrypted drive data. A vessel pacing
 Cole's course. He orders a tracker placed on Emily. Emily drops his card behind
-a potted plant on the way out.
+a potted plant on the way out. Chapter closes with Alpha II (Day 14,
+pre-deployment): right-side augmentation complete; Dr. Hexo notes anomalous
+subject orientation — Sharon maintained a verbal anchor throughout the integration
+and believes the recipient will hear it. "She is probably wrong about that."
 
 ---
 
-### Ch09 — Behind the Curtain
-**File:** `TTS_Ready/Ch09_Behind_The_Curtain.txt`
+### Ch10 — Behind the Curtain
+**File:** `TTS_Ready/Ch10_Behind_The_Curtain.txt`
 
 Max examines the laminated badge: MIKOV FORSINKO, his face. Squirrel debriefs
 him in a Marbella safe house above a laundry operation — contractor database live
@@ -184,32 +209,18 @@ last moment before he does.
 
 ---
 
-### Ch10 — The Colony
-**File:** `TTS_Ready/Ch10_The_Colony.txt`
-
-Jill picks up a transponder signal on a frequency not in any registry — three
-days out from Titan on a route she chose for speed. Low on time, then low on
-fuel. Jill: black market runner, scavenger, punk rock in a universe run by people who
-look like her cousins. The
-colony is on an asteroid, habitation carved into the inner tunnel. Tyler Durden
-introduces himself by name. His self-awareness on display: "A soap factory that
-became a death cult on an asteroid nobody wanted" — he does not argue with the
-description, just keeps walking. Petra introduced physically: seventies, white
-hair cut close, one of the original eleven who survived with Elsa Klein. Jill
-stays fifteen days. Witnesses the asteroid arrival. Leaves.
-
----
-
 ### Ch11 — DeMint
 **File:** `TTS_Ready/Ch11_DeMint.txt`
 
 Kate reads a relay from the Golden Dawn twice, then hands it to Petyr: the pause
 before Cole's answer is wrong by half a beat. "Someone is speaking for him." On
-the Meridian: Sam's 17-word transmission reassembled from three fragmented bursts
-below Alpha's intercept threshold — Sharon confirmed, Emily alive, crew intact,
-cargo bay secure, Taylor active. DeMint at Federation HQ receives the anonymous
-two-page brief. Vance already there. iRIS integration was Alpha-handled; crew
-selection went through Taylor. DeMint sends Vance to the desert.
+the Meridian: Sam's transmission reassembled from three fragmented bursts below
+Alpha's intercept threshold — Sharon confirmed, crew intact, cargo bay secure,
+Taylor active. Emily's Meridian intel entry: untrained, not yet activated,
+underestimated — that is the operational advantage when the time comes. DeMint
+at Federation HQ receives the anonymous two-page brief. Vance already there.
+iRIS integration was Alpha-handled; crew selection went through Taylor. DeMint
+sends Vance to the desert.
 
 ---
 
@@ -219,21 +230,23 @@ selection went through Taylor. DeMint sends Vance to the desert.
 Emily wakes in a motel at 3:14 AM — still dressed, Sharon's protocol for
 uncertain environments. She checks the car the way Sharon taught her: perimeter
 walk, look underneath, check the handles. Rachel at the acoustic dead zone on
-Pier 9 — up close she is taller than she looks on television. Rachel's insomnia
-revealed: a clinical, lifelong condition she stopped fighting years ago and
-turned into the only advantage that cannot be trained, bought, or replicated.
-While Marcus sleeps, Rachel works. Rachel's villain attribution: the Federation
-does not make decisions — it executes them. Sharon's name spoken directly.
-Conrad's prototype location. The Collective car is staged. Sommi follows Emily;
-she figures it out, pulls over. Drives east.
+Pier 9 — up close she is taller than she looks on television. Rachel's villain
+attribution: the Federation does not make decisions — it executes them. Sharon's
+name spoken directly. Conrad's research at a classified desert site. The
+Collective car staged two blocks from Emily's motel. After the pier, Emily drives
+the rental back, drops the key in the drop box, and finds the Collective car.
+I-15 north. Near Victorville, she nearly falls asleep at the wheel — rumble
+strips. Gas station: the Collective line confirmed, code phrase exchanged. "Not
+yet. But I think I'm going to be." Three hours sleep in the car. Keeps driving.
 
 ---
 
 ### Ch13 — The Faithful
 **File:** `TTS_Ready/Ch13_The_Faithful.txt`
 
-Day five at the colony. Jill has her cells and has not left. She has reasons —
-all partially true. The real reason is that Tyler talked for two hours the night
+Day five of Jill's second visit to the colony. She arrived with her cells and
+has not left. She has reasons — all partially true. The real reason is that Tyler
+talked for two hours the night
 before and she couldn't find where he was wrong. Petra tells Tyler and Marla's
 backstory: his wife Marla Singer died, and he arrived at the colony carrying
 grief that had already burned through everything flammable. The belief came
@@ -403,7 +416,11 @@ her the second tunnel — the moon packed with gold. The sacrifice branch of the
 family now has more than the accumulation branch ever dreamed of, arrived at by
 giving everything away. Jill-to-Collective-to-Ray mechanics established: the
 notebooks, the colony gold surplus, the Collective contact, the route to someone
-who can understand the science.
+who can understand the science. Tyler: "I think there is a difference between
+understanding the mechanism and understanding the intention." Intercut: Alpha I
+(Day 2, post-acquisition) — Sharon stabilized; preservation protocol active so
+she arrives as a weapon Cole will try to save rather than fight; Dr. Hexo files
+written objection. "Noted. Disregarded."
 
 ---
 
@@ -571,4 +588,4 @@ Sharon turns from the window: "It was always in the reaching." She reaches.
 
 ---
 
-*Last updated: 2026-05-30*
+*Last updated: 2026-06-27*
