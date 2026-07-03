@@ -376,8 +376,8 @@ meal. Her notebook was open beside her plate. She was already writing.
 
 Ray put his hand on the transit case.
 
-"She found it in twelve minutes," he said. "One unauthorized run on a
-provisioning window." He paused. "She was right."
+"She found it in twelve minutes," he said. "One run on a provisioning window.
+No clearance." He paused. "She was right."
 
 "I know she was right."
 
@@ -451,7 +451,7 @@ Ray looked at the heron. The 180-day curve. He had been running it in his sleep
 for months. Elsa Klein had mapped the same problem from the ground floor up —
 same variables, no way to test the ceiling. The curve needed zero gravity and
 enough run time to document completely. He thought about a Directorate survey
-vessel, twelve minutes, one unauthorized window, a woman writing the result twice
+vessel, twelve minutes, a window that wasn't hers, a woman writing the result twice
 in two different inks.
 
 He thought: we need to go up.
