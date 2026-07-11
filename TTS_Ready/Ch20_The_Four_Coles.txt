@@ -614,8 +614,7 @@ around the chimp and said, very quietly:
 
 Bitboy chittered something that was not in any of his usual registers.
 
-Cole understood it. He understood it the way you understand things when the
-substance is still in the room. The chimp was saying — not in words — I knew. I
+Cole understood it. The substance was still in the room. The chimp was saying — not in words — I knew. I
 knew you'd come back. I knew her too. I'm going to miss her.
 
 "Yeah," Cole said. "Yeah. Me too."
@@ -624,7 +623,8 @@ Heavy got to them on the tether.
 
 Ricardo did not say anything for a long time. He sat down on the deck plate next
 to Cole and Sam and Bitboy. He leaned his big shoulder against Cole's smaller
-one and kept his face turned away while he got his breathing under control. When he spoke, his voice was thick.
+one. He kept his face turned away while he got his breathing under control. When
+he spoke, his voice was thick.
 
 "Where the hell did you go."
 
@@ -638,9 +638,8 @@ one and kept his face turned away while he got his breathing under control. When
 
 "I wasn't here."
 
-Heavy nodded. He did not understand. He did not need to. He had been running
-on Federation grief-protocol for the last hour and he was running on
-Cole-protocol now and that, for Ricardo, was enough to keep going on.
+Heavy nodded. He did not understand. He did not need to. He had been running on Federation grief-protocol for the last hour. Now he was
+running on Cole-protocol. For Ricardo, that was enough to keep going on.
 
 "Taylor," Heavy said, after a moment.
 
@@ -690,9 +689,9 @@ Sam squeezed.
 
 Bitboy chittered, very quietly, against his chest.
 
-And in the back of his head, Gracie — Gracie, he allowed himself to think the
-name now, he tried it on like a coat that almost fit — said softly, Cole. The
-bay is at full atmosphere. You can take off the helmet.
+And in the back of his head, Gracie — he let himself think the name now, tried
+it on — said softly: Cole. The bay is at full atmosphere. You can take off the
+helmet.
 
 He took off the helmet.
 
