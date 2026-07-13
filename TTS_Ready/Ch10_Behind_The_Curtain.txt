@@ -493,7 +493,7 @@ Then he made his own chaos.
 
 On his way toward the corridor he stopped at the nitrogen-cycling bank in
 14-C — the unit Vince had walked him through on his first morning, whose manual
-pressure-bleed he had filed away the way he filed everything — and opened it a
+pressure-bleed he had logged, the way he logged everything worth keeping — and opened it a
 quarter-turn past tolerance. The unit complained, then failed the way it was
 built to fail: safely, loudly, with the distinctive three-pulse containment tone
 that meant a pressure fault in a cycling chamber. Not catastrophic. Not
