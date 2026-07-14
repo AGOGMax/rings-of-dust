@@ -876,10 +876,8 @@ Dayo was standing. He'd been standing for twenty minutes.
 What the relay data could not confirm was whether the counter-
 program had completed its transfer through Cole's system. The
 compound variables were outside her modeling range. She had run
-the math twice and stopped the second time, because the math
-didn't account for what she actually believed, and she had learned
-— slowly, over three years — that there were things the math
-didn't account for that were nonetheless real.
+the math twice. The second time she stopped. Three years had taught
+her that what the math couldn't hold was still real.
 
 "The bronze indicator on the augmentation's central power conduit,"
 Loa said, from memory. "If Conrad's counter-program transferred—"
