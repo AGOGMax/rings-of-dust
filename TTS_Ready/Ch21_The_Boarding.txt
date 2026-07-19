@@ -4,6 +4,36 @@ Chapter Twenty-One
 
 The Boarding
 
+ALPHA I — INTERNAL PROGRESS REPORT
+ASSET DESIGNATION: TEEZ-S
+CLASSIFICATION: RESTRICTED / ACQUISITION DIVISION
+DAY 2 POST-ACQUISITION
+
+Augmentation proceeding on schedule. Neural integration at 34% — within
+acceptable variance for this phase. Subject compliance: full. Subject awareness:
+partial (selective retention protocol engaged per standing directive; subject
+retains operational identity and social recognition while primary decision
+pathways are routed through TEEZ interface layer).
+
+Emotional response architecture preserved for insertion viability. Subject
+presents as functionally normal across all observable metrics. The retention of
+affect and attachment response is intentional — these are the access points.
+
+Motor enhancement: Day 4 target. Signal relay: embedded, passive, operational.
+Primary directive installed at subconscious depth. Trigger protocol: proximity to
+target vessel. Duration of operability before somatic cascade: estimated 38–47
+days.
+
+Asset is cleared for reintegration with target social network. Transfer to
+long-range carrier FED-HEX-5555 is recommended. Natural cover: survivor recovery
+and compassionate reunion.
+
+No further monitoring required until trigger conditions are met.
+
+END REPORT
+
+---
+
 Taylor Glenn was confined to his quarters, but confinement on a ship this size
 was a relative concept. He had the run of his bunk, his console, and a porthole
 that showed him Saturn's rings whenever the ship's slow rotation brought them
@@ -1098,3 +1128,42 @@ Nobody said anything.
 Then Petyr said: "Does the coffee machine work."
 
 "Yes," Gracie said. "I tested it."
+
+---
+
+Cole found Sam in the Golden Dawn's lower cargo bay, running inventory on the
+harvester canisters — the DarkX secured in transit containers, each one logged
+and sealed and stacked in the configuration Sam had designed for the trip out,
+which seemed like a long time ago now.
+
+"We're not leaving any of this on the Golden Dawn," Cole said.
+
+Sam looked up. "Transfer to FED-HEX?"
+
+"All of it. The harvested cells, the canisters, the full manifest. FED-HEX has
+the capacity and she's a better transport vessel." He looked at the stacked
+containers. "We're not trusting six months of flight on a ship with one working
+gravity system and a nav console that Taylor Glenn had access to."
+
+Sam didn't argue. It wasn't arguable.
+
+"How long," Sam said.
+
+"Four hours to transfer. Two to verify. We dock the Golden Dawn to FED-HEX's
+starboard lock and run both drives — her mass drive plus the Golden Dawn's
+boosters. Gracie calculated the burn. We can cut the return window by about
+eleven weeks."
+
+Sam set down his checklist. "We're taking the Golden Dawn home as a thruster."
+
+"She got us here. She can push us back."
+
+Sam thought about this in the way he thought about everything that surprised him
+— briefly, and then not at all.
+
+"I'll start moving canisters," he said.
+
+Cole nodded. He looked at the hold for another moment — the work of two years,
+secured and accounted for, waiting for the long pull home.
+
+"Get Heavy," he said. "And Ricardo. Tell them I need the whole crew on this."
