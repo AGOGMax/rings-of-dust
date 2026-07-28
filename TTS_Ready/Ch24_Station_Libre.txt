@@ -373,8 +373,15 @@ asking sharp questions and being right about half of them. He understood the
 cells better than anyone aboard except Ray and Jill, and within a week the three
 of them had fallen into the old rhythm of people who'd argued lattice geometry
 before — except now there was no badge to scan and no column he wasn't allowed
-to read. He slept badly in zero gravity, complained about the protein, and stood
-at the data wall for hours, and the station was better for having him in it.
+to read. He slept badly in zero gravity, complained that the corridor had been designed
+by someone who had never met another person traveling in the opposite direction,
+and stood at the data wall for hours, and the station was better for having him
+in it.
+
+He found the Whiskey Slap game on his third evening aboard. He had not understood
+what "hard enough" meant until Yael demonstrated it. He understood afterward. He
+came back the following week with a more realistic mental model and only marginally
+better results.
 
 ---
 
@@ -564,7 +571,37 @@ Rachel smiled. It was the smile of someone who recognized deflection because she
 
 They liked each other immediately. Ray could see it — the way the air between them changed, the way they both relaxed a degree that neither of them would have admitted to. Two women who were both running things, recognizing that in each other without stating it. Rachel's warmth. Jill's punk rock directness. The particular understanding that passes between people who have both spent years being underestimated and have stopped caring about it.
 
-At dinner that evening, the table ran short by one. It had been running short by one since Vince arrived and they were all still working out the rotation on the folding chair. Ray stood with his tray against the far wall and held a perfectly normal conversation with Yael about atmospheric recycling and did not once draw attention to the fact that he was standing. He lasted four minutes. Jill looked over, wordlessly patted her knee, and went back to her food. Ray sat. Rachel was watching — the expression of someone deciding not to say the thing she was thinking. She did not say it. She went back to her dinner with a small smile that she didn't bother hiding.
+At dinner that evening, Vince was on the floor.
+
+This had become his arrangement since Rachel arrived — there was no chair, and
+the folding chair had gone to Rachel, and Vince had found a spot against the
+wall with his tray on his knees and declared it acceptable. He was eating a
+meal Jill had made with ingredients from the last shuttle drop and not complaining
+about it.
+
+Ray had given up his chair to Rachel when she came through the airlock and had
+been standing against the far wall with his tray for several minutes, holding a
+conversation with Yael about pressure readings that neither of them was fully
+attending to. He was doing a sort of standing wall-sit that he had not intended
+to look like a wall-sit but increasingly did. Jill glanced over. She patted her
+knee once without looking up from her food.
+
+Ray sat.
+
+Rachel watched this with the expression of someone who was not going to say what
+she was thinking. She went back to her dinner with a small smile she didn't
+bother hiding.
+
+Then Vince finished, picked up his tray, and navigated toward the corridor door —
+sideways, the way everyone moved through the corridor, his shoulder angled to
+clear the frame. They all watched him go.
+
+Jill said, without looking up: "Looks like the bathroom isn't the only thing that
+needed expanding."
+
+Rachel looked at her. "First thing you said when you arrived?"
+
+"First thing," Jill said.
 
 He showed Rachel the lab. Jill came with them — not because she was asked, but because the lab was as much hers as his now, and the data they were showing Rachel was data they had built together. He showed her the 180-day curve,
 the crystal growth, the numbers he had now run in triplicate across seven
