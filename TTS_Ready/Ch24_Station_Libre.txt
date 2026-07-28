@@ -276,20 +276,53 @@ was not in the room.
 
 They kept the Grid locked.
 
-At day 33, the internal growth jumped. The crystals inside the locked casings
-accelerated to ten times the rate of any unlocked unit — the same thing he had
-shown Alpha, confirmed now in zero gravity, running cleaner than anything he'd
-measured on the ground. Jill cross-referenced the rate against Elsa's entries in volume two — the acceleration curve matched within three percent of what Elsa had theorized from her limited sample. He logged it and kept going.
+Day 33, Ray ran the scan.
+
+The notebooks said 10×. Interior acceleration across all locked casings — ten
+times the unlocked rate. Elsa had documented it in the first third of her runs.
+It was the intermediate signal, the first confirmation that the lock was working.
+
+The reading came back flat.
+
+Zero.
+
+He checked the calibration. He ran it again. He pulled Elsa's volume two and
+matched the protocol step by step. He ran it a third time.
+
+Zero.
+
+Jill looked up from the bench across the lab. She came to the readout. She looked
+at it for a long moment without saying anything.
+
+"It's not broken," she said. "Run it again if you want, but it's not broken."
+
+"The notebooks—"
+
+"I know what the notebooks say." She looked at the Grid — 740 locked casings,
+clean, silent, showing nothing. "We're not in the notebooks. We're in zero
+gravity." She paused. "Maybe it only works once. At the end."
+
+He did not say: one hundred and forty-seven more days of this.
+
+He did not need to.
 
 ---
 
-The waiting was the hardest part. The Grid was locked and linked and there was
-nothing to do but let the days run — day 90, day 120, the interior climbing
-exactly the way Elsa's notebooks said it would and refusing, still, to tell them
-whether it would do the impossible thing at the top. Ray ran out of useful work
-around day 150 and started doing the kind that is really just waiting with your
-hands busy. Jill caught him recalibrating an instrument that didn't need it and
-made him stop.
+The waiting was the hardest part.
+
+Day 60: flat. Day 90: flat. Day 120: flat. The interior was not climbing the way
+Elsa's notebooks said it would. It was not climbing at all. Every morning Ray
+walked the casings and ran the scan and got zero, and every morning he wrote it
+down and tried not to think about what zero meant after ninety days of zero.
+
+Jill didn't tell him to stop checking. She walked the lab at 0600 when he was
+already there, looked at the readout, said nothing. The saying nothing was
+deliberate. She'd made her position clear on Day 34 and she hadn't needed to
+repeat it.
+
+Around day 150 he ran out of useful work and started doing the kind that was
+really just waiting with his hands occupied. Jill caught him recalibrating an
+instrument that didn't need it and made him stop.
 
 The supply shuttle docked on day 161. Routine — water, parts, the protein the
 station ran on. Ray was at the lab bench when the airlock cycled, and he didn't
@@ -342,10 +375,13 @@ interval, continuously, for as long as the lock held.
 
 He checked the interior readings.
 
-The internal crystal growth — running at ten times the unlocked rate since day 33
-— had jumped again. One hundred times the rate of an unlocked cell. The interior
-was producing darker matter at a scale that made the ten-times figure look like
-a rounding error.
+The internal crystal growth — which had shown exactly zero for one hundred and
+eighty days — was at one hundred times the rate of an unlocked cell.
+
+Zero to one hundred times. Overnight. No intermediate signal. No warning.
+
+The interior was producing darker matter at a scale that made every previous
+reading look like a rounding error.
 
 He went and got Jill.
 
@@ -405,22 +441,34 @@ the room where the truth finally paid out.
 
 He ran the unlock experiment three times. Jill was beside him for every run, the notebook open, tracking each result against Elsa's documented predictions.
 
-The first time, he broke the lock on a single unit at day 33 — peak internal
-rate. Interior growth rate dropped to baseline within six hours. The exterior
-was clean: nothing deposited, nothing forming. The mechanism required the lock.
-Without the lock, the compound was dormant.
+The first time, he broke the lock on a unit at Day 22. Interior: zero — same as
+locked. Exterior: nothing. The cell returned fully to baseline within hours, which
+in zero gravity meant it returned to exactly where it had been: silent.
 
-"She called it the zero condition," Jill said, turning to the relevant page. "Lock removed, activity ceases. She documented the same mechanic in her runs — thirty-one through fifty-eight."
+"She called it the zero condition," Jill said, turning to the relevant page. "Lock
+removed, activity ceases. Thirty-one through fifty-eight." She looked at the
+readout. "In zero gravity, you can't even tell the difference from the inside. The
+lock does nothing visible. Until Day 180."
 
-Second run: unlocked at day 90. Same result. The cell went quiet within hours.
+Second run: unlocked at Day 33. Same result. Zero became zero and stayed there.
 
-Third run: unlocked at day 22, before the 33-day acceleration. The cell returned
-to standard within hours.
+Third run: unlocked at Day 90. The cell sat quiet. Nothing had been accumulating
+that you could see. Everything had been accumulating that you couldn't.
 
-Consistent across all three runs: unlock at any stage, everything stops. You
-could not harvest the compound and maintain the lock. You had to choose.
+Consistent across all three runs: unlock at any stage before Day 180, and you
+lose nothing you can measure — but you restart the 180-day clock. You cannot
+harvest and maintain the lock. You cannot see the progress and trust the lock. You
+have to choose one or the other, and in zero gravity, the choice is made in
+complete darkness.
 
-The cells themselves were undamaged. You could lock again from Day 0 — begin the accumulation over, from the start. The loss was time, not the cell.
+The cells themselves were undamaged. Lock again from Day 0. The loss was time.
+
+That was the entire sacrifice. The yield from the treasury, given up for 180 days.
+The cell locked and silent and giving back nothing you could see. The same choice
+the colony made walking down the east tunnel: put the cell into the void and don't
+reach back for it. The stakers in the game were doing the same thing — forfeiting
+their share of what the treasury paid out, day after day, for 180 days, on the
+conviction that Day 180 was coming. Skin in the game. Not as a metaphor. Literally.
 
 Alpha had always chosen harvest. They had never found out what they were giving up.
 
