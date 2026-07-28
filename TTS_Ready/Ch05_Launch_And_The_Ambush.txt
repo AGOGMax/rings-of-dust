@@ -289,7 +289,7 @@ In their quarters, Cole and Heavy prepared their gear in silence.
 
 "All systems are operational, and the crew is ready," iRIS replied. There was a
 half-second pause before "ready" — a latency that hadn't been there during
-orientation. Cole noted it and kept packing.
+orientation. Cole kept packing.
 
 In a dorm just across the glossy hall, Data Technician Samantha Drummond and
 Crew Chief Taylor Glenn were unpacking their personal gear.
