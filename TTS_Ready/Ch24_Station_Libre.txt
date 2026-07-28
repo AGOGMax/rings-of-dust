@@ -497,12 +497,15 @@ complete darkness.
 
 The cells themselves were undamaged. Lock again from Day 0. The loss was time.
 
-That was the entire sacrifice. The yield from the treasury, given up for 180 days.
-The cell locked and silent and giving back nothing you could see. The same choice
-the colony made walking down the east tunnel: put the cell into the void and don't
-reach back for it. The stakers in the game were doing the same thing — forfeiting
-their share of what the treasury paid out, day after day, for 180 days, on the
-conviction that Day 180 was coming. Skin in the game. Not as a metaphor. Literally.
+That was the entire sacrifice. Lock the cell and hold it — give up what it would
+have yielded day by day, give up the early return, give up the ability to measure
+anything and know it is working. The colony had been doing a version of this for
+decades without knowing the full mechanic: walk the cell down the east tunnel,
+release it into the void, receive nothing for eleven days, trust the return. They
+gave something real and waited. Alpha had always done the opposite — harvest
+early, take the yield, reset, never sit with the lock long enough to find out what
+was underneath it. Two approaches to the same mechanism. One had built a
+manufactured shortage. The other had been quietly filling a moon with gold.
 
 Alpha had always chosen harvest. They had never found out what they were giving up.
 
