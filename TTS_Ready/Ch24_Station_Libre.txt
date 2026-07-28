@@ -6,13 +6,11 @@ Station Libre
 
 Red left with the car fifteen minutes after they walked out of the park.
 
-Panama City in the morning had its usual density — the market district doing its
-opening business, carts and foot traffic and the particular smell of oil at
-temperature, and somewhere east of them, a few blocks into streets Ray had
-learned the names of over a long time, Alpha had people moving in the other
-direction. Red didn't say this. She didn't have to. The particular quality of a
-person who moves with useful speed and doesn't look like he's moving with useful
-speed was something Ray had come to know.
+The city was still in its early hour, the market district not yet at full voice.
+Ray had been here long enough to know the timing of it — which corners filled
+first, how the light came down between the towers, which routes looped back on
+themselves and which ones didn't. He was done knowing that. He watched it through
+the window and did not feel like saying goodbye to it, and did not need to.
 
 They were in a car within ten minutes. Gray sedan, local plates. A driver Ray
 hadn't been introduced to and didn't need to be.
@@ -60,11 +58,17 @@ supply chains for the inner stations. Then it became something else." She was
 quiet for a moment. "It makes fuel cells now. It sends them into a gravity void
 and gets gold back."
 
-Ray sat with this.
+Ray sat with this for a moment.
 
 "A soap factory," he said.
 
 "Not anymore," she said.
+
+He looked at the transit case. Then at her. "And it sends cells into a gravity void and gets gold back."
+
+"Every eleven days," she said. "Since the eighties."
+
+Ray looked out the window.
 
 The highway opened up. The last of Panama City fell behind them, and ahead was
 nothing but distance and a Collective transport running on a schedule that did
@@ -118,6 +122,15 @@ residential module had twelve berths and a shared bathroom arrangement that had
 required, over the course of several years, the development of a detailed social
 contract.
 
+Jill came through the docking tube, set a crate of equipment down in the
+corridor, and took in the residential module in about thirty seconds.
+
+"One bathroom," she said.
+
+"Yes," Ray said.
+
+"For thirteen people." She looked at the door. Looked at the crate. Looked at the door again. "Some of this gold is going toward plumbing. That's the first investment." She picked the crate back up. "Let's see the lab."
+
 Ray had been given a berth and a lab bench and told that his access to the dark
 matter cache was conditional on a two-week orientation period. He spent the two
 weeks learning the station's rhythms — the shift schedule, the hot water queue,
@@ -143,7 +156,7 @@ Ray.
 
 He did not find this surprising.
 
-Jill brought the colony's hospitality to Station Libre the same way the colony had given it to her: without announcing it, without making it about herself, just putting something on the table and letting people eat. The first morning she cooked for the station crew — actual food, grown and prepared, in a facility that had been running on ration blocks for three years — the silence at the table was the silence of people remembering what meals used to be. She did not explain it. She just set the plates down.
+Jill brought the colony's hospitality to Station Libre the same way the colony had given it to her: without announcing it, without making it about herself, just putting something on the table and letting people eat. The first morning she cooked for the station crew — actual food, grown and prepared, in a facility that had been running on ration blocks for three years — the silence at the table was the silence of people remembering what meals used to be. She just set the plates down.
 
 Ray noticed. You could tell a lot about a person by what they fixed first when they had the resources to fix anything. Jill had fixed the food before she fixed the lab.
 
@@ -151,38 +164,37 @@ But she fixed the lab too. And then the corridor seals. And then the water recyc
 
 By week two the station had actual coffee in both drawers. Better pressure readings in all three modules. A resonance scanner that didn't need to be recalibrated every six hours. The emergency ration blocks were still there, but nobody was eating them anymore.
 
-Ray watched her work and felt something he did not have a name for settling into the space between them. It was not romantic in the way stories made romance — no dramatic recognition, no single moment of clarity. It was more like: she was competent in ways that made him want to be in the room, and he was competent in ways that kept her coming back to his bench, and the distance between their stations got shorter every week without either of them deciding it should.
+Ray watched her work and felt something he did not have a name for settling into the space between them. It was not romantic in the way stories made romance — no dramatic recognition, no single moment of clarity. It was more like: she was competent in ways that made him want to be in the room, and he was competent in ways that kept her coming back to his bench, and the distance between their stations got shorter every week without either of them noticing.
 
 The introduction in Panama had not been comfortable — two strangers in a transit house with Alpha's people in the streets outside, each carrying years of work they had never been able to share with anyone. What established quickly: they both understood what the notebooks meant, they both knew what Station Libre required, and neither of them was waiting for permission. The attraction developed during the station mission — shared craziness, shared work, the charged chemistry of two people who have both spent years carrying something and can finally set it down with someone else in the room.
 
-The colony had been one of the Collective's primary financial backers for seven years. Relay infrastructure. Safe houses on three transit routes. Two Meridian resupply runs. And now Station Libre — the equipment Jill had just carried up in a crate. Jill had not known this when she first landed on the asteroid. She had been home for two years before anyone told her what home had been funding. The Collective had been operating, in part, on money the colony had generated before she arrived. Before she was part of it. Before she knew there was an it to be part of.
+The colony had been one of the Collective's primary financial backers for seven years. Relay infrastructure. Safe houses on three transit routes. Two Meridian resupply runs. And now Station Libre — the equipment Jill had just carried up in a crate. Jill had not known this when she first landed on the asteroid. Two visits, less than a month total — she had come in low on fuel, stayed to watch a void ceremony, and left with notebooks. Nobody had told her during either visit that she was standing inside one of the Collective's primary funding sources. The Collective had been operating, in part, on money the colony had generated before she arrived. Before she was part of it. Before she knew there was an it to be part of.
 
 They were, without exception, at ease in a way he hadn't seen people at ease
 before. The station produced it — the enforced smallness of the space, the
 distance from everything else, the shared project. They had arguments about small
-things and agreements about large ones. They ate dinner together because the
-table only sat twelve and it was efficient.
+things and agreements about large ones. They ate dinner together because the table only sat twelve — technically eleven plus the folding chair someone had found in the third week, which made twelve, which was now one short — and it was efficient.
 
 In the third week, someone brought out the bottle.
 
 
 
 The game was called Whiskey Slap, which was a straightforward name for a
-straightforward game. You spun the bottle on the table — a proper glass bottle,
-transported up at some point for precisely this purpose, now empty and serving
-its second career as sporting equipment. Whoever it pointed to took a shot of
-whiskey and got slapped by the spinner.
+straightforward game. In zero gravity, you couldn't spin a bottle on a table, so
+you spun it in the air — a proper glass bottle, transported up at some point for
+precisely this purpose, now empty and serving its second career as sporting
+equipment. Someone launched it from the center of the module; whoever it drifted
+toward when it stabilized took a pull of whiskey from a second bottle and got
+slapped by the spinner.
 
 Not hard. Hard enough.
 
-The whiskey came from a different bottle.
-
 "Why the slap?" Ray asked, the first time they played.
 
-"Because in low-g," Yael said, "the burn takes longer to hit. Slap helps."
+"Because in zero-g," Yael said, "the burn takes longer to hit. Slap helps. Also,
+you need something to hold you in place."
 
-They were at approximately a third of Earth gravity. The slap hit at roughly the
-same time as the whiskey.
+The slap hit at roughly the same time as the whiskey.
 
 Ray lost twice his first round. He took the first shot from Yael and received the slap — open palm, measured, professional. She'd done this before.
 
@@ -190,7 +202,7 @@ The bottle spun again. It pointed at Ray.
 
 Jill was the spinner.
 
-She took the shot glass from Yael, filled it, and handed it to him. Their fingers touched on the glass. She watched him drink it — not looking away, not performing anything, just watching with the steady attention she brought to everything she did.
+She took the bottle from Yael and handed it to him. Their fingers touched on the bottle. She watched him drink it — not looking away, not performing anything, just watching with the steady attention she brought to everything she did.
 
 Then she slapped him.
 
@@ -208,13 +220,9 @@ The game continued. Ray's face burned on the left side for twenty minutes. He di
 
 
 
-He found the flywheel in month six.
+He found it on Day one hundred and eighty.
 
-It was not a discovery in the sense he'd been trained to think of discovery — the
-sudden illumination, the dramatic notation in the lab book. It was more like: he
-had been running the standard protocol, and it was on day eleven — the morning
-the resonance in the casings went quiet and the sync completed — that he made
-the first discovery the station made possible.
+Not a dramatic notation in the lab book. More like: he had been running the standard protocol, and it was on day eleven — the morning the resonance in the casings went quiet and the sync completed — that he made the first discovery the station made possible.
 
 He had been scanning all 740 casings. Routine post-sync check. He was at Cell
 304 when he stopped.
@@ -380,12 +388,11 @@ Jill was quiet beside him. She was looking at the display with the same expressi
 Neither of them said anything for a moment. The display cycled through its readings. The Earth rotated in the window behind them.
 
 Vince had come in a step behind Jill that morning — he'd taken to shadowing the
-morning readings since the shuttle dropped him off — so he was in the room for
-all of it. He'd watched the curve break with his hand over his mouth and his
-eyes wet in the way of a man watching a thing he spent his whole career being
-lied about turn out, in the end, to be true and good and bigger than the lie.
-When Ray finally looked up from the readout, Vince was gripping the rail with
-both hands.
+morning readings since the shuttle dropped him off. He was in the room for all
+of it. He'd watched the curve break with his hand over his mouth and his eyes
+wet — a man watching a thing he spent his whole career being lied about turn out,
+in the end, to be true and good and bigger than the lie. When Ray finally looked
+up from the readout, Vince was gripping the rail with both hands.
 
 "You were right," Vince said. Like it still surprised him. Like it would keep
 surprising him.
@@ -486,6 +493,8 @@ Rachel smiled. It was the smile of someone who recognized deflection because she
 "I know," Jill said. And the way she said it made it clear she did know — not the details, not the role, but the weight. The particular weight of a woman who has been running something larger than herself for a long time.
 
 They liked each other immediately. Ray could see it — the way the air between them changed, the way they both relaxed a degree that neither of them would have admitted to. Two women who were both running things, recognizing that in each other without stating it. Rachel's warmth. Jill's punk rock directness. The particular understanding that passes between people who have both spent years being underestimated and have stopped caring about it.
+
+At dinner that evening, the table ran short by one. It had been running short by one since Vince arrived and they were all still working out the rotation on the folding chair. Ray stood with his tray against the far wall and held a perfectly normal conversation with Yael about atmospheric recycling and did not once draw attention to the fact that he was standing. He lasted four minutes. Jill looked over, wordlessly patted her knee, and went back to her food. Ray sat. Rachel was watching — the expression of someone deciding not to say the thing she was thinking. She did not say it. She filed it.
 
 He showed Rachel the lab. Jill came with them — not because she was asked, but because the lab was as much hers as his now, and the data they were showing Rachel was data they had built together. He showed her the 180-day curve,
 the crystal growth, the numbers he had now run in triplicate across seven
