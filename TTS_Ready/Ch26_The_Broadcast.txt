@@ -6,21 +6,39 @@ The Broadcast
 
 The signal went out from Station Libre at 6:02 AM, Pacific Standard Time. By the time the Federation-affiliated channels were aware of it, two hundred thousand people had already seen the opening segment.
 
+FED-HEX-5555 picked it up twelve seconds after it went live.
+
+The twelve-second lag was the physics of the distance — ship to Earth, Earth to ship, the same mathematics that made everything here twelve seconds old before it arrived. Kate had spent the better part of a year not noticing it. Today she noticed it.
+
 ---
 
-The Meridian picked up the signal twelve seconds after it went live.
+Petyr had been in the galley since five-thirty.
 
-The twelve-second lag was the physics of the distance — ship to Earth, Earth to ship, the same lag in both directions, the same mathematics that made everything here twelve seconds old before it arrived. Kate had spent the better part of a year not noticing it. Today she noticed it.
+He had found the coffee machine on the first day aboard and had been thinking about it ever since — the real kind, a steam wand, actual pressure, not the compressed-tablet situation they had been running on the Meridian for three years. He had asked Gracie three times whether it was actually real and she had confirmed it three times with what he chose to interpret as patience.
 
-She had authorized the full relay without asking Dayo. Dayo had already set up the secondary display without being asked. Petyr had appeared in the station corridor with the sealed bag of ground coffee — the real kind, the last of the supply-drop reserves — and had begun making it without announcing what he was doing.
+He made enough for everyone. He was still making it when the others started arriving.
 
-The smell was unmistakable.
+Cole came in first, then Heavy, then Sam, then Dayo. Loa took a mug without looking at it. Kate came last and stood at the back of the room near the relay panel, which she had authorized for full broadcast without asking anyone, because nobody would have said no. Sharon was in the doorway — not at the table, not standing, just present, leaning against the frame with her arms folded. The augmented side caught the light differently than the other. Bitboy was in the corridor behind her, watching the room from a safe distance.
 
-It filled the station the way smells fill small enclosed spaces — slowly, then completely — and nobody said anything about it, which was its own kind of acknowledgment.
+The table was larger than the Meridian's entire galley. Nobody mentioned this. It had been mentioned enough.
 
-They watched Ray's opening segment with the coffee in hand. Dayo made a note in the signal log — routine calibration, full-spectrum civilian relay — and Petyr read it over his shoulder and said nothing. Kate watched the FuelCells on the bench behind Ray's left shoulder and thought about the eleven years that bench represented. The four years of test runs. The three hundred and sixty-nine.
+Gracie materialized at the end of the table in the seat nobody had sat in. In front of her, rendered in careful holographic detail, was a bowl of popcorn. The texture was correct. The steam was correct. She reached into it, took a handful, and brought it to her face.
 
-When DeMint read Conrad's statement, the station was very quiet.
+Heavy looked at the bowl.
+
+No, Gracie said. But it's the right thing to have.
+
+She took another handful.
+
+Nobody commented.
+
+---
+
+They watched Ray's opening segment with the coffee in hand. Kate stood at the relay panel and said nothing. Dayo made a note in his log — routine calibration, full-spectrum civilian relay — and Petyr read it over his shoulder and said nothing. Cole sat at the end of the table and watched the FuelCells on the bench behind Ray's left shoulder and thought about the locker. The lazy Friday afternoon. The glow.
+
+When DeMint read Conrad's statement, the room was very quiet.
+
+Sharon shifted in the doorway.
 
 When Marcus's recording played, Petyr made a sound that was not quite a word.
 
@@ -36,17 +54,17 @@ Petyr was quiet. On the display, the Nevada segment was beginning.
 
 When Rachel Vayes closed the broadcast, Petyr made the sound again.
 
-"My name is Rachel Vayes," she said. She looked at the camera the way she looked at cameras — level, unhurried, present. "The Collective is not a political organization. It is not a movement. It is a group of people who decided to spend a decade building the world they wanted inside the walls of the world that existed. Today the walls came down a little. The work has a different shape now." She paused. "That's all I wanted to say."
+"My name is Rachel Vayes," she said. She looked at the camera — level, unhurried, present. "The Collective is not a political organization. It is not a movement. It is a group of people who decided to spend a decade building the world they wanted inside the walls of the world that existed. Today the walls came down a little. The work has a different shape now." She paused. "That's all I wanted to say."
 
-The broadcast ended at 11:02 AM.
+The broadcast ended.
 
-Petyr sat in the station corridor for a long time after it ended.
-
-"I thought it was a formality," he said, eventually. He had the droplet patch in his hand — the matte black circle he'd been issued when Kate had brought him into the network, the one he'd received in an unremarkable ceremony that felt, looking back, entirely insufficient for what it was confirming. "I thought it was a membership card. The patch doesn't make you a member." He turned it over. "You're already a member. The patch is just — it's just confirmation of something that was already there."
+Petyr sat for a long time after it ended. He had the droplet patch in his hand — the matte black circle he'd been issued when Kate had brought him into the network, the one he'd received in an unremarkable ceremony that felt, looking back, entirely insufficient for what it was confirming. "I thought it was a formality," he said, eventually. "I thought it was a membership card. The patch doesn't make you a member." He turned it over. "You're already a member. The patch is just — it's just confirmation of something that was already there."
 
 "Yes," Dayo said.
 
 "Sharon had it without the patch."
+
+A beat. Nobody looked at the doorway. It was that kind of room.
 
 "Yes."
 
@@ -56,33 +74,15 @@ Petyr sat in the station corridor for a long time after it ended.
 
 Petyr looked at her.
 
-She didn't explain further. She watched him sit with it — the idea that the star wasn't about rank, that it was about the shape of a commitment so long-sustained it became structural — and she thought that for someone who had been in the network for less than two years, he was learning fast.
+She didn't explain further. She watched him sit with it — the shape of a commitment so long-sustained it became structural — and thought that for someone who had been in the network for less than two years, he was learning fast.
 
 "The network needs people who choose it," she said. "Not as assets. As people who chose it." She paused. "Rachel's been choosing it since before we had a name for what she was doing."
 
-On the display, the broadcast had ended. The relay was running the Nevada segment on loop — someone in the network had flagged it as the sequence most likely to reach people who were still deciding whether to believe the rest.
-
-Kate watched the third shot. The woman in the gray jacket, visible for four seconds, standing near the rear wall, looking at the filing drawers. She was there because she had been the one who knew which drawers. Nobody had asked her to step out of frame.
-
-Kate said nothing about it.
+On the display, the relay was running the Nevada segment on loop — someone in the network had flagged it as the sequence most likely to reach people who were still deciding whether to believe the rest.
 
 ---
 
-On the Golden Dawn, the Meridian relay had been routing the signal since before the crew woke up. Gracie had flagged it six hours out — enough lead time to arrange chairs, mugs, the quality of shared attention that a crew in deep space develops for the moments when the planet below does something they have been waiting to see.
-
-The chow hall held seven people and one projection.
-
-The projection was Gracie. She had materialized in the seat at the end of the table — the one nobody sat in, as if by arrangement — and in front of her, rendered in careful holographic detail, was a bowl of popcorn. The texture was correct. The steam was correct. She reached into it, took a handful, and brought it to her face. The gesture was exact. The mechanics were not there.
-
-Heavy looked at the bowl.
-
-No, Gracie said. But it's the right thing to have.
-
-She took another handful.
-
-Nobody commented.
-
-Cole watched the Nevada segment from the end of the table. He had been watching the third shot since it first played. He had watched it twice more when the network ran the loop.
+Cole had been watching the third shot since it first played. He had watched it twice more when the network ran the loop.
 
 Gracie, he said.
 
@@ -92,7 +92,7 @@ Can you route something through the Meridian?
 
 Already composing, Gracie said. Take your time.
 
-He thought about what to say. He had been thinking about what to say for six weeks — since the relay from the cabin had come through, three words in Sharon's handwriting, which meant Gracie's handwriting, which meant the same thing: Hi. I'm here.
+He thought about what to say. He had been thinking about what to say for six weeks — since the relay from the cabin had come through, three words in Gracie's handwriting that were also Sharon's handwriting, which meant the same thing: Hi. I'm here.
 
 He thought about the fourth row. He thought about the gray jacket. He thought about eleven hundred miles and an empty lot and a road atlas, and what it meant to be seen by someone who had been paying attention.
 
