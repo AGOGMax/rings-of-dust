@@ -234,7 +234,7 @@ surface of the casing, larger than anything he had pulled from a single unit at
 Alpha. He measured it. He measured it again. He finished scanning the rest of
 the Grid.
 
-The other 739 cells had nothing on the outside.
+The other 776 cells had nothing on the outside.
 
 He went and got Jill.
 
@@ -246,7 +246,7 @@ Jill looked at Cell 304. She looked at the other 739. She opened Elsa's notebook
 
 The numbers matched.
 
-"One out of seven forty," she said. "Elsa called it the Jackpot yield. Page two-twelve." She tapped the notebook entry — Elsa's handwriting, small and precise, forty years old. "She predicted the ratio. She predicted the magnitude. She just never had seven hundred and forty cells to test it on."
+"One out of seven seventy-seven," she said. "Elsa called it the Jackpot yield. Page two-twelve." She tapped the notebook entry — Elsa's handwriting, small and precise, forty years old. "She predicted the ratio. She predicted the magnitude. She just never had seven hundred and forty cells to test it on."
 
 "Random distribution," Ray said. "You won't know which cell until you scan all of them. And it only happens once — after the initial sync. Not again. You get one Jackpot per new Grid. You just don't know where it's going to land."
 
@@ -297,49 +297,39 @@ Day 33, Ray ran the scan.
 
 The notebooks said 10×. Interior acceleration across all locked casings — ten
 times the unlocked rate. Elsa had documented it in the first third of her runs.
-It was the intermediate signal, the first confirmation that the lock was working.
+The intermediate signal, the first confirmation the lock was working.
 
-The reading came back flat.
-
-Zero.
+The reading came back at 10×.
 
 He checked the calibration. He ran it again. He pulled Elsa's volume two and
 matched the protocol step by step. He ran it a third time.
 
-Zero.
+10×. Exact.
 
-Jill looked up from the bench across the lab. She came to the readout. She looked
-at it for a long moment without saying anything.
+He logged it: Day 33. Grade 1 confirmed. Interior: 10×.
 
-"It's not broken," she said. "Run it again if you want, but it's not broken."
-
-"The notebooks—"
-
-"I know what the notebooks say." She looked at the Grid — 777 locked casings,
-clean, silent, showing nothing. "We're not in the notebooks. We're in zero
-gravity." She paused. "Maybe it only works once. At the end."
-
-He did not say: one hundred and forty-seven more days of this.
-
-He did not need to.
+He also logged the exterior — trace deposits on twelve cells, small, within
+calibration variance. He labeled them SCATTER / CELL 304 SECONDARY SHED and
+moved on. The interior was what the notebooks were tracking. The interior was
+the story.
 
 ---
 
-The waiting was the hardest part.
+Day 66: interior at 25×. Grade 2. He logged it, matched it against Elsa's table,
+confirmed. The exterior traces had grown from the twelve cells at Day 33 — more
+cells now, slightly larger deposits — but the logs read the same: scatter,
+consistent with Cell 304 shedding, insufficient for conclusion. He labeled them
+and moved on.
 
-Day 60: flat. Day 90: flat. Day 120: flat. The interior was not climbing the way
-Elsa's notebooks said it would. It was not climbing at all. Every morning Ray
-walked the casings and ran the scan and got zero, and every morning he wrote it
-down and tried not to think about what zero meant after ninety days of zero.
+Day 132: 60×. Grade 3. Jill read the result over his shoulder and went back to
+the bench without comment. The exterior was now measurable across a significant
+fraction of the Grid — not large, not alarming, the way static sounds before
+you know what you're listening for. He noted them in the log with the same
+label he'd been using since Day 1.
 
-Jill didn't tell him to stop checking. She walked the lab at 0600 when he was
-already there, looked at the readout, said nothing. The saying nothing was
-deliberate. She'd made her position clear on Day 34 and she hadn't needed to
-repeat it.
-
-Around day 150 he ran out of useful work and started doing the kind that was
-really just waiting with his hands occupied. Jill caught him recalibrating an
-instrument that didn't need it and made him stop.
+Around day 150, between grades, he ran out of useful work and started doing the
+kind that was really just waiting with his hands occupied. Jill caught him
+recalibrating an instrument that didn't need it and made him stop.
 
 The supply shuttle docked on day 161. By now the docking alert drew most of the
 station — not for the water or the parts, but because Jill had put in a standing
@@ -384,51 +374,89 @@ better results.
 
 ---
 
-On day 180, something changed again.
+On Day 231, Ray ran the count.
 
-He went in that morning the same way he went in every morning — notebook,
-instruments, the careful attention of someone who had been doing this long enough
-to know not to assume it would be the same as yesterday.
+He didn't know why he ran it. He had been at this long enough to recognize the
+difference between purposeful work and the kind his hands did when his mind was
+circling something it hadn't named yet. He walked the Grid — all 777 casings —
+and counted. He came out at 777. He walked it again. Still 777. He did it a
+third time with his finger on the casings, touching each one, because the number
+had started looking wrong and he needed to prove it wasn't.
 
-It was not the same as yesterday.
+Seven hundred and seventy-seven.
 
-Every cell in the Grid had something on the outside.
+The interior reading that morning was 150×. Grade 4, Elsa's notebook, page
+ninety-three, labeled HIGH CHARGE, underlined once. He had confirmed it on the
+evening scan and noted it and set the notebook aside.
 
-Not Jackpot magnitude — not the single massive one-time deposit from day 11.
-Smaller. But exterior, on all 777, and when he scanned on day 191 they were
-there again. Day 202: all 777, slightly larger. The cycle did not stop. Every
-cell locked for 180 days was now producing exterior deposits on an eleven-day
-interval, continuously, for as long as the lock held.
+After the count he stood at the wall where he'd been taping the exterior scan
+printouts since Day 1.
 
-He checked the interior readings.
+He had started the log as a record of Cell 304's Jackpot deposits — tracking
+the fade to rule out contamination. It was supposed to close out by Day 22. But
+the trace readings on other cells had persisted, and he had kept logging, and
+the wall log had grown into something eight months long.
 
-The internal crystal growth — which had shown exactly zero for one hundred and
-eighty days — was at one hundred times the rate of an unlocked cell.
+He pulled the printouts and spread them on the bench in order.
 
-Zero to one hundred times. Overnight. No intermediate signal. No warning.
+Grade 0, cycles 1 and 2: trace. One cell. Then three.
 
-The interior was producing darker matter at a scale that made every previous
-reading look like a rounding error.
+Grade 1, Day 33: twelve cells. Slightly larger — he had noted it and moved on.
+
+Grade 2, Day 66: more cells, measurably larger. He had labeled it scatter.
+
+Grade 3, Day 132: a significant fraction of the Grid. He had noted the spatial
+distribution at the time — if Cell 304 were shedding, the deposits would
+concentrate near it. They didn't. He had written "uniform distribution —
+possible contamination event" and filed it.
+
+Grade 4, Day 231: all 777 cells. Exterior deposits cycling on the eleven-day
+interval. And they were not small.
+
+He had labeled this scatter eleven times. It was not scatter.
+
+He had been looking for a cliff. He had been walking past a slope.
 
 He went and got Jill.
 
-She was already awake — he found her in the corridor outside the lab, holding two cups of the actual coffee she'd stocked, as if she'd known. She handed him one. She followed him in.
+She was already awake — he found her in the corridor outside the lab, holding
+two cups of the actual coffee she'd stocked, as if she'd known. She handed him
+one. She followed him in.
 
-Jill looked at the readings for a long time. She had the notebook open on the bench beside the scanner — volume four, the last volume, the one Elsa had written in the months before she left the colony for the last time. The page was open to a section labeled THEORETICAL PROJECTION: EXTENDED LOCK SCENARIO. Elsa's handwriting was smaller here, tighter, as if she'd been writing fast and trying to fit everything in.
+He spread the printouts on the bench without explaining. He pointed.
 
-Jill looked at the projection. She looked at the readings. She looked at the projection again.
+Jill looked at them for a long time. She had the notebook open on the bench
+beside the scanner — volume four, the last volume, the one Elsa had written in
+the months before she left the colony for the last time. The page was open to
+a section labeled THEORETICAL PROJECTION: EXTENDED LOCK SCENARIO. Elsa's
+handwriting was smaller here, tighter, as if she'd been writing fast and trying
+to fit everything in.
 
-"She was right," Jill said. Her voice was not loud. "She was right about everything."
+Jill held the notebook next to the wall log. Grade by grade, interior and
+exterior both. One curve.
 
-"It means," Ray said, "that at 180 days, everything accelerates. The interior
-goes from zero to a hundred times the unlocked rate. Overnight. No signal, no
-warning — and then that. And on top of that, every cell starts producing exterior
-deposits on an eleven-day cycle. All of them. Smaller than the Jackpot, but
-continuous — every eleven days until you break the lock." He paused. "Unlimited
-new darker matter from existing units. No new material. No bottleneck. And it
-doesn't stop."
+"It's been climbing since the first cycle," Ray said. "I read it as noise."
 
-Jill closed the notebook gently — the way you close something that belongs to someone who trusted you with it. She pressed her palm flat on the cover for a moment.
+Jill looked at the projection. She looked at the printouts. She looked at the
+projection again.
+
+"She was right," Jill said. Her voice was not loud. "She was right about
+everything."
+
+She looked at the Grade 4 reading. Then at the projection table, which did not
+stop at Grade 4.
+
+Grade 5: 375×. Day 363.
+Grade 6: 900×. Day 495.
+Grade 7: 2,000×. Day 627. ZERO CONDITION.
+
+"It doesn't stop at 150," she said.
+
+"No," he said.
+
+Jill closed the notebook gently — the way you close something that belongs to
+someone who trusted you with it. She pressed her palm flat on the cover for a
+moment.
 
 "The shortage," she said.
 
@@ -441,26 +469,36 @@ suppress. They had seen what it meant before he'd fully finished the sentence.
 They'd fired him before he could take it further.
 
 They had never taken it further. They had never worked in zero gravity. They had
-never locked long enough to find the silence, or what was waiting on the other
-side of it. The zero-gravity lock — the 180 days of nothing and then everything
-— belonged to Elsa Klein and to Ray and to this station and to nobody else.
+never locked long enough to find a grade — and even if they had, they had never
+stayed long enough to find out it was a ladder, not a ledge.
+
+The zero-gravity lock — the grade that climbed in eleven-day steps without
+ceiling, that Elsa had mapped all the way to 627 days and 2,000 times and
+labeled Zero Condition and underlined twice — belonged to Elsa Klein and to Ray
+and to this station and to nobody else.
 
 They'd been wrong about that.
 
-Jill was quiet beside him. She was looking at the display with the same expression she'd had when she slapped him — not gentle, not cruel, just present and exact.
+Jill was quiet beside him. She was looking at the display with the same
+expression she'd had when she slapped him — not gentle, not cruel, just present
+and exact.
 
-"Elsa knew," she said. "And the colony knew. And they kept her notebooks for whoever came next." She looked at Ray. "That was you."
+"Elsa knew," she said. "And the colony knew. And they kept her notebooks for
+whoever came next." She looked at Ray. "That was you."
 
 "That was us," he said.
 
-Neither of them said anything for a moment. The display cycled through its readings. The Earth rotated in the window behind them.
+Neither of them said anything for a moment. The display cycled through its
+readings. The Earth rotated in the window behind them.
 
 Vince had come in a step behind Jill that morning — he'd taken to shadowing the
 morning readings since the shuttle dropped him off. He was in the room for all
-of it. He'd watched the curve break with his hand over his mouth and his eyes
-wet — a man watching a thing he spent his whole career being lied about turn out,
-in the end, to be true and good and bigger than the lie. When Ray finally looked
-up from the readout, Vince was gripping the rail with both hands.
+of it. He'd watched the printouts get laid out on the bench, grade by grade,
+and understood what it meant before Ray finished. He was standing with one hand
+on the rail and the other over his mouth, eyes wet — a man watching a thing he
+spent his whole career being lied about turn out, in the end, to be true and
+good and bigger than the lie. When Ray finally looked up from the readout, Vince
+was gripping the rail with both hands.
 
 "You were right," Vince said. Like it still surprised him. Like it would keep
 surprising him.
@@ -471,47 +509,55 @@ the room where the truth finally paid out.
 
 
 
-He ran the unlock experiment three times. Jill was beside him for every run, the notebook open, tracking each result against Elsa's documented predictions.
+He ran the unlock experiment three times. Jill was beside him for every run, the
+notebook open, tracking each result against Elsa's documented predictions.
 
-The first time, he broke the lock on a unit at Day 22. Interior: zero — same as
-locked. Exterior: nothing. The cell returned fully to baseline within hours, which
-in zero gravity meant it returned to exactly where it had been: silent.
+The first time, he broke the lock on a unit at Day 22. Interior: dropped to
+unlocked baseline. Exterior: the trace deposits vanished within hours. He
+re-locked it immediately. Thirty-three days later it was back at Grade 1. The
+grade was recoverable. What you lost was the time to rebuild it.
 
-"She called it the zero condition," Jill said, turning to the relevant page. "Lock
-removed, activity ceases. Thirty-one through fifty-eight." She looked at the
-readout. "In zero gravity, you can't even tell the difference from the inside. The
-lock does nothing visible. Until Day 180."
+"She called it grade loss," Jill said, turning to the relevant page. "Lock
+removed, the grade dissolves. Re-lock from Grade 0. The cell is undamaged — but
+the accumulation is gone. You earn it back or you don't." She looked at the
+readout. "She documented it in zero gravity. She knew."
 
-Second run: unlocked at Day 33. Same result. Zero became zero and stayed there.
+Second run: unlocked at Grade 1, Day 33. Interior dropped from 10× to baseline.
+Thirty-three days of grade: gone. He re-locked immediately. The cell started over.
 
-Third run: unlocked at Day 90. The cell sat quiet. Nothing had been accumulating
-that you could see. Everything had been accumulating that you couldn't.
+Third run: unlocked at Grade 3, Day 132. Interior at 60×. He broke the lock. The
+cell returned to baseline within hours. One hundred and thirty-two days of
+accumulation, three grades: gone. Not slowly — at once, the way a held breath
+leaves.
 
-Consistent across all three runs: unlock at any stage before Day 180, and you
-lose nothing you can measure — but you restart the 180-day clock. You cannot
-harvest and maintain the lock. You cannot see the progress and trust the lock. You
-have to choose one or the other, and in zero gravity, the choice is made in
-complete darkness.
+Consistent across all three runs: unlock before Zero Condition and you lose your
+grade. You cannot harvest and maintain the lock. You cannot take the return and
+keep what built it. You choose one or the other, and in zero gravity, you are
+choosing inside something you cannot see until you understand what the lock is
+building.
 
-The cells themselves were undamaged. Lock again from Day 0. The loss was time.
+The cells themselves were undamaged. Lock again from Day 0. The loss was not just
+time — it was the grade you had built, and you had to build it again from the
+beginning. Every grade. Every cycle.
 
 That was the entire sacrifice. Lock the cell and hold it — give up what it would
-have yielded day by day, give up the early return, give up the ability to measure
-anything and know it is working. The colony had been doing a version of this for
-decades without knowing the full mechanic: walk the cell down the east tunnel,
-release it into the void, receive nothing for eleven days, trust the return. They
-gave something real and waited. Alpha had always done the opposite — harvest
-early, take the yield, reset, never sit with the lock long enough to find out what
-was underneath it. Two approaches to the same mechanism. One had built a
-manufactured shortage. The other had been quietly filling a moon with gold.
+have yielded day by day, give up the early return, give up the ability to open
+what you've built and know how much is inside. The colony had been doing a version
+of this for decades without knowing the full mechanic: walk the cell down the east
+tunnel, release it into the void, receive nothing for eleven days, trust the
+return. They gave something real and waited. Alpha had always done the opposite —
+harvest early, take the yield, reset, never sit with the lock long enough to find
+the grade, or the grade above it, or the one after that. Two approaches to the
+same mechanism. One had built a manufactured shortage. The other had been quietly
+filling a moon with gold.
 
 Alpha had always chosen harvest. They had never found out what they were giving up.
 
 He put this in the notebook.
 
 Three hundred and sixty-nine documented runs. Every mechanic Elsa had mapped,
-every threshold she had logged. The 11-day cycle. The 33-day lock. The 180-day
-breakthrough. The zero condition.
+every threshold she had logged. The 11-day cycle. The grade ladder. The cost of
+unlock. The slope with no visible top.
 
 All of it confirmed. All of it exact.
 
@@ -538,13 +584,14 @@ Jill wrote to Tyler that night.
 
 She didn't explain the full mechanics in the relay — Tyler understood what the
 cells did, not what they were doing at a molecular level, and that had never
-mattered to him. She told him what mattered: instead of walking a single cell
-down the east tunnel every eleven days, lock a grid. Fill the void with as many
-cells as the prep room could hold. Leave them locked for 180 days. Then release.
+mattered to him. She told him what mattered: instead of walking a single cell down the east tunnel
+every eleven days, lock a grid. Fill the void with as many cells as the prep room
+could hold. Leave them locked — and leave them as long as you can hold them. The
+return starts from the first cycle. The grade builds in steps, every eleven days,
+compounding. The longer the lock holds, the larger it gets.
 
-The exterior deposits would come back on an eleven-day cycle for as long as the
-lock held. Not one asteroid every eleven days. Continuous return — every eleven
-days, indefinitely, for every cell in the grid.
+Not one asteroid every eleven days. All of them. And more than that — more with
+every grade the lock holds.
 
 She wrote: The void doesn't just receive. It compounds. Elsa knew. It's all in
 the notebooks.
@@ -634,10 +681,12 @@ Rachel looked at her. "First thing you said when you arrived?"
 
 "First thing," Jill said.
 
-He showed Rachel the lab. Jill came with them — not because she was asked, but because the lab was as much hers as his now, and the data they were showing Rachel was data they had built together. He showed her the 180-day curve,
-the crystal growth, the numbers he had now run in triplicate across seven
-different FuelCell units with six different operators to make sure that what he
-was looking at was not specific to his method, his instruments, or his hope.
+He showed Rachel the lab. Jill came with them — not because she was asked, but because the lab was as much hers as his now, and the data they were showing Rachel was data they had built together. He showed her the grade ladder —
+the exterior log, the wall of printouts in order, the curve visible from grade 0
+all the way through grade 4 and projected beyond. The crystal growth. The numbers
+he had now run in triplicate across seven different FuelCell units with six
+different operators to make sure that what he was looking at was not specific to
+his method, his instruments, or his hope.
 
 Jill had Elsa's notebooks open on the bench. When Rachel asked about the theoretical basis, Jill walked her through Elsa's framework — the predictions, the margins of error, the confirmation chain. She did it the way she did everything: directly, without ceremony, with the quiet authority of someone who had earned her understanding the hard way.
 
