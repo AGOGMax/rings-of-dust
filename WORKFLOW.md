@@ -61,7 +61,7 @@ Read the entire chapter from start to finish — not a keyword search, a full re
 - Are any plot points named or resolved here that should land later?
 
 **3. LORE BIBLE COMPLIANCE**
-- Check all technical mechanics: void sacrifice (no push — carry cells down the east tunnel until gravity lets go of them, then release), DarkX awareness/behavior, Rapture date (November 22, 2033), ring plane sealing, FuelCell cycle terminology (11-day standard cycle; 33-day lock = 10× interior yield; 180-day lock = 100× interior yield + all 740 cells begin continuous exterior cycling every 11 days)
+- Check all technical mechanics: void sacrifice (no push — carry cells down the east tunnel until gravity lets go of them, then release), DarkX awareness/behavior, Rapture date (November 22, 2033), ring plane sealing, FuelCell cycle terminology (11-day standard cycle; 33-day lock = 10× interior yield; 180-day lock = 100× interior yield + all 777 cells begin continuous exterior cycling every 11 days)
 - Check all rank/patch details: correct symbol per tier, always hidden under clothing, bronze/silver/gold metal rule, Sam has wrench patch until Ep_III
 - Check the Von Grutzen / Verguld bloodline connection: The name FIRST appears in Ch16 — Petra reads from the founder's records; the founder's name at the top and bottom of the page is Von Grutzen; Jill goes still; Petra folds the paper without comment. Ch22 (The Pull) is a SECOND moment where the name surfaces again in a different context — do not treat Ch22 as the first reveal. Tyler never names it in either chapter.
 - Check the power hierarchy framing where relevant: Marcus → Alpha Corp → Federation → Populace

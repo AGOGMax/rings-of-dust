@@ -456,7 +456,7 @@ the space. The 2.5G orbital transfer burn, tunnel vision, the curve of the
 Earth. Station Libre: three modules, eleven scientists, Jill's colony gold
 surplus already converted into equipment. Month six: Day 11 delivers the
 Jackpot from a single random cell. Day 33, internal growth at ten times. Day
-180 — every cell in the 740-unit Grid begins exterior cycling on an eleven-day
+180 — every cell in the 777-unit Grid begins exterior cycling on an eleven-day
 interval. All 369 of Elsa Klein's documented runs confirmed exact. Rachel arrives
 for the prep visit.
 
