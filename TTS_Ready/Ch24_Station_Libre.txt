@@ -291,13 +291,13 @@ He did not know that the exact same word had been shouted in Alpha's laboratorie
 found the same thing and understood immediately what it meant for everyone who
 was not in the room.
 
-They kept the Grid locked.
+They left the Grid sealed.
 
 Day 33, Ray ran the scan.
 
-The notebooks said 10×. Interior acceleration across all locked casings — ten
-times the unlocked rate. Elsa had documented it in the first third of her runs.
-The intermediate signal, the first confirmation the lock was working.
+The notebooks said 10×. Interior acceleration across all sealed casings — ten
+times the rate of a fresh one. Elsa had documented it in the first third of her
+runs. The intermediate signal, the first confirmation the charge was building.
 
 The reading came back at 10×.
 
@@ -469,10 +469,10 @@ suppress. They had seen what it meant before he'd fully finished the sentence.
 They'd fired him before he could take it further.
 
 They had never taken it further. They had never worked in zero gravity. They had
-never locked long enough to find a grade — and even if they had, they had never
-stayed long enough to find out it was a ladder, not a ledge.
+never left a cell alone long enough to find a grade — and even if they had, they
+had never stayed long enough to find out it was a ladder, not a ledge.
 
-The zero-gravity lock — the grade that climbed in eleven-day steps without
+The zero-gravity charge — the grade that climbed in eleven-day steps without
 ceiling, that Elsa had mapped all the way to 627 days and 2,000 times and
 labeled Zero Condition and underlined twice — belonged to Elsa Klein and to Ray
 and to this station and to nobody else.
@@ -509,47 +509,54 @@ the room where the truth finally paid out.
 
 
 
-He ran the unlock experiment three times. Jill was beside him for every run, the
+He ran the opening experiment three times. Jill was beside him for every run, the
 notebook open, tracking each result against Elsa's documented predictions.
 
-The first time, he broke the lock on a unit at Day 22. Interior: dropped to
-unlocked baseline. Exterior: the trace deposits vanished within hours. He
-re-locked it immediately. Thirty-three days later it was back at Grade 1. The
-grade was recoverable. What you lost was the time to rebuild it.
+The first time he opened a unit at Day 22. The seal gave with a sound like a jar
+losing its vacuum, and a tenth of what was inside went into the lab air and was
+gone — not slowly, at once, the way a held breath leaves. What remained he could
+measure. It was almost nothing. It was exactly the almost-nothing Elsa's curve
+predicted at twenty-two days.
 
-"She called it grade loss," Jill said, turning to the relevant page. "Lock
-removed, the grade dissolves. Re-lock from Grade 0. The cell is undamaged — but
-the accumulation is gone. You earn it back or you don't." She looked at the
-readout. "She documented it in zero gravity. She knew."
+The cell did not return to Grade 0. It did not return to anything. It was open,
+and an open cell does not charge.
 
-Second run: unlocked at Grade 1, Day 33. Interior dropped from 10× to baseline.
-Thirty-three days of grade: gone. He re-locked immediately. The cell started over.
+"She has it here," Jill said, turning to the relevant page. "No partial reading.
+You break the seal or you don't know — and once you know, that cell is finished.
+It will never reach the grade it was going to reach." She looked at the readout.
+"She wrote it in the margin. Not the body. Like she didn't want it in with the
+rest of it."
 
-Third run: unlocked at Grade 3, Day 132. Interior at 60×. He broke the lock. The
-cell returned to baseline within hours. One hundred and thirty-two days of
-accumulation, three grades: gone. Not slowly — at once, the way a held breath
-leaves.
+Second run: opened at Grade 1, Day 33. Ten times the first. The vaporisation took
+its tenth, the way it always would, and the remainder was still ten times.
 
-Consistent across all three runs: unlock before Zero Condition and you lose your
-grade. You cannot harvest and maintain the lock. You cannot take the return and
-keep what built it. You choose one or the other, and in zero gravity, you are
-choosing inside something you cannot see until you understand what the lock is
-building.
+Third run: opened at Grade 3, Day 132. Sixty times. He weighed it twice.
 
-The cells themselves were undamaged. Lock again from Day 0. The loss was not just
-time — it was the grade you had built, and you had to build it again from the
-beginning. Every grade. Every cycle.
+Three cells. Three points on a curve. Three cells that no longer existed.
 
-That was the entire sacrifice. Lock the cell and hold it — give up what it would
-have yielded day by day, give up the early return, give up the ability to open
-what you've built and know how much is inside. The colony had been doing a version
-of this for decades without knowing the full mechanic: walk the cell down the east
-tunnel, release it into the void, receive nothing for eleven days, trust the
-return. They gave something real and waited. Alpha had always done the opposite —
-harvest early, take the yield, reset, never sit with the lock long enough to find
-the grade, or the grade above it, or the one after that. Two approaches to the
-same mechanism. One had built a manufactured shortage. The other had been quietly
-filling a moon with gold.
+That was the whole cost, and it was not time. The cells did not go back to Day 0 —
+they did not go back at all. Every number in his notebook had come from a unit he
+had destroyed to get it, and the better the number, the more the unit had been
+worth. You cannot harvest and keep charging. You cannot take the return and keep
+what built it. You choose one or the other, once, and the choosing does not
+reverse.
+
+And the top of the curve could not be measured at all. To know what a cell held at
+six hundred and twenty-seven days he would have to open one at six hundred and
+twenty-seven days, and the opening would end it. The most valuable cell in the Grid
+would always be the one nobody had ever looked inside. That was the ceiling — not
+in the physics. In the looking.
+
+That was the entire sacrifice. Seal the cell and leave it — give up what it would
+have yielded day by day, give up the early return, give up ever knowing exactly
+what is in there. The colony had been doing a version of this for decades without
+knowing the full mechanic: walk the cell down the east tunnel, release it into the
+void, receive nothing for eleven days, trust the return. They gave something real
+and never looked back to check. Alpha had always done the opposite — harvest
+early, take the yield, open what they wanted and write the loss off as waste, never
+leave a unit alone long enough to find the grade, or the grade above it, or the one
+after that. Two approaches to the same mechanism. One had built a manufactured
+shortage. The other had been quietly filling a moon with gold.
 
 Alpha had always chosen harvest. They had never found out what they were giving up.
 
@@ -557,7 +564,7 @@ He put this in the notebook.
 
 Three hundred and sixty-nine documented runs. Every mechanic Elsa had mapped,
 every threshold she had logged. The 11-day cycle. The grade ladder. The cost of
-unlock. The slope with no visible top.
+opening. The slope with no visible top.
 
 All of it confirmed. All of it exact.
 
@@ -585,13 +592,13 @@ Jill wrote to Tyler that night.
 She didn't explain the full mechanics in the relay — Tyler understood what the
 cells did, not what they were doing at a molecular level, and that had never
 mattered to him. She told him what mattered: instead of walking a single cell down the east tunnel
-every eleven days, lock a grid. Fill the void with as many cells as the prep room
-could hold. Leave them locked — and leave them as long as you can hold them. The
+every eleven days, seal a grid. Fill the void with as many cells as the prep room
+could hold. Leave them sealed — and leave them as long as you can stand to. The
 return starts from the first cycle. The grade builds in steps, every eleven days,
-compounding. The longer the lock holds, the larger it gets.
+compounding. The longer they sit unopened, the larger it gets.
 
 Not one asteroid every eleven days. All of them. And more than that — more with
-every grade the lock holds.
+every grade they climb.
 
 She wrote: The void doesn't just receive. It compounds. Elsa knew. It's all in
 the notebooks.
