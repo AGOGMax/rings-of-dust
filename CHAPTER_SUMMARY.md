@@ -250,8 +250,8 @@ talked for two hours the night
 before and she couldn't find where he was wrong. Petra tells Tyler and Marla's
 backstory: his wife Marla Singer died, and he arrived at the colony carrying
 grief that had already burned through everything flammable. The belief came
-after — the grief came first. Tyler shows Jill the prep chamber: four cells
-approaching 180 days, long-locked. "When you come back, ask me again."
+after — the grief came first. Tyler shows Jill the prep chamber: four
+long-sealed cells, the oldest in the colony. "When you come back, ask me again."
 
 ---
 
@@ -298,7 +298,7 @@ thirst, protocol. She keeps going east.
 
 Day 7, 0300: no announcement, no notification. Jill wakes to shifted ambient
 sound. All thirty-three Void-Walkers and eleven Loyalists including Petra. Tyler at
-the east end with four long-locked cells. Tyler speaks about Elsa Klein, recites
+the east end with four long-sealed cells. Tyler speaks about Elsa Klein, recites
 her final notebook entry from memory. The cells are carried down the east tunnel —
 gravity letting go — and released into the void. Petra describes the notebooks as
 containing four things: the spiritual practices (ancestor gifting, the belief
