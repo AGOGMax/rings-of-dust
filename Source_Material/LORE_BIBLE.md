@@ -131,14 +131,17 @@ Someone eventually figures out that a sealed FuelCell — one made deliberately 
 | **High Charge** | 21 | 231 | **150×** |
 | **Supercharged** | 33 | 363 | 375× |
 | **Overcharged** | 45 | 495 | 900× |
-| **Zero Condition** | 57 | 627 | **2,000×** |
+| **Antigravity** | 57 | 627 | **2,000×** |
 
 Two things run from the first cycle, and neither waits for a threshold:
 
 **(1) Interior** — crystal growth inside the sealed casing, at whatever rate the cell's grade dictates. Not harvestable while the seal holds.
 **(2) Exterior** — deposits forming on the outside of the casing, collected every cycle. This is the recurring yield, and it is separate from the one-time Day 11 Jackpot.
 
-**Nothing switches on.** There is no threshold, no activation, no morning the cell wakes up. A fresh cell earns at 1×. A cell at 21 cycles earns at 150×. A cell at the Zero Condition earns at 2,000×. The grade simply climbs, and the distance between a patient cell and an impatient one widens the whole way.
+**Nothing switches on.** There is no threshold, no activation, no morning the cell wakes up. A fresh cell earns at 1×. A cell at 21 cycles earns at 150×. A cell at Antigravity earns at 2,000×. The grade simply climbs, and the distance between a patient cell and an impatient one widens the whole way.
+
+**On the name.** The top grade is named for *the Antigravity project* — what Squirrel called the effort to prove Elsa Klein right. Elsa's own word for what she found was **the zero condition**, written in her final notebook and underlined twice; she never lived to see it tested at scale. The grade carries the name of the work that vindicated her, not her private term for it. Both words are correct, forty years apart.
+
 
 In the story this is confirmed — not through Alpha Corp's data, but through Ray. Elsa Klein's final 369 test runs predicted the whole charge ladder — every grade boundary, from the first step at three cycles to the zero condition itself. Ray receives her notebooks from Jill and takes the experiment to Station Libre — the Collective's space station — where he tests Elsa's predictions in zero gravity. She was right. The plateau disappears. The curve doesn't level off — it breaks. Alpha Corp never found this because they never stopped harvesting long enough to look. They had the same cells Ray did. They just never left them alone.
 
