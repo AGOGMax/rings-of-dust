@@ -606,13 +606,12 @@ That was the design. Not malice toward Vince, specifically. Just the ordinary
 architecture of a machine that works better when its parts don't know what the
 other parts are doing.
 
-Ray thought about the junior researcher at Alpha who had first noticed that
-a certain class of feedstock was yielding anomalous results. He thought about
-the report that researcher had almost certainly written. He thought about where
-that report had gone and who had read it and what decision had been made about
-it and how far upstream that decision would have had to travel before it reached
-someone who understood not just what the finding meant scientifically but what
-it meant commercially.
+The junior researcher at Alpha who had first noticed that a certain class of
+feedstock was yielding anomalous results. The report that researcher had almost
+certainly written. Where that report had gone and who had read it and what
+decision had been made about it and how far upstream that decision would have had
+to travel before it reached someone who understood not just what the finding
+meant scientifically but what it meant commercially.
 
 Someone had understood. Someone had calculated the value of that finding against
 the value of the current model and had made a decision, and that decision had

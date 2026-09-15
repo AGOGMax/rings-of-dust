@@ -603,18 +603,16 @@ was still not done with.
 Bitboy hummed again. The hum settled.
 
 Cole stood at the viewport for another long minute. He did not think about
-Sharon. He thought about the harvesters. He thought about the seven small heat
-signatures on the scope, scattered across the B-ring sectors, ripening in the
-dust the way fruit ripened on a tree. He thought about the fact that everything
-he had lost had been paid for those seven signatures. He thought about the fact
-that this was not a thing he could make true by thinking it; it was simply the
-bookkeeping of a life that had had certain entries on the debit side and certain
-entries on the credit side, and the accountant was the universe, and the
-universe did not let you renegotiate.
+Sharon. The harvesters. Seven small heat signatures on the scope, scattered across the
+B-ring sectors, ripening in the dust the way fruit ripened on a tree. Everything
+he had lost had been paid for those seven signatures. That was not a thing he
+could make true by thinking it; it was simply the bookkeeping of a life that had
+certain entries on the debit side and certain entries on the credit side, and the
+accountant was the universe, and the universe did not let you renegotiate.
 
-He thought about Sharon's voice the way you thought about a song you had not
-heard for a while. He could still hear it. He held it in his head for the length
-of one long inhale and let it go.
+Sharon's voice, the way you remembered a song you hadn't heard for a while. He
+could still hear it. He held it in his head for the length of one long inhale
+and let it go.
 
 iRIS spoke at twenty-one-fourteen.
 
@@ -640,12 +638,13 @@ states. She had the mass tonight.
 
 He stood very still.
 
-He thought about how to answer that. He thought about the fact that iRIS had
-never asked him a question that was not about the operation of the ship, and he
-thought about Sam's voice in the galley two hours ago — she put the result in a
-non-priority log file and walked away from it — and he thought about Bitboy's
-hum at his shoulder and the absence of the copper-wire ring against
-his ribs where it should have been and was not.
+He thought about how to answer that.
+
+iRIS had never asked him a question that was not about the operation of the
+ship. Sam's voice in the galley two hours ago — she put the result in a
+non-priority log file and walked away from it. Bitboy's hum at his shoulder. The
+absence of the copper-wire ring against his ribs where it should have been and
+was not.
 
 "I'm fine, iRIS," he said. "Thank you for asking."
 
@@ -680,7 +679,15 @@ Routine had hit its mark.
 
 She held it. She said nothing. She drank her coffee.
 
-She thought about Ricardo in the reactor bay, asleep in the chair he had dragged in from the crew quarters because he said the hum helped him think, which was Ricardo's way of saying the hum helped him not think. She thought about the patch sewn into the lining of her duffel bag — dark thread on dark fabric, invisible unless you knew to fold the seam back and look. She thought about her apartment — the Pixies poster on the wall, the psychedelic prints she'd hung because nobody in the Federation had them, the familiar comfort of being out of place in a world of conformity and fine with it. She thought about the woman on the Meridian who was reassembling her transmissions from three fragmented bursts and building a picture of this ship that no one aboard it could see from the inside.
+Ricardo in the reactor bay, asleep in the chair he had dragged in from the crew
+quarters because he said the hum helped him think, which was Ricardo's way of
+saying the hum helped him not think. The patch sewn into the lining of her duffel
+bag — dark thread on dark fabric, invisible unless you knew to fold the seam back
+and look. Her apartment — the Pixies poster on the wall, the psychedelic prints
+she'd hung because nobody in the Federation had them, the familiar comfort of
+being out of place in a world of conformity and fine with it. The woman on the
+Meridian who was reassembling her transmissions from three fragmented bursts and
+building a picture of this ship that no one aboard it could see from the inside.
 
 She was not alone on this ship. She had never been alone on this ship. Taylor thought he was the sophisticated one in the room. He had been wrong about that since before they left atmosphere.
 
