@@ -22,7 +22,7 @@ Panama City as it passed.
 
 Ray looked at it too.
 
-He had learned this city the way you learn a place you are careful in — not as a
+He had been careful learning this city — not as a
 resident, not exactly as a stranger, but as someone who had learned which corners
 were visible from which windows and which routes were efficient for a contractor
 who belonged here versus a man who was watching the place. He had walked these
@@ -48,8 +48,8 @@ Red looked at Ray. Ray had no addition to make.
 
 He looked at the transit case. "Where does it come from. The source material."
 
-Jill looked at the case too, in the way you look at something you have been
-carrying long enough that it has become unremarkable. Then she looked back out
+Jill looked at the case too. She had carried it long enough that it had become
+unremarkable. Then she looked back out
 the window.
 
 "An asteroid about three kilometers across," she said. "Spent thirty years as a
@@ -160,7 +160,7 @@ Jill brought the colony's hospitality to Station Libre the same way the colony h
 
 Ray noticed. You could tell a lot about a person by what they fixed first when they had the resources to fix anything. Jill had fixed the food before she fixed the lab.
 
-But she fixed the lab too. And then the corridor seals. And then the water recycler, which had been running at sixty percent for months because nobody had the parts. Jill had the parts. She had brought them from a colony that had spent years learning how to make do, and the making-do had taught her exactly which things broke first and what you needed to un-break them. She spent the colony's gold the way someone spends money who has never had it and knows exactly what it's for — not carefully, not recklessly, but with the specific joy of a person putting right the things that should never have been wrong.
+But she fixed the lab too. And then the corridor seals. And then the water recycler, which had been running at sixty percent for months because nobody had the parts. Jill had the parts. She had brought them from a colony that had spent years learning how to make do, and the making-do had taught her exactly which things broke first and what you needed to un-break them. She spent the colony's gold like someone who had never had money and knew exactly what it was for — not carefully, not recklessly, but with the joy of putting right the things that should never have been wrong.
 
 By week two the station had actual coffee in both drawers. Better pressure readings in all three modules. A resonance scanner that didn't need to be recalibrated every six hours. The emergency ration blocks were still there, but nobody was eating them anymore.
 
@@ -255,7 +255,7 @@ The numbers matched.
 "Larger than anything Alpha has on record from a single unit. By a significant
 margin."
 
-Jill sat down. Not because she didn't understand it. Because she did. Because a woman she had never met — whose notebooks she had carried across the solar system in a transit case, whose handwriting she had learned to read the way you learn to read a friend's — had written this down in a room by herself on an asteroid, and nobody had tested it. Until now.
+Jill sat down. Not because she didn't understand it. Because she did. Because a woman she had never met — whose notebooks she had carried across the solar system in a transit case, whose handwriting she had learned to read like a friend's — had written this down in a room by herself on an asteroid, and nobody had tested it. Until now.
 
 "She saw this," Jill said quietly. She was looking at the notebook, not at Ray. "She wrote it down forty years ago and nobody tested it."
 
@@ -272,8 +272,8 @@ Ray didn't speak.
 asked about the notebooks." She paused. "I didn't understand why at the time. I
 just knew I wasn't done." She looked at Cell 304. "I think that was the sign."
 
-She said it the way a person says something that resists a better word — not as
-superstition, not as theology. Just: the most accurate available description of
+She said it as a word that resisted a better one — not superstition, not
+theology. Just: the most accurate available description of
 what had happened to her on a day she hadn't known was going to matter.
 
 It became a thing they did — at the end of every new Grid's first sync cycle,
@@ -357,8 +357,7 @@ called." He let go of the rail to gesture and immediately had to grab it again.
 "You were right, Ray. About all of it. I just needed to be somewhere I could see
 it with my own instruments."
 
-Vince joined the team for the last stretch the way he joined everything — by
-asking sharp questions and being right about half of them. He understood the
+Vince joined the team for the last stretch by asking sharp questions and being right about half of them. He understood the
 cells better than anyone aboard except Ray and Jill, and within a week the three
 of them had fallen into the old rhythm of people who'd argued lattice geometry
 before — except now there was no badge to scan and no column he wasn't allowed
@@ -454,8 +453,8 @@ Grade 7: 2,000×. Day 627. ZERO CONDITION.
 
 "No," he said.
 
-Jill closed the notebook gently — the way you close something that belongs to
-someone who trusted you with it. She pressed her palm flat on the cover for a
+Jill closed the notebook gently. It belonged to someone who had trusted her
+with it. She pressed her palm flat on the cover for a
 moment.
 
 "The shortage," she said.
@@ -695,7 +694,7 @@ he had now run in triplicate across seven different FuelCell units with six
 different operators to make sure that what he was looking at was not specific to
 his method, his instruments, or his hope.
 
-Jill had Elsa's notebooks open on the bench. When Rachel asked about the theoretical basis, Jill walked her through Elsa's framework — the predictions, the margins of error, the confirmation chain. She did it the way she did everything: directly, without ceremony, with the quiet authority of someone who had earned her understanding the hard way.
+Jill had Elsa's notebooks open on the bench. When Rachel asked about the theoretical basis, Jill walked her through Elsa's framework — the predictions, the margins of error, the confirmation chain. She did it directly, without ceremony, with the quiet authority of someone who had earned her understanding the hard way.
 
 Rachel asked good questions. Clear, specific, the kind that showed she'd read the
 background material before she arrived. She did not pretend to understand the

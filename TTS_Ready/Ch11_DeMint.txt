@@ -63,7 +63,7 @@ history.
 DeMint had read it twice. Then a third time.
 
 He had known Cole Nova for eleven years. He knew the shape of the man's
-voice in text the way he knew his own handwriting. Cole Nova did not say
+voice in text like his own handwriting. Cole Nova did not say
 honored. Cole Nova did not say crucial moment in our planet's history.
 Cole Nova would have said something like "Same rings. We're fine." Or
 he would have said nothing beyond mission status, because acknowledging
@@ -322,7 +322,7 @@ Aboard the Meridian
 
 Kate had a signal.
 
-Not a strong signal. Not a clean signal. A signal the way a signal is when someone is using a low-power jammer in a moving vessel at range, bouncing it off the nearest available relay satellite and distributing the transmission across three separate frequency bursts spaced nine minutes apart so that no single burst was long enough to trigger Alpha's automated intercept threshold.
+Not a strong signal. Not a clean signal. The signal of someone using a low-power jammer in a moving vessel at range, bouncing it off the nearest available relay satellite and distributing the transmission across three separate frequency bursts spaced nine minutes apart so that no single burst was long enough to trigger Alpha's automated intercept threshold.
 
 Whoever was sending it knew the threshold. Kate had known it too, for a long time, because she had been the one who mapped it.
 

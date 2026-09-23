@@ -142,8 +142,8 @@ shake Ray's hand rather than waiting for Ray to come to him.
 
 "Dr. Forsinko. Good to have you." He gestured toward a chair. "Coffee?"
 
-"Please. And it's Mikov." Ray offered it the way you offer a thing you want
-taken — easily, already decided. "Nobody's called me Dr. Forsinko since the
+"Please. And it's Mikov." Ray offered it easily, already decided. "Nobody's
+called me Dr. Forsinko since the
 paperwork went through."
 
 "Vince, then." He poured from a carafe on his desk without asking for
@@ -220,7 +220,7 @@ process, executed with the precision that comes from doing something exactly
 this way ten thousand times in a row.
 
 Ray worked through this understanding methodically. It did not make him angry.
-He noted it the way he noted anything: as a data point. The data point was this:
+He noted it as a data point. The data point was this:
 Alpha's hold on the DarkX market was not a product of superior science. It
 was a product of superior lawyers. They had acquired, at the right moment, the
 patents that covered the obvious implementation paths. They had signed the right
@@ -252,8 +252,8 @@ out to be from somewhere cold she wouldn't name and to have opinions about every
 meal she was served. Squirrel had a habit of answering a question four minutes
 after it was asked, having apparently needed the time. Somewhere in the second
 year Ray realized he trusted them — not operationally, which had come fast, but
-the other way: the way you trust people you've been bored and scared and
-unimpressed with in the same small rooms. They were the only three people on
+the other way. He had been bored and scared and unimpressed with them in the
+same small rooms. They were the only three people on
 Earth who knew who he actually was. It made a kind of family out of the secret.
 
 ---
@@ -493,9 +493,9 @@ Then he made his own chaos.
 
 On his way toward the corridor he stopped at the nitrogen-cycling bank in
 14-C — the unit Vince had walked him through on his first morning, whose manual
-pressure-bleed he had logged, the way he logged everything worth keeping — and opened it a
-quarter-turn past tolerance. The unit complained, then failed the way it was
-built to fail: safely, loudly, with the distinctive three-pulse containment tone
+pressure-bleed he had logged — and opened it a
+quarter-turn past tolerance. The unit complained, then failed as it was
+built to: safely, loudly, with the distinctive three-pulse containment tone
 that meant a pressure fault in a cycling chamber. Not catastrophic. Not
 dangerous. But by protocol the floor dropped straight into incident mode — all
 non-essential personnel to staging, all lab-adjacent doors to lock-and-hold, all
@@ -510,7 +510,7 @@ Two minutes. He had planned for ninety seconds.
 Anushka was moving toward the designated staging area near the north wall. Chen
 had already crossed the partition into the adjacent section, presumably to
 assist with the containment. Three other researchers were moving in the same
-direction as Anushka, unhurried, the way people move through a practiced drill.
+direction as Anushka, unhurried. A practiced drill.
 
 Vince was coming toward Ray.
 
@@ -584,9 +584,8 @@ He started walking.
 
 He thought about Vince.
 
-He thought about Vince the way you think about a fact you have not yet fully
-integrated: turning it over, testing its edges. Vince was not performing
-goodness. He was good, in the way that some people are simply good, the way some
+He thought about Vince as a fact he had not yet fully integrated: turning it
+over, testing its edges. Vince was not performing goodness. He was good, as some
 scientists are simply curious — not because it is useful but because it is the
 thing they are made of. He would go back to his lab after the nitrogen cycling
 incident was resolved and he would work on his yield models and he would think,
@@ -655,7 +654,7 @@ espresso machine behind the counter hissed at intervals. A radio played
 something with horns. The crowd on the sidewalk moved at the pace of a city in
 late afternoon, close enough to the tables that you could smell perfume and
 cigarettes and the frying oil from the vendor three doors down. Ray put the drive on the table
-between them, face down, the way you set down something that has weight.
+between them, face down. It had weight.
 
 Squirrel's hand moved over it without a gesture. It was in his jacket before
 anyone at the adjacent tables would have had reason to notice an exchange. Ray
