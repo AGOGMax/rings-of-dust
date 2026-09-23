@@ -22,6 +22,31 @@ files live in `TTS_Ready/`. The repo is **AGOGMax/rings-of-dust** on GitHub,
 
 ## What Was Done This Session
 
+### 2026-09-23 — epilogues + book-wide "the way X does Y" sweep
+- **Ep_III:** road atlas cut (Emily + Sommi shelling walnuts on the porch steps);
+  Gracie paragraph in plain English; "Rachel was the architect"; Rachel's two
+  questions now on the page ("Who holds it when you're done?" / "And who is
+  allowed to stop you?"); Sam's sunglasses named as a Collective patch (Special
+  Agent, gold); everyone in the room reads the bronze star; ends on Ricardo
+  pulling Fight Club — "Care for a cinematic experience, Jackpot?"
+- **Ch28:** now ends on Sharon — "It was always in the reaching," she said. /
+  She reached. (moved from Ep_III so the book doesn't end twice the same way).
+- **Ep_II rewritten:** nine weeks in Federation holding outside Reno → envelope
+  (ticket, cash, Dale Custer license) → he reads it as Alpha extraction. Watch
+  taken: "Marcus wants what belongs to him." It WAS Marcus — payment for the
+  unsanctioned road attack on Cole and Ricardo (matches LORE:476/762). "Marcus
+  was the noise" line cut — it contradicted the Lore Bible. Foreshadow: one road
+  out, the town will take its time.
+- **Road atlas:** now only the Sharon/Emily shared thing (Ch04, Ch12, Ch15 map
+  use, Ch26, Ch28). Cut the comfort-object callbacks in Ch19, Ch23, Ch27 and
+  Ch15's re-explanation (which also contradicted Ch12 on where she bought it).
+- **Book-wide sweep — 104 cuts across 30 files:** every "X did Y the way a
+  person/someone/you does Y when..." explanation and every "the way he always
+  did it" tautology. Concrete similes with a real image were KEPT (stone in deep
+  water, pilot light, wave through a buoy, cathedral, fungus, chessboard).
+  Add to the formula table below: `the way a [person] [verb]s when` — cut on sight.
+- **Continuity fix:** Ch21:1155/1159 had Sam as "his checklist" / "he thought".
+  Sam is she everywhere else. Fixed.
 ### 2026-09-17 — LORE_BIBLE timeline sync + pending audit
 - **LORE_BIBLE.txt:849** — rewritten from "Jun–Jul 2033 — Day 180 confirmed:
   100× interior" to "Aug 2033 — Day 231: 150× / Grade 4 HIGH CHARGE / all 777
@@ -101,6 +126,7 @@ they appear as pure filler:
 |---|---|
 | `in the [adj] way that` / `in the way` | Book-wide sweep done; residual instances in Ch05/Ch08/Ch14/Ch15/Ch16/Ch18/Ch21 — some are earned, some may still be filler |
 | `he/she thought about` stacking (3+ in proximity) | DONE — all 14 confirmed stacks fixed |
+| `the way a [person/someone/you] [verb]s when...` | Book-wide sweep DONE 2026-09-23 (104 cuts). Cut on sight if it reappears |
 | `the expression of a person who` | Cut on sight |
 | `which was consistent with` | Cut on sight |
 | `the particular quality of` | Cut on sight |
