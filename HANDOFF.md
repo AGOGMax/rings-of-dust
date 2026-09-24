@@ -22,6 +22,37 @@ files live in `TTS_Ready/`. The repo is **AGOGMax/rings-of-dust** on GitHub,
 
 ## What Was Done This Session
 
+### 2026-09-24 — mechanic rewrite (no locks) + ElevenLabs audiobook kit
+- **Canon change (owner + whitepaper on darker-diamond-hands origin/main):** there is
+  NO lock, NO stake, NO 180-day threshold. A sealed cell ages; grade = age in 11-day
+  cycles; opening a cell ends it and costs a tenth to vapor; Alpha opens at day 11
+  every time = the manufactured shortage; colony/Collective copied the habit; Ray
+  saw the unopened climb in Panama; zero-g runs the ladder to 2,000× at 627 days.
+- **Edited:** Ch16 (lock→charge ×2), Ch18 (33-day lock mechanic / 180-day threshold /
+  "can't monetize the lock" / "Elsa locked it" / "180-day curve"), Ch22 (lock→charge),
+  Ch24 ("Day one hundred and eighty" was contradicting the day-eleven paragraph;
+  EXTENDED LOCK → EXTENDED HOLD SCENARIO), Ch25 (33-day plateau/180-day break →
+  the ladder; "unlock experiments" → the three opening runs from Ch24: day 22 /
+  33 / 132, a tenth to vapor, open cell does not charge). LORE_BIBLE 742/744/746
+  rewritten (old lock/stake/silent-180 mechanic gone); LORE 718 "Full Grid at Day
+  180" → Day 231. Pending item from 09-17 (LORE 742/744/746) is CLOSED.
+- **Open ruling:** grade NAMES. Book: Trickle/Charging/Live/Charged/High Charge/
+  Supercharged/Overcharged/Antigravity. Whitepaper: Synced/Drip/Trickle/Flow/
+  Supercharged/Beaming/Surging/ANTIGRAVITY, same day counts. Asked Dark King; owner
+  to rule. Not changed.
+- **Audiobook kit (audiobook/):** normalize.py (unwrap, strip heads, × → times,
+  scene breaks), build_epub.py (34 chapters, prequel first; --prequel-last variant),
+  CAST.md (narrator brief + 30 characters from Lore voice notes), PRONUNCIATIONS.md
+  (50 terms). dist/Rings_of_Dust.epub is rebuilt after every manuscript change.
+- **ElevenLabs Audiobooks (web UI, Multi cast, Eleven Multilingual v2, scene break
+  2.0s, cover uploaded):** wizard reached Character Casting — 18 speakers detected
+  (Ray, Jill, Rachel, Kate, Petra, Sam, Squirrel etc. NOT detected; several proposed
+  voices wrong: Cole="Evil Character", Sharon="Cute, Peppy", Marcus="Spunky Young
+  Hero", iRIS=warm storyteller). PAUSED before casting on the owner's order to fix
+  the mechanic first. Re-upload the rebuilt EPUB when resuming. Nothing generated,
+  no credits spent.
+- **Owner asked about a Brad Pitt narrator:** no — consent-gated cloning. Own-voice
+  Professional Voice Clone or Voice Design offered.
 ### 2026-09-23 — epilogues + book-wide "the way X does Y" sweep
 - **Ep_III:** road atlas cut (Emily + Sommi shelling walnuts on the porch steps);
   Gracie paragraph in plain English; "Rachel was the architect"; Rachel's two
