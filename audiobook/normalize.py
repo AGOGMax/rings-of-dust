@@ -18,7 +18,7 @@ ORDER = (
     + sorted(p.name for p in SRC.glob("Ch*.txt"))
     + ["Ep_I_Dubai.txt", "Ep_II_Nevada.txt", "Ep_III_Sequoia.txt"]
 )
-DROP = re.compile(r"^(RINGS OF DUST|THE FIRST SPARK|A Rings of Dust Prequel|Chapters \d+[–-]\d+)$")
+DROP = re.compile(r"^(RINGS OF DUST|THE FIRST SPARK|A Rings of Dust Prequel|Chapters \d+[–-]\d+|\[ Source:.*\])$")
 
 def unwrap(text: str) -> list[str]:
     """Split into paragraphs; join wrapped lines within a paragraph.
@@ -50,6 +50,7 @@ def clean(p: str) -> str:
     p = re.sub(r"(\d[\d,]*)\s*×", r"\1 times", p)
     p = p.replace("×", " times ")
     p = re.sub(r"\s{2,}", " ", p)
+    p = re.sub(r"\s+Chapters \d+[–-]\d+$", "", p)
     return p.strip()
 
 manifest = []

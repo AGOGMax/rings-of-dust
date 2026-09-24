@@ -25,8 +25,7 @@ def split_title(name, paras):
     """Return (title, subtitle_or_None, body_paras)."""
     if "First_Spark" in name:
         # THE FIRST SPARK / Part One: ... / Iceland, 1938
-        part = paras[1]
-        return f"The First Spark — {part}", None, paras[2:]
+        return f"The First Spark — {paras[0]}", None, paras[1:]
     if name.split("_", 1)[1].startswith("Ch"):
         # Chapter One / The Polaris
         return f"{paras[0]}: {paras[1]}", None, paras[2:]
