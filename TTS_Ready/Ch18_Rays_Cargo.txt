@@ -294,7 +294,7 @@ He read through the night.
 
 The runs were numbered. Three hundred and sixty-nine of them — meticulous,
 cross-referenced, dated in her block-letter hand. The 11-day cycle. The
-negative pressure variable. The 33-day lock mechanic. The 180-day threshold.
+negative pressure variable. The 33-day signal. The grade ladder.
 All of it mapped, years before Alpha Corp had named any of it, years before he
 had sealed a FuelCell in his locker on a Friday afternoon because he hadn't
 felt like carrying it across campus.
@@ -477,10 +477,11 @@ zero-gravity variable changes everything. The notebooks are the confirmation."
 Jill turned a page in her own notebook without reading it.
 
 "Alpha Corp took the 11-day cycle and ran it every time," Ray said. "They
-harvested. Reset. Harvested. Reset. They never locked long enough to find out
-what was underneath the cycle, because the money was in the harvest. You can't
-monetize the lock. You can only monetize the open." He paused. "Elsa locked it.
-She just didn't have access to zero gravity at scale."
+harvested. Reset. Harvested. Reset. They never left a cell alone long enough to
+find out what was underneath the cycle, because the money was in the harvest.
+You can't monetize a cell you leave alone. You can only monetize the open." He
+paused. "Elsa left them alone. She just didn't have access to zero gravity at
+scale."
 
 Red appeared at the edge of the awning. She pulled out the empty chair without
 asking and sat down.
@@ -533,7 +534,7 @@ gold windfall surplus. I'll upgrade it." She paused.
 
 Squirrel was quiet for a moment. He looked at Ray.
 
-Ray looked at the heron. The 180-day curve. He had been running it in his sleep
+Ray looked at the heron. The curve. He had been running it in his sleep
 for months. Elsa Klein had mapped the same problem from the ground floor up —
 same variables, no way to test the ceiling. The curve needed zero gravity and
 enough run time to document completely. He thought about a Directorate survey

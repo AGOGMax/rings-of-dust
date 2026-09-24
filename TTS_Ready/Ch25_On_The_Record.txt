@@ -38,7 +38,7 @@ Rachel had spent eleven years understanding this principle from the inside. She 
 
 ---
 
-Ray was at the lab bench when she came through. He had the 180-day data on the display — not because he needed to review it, he had reviewed it a hundred times, but because having it visible was a way of being sure it was real. She had noticed this about him on the first visit: he processed certainty through verification, the same data looked at again, the number confirmed not because it might have changed but because confirmation was its own kind of thing.
+Ray was at the lab bench when she came through. He had the Grid data on the display — not because he needed to review it, he had reviewed it a hundred times, but because having it visible was a way of being sure it was real. She had noticed this about him on the first visit: he processed certainty through verification, the same data looked at again, the number confirmed not because it might have changed but because confirmation was its own kind of thing.
 
 "How are you," she said.
 
@@ -46,19 +46,19 @@ Ray was at the lab bench when she came through. He had the 180-day data on the d
 
 "Yes."
 
-She looked at the data on the display. The 33-day curve. The plateau. The 180-day break upward, the interior rate jumping to a hundred times, every cell beginning its eleven-day exterior cycle. Three hundred and sixty nine test runs. Three hundred and sixty nine identical results.
+She looked at the data on the display. The 33-day signal. Then the ladder — twenty-five times at sixty-six days, sixty at a hundred and thirty-two, a hundred and fifty at two hundred and thirty-one — and every cell cycling exterior deposits every eleven days from the first cycle on. Three hundred and sixty nine test runs. Three hundred and sixty nine identical results.
 
-There was a second chart on the display beside it: the unlock data.
+There was a second chart on the display beside it: the opening runs.
 
-"Walk me through the unlock experiments," she said.
+"Walk me through the opening runs," she said.
 
-Ray looked at the chart. "I unlocked cells at different points — some at day 40, some at day 90, some after the 180-day threshold. Different cells, different stages." He paused. "Same result every time. The moment you break the lock, everything stops. The hundred-times interior growth drops back to baseline within hours. The exterior deposits stop forming. The mini-jackpot cycle ends. The one-time Jackpot window — gone. It reverts to an ordinary FuelCell."
+Ray looked at the chart. "I opened cells at different grades — one at day twenty-two, one at thirty-three, one at a hundred and thirty-two. Different cells, different stages." He paused. "Same result every time. A tenth of what's inside goes to vapor the moment the seal breaks. What's left is exactly what the grade says it should be. And that cell is finished. It doesn't go back to the start. It doesn't go anywhere. An open cell does not charge."
 
-She looked at the unlock curve — the sharp drop, the flatline after.
+She looked at the opening curve — three points, and nothing after each one.
 
 "So you can't harvest it and keep it running."
 
-"You can harvest the exterior deposits. But the moment the lock breaks, the process ends. It's either locked and producing, or it's unlocked and it's finished." He looked at the display. "Alpha harvested the eleven-day output and reset. They never locked long enough to find out what was underneath it."
+"You can collect the exterior deposits. But the moment the seal breaks, the process ends. It's either sealed and climbing, or it's open and it's finished." He looked at the display. "Alpha opened every cell at eleven days and started over. They never left one alone long enough to find out what was underneath."
 
 "I've been thinking about how to open," she said.
 
