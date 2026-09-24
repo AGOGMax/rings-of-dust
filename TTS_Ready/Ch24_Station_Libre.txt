@@ -306,7 +306,7 @@ matched the protocol step by step. He ran it a third time.
 
 10×. Exact.
 
-He logged it: Day 33. Grade 1 confirmed. Interior: 10×.
+He logged it: Day 33. Grade 2 confirmed. Drip. Interior: 10×.
 
 He also logged the exterior — trace deposits on twelve cells, small, within
 calibration variance. He labeled them SCATTER / CELL 304 SECONDARY SHED and
@@ -315,13 +315,13 @@ the story.
 
 ---
 
-Day 66: interior at 25×. Grade 2. He logged it, matched it against Elsa's table,
+Day 66: interior at 25×. Grade 3, Trickle. He logged it, matched it against Elsa's table,
 confirmed. The exterior traces had grown from the twelve cells at Day 33 — more
 cells now, slightly larger deposits — but the logs read the same: scatter,
 consistent with Cell 304 shedding, insufficient for conclusion. He labeled them
 and moved on.
 
-Day 132: 60×. Grade 3. Jill read the result over his shoulder and went back to
+Day 132: 60×. Grade 4, Flow. Jill read the result over his shoulder and went back to
 the bench without comment. The exterior was now measurable across a significant
 fraction of the Grid — not large, not alarming, the way static sounds before
 you know what you're listening for. He noted them in the log with the same
@@ -384,8 +384,8 @@ had started looking wrong and he needed to prove it wasn't.
 
 Seven hundred and seventy-seven.
 
-The interior reading that morning was 150×. Grade 4, Elsa's notebook, page
-ninety-three, labeled HIGH CHARGE, underlined once. He had confirmed it on the
+The interior reading that morning was 150×. Grade 5, Elsa's notebook, page
+ninety-three, labeled SUPERCHARGED, underlined once. He had confirmed it on the
 evening scan and noted it and set the notebook aside.
 
 After the count he stood at the wall where he'd been taping the exterior scan
@@ -398,18 +398,18 @@ the wall log had grown into something eight months long.
 
 He pulled the printouts and spread them on the bench in order.
 
-Grade 0, cycles 1 and 2: trace. One cell. Then three.
+Grade 1, cycles 1 and 2: trace. One cell. Then three.
 
-Grade 1, Day 33: twelve cells. Slightly larger — he had noted it and moved on.
+Grade 2, Day 33: twelve cells. Slightly larger — he had noted it and moved on.
 
-Grade 2, Day 66: more cells, measurably larger. He had labeled it scatter.
+Grade 3, Day 66: more cells, measurably larger. He had labeled it scatter.
 
-Grade 3, Day 132: a significant fraction of the Grid. He had noted the spatial
+Grade 4, Day 132: a significant fraction of the Grid. He had noted the spatial
 distribution at the time — if Cell 304 were shedding, the deposits would
 concentrate near it. They didn't. He had written "uniform distribution —
 possible contamination event" and filed it.
 
-Grade 4, Day 231: all 777 cells. Exterior deposits cycling on the eleven-day
+Grade 5, Day 231: all 777 cells. Exterior deposits cycling on the eleven-day
 interval. And they were not small.
 
 He had labeled this scatter eleven times. It was not scatter.
@@ -442,12 +442,12 @@ projection again.
 "She was right," Jill said. Her voice was not loud. "She was right about
 everything."
 
-She looked at the Grade 4 reading. Then at the projection table, which did not
-stop at Grade 4.
+She looked at the Grade 5 reading. Then at the projection table, which did not
+stop at Grade 5.
 
-Grade 5: 375×. Day 363.
-Grade 6: 900×. Day 495.
-Grade 7: 2,000×. Day 627. ZERO CONDITION.
+Grade 6: 375×. Day 363. Beaming.
+Grade 7: 900×. Day 495. Surging.
+Grade 8: 2,000×. Day 627. ANTIGRAVITY. ZERO CONDITION.
 
 "It doesn't stop at 150," she said.
 
@@ -517,7 +517,7 @@ gone — not slowly, at once, the way a held breath leaves. What remained he cou
 measure. It was almost nothing. It was exactly the almost-nothing Elsa's curve
 predicted at twenty-two days.
 
-The cell did not return to Grade 0. It did not return to anything. It was open,
+The cell did not return to Grade 1. It did not return to anything. It was open,
 and an open cell does not charge.
 
 "She has it here," Jill said, turning to the relevant page. "No partial reading.
@@ -526,10 +526,10 @@ It will never reach the grade it was going to reach." She looked at the readout.
 "She wrote it in the margin. Not the body. Like she didn't want it in with the
 rest of it."
 
-Second run: opened at Grade 1, Day 33. Ten times the first. The vaporisation took
+Second run: opened at Grade 2, Day 33. Ten times the first. The vaporisation took
 its tenth, the way it always would, and the remainder was still ten times.
 
-Third run: opened at Grade 3, Day 132. Sixty times. He weighed it twice.
+Third run: opened at Grade 4, Day 132. Sixty times. He weighed it twice.
 
 Three cells. Three points on a curve. Three cells that no longer existed.
 

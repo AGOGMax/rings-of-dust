@@ -117,27 +117,27 @@ One of the Collective's primary financial backers is the asteroid colony — a g
 
 FED-HEX-5555: Alpha Corp's shadow vessel following the Golden Dawn. See Taylor Glenn and The Boarding in Story Events for full detail.
 
-### Charging (the long-hold mechanic)
+### Charging by age (the leave-it-alone mechanic)
 Someone eventually figures out that a sealed FuelCell — one made deliberately inaccessible, not harvested, just left alone — does not reset. It keeps accumulating. The vapor keeps building. The crystals keep growing, layer on layer, inside a sealed environment with no release valve. The cell is charging, and it has been charging since the moment it was assembled.
 
 Charge is counted in cycles, not days. A cycle is 11 days — the same interval as the harvest and as the void's return. A cell's grade is a function of how many cycles it has sat sealed, and it only ever goes up.
 
-Grade — cycles — days — interior rate
-Trickle — 0 — 0 — 1×
-Charging — 3 — 33 — 10×
-Live — 6 — 66 — 25×
-Charged — 12 — 132 — 60×
-High Charge — 21 — 231 — 150×
-Supercharged — 33 — 363 — 375×
-Overcharged — 45 — 495 — 900×
-Antigravity — 57 — 627 — 2,000×
+Grade — cycles — days — interior rate  (names and numbers = the Darker Matter whitepaper ladder, owner ruling 2026-09-24)
+1 Synced — 0 — 0 — 1×
+2 Drip — 3 — 33 — 10×
+3 Trickle — 6 — 66 — 25×
+4 Flow — 12 — 132 — 60×
+5 Supercharged — 21 — 231 — 150×
+6 Beaming — 33 — 363 — 375×
+7 Surging — 45 — 495 — 900×
+8 ANTIGRAVITY — 57 — 627 — 2,000×
 
 Two things run from the first cycle, and neither waits for a threshold:
 
 (1) Interior — crystal growth inside the sealed casing, at whatever rate the cell's grade dictates. Not harvestable while the seal holds.
 (2) Exterior — deposits forming on the outside of the casing, collected every cycle. This is the recurring yield, and it is separate from the one-time Day 11 Jackpot.
 
-Nothing switches on. There is no threshold, no activation, no morning the cell wakes up. A fresh cell earns at 1×. A cell at 21 cycles earns at 150×. A cell at Antigravity earns at 2,000×. The grade simply climbs, and the distance between a patient cell and an impatient one widens the whole way.
+Nothing switches on. There is no threshold, no activation, no morning the cell wakes up. A fresh cell earns at 1×. A cell at 21 cycles earns at 150×. A cell at ANTIGRAVITY earns at 2,000×. The grade simply climbs, and the distance between a patient cell and an impatient one widens the whole way.
 
 On the name. The top grade is named for the Antigravity project — what Squirrel called the effort to prove Elsa Klein right. Elsa's own word for what she found was the zero condition, written in her final notebook and underlined twice; she never lived to see it tested at scale. The grade carries the name of the work that vindicated her, not her private term for it. Both words are correct, forty years apart.
 
@@ -846,7 +846,7 @@ Year — Event
 ~2030 — Alpha Corp batch record — annotated "Jackpot" — discovered by Ray during Panama operation.
 ~2032 — Ray hands drive to Squirrel at the heron fountain park. Jill Von Grutzen arrives in Panama with Elsa Klein's notebooks. Ray and Jill depart for Station Libre. Cole recalled from isolation for the Golden Dawn mission.
 Jan 2033 — Ray and Jill arrive at Station Libre. Experiments begin under zero gravity.
-Aug 2033 — Day 231: Ray runs the count. Interior at 150× — Grade 4, HIGH CHARGE, Elsa's notebook page ninety-three. The exterior wall log, read in order, shows all 777 cells cycling deposits on the eleven-day interval — and they had been since cycle 1. A ladder, not a ledge. Elsa's projection runs on to Day 627 / 2,000×. All 369 of Elsa's test runs confirmed exact.
+Aug 2033 — Day 231: Ray runs the count. Interior at 150× — Grade 5, SUPERCHARGED, Elsa's notebook page ninety-three. The exterior wall log, read in order, shows all 777 cells cycling deposits on the eleven-day interval — and they had been since cycle 1. A ladder, not a ledge. Elsa's projection runs on to Day 627 / 2,000×. All 369 of Elsa's test runs confirmed exact.
 Aug–Sep 2033 — Rachel Vayes arrives at Station Libre for the prep visit. "I've known for a long time. I needed to be able to prove it. Now I can."
 Oct–Nov 2033 — The Golden Dawn approaches Saturn. Act 4 builds. Taylor positions himself. FED-HEX-5555 closes on the Golden Dawn's vector.
 Nov 22, 2033 — THE RAPTURE. Saturn's outer rings enter full gravitational closure. All four threads converge. Cole inside the ring plane — Sharon boarding sequence — as the rings begin pulling the Golden Dawn inward.
