@@ -8,6 +8,15 @@ Voice notes are from `TTS_Ready/LORE_BIBLE.txt`. Cole's callsign is
 **Jackpot** — Heavy/Ricardo, Taylor, Federation people and engineers call him
 that; Emily, Sharon, Gracie and Sam call him Cole.
 
+## Saved in ElevenLabs My Voices (Voice Design, owner-approved)
+
+| Voice name | Character | Notes |
+|---|---|---|
+| **Narrator** | narration | dry, late-40s American, Missouri trace, low-medium, unhurried |
+| **Cole Nova** | Cole | mid-40s, raspy/husky, SoCal with Texas underneath; **speed 1.19x** in voice settings |
+| **Sharon Teez** | Sharon | mid-30s low warm alto, strong, composed, faint Israeli-Mediterranean edge |
+| Ricardo Corazon | Ricardo | previews generated 2026-09-24, awaiting pick |
+
 ## Narrator
 
 One narrator for everything that isn't dialogue. Dry, unhurried, male or
@@ -22,7 +31,7 @@ lands a period without leaning on it.
 | **Emily Nova** | 49 | Quiet but witty. Humor as self-defense. | 30s, controlled, no vocal fry. |
 | **Sharon Teez** | 35 | Sharp, flirty, fearless. Wraps care in barbs. | 30s–40s, warm rasp, fast. After Ch21 she is part machine — same voice, do NOT robotize. |
 | **Ray** (Max Vision / Mikov Forsinko) | 33 | Scientist's precision papering over panic. | 40s, precise, slightly nasal is fine. |
-| **Heavy / Ricardo Corazon** | 30 | Constant teasing ("Coley Coley no-bowley"). Ride-or-die. | Big, easy, Latino-American, laughs in his lines. Most relaxed when stakes are highest. |
+| **Heavy / Ricardo Corazon** | 30 | Constant teasing ("Coley Coley no-bowley"). Ride-or-die. | **Owner brief 2026-09-24:** HEAVY register — deep bass-baritone, chest resonance, the size of the man audible. Delivery is SMART-ASS: dry, cocky, a little smug, jabs land easy (Reynolds-style). Weight under the snark; never a light comedic voice. Latino-American, light SoCal edge. Most relaxed when stakes are highest. |
 | **Rachel Vayes** | 23 | Polished, controlled, flashes of warmth she doesn't mean to show. | 50s, composed, low. The Grand Admiral — never hurried. |
 | **Jill Von Grutzen** | 23 | Punk-rock directness. | Late 20s, flat delivery, no softening. |
 | **Kate** | 20 | Direct. No extra words. | 30s, clipped. |
