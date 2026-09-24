@@ -36,10 +36,16 @@ files live in `TTS_Ready/`. The repo is **AGOGMax/rings-of-dust** on GitHub,
   33 / 132, a tenth to vapor, open cell does not charge). LORE_BIBLE 742/744/746
   rewritten (old lock/stake/silent-180 mechanic gone); LORE 718 "Full Grid at Day
   180" → Day 231. Pending item from 09-17 (LORE 742/744/746) is CLOSED.
-- **Open ruling:** grade NAMES. Book: Trickle/Charging/Live/Charged/High Charge/
-  Supercharged/Overcharged/Antigravity. Whitepaper: Synced/Drip/Trickle/Flow/
-  Supercharged/Beaming/Surging/ANTIGRAVITY, same day counts. Asked Dark King; owner
-  to rule. Not changed.
+- **Grade names RULED (owner via Dark King, 2026-09-24): whitepaper set adopted** —
+  1 Synced / 2 Drip / 3 Trickle / 4 Flow / 5 Supercharged / 6 Beaming / 7 Surging /
+  8 ANTIGRAVITY on 0/33/66/132/231/363/495/627 days. Book numbering moved 0–7 → 1–8.
+  Only Ch24 and LORE carried names/numbers; each matched on its DAY, never its name
+  (old Trickle=0d and Supercharged=363d collide with new Trickle=66d and
+  Supercharged=231d). "Antigravity project" (title case) is the project, unchanged;
+  the grade is ANTIGRAVITY. "Deplete" kept; the 11% is flavour, never a plot point.
+- **Voices saved in ElevenLabs My Voices:** "Narrator" (dry, late-40s, Missouri
+  trace) and "Cole Nova" (mid-40s, raspy, SoCal with Texas underneath; pace 1.19x
+  tested and liked). Sharon in progress. Credits ~2,900 / 131,000 used (Creator plan).
 - **Audiobook kit (audiobook/):** normalize.py (unwrap, strip heads, × → times,
   scene breaks), build_epub.py (34 chapters, prequel first; --prequel-last variant),
   CAST.md (narrator brief + 30 characters from Lore voice notes), PRONUNCIATIONS.md
