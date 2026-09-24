@@ -121,7 +121,7 @@ does not know who Cole Nova is. Kate tells him to read the briefing.
 
 Ray's entire downfall in one continuous arc. It started as laziness — a DarkX
 batch converted on a Tuesday, containment window closed ten days ago, still not
-submitted. Three years at Alpha's materials research division, and the 180-day
+submitted. Three years at Alpha's materials research division, and the charge
 curve that no one was supposed to find. The fuel cell glowing in his locker,
 vapor swirling inside like a storm caught in a jar. Discovery, nickname, and
 firing in one afternoon — one clean arc from junior researcher to unemployed
@@ -470,7 +470,7 @@ correctly this time. The Collective communications team: four people including
 Osei (former broadcast engineer) and Priya (assembled the studio from components
 shipped through six Collective supply lines). The studio is in the science
 module. Priya's design philosophy: give them one second to understand what this
-is and they'll believe everything after. Ray at the lab bench with the 180-day
+is and they'll believe everything after. Ray at the lab bench with the Grid
 data on display — he processes certainty through verification. The chapter is
 Rachel's final orientation to what she is about to deliver to the world.
 
