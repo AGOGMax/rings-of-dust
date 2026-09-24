@@ -15,6 +15,9 @@ files live in `TTS_Ready/`. The repo is **AGOGMax/rings-of-dust** on GitHub,
 - **Co-author line** on every commit:
   `Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>`
 - Commit after every edit. Push after every commit. Verify on GitHub.
+- **Lore Bible has ONE canonical copy: `TTS_Ready/LORE_BIBLE.txt`.**
+  `Source_Material/LORE_BIBLE.md` is a generated mirror — never edit it; run
+  `python scripts/sync_lore_mirror.py` after any Lore Bible edit (drift caught 2026-09-24).
 - PowerShell heredocs require `@'...'@` syntax (single-quoted); Bash `<<'EOF'`
   also works. Never use `--no-verify`.
 
