@@ -35,3 +35,6 @@ Source_Material/Videos/*.mov
 Source_Material/Videos/*.MOV
 Source_Material/Videos/*.avi
 Source_Material/Videos/*.mkv
+
+# audiobook: derived text is rebuilt by normalize.py
+audiobook/build/
