@@ -148,7 +148,7 @@ physically: seventies, white hair cut close, one of the original eleven who
 survived with Elsa Klein. Loyalists vs. Void-Walkers split established. The only
 way to get FuelCells here is to make them by hand — in the prep room above the
 cave floor, warmth setting the lattice, cold of the asteroid's night phase
-locking it. Three days per cell. Jill makes two. She sits through the full night
+setting it hard. Three days per cell. Jill makes two. She sits through the full night
 cycles on days eight and nine, feeling the cells sync in the cold. Day 11: a
 gold asteroid arrives. One of her cells hits Jackpot — the rare exterior crystal
 deposit, 1,332× yield. She leaves the Jackpot crystals with the colony. She
@@ -303,7 +303,7 @@ her final notebook entry from memory. The cells are carried down the east tunnel
 gravity letting go — and released into the void. Petra describes the notebooks as
 containing four things: the spiritual practices (ancestor gifting, the belief
 system), the DarkX directions for making fuel cells (the science of conversion,
-369 test runs, locking mechanics, eleven-day cycle), the timing and process of
+369 test runs, the charge-by-age mechanic, eleven-day cycle), the timing and process of
 sacrifice to the void (the Liber Samekh cave ritual — the three-day fast, the
 invocation in the dark, the DarkX moving through the crack toward her voice),
 and the preserved records of the Von Grutzen Order including references to
