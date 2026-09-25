@@ -15,7 +15,11 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | **Narrator** | narration | dry, late-40s American, Missouri trace, low-medium, unhurried |
 | **Cole Nova** | Cole | mid-40s, raspy/husky, SoCal with Texas underneath; **speed 1.19x** in voice settings |
 | **Sharon Teez** | Sharon | mid-30s low warm alto, strong, composed, faint Israeli-Mediterranean edge |
-| Ricardo Corazon | Ricardo | previews generated 2026-09-24, awaiting pick |
+| **Emily** | Emily | mid-30s, warm/clear/articulate, husky warmth, dry wit, quiet vulnerability; intonation flat and downward, NO uptalk (owner note: first set had a valley-girl rise) |
+| Ricardo base v3 (working) | Ricardo | the design preview the owner picked as base (Voice 3) — not final |
+| Ricardo Corazon | Ricardo | owner's #2 from an earlier round — parked fallback, not final |
+| Ricardo v2 light (working copy) | Ricardo | Voice 2 from the first round — parked fallback |
+| (unsaved) heavy remix | Ricardo | Voice Remixing session "Ricardo base v3 (working) Remix", High strength, ~200 lb heavier — three results awaiting approve/redirect |
 
 ## Narrator
 
