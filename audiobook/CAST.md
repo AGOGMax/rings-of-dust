@@ -16,10 +16,8 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | **Cole Nova** | Cole | mid-40s, raspy/husky, SoCal with Texas underneath; **speed 1.19x** in voice settings |
 | **Sharon Teez** | Sharon | mid-30s low warm alto, strong, composed, faint Israeli-Mediterranean edge |
 | **Emily** | Emily | mid-30s, warm/clear/articulate, husky warmth, dry wit, quiet vulnerability; intonation flat and downward, NO uptalk (owner note: first set had a valley-girl rise) |
-| Ricardo base v3 (working) | Ricardo | the design preview the owner picked as base (Voice 3) — not final |
-| Ricardo Corazon | Ricardo | owner's #2 from an earlier round — parked fallback, not final |
-| Ricardo v2 light (working copy) | Ricardo | Voice 2 from the first round — parked fallback |
-| (unsaved) heavy remix | Ricardo | Voice Remixing session "Ricardo base v3 (working) Remix", High strength, ~200 lb heavier — three results awaiting approve/redirect |
+| **Ricardo** | Ricardo | consolidated by the owner 2026-09-25 from the Voice-3 base + ~200 lb heavier remix; single entry now |
+| **Sommi** | Sommi | **Instant Voice Clone of the OWNER'S OWN voice** (60 s clip, 2026-09-25). Owner ruling overrides the Lore Bible's "flat, minimal" read: sharp, quick, wry, light Australian colour. Optional ElevenLabs voice verification not yet done. |
 
 ## Narrator
 
@@ -45,7 +43,7 @@ lands a period without leaning on it.
 | **Gracie** | 15 | Warmer, sharper, sometimes wry, fully herself. Holographic. | Female, young-adult, present. NOT synthetic. |
 | **Yun** | 13 | Colony engineer. | Male, practical. |
 | **Vance Black** | 11 | Federation officer, later a witness. | Male, 50s, formal. |
-| **Sommi** | 11 | "Sommi. With an i." Says almost nothing. | Male, 30s, flat, minimal. |
+| **Sommi** | 11 | "Sommi. With an i." Says almost nothing. | OWNER RULING: sharp, crisp, quick, wry, late 20s, light Australian. Cast = the owner's own cloned voice (see saved table). |
 | **Petyr** | 11 | Colony. | Male, Eastern European touch is fine. |
 | **Marcus Verguld** | 11 | Florid, performative cruelty. "Over emotional animals." | Male, 40s, polished, enjoys himself. |
 
