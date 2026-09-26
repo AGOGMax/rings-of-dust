@@ -15,7 +15,7 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | **Narrator** | narration | dry, late-40s American, Missouri trace, low-medium, unhurried |
 | **Cole Nova** | Cole | mid-40s, raspy/husky, SoCal with Texas underneath; **speed 1.19x** in voice settings |
 | **Sharon Teez** | Sharon | mid-30s low warm alto, strong, composed, faint Israeli-Mediterranean edge |
-| **Emily** | Emily (designed) | mid-30s, warm/clear/articulate, husky warmth, dry wit, quiet vulnerability; intonation flat and downward, NO uptalk (owner note: first set had a valley-girl rise) |
+| **Emily** | Emily (designed, FINAL: owner re-approved 2026-09-26) | mid-30s, warm/clear/articulate, husky warmth, dry wit, quiet vulnerability; intonation flat and downward, NO uptalk (owner note: first set had a valley-girl rise) |
 | **Ricardo** | Ricardo | consolidated by the owner 2026-09-25 from the Voice-3 base + ~200 lb heavier remix; single entry now |
 | **Cole Nova (isolated)** | Cole | FINAL (owner: "that isolated voice is perfect", 2026-09-26): owner's own character voice, full 1:26 clip (video chyRpj-971o) → ElevenLabs Voice Isolator (room echo removed, 1,446 credits) → Instant Voice Clone. Source file: Downloads/cole_owner_isolated.mp3. |
 | Cole Nova (owner) v2 | Cole (superseded) | un-isolated clone of the same 1:26 clip; kept the room echo. Delete on owner's word. |
