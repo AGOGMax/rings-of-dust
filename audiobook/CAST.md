@@ -18,7 +18,7 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | **Emily** | Emily | mid-30s, warm/clear/articulate, husky warmth, dry wit, quiet vulnerability; intonation flat and downward, NO uptalk (owner note: first set had a valley-girl rise) |
 | **Ricardo** | Ricardo | consolidated by the owner 2026-09-25 from the Voice-3 base + ~200 lb heavier remix; single entry now |
 | **Cole Nova (owner)** | Cole (candidate) | Instant Voice Clone of the owner's own character voice, 22 s (video pkb3QfsS-Mk, 2:56-3:05 + 3:13-3:26), 2026-09-26. Compare against the designed "Cole Nova"; owner to pick. |
-| **Marcus Verguld (owner)** | Marcus | Instant Voice Clone of the owner's own character voice, 2:28 (video 3OLIgEua4PU, 0:00-2:28), 2026-09-26. |
+| **Marcus Verguld** | Marcus | FINAL (owner-approved 2026-09-26): owner's own character voice (Instant Voice Clone from video 3OLIgEua4PU 0:00-2:28), remixed at Low strength, owner picked take 2 of 3. The raw clone "Marcus Verguld (owner)" was deleted on his instruction. |
 | **Sommi** | Sommi | **Instant Voice Clone of the OWNER'S OWN voice** (60 s clip, 2026-09-25). Owner ruling overrides the Lore Bible's "flat, minimal" read: sharp, quick, wry, light Australian colour. Optional ElevenLabs voice verification not yet done. |
 
 ## Baseline voice settings (owner-locked; apply per speaker in the Audiobook project, override per paragraph for scene)
