@@ -19,6 +19,16 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | **Ricardo** | Ricardo | consolidated by the owner 2026-09-25 from the Voice-3 base + ~200 lb heavier remix; single entry now |
 | **Sommi** | Sommi | **Instant Voice Clone of the OWNER'S OWN voice** (60 s clip, 2026-09-25). Owner ruling overrides the Lore Bible's "flat, minimal" read: sharp, quick, wry, light Australian colour. Optional ElevenLabs voice verification not yet done. |
 
+## Baseline voice settings (owner-locked; apply per speaker in the Audiobook project, override per paragraph for scene)
+
+| Voice | Speed | Stability | Similarity | Style exaggeration | Locked |
+|---|---|---|---|---|---|
+| Sommi | 1.20 | 0% | 100% | 59% | 2026-09-26 |
+| Cole Nova | 1.19 | default | default | default | 2026-09-24 (speed only; full pass pending) |
+| Narrator / Sharon Teez / Emily / Ricardo | 1.00 | default | default | default | pending |
+
+Text to Speech sliders are audition-only and do not persist per voice; these values are the record.
+
 ## Narrator
 
 One narrator for everything that isn't dialogue. Dry, unhurried, male or
