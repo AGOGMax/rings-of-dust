@@ -22,6 +22,7 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | Cole Nova (designed) | Cole (superseded) | the original Voice Design voice. Delete on owner's word. |
 | ~~Cole Nova (owner)~~ | — | 22 s clone, deleted 2026-09-26 on owner's instruction (replaced). |
 | **Marcus Verguld** | Marcus | FINAL (owner-approved 2026-09-26): owner's own character voice (Instant Voice Clone from video 3OLIgEua4PU 0:00-2:28), remixed at Low strength, owner picked take 2 of 3. The raw clone "Marcus Verguld (owner)" was deleted on his instruction. |
+| **Stephen Conrad (owner)** | Stephen Conrad | Instant Voice Clone of the owner's own character voice, full 24:04 at 48 kbps (video driYdJ95HHs), 2026-09-26. ElevenLabs auto-tagged Cockney / male / middle-aged. Awaiting owner listen/approve. |
 | **Sommi** | Sommi | **Instant Voice Clone of the OWNER'S OWN voice** (60 s clip, 2026-09-25). Owner ruling overrides the Lore Bible's "flat, minimal" read: sharp, quick, wry, light Australian colour. Optional ElevenLabs voice verification not yet done. |
 
 ## Baseline voice settings (owner-locked; apply per speaker in the Audiobook project, override per paragraph for scene)
