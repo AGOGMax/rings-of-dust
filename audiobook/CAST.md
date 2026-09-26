@@ -23,6 +23,7 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | ~~Cole Nova (owner)~~ | — | 22 s clone, deleted 2026-09-26 on owner's instruction (replaced). |
 | **Marcus Verguld** | Marcus | FINAL (owner-approved 2026-09-26): owner's own character voice (Instant Voice Clone from video 3OLIgEua4PU 0:00-2:28), remixed at Low strength, owner picked take 2 of 3. The raw clone "Marcus Verguld (owner)" was deleted on his instruction. |
 | **Stephen Conrad** | Stephen Conrad | FINAL (owner-approved 2026-09-26): owner's own character voice (Instant Voice Clone, full 24:04 of video driYdJ95HHs at 48 kbps, auto-tagged Cockney) remixed ~20 years older at Medium strength, owner picked take 1 of 3. Raw clone "Stephen Conrad (owner)" still in My Voices; delete on owner's word. |
+| **Chancellor DeMint (owner)** | Chancellor DeMint | Instant Voice Clone of the owner's own character voice, 2:00 (video l2-VmisepcE, 3:00-5:00), 2026-09-26. Auto-tagged American / male / old. Awaiting owner listen/approve. |
 | **Sommi** | Sommi | **Instant Voice Clone of the OWNER'S OWN voice** (60 s clip, 2026-09-25). Owner ruling overrides the Lore Bible's "flat, minimal" read: sharp, quick, wry, light Australian colour. Optional ElevenLabs voice verification not yet done. |
 
 ## Baseline voice settings (owner-locked; apply per speaker in the Audiobook project, override per paragraph for scene)
@@ -58,6 +59,8 @@ lands a period without leaning on it.
 | **Sam** | 15 | Smart, irreverent, intuitive. | Female, late 20s, quick. Collective operative the whole time — nothing in the voice should tip it. |
 | **Gracie** | 15 | Warmer, sharper, sometimes wry, fully herself. Holographic. | Female, young-adult, present. NOT synthetic. |
 | **Yun** | 13 | Colony engineer. | Male, practical. |
+| **Dayo** | 17 | Analytical, minimal (Lore). | Attribution count from text: 17 lines — heavier than the Lore implies. |
+| **Loa** | 10 | Not in the Lore Bible voice notes. | 10 attributed lines in the main book; needs a brief. |
 | **Vance Black** | 11 | Federation officer, later a witness. | Male, 50s, formal. |
 | **Sommi** | 11 | "Sommi. With an i." Says almost nothing. | OWNER RULING: sharp, crisp, quick, wry, late 20s, light Australian. Cast = the owner's own cloned voice (see saved table). |
 | **Petyr** | 11 | Colony. | Male, Eastern European touch is fine. |
