@@ -18,12 +18,12 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | **Emily** | Emily (designed, FINAL: owner re-approved 2026-09-26) | mid-30s, warm/clear/articulate, husky warmth, dry wit, quiet vulnerability; intonation flat and downward, NO uptalk (owner note: first set had a valley-girl rise) |
 | **Ricardo** | Ricardo | consolidated by the owner 2026-09-25 from the Voice-3 base + ~200 lb heavier remix; single entry now |
 | **Cole Nova (isolated)** | Cole | FINAL (owner: "that isolated voice is perfect", 2026-09-26): owner's own character voice, full 1:26 clip (video chyRpj-971o) → ElevenLabs Voice Isolator (room echo removed, 1,446 credits) → Instant Voice Clone. Source file: Downloads/cole_owner_isolated.mp3. |
-| Cole Nova (owner) v2 | Cole (superseded) | un-isolated clone of the same 1:26 clip; kept the room echo. Delete on owner's word. |
+| ~~Cole Nova (owner) v2~~ | — | echoey clone, removed by the owner 2026-09-26. |
 | Cole Nova (designed) | Cole (superseded) | the original Voice Design voice. Delete on owner's word. |
 | ~~Cole Nova (owner)~~ | — | 22 s clone, deleted 2026-09-26 on owner's instruction (replaced). |
 | **Marcus Verguld** | Marcus | FINAL (owner-approved 2026-09-26): owner's own character voice (Instant Voice Clone from video 3OLIgEua4PU 0:00-2:28), remixed at Low strength, owner picked take 2 of 3. The raw clone "Marcus Verguld (owner)" was deleted on his instruction. |
-| **Stephen Conrad** | Stephen Conrad | FINAL (owner-approved 2026-09-26): owner's own character voice (Instant Voice Clone, full 24:04 of video driYdJ95HHs at 48 kbps, auto-tagged Cockney) remixed ~20 years older at Medium strength, owner picked take 1 of 3. Raw clone "Stephen Conrad (owner)" still in My Voices; delete on owner's word. |
-| **Chancellor DeMint (owner)** | Chancellor DeMint | Instant Voice Clone of the owner's own character voice, 2:00 (video l2-VmisepcE, 3:00-5:00), 2026-09-26. Auto-tagged American / male / old. Awaiting owner listen/approve. |
+| **Stephen Conrad** | Stephen Conrad | FINAL (owner-approved 2026-09-26): owner's own character voice (Instant Voice Clone, full 24:04 of video driYdJ95HHs at 48 kbps, auto-tagged Cockney) remixed ~20 years older at Medium strength, owner picked take 1 of 3. Raw clone "Stephen Conrad (owner)" removed by the owner 2026-09-26. |
+| **Chancellor DeMint** | Chancellor DeMint | FINAL (owner-approved 2026-09-26): owner's own character voice (Instant Voice Clone, video l2-VmisepcE 3:00-5:00) → remix chain: +10 years (V1) → no Southern drawl (V2) → gruff and weathered (V3, owner liked take 2) → warmer at Low strength off V3.2 (V4, owner picked take 3). Raw clone "Chancellor DeMint (owner)" still in My Voices; delete on owner's word. |
 | **Sommi** | Sommi | **Instant Voice Clone of the OWNER'S OWN voice** (60 s clip, 2026-09-25). Owner ruling overrides the Lore Bible's "flat, minimal" read: sharp, quick, wry, light Australian colour. Optional ElevenLabs voice verification not yet done. |
 
 ## Baseline voice settings (owner-locked; apply per speaker in the Audiobook project, override per paragraph for scene)
