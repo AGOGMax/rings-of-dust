@@ -14,8 +14,8 @@ cannot layer them). Nothing here is generated until the owner says go per cue.
 ### SFX (Part One intro / Chapter One)
 | Cue | Brief | Placement | Status |
 |---|---|---|---|
-| Cars pulling up | three vehicles on a rough track: engines approaching, tyres on frozen gravel, doors | "The sponsors arrived in three separate cars…" / "The cars stopped. The doors opened." | generated 2026-09-26, 3 takes × 20 s (in-project SFX History). Not placed. |
-| Wind | steady cold Icelandic wind, exposed ridge, no rain | under the ridge paragraphs | generated 2026-09-26, 3 takes × 30 s, Loop on. Not placed. |
+| Cars pulling up | three vehicles on a rough track: engines approaching, tyres on frozen gravel, doors | "The sponsors arrived in three separate cars…" / "The cars stopped. The doors opened." | generated 2026-09-26, 4 takes × 20 s. **Owner picked take 1; placed at 3:00 ("The cars stopped. The doors opened.").** Owner note: these are early-1930s cars, barely past horse-and-carriage (Model T feel: thin sputtering engines, rattle, hand-crank era). Alternate cue to be generated for comparison. |
+| Wind | steady cold Icelandic wind, exposed ridge, no rain | under the ridge paragraphs | generated 2026-09-26, 4 takes × 30 s, Loop on. **Owner picked take 2; placed at 1:03 (the Hengill ridge paragraph).** |
 | Footsteps on snow | crunching snow, several people walking | after the doors open | generated 2026-09-26, 3 takes × 10 s. **Owner picked take 2; placed at 3:34 (the Fekete "came out of the Horch" paragraph) on the sound-effects track.** |
 
 ## Rules
