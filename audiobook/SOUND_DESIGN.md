@@ -64,3 +64,13 @@ Editor gotchas learned: triple-click selects one voice segment, not the paragrap
 ## Tone / emotion (owner question 2026-09-27)
 Multilingual v2 has no emotion tags. Per line: (1) punctuation/phrasing, (2) Edit Speech → "Override voice settings" (Style Exaggeration up, Stability down), (3) switch that paragraph's Model to **Eleven v3** (available in the dropdown) and put inline audio tags in the text, e.g. "[sarcastic] Evidently." — done for Marta's "Evidently." after Fekete's "And you came out." (v3 does not use the pronunciation dictionary; fine for short lines without names).
 - Owner edited the line to `She glowered at him [sarcastic] "Evidently."` (2026-09-27). Typing inside a voiced segment keeps that segment's speaker, so the narration went to Marta; fixed by selecting "She glowered at him " and clicking the Narrator row. Rule: after any in-editor text edit, check `data-voicename` per segment.
+
+## 2026-09-27 — ceremony night bed (Part One)
+- Scene: "The ceremony was held…" **8:59** → "First light came…" **19:58** (outdoors, full moon, altar 40 m south of the entrance; nobody goes inside until first light).
+- Cue: SFX "Very quiet cold night ambience outdoors in Iceland under a full moon: soft steady low wind…, distant owl…, seamless loop", Loop **On**, 30 s, take 2 (owner pick).
+- Placement: one audio track, **22 tiles end to end** (8:59, 9:29, … 19:29; last ends 19:59). Volume **15%** on every tile; fade-in 10 s on the first, fade-out 10 s on the last.
+- How: SFX History "+" for the first tile, then select tile → Edit Audio "More options" → **Duplicate** appends the next tile on the same track. Right-click on clips gives only the generic timeline menu; Delete/Duplicate/Download live in that "More options" menu.
+- ⚠ Stray: a zero-length copy of the same cue sits at 8:59 on the track above (a failed edge-resize collapsed it; it cannot be selected). Inaudible; delete it if a way appears.
+- Page state: ElevenLabs telemetry floods the console (~3000 warnings), which makes screenshots/form tools time out; JS + coordinate clicks still work.
+- Marta character Voice Volume set to **80%** (owner: too loud).
+- Music: project Music panel has no "Saved" section; saved Marketplace tracks (8 at elevenlabs.io/app/music/saved) are reachable by typing the title in the panel's search box.
