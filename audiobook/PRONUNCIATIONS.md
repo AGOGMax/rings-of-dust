@@ -39,7 +39,7 @@ names; check each of these is present and set to the reading below. Use the
 | Golden Dawn | normal | The ship. |
 | FED-HEX-5555 | "fed hex five-five-five-five" | Not "five thousand five hundred fifty-five". |
 | Station Libre | "station LEE-bray" | |
-| Reykjavik | "Rake-yuh-vik" (owner dictated 2026-09-26; still "horrible" on first listen - audition variants with the row ▶ in the dictionary dialog) | Owner 2026-09-26: "two and a half syllables, much shorter" than the 4-syllable read. Dictionary rule updated in-project (was ray-kya-vik); affected paragraphs regenerated. |
+| Reykjavik | "Rake ya vik" (owner 2026-09-26: "rake ya vic"; "Rake-yuh-vik" read as "you") | Owner 2026-09-26: "two and a half syllables, much shorter" than the 4-syllable read. Dictionary rule updated in-project (was ray-kya-vik); affected paragraphs regenerated. |
 | Culver City | normal | |
 | Sawtelle | "saw-TELL" | Street in Culver City. |
 | Eureka | "yoo-REE-ka" | Nevada. |
