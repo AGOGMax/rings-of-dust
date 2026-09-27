@@ -60,3 +60,5 @@ names; check each of these is present and set to the reading below. Use the
 - Project model is Eleven Multilingual v2: only **Alias** rules work there. IPA/CMU phoneme rules need Flash v2 / Turbo v2 / English v1.
 - Each dictionary row has a ▶ that previews the Output in the selected voice without regenerating; use it to iterate spellings before touching paragraphs.
 | Istvan | "EEsht-vawn" | Owner 2026-09-27 ("EEsht vawn"). |
+
+| cyclic | `SICK-lick` (alias) | 2026-09-27 owner: "sicklik". Dictionary entry 22; Marta "Not cyclic" line re-rendered. |
