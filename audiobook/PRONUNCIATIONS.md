@@ -39,7 +39,7 @@ names; check each of these is present and set to the reading below. Use the
 | Golden Dawn | normal | The ship. |
 | FED-HEX-5555 | "fed hex five-five-five-five" | Not "five thousand five hundred fifty-five". |
 | Station Libre | "station LEE-bray" | |
-| Reykjavik | "Rayk-yah-vik" | Owner 2026-09-26: "two and a half syllables, much shorter" than the 4-syllable read. Dictionary rule updated in-project (was ray-kya-vik); affected paragraphs regenerated. |
+| Reykjavik | "Rake-yuh-vik" (owner dictated 2026-09-26; still "horrible" on first listen - audition variants with the row ▶ in the dictionary dialog) | Owner 2026-09-26: "two and a half syllables, much shorter" than the 4-syllable read. Dictionary rule updated in-project (was ray-kya-vik); affected paragraphs regenerated. |
 | Culver City | normal | |
 | Sawtelle | "saw-TELL" | Street in Culver City. |
 | Eureka | "yoo-REE-ka" | Nevada. |
@@ -55,3 +55,7 @@ names; check each of these is present and set to the reading below. Use the
 | 150 times / 2,000 times | as written | normalize.py already turned "×" into "times". |
 | Nov 22, 2033 | "November twenty-second, twenty thirty-three" | The Rapture. |
 | 7-32-Bravo | "seven thirty-two bravo" | First Spark storage reference. |
+
+## Notes
+- Project model is Eleven Multilingual v2: only **Alias** rules work there. IPA/CMU phoneme rules need Flash v2 / Turbo v2 / English v1.
+- Each dictionary row has a ▶ that previews the Output in the selected voice without regenerating; use it to iterate spellings before touching paragraphs.
