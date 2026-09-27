@@ -54,3 +54,4 @@ cannot layer them). Nothing here is generated until the owner says go per cue.
 | mine mouth | "They went in." | boots on stone receding into echo | proposed |
 | end | "Coffee," / thermos | thermos cap, pour | proposed (small) |
 Nothing else in the chapter names a sound. The calf and the blood are written without sound and should stay that way.
+- Owner pass 5 (2026-09-26): "Starts instantly… brakes" clip removed (owner: "dumbest thing"). Doors cue at 3:22 KEPT (owner liked it). New cue "Only the squeak of car brakes… nothing else" (4 s, 3 takes) generated and left in SFX History for the OWNER to place himself. Ritual chant drone (30 s loop, 3 takes) generated, not yet placed; resonance hum, mine-mouth ambience/boots, coffee still to generate.
