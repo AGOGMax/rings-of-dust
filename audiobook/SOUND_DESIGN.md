@@ -37,3 +37,20 @@ cannot layer them). Nothing here is generated until the owner says go per cue.
 - Owner pass 2026-09-26 (late): car clip 100→90%; music clips 60→50% (intro cut) and 30→27% (1:28 return); new cue "Three 1930s cars rolling to a stop… doors creak open and slam" (10 s, 4 takes), take 1 placed at the start of "The cars stopped. The doors opened." (~3:20 with the 12 s lead-in); wind replaced: "Strong gusting wind… distinct gusts, not white noise" (30 s loop, 4 takes), take 1 placed at 0:00 and at the Hengill ridge paragraph (~1:14), both to be 200%. Old steady-wind clips deleted.
 - Gotcha: the compact SFX History list reorders; the full "History >" list is ordered newest generation first, so read the row label before pressing its "+". Two mis-imports (car-doors at 0:00 and 1:17) were deleted.
 - Owner pass 3 (2026-09-26): BOTH car clips removed (approach+screech, and engines-off/doors) as "loud and not matching the story". Single new cue "old 1930s car braking: brakes squeak and squeal as it stops… doors creak open, then slam" (10 s, 3 takes), take 1 placed at the start of "The cars stopped. The doors opened." (3:20), 70%. Music after the first cue halved: 1:28 return clip 27→13%.
+- Owner pass 4 (2026-09-26): the 10 s brakes+doors cue replaced by TWO short cues: "Starts instantly… brakes squeak and squeal… to a stop" (5 s) at 3:20, the first word of "The cars stopped."; "Two heavy vintage car doors… creak open… slam shut" (7 s) at 3:22, on "The doors opened." Both at 35% (owner: "fifty percent too loud").
+
+### Sound scan of the Part One intro chapter (text-driven cue list, 2026-09-26)
+| Where | Text beat | Cue | Status |
+|---|---|---|---|
+| 0:00 | title lead-in | gusty wind + music | placed |
+| ~1:14 | "The track ran along… Hengill" | gusty ridge wind | placed |
+| 3:20 | "The cars stopped." | brake squeal | placed |
+| 3:22 | "The doors opened." | doors creak open, slam | placed |
+| ~3:46 | Fekete steps out | footsteps on snow | placed |
+| ritual | "The chanting was not melodic… tonal, sustained" (paras ~36–44) | low tonal chant drone, sustained, under the Latin | proposed |
+| ritual | "Then silence." | hard cut of the chant drone | proposed (comes free with the drone ending) |
+| ritual | "The resonance arrived… as though the air itself was listening" (~51–56, six minutes) | very low sub-bass hum, barely audible, no rhythm | proposed |
+| mine mouth | "They went in." → "the lamp-light was gone" (~82–96) | cave-mouth ambience: hollow air, distant drips, faint echo | proposed |
+| mine mouth | "They went in." | boots on stone receding into echo | proposed |
+| end | "Coffee," / thermos | thermos cap, pour | proposed (small) |
+Nothing else in the chapter names a sound. The calf and the blood are written without sound and should stay that way.
