@@ -55,3 +55,7 @@ cannot layer them). Nothing here is generated until the owner says go per cue.
 | end | "Coffee," / thermos | thermos cap, pour | proposed (small) |
 Nothing else in the chapter names a sound. The calf and the blood are written without sound and should stay that way.
 - Owner pass 5 (2026-09-26): "Starts instantly… brakes" clip removed (owner: "dumbest thing"). Doors cue at 3:22 KEPT (owner liked it). New cue "Only the squeak of car brakes… nothing else" (4 s, 3 takes) generated and left in SFX History for the OWNER to place himself. Ritual chant drone (30 s loop, 3 takes) generated, not yet placed; resonance hum, mine-mouth ambience/boots, coffee still to generate.
+
+## Dialogue tags (owner ruling 2026-09-26, applied 2026-09-27)
+"Cut he said, she said" throughout. In the ElevenLabs project the 13 tagged paragraphs of the Part One intro were edited by hand (tag segment deleted, trailing comma → period, speaker re-assigned per segment via the Characters panel). Source of truth for rebuilds: `audiobook/normalize.py` TAG_CUTS / TAG_CUT_PREFIX (audiobook build only; the novel text is untouched).
+Editor gotchas learned: triple-click selects one voice segment, not the paragraph; refs go stale after every edit; JS-set DOM selections need a ~1 s settle before clicking a character row or the click lands on the previous selection; read speakers from `data-voicename` on the leaf spans, not from colours.
