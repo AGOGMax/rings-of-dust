@@ -127,3 +127,9 @@ lands a period without leaning on it.
 - **Two JACK-style traps here too:** iRIS and Gracie are the same architecture and must NOT share a voice. Sharon before and after the augmentation MUST share a voice.
 - Cole is called "Jackpot" by some characters and "Cole" by others. That is correct. Do not "fix" it.
 - No burn/attrition vocabulary is in the text; if a voice prompt or SFX label needs a word, use the book's.
+
+## 2026-09-27 — Latin invocation speakers (Part One)
+- "Aperiat fons…" → **Marta** (was Narrator). Re-rendered, Playback Volume 80.
+- "Sigilletur. Fiat manifestatio." → **Count Istvan Fekete** (was Narrator). Re-rendered.
+- "Quaerimus: magnam collectionem…" → **Sorokina** per the text ("Sorokina joined for the third section"). Still Narrator: Sorokina has no character/voice yet. Owner to pick.
+- English glosses ("The source opens…", "We seek…", "Let it be sealed…") stay Narrator.
