@@ -46,11 +46,39 @@ def unwrap(text: str) -> list[str]:
         paras.append(" ".join(cur))
     return paras
 
+
+# --- audiobook-only dialogue-tag cuts (owner ruling 2026-09-26: "cut he said, she said").
+# Exact-paragraph overrides; Multi cast already voices the speaker, so the tag is redundant.
+TAG_CUTS = {
+ '"It is cold," said Fekete, arriving at her side.': '"It is cold." Fekete had arrived at her side.',
+ '"Yes," said Marta.': '"Yes."',
+ '"Tonight," he said.': '"Tonight."',
+ 'Then Fekete said: "That is what you have been trying to show us."': '"That is what you have been trying to show us."',
+ '"You have been inside," he said.': '"You have been inside."',
+ '"What we build," the Baroness Kessler repeated. Not a question. A recognition.': '"What we build." Not a question. A recognition.',
+ '"The ones who go in first," said Croft. "What will happen to them."': '"The ones who go in first. What will happen to them."',
+ '"Do they," Croft said.': '"Do they."',
+ '"We will send signal on the hour," she said.': '"We will send signal on the hour."',
+ '"Then it stops," Marta said. "Document everything until it does."': '"Then it stops. Document everything until it does."',
+ '"Coffee," she said to Hartmann.': '"Coffee."',
+}
+TAG_CUT_PREFIX = {
+ "\"I don't know,\" she said. \"I know what happened to Friedrich.": "\"I don't know. I know what happened to Friedrich.",
+}
+def cut_tags(p: str) -> str:
+    if p in TAG_CUTS:
+        return TAG_CUTS[p]
+    for old, new in TAG_CUT_PREFIX.items():
+        if p.startswith(old):
+            return new + p[len(old):]
+    return p
+
 def clean(p: str) -> str:
     p = re.sub(r"(\d[\d,]*)\s*×", r"\1 times", p)
     p = p.replace("×", " times ")
     p = re.sub(r"\s{2,}", " ", p)
     p = re.sub(r"\s+Chapters \d+[–-]\d+$", "", p)
+    p = cut_tags(p.strip())
     return p.strip()
 
 manifest = []
