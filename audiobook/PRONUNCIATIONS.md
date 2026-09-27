@@ -26,8 +26,8 @@ names; check each of these is present and set to the reading below. Use the
 | Max Vision | normal | Ray's real name. |
 | Anushka | "a-NOOSH-ka" | |
 | Dayo | "DAY-oh" | |
-| Sorokina | "so-RO-kee-na" | First Spark. |
-| Fekete | "feh-KETE" | Owner 2026-09-27 ("feh KETE"). First Spark. |
+| Sorokina | "SORRA KEEna" | Owner 2026-09-27 (tries: SORE a KEY nuh, SOREaKEYnuh, SORRA KEYna). First Spark. |
+| Fekete | "FehKEET" | Owner 2026-09-27, approved ("fekete sounds good"). First Spark. |
 | Kessler | "KESS-ler" | Baroness. |
 | Croft | "kroft" | |
 | Yun | "yoon" | Colony. |
@@ -39,7 +39,7 @@ names; check each of these is present and set to the reading below. Use the
 | Golden Dawn | normal | The ship. |
 | FED-HEX-5555 | "fed hex five-five-five-five" | Not "five thousand five hundred fifty-five". |
 | Station Libre | "station LEE-bray" | |
-| Reykjavik | "RAKE yi Vik" (owner 2026-09-27, after "RAKE yuh Vik"; earlier tries: ray-kya-vik, Rake-yavik, Rayk-yah-vik, Rake-yuh-vik, Rake ya vik) | Owner 2026-09-26: "two and a half syllables, much shorter" than the 4-syllable read. Dictionary rule updated in-project (was ray-kya-vik); affected paragraphs regenerated. |
+| Reykjavik | "RAKE yi vik" (owner 2026-09-27, approved; "RAKEyivik" without spaces read as ri-KAY-vik; earlier tries: ray-kya-vik, Rake-yavik, Rayk-yah-vik, Rake-yuh-vik, Rake ya vik) | Owner 2026-09-26: "two and a half syllables, much shorter" than the 4-syllable read. Dictionary rule updated in-project (was ray-kya-vik); affected paragraphs regenerated. |
 | Culver City | normal | |
 | Sawtelle | "saw-TELL" | Street in Culver City. |
 | Eureka | "yoo-REE-ka" | Nevada. |
