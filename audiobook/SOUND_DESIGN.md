@@ -9,7 +9,7 @@ cannot layer them). Nothing here is generated until the owner says go per cue.
 ### Music
 | Cue | Brief (owner, 2026-09-26) | Length | Status |
 |---|---|---|---|
-| Part One intro | **airy, austere, cold, suspenseful.** Lead-in under the part title and the first paragraph (sponsors arriving, Iceland 1938). | 1:30 | **generated 2026-09-26** in-project (Music panel, v2, instrumental): 3 takes "Cold Expedition 1938", "Iceland 1938 Expedition", "Iceland 1938 Ground" (~4k credits). **Owner picked "Iceland 1938 Expedition"; placed 2026-09-26 on the music track from 0:00 of the Part One intro chapter.** |
+| Part One intro | **airy, austere, cold, suspenseful.** Lead-in under the part title and the first paragraph (sponsors arriving, Iceland 1938). | 1:30 | **generated 2026-09-26** in-project (Music panel, v2, instrumental): 3 takes "Cold Expedition 1938", "Iceland 1938 Expedition", "Iceland 1938 Ground" (~4k credits). **Owner picked "Iceland 1938 Expedition"; placed 2026-09-26 on the music track from 0:00 of the Part One intro chapter.** Owner: "too loud, and you can't hear the wind" → interstitial built: clip 1 at 35% vol, fade in 3 s, fade out 25 s (dips from 1:05 into the wind at 1:03); clip 2 (same take) at 1:28, 30% vol, fade in 10 s, fade out 20 s (music returns under the wind's tail). |
 
 ### SFX (Part One intro / Chapter One)
 | Cue | Brief | Placement | Status |
