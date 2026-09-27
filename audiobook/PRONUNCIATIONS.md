@@ -27,7 +27,7 @@ names; check each of these is present and set to the reading below. Use the
 | Anushka | "a-NOOSH-ka" | |
 | Dayo | "DAY-oh" | |
 | Sorokina | "so-RO-kee-na" | First Spark. |
-| Fekete | "FEK-eh-teh" | Hungarian. First Spark. |
+| Fekete | "feh-KETE" | Owner 2026-09-27 ("feh KETE"). First Spark. |
 | Kessler | "KESS-ler" | Baroness. |
 | Croft | "kroft" | |
 | Yun | "yoon" | Colony. |
@@ -39,7 +39,7 @@ names; check each of these is present and set to the reading below. Use the
 | Golden Dawn | normal | The ship. |
 | FED-HEX-5555 | "fed hex five-five-five-five" | Not "five thousand five hundred fifty-five". |
 | Station Libre | "station LEE-bray" | |
-| Reykjavik | "Rake ya vik" (owner 2026-09-26: "rake ya vic"; "Rake-yuh-vik" read as "you") | Owner 2026-09-26: "two and a half syllables, much shorter" than the 4-syllable read. Dictionary rule updated in-project (was ray-kya-vik); affected paragraphs regenerated. |
+| Reykjavik | "RAKE yuh Vik" (owner 2026-09-27; earlier tries: ray-kya-vik, Rake-yavik, Rayk-yah-vik, Rake-yuh-vik, Rake ya vik) | Owner 2026-09-26: "two and a half syllables, much shorter" than the 4-syllable read. Dictionary rule updated in-project (was ray-kya-vik); affected paragraphs regenerated. |
 | Culver City | normal | |
 | Sawtelle | "saw-TELL" | Street in Culver City. |
 | Eureka | "yoo-REE-ka" | Nevada. |
@@ -59,3 +59,4 @@ names; check each of these is present and set to the reading below. Use the
 ## Notes
 - Project model is Eleven Multilingual v2: only **Alias** rules work there. IPA/CMU phoneme rules need Flash v2 / Turbo v2 / English v1.
 - Each dictionary row has a ▶ that previews the Output in the selected voice without regenerating; use it to iterate spellings before touching paragraphs.
+| Istvan | "EEsht-vawn" | Owner 2026-09-27 ("EEsht vawn"). |
