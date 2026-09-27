@@ -42,6 +42,34 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 
 Text to Speech sliders are audition-only and do not persist per voice; these values are the record.
 
+## Audiobook project: The First Spark — Part One (created 2026-09-26)
+
+ElevenLabs Audiobooks, Multi cast + Character Casting, from
+`audiobook/dist/Rings_of_Dust_First_Spark_Part1.epub` (11 chapters: part intro +
+Chapters One–Ten; built with `python audiobook/build_epub.py --only First_Spark_Part1`).
+Generation auto-started on create; ~47k characters.
+
+| Detected role | Voice assigned | Status |
+|---|---|---|
+| Narrator | **The First Spark Narrator** (owner mic clone) | set |
+| Marta | **Marta Von Grutzen** | set |
+| Dr. Leora Henning | **Leora Henning** (owner mic clone) | set |
+| Anton Weiss | John Doe Intimate (auto) | **owner will record Anton; swap in-project, regenerate his lines** |
+| Arya Calder | Amara HQ (auto) | placeholder |
+| Count Istvan Fekete | Sully (auto) | placeholder |
+| Reginald Croft | Harwood (auto) | placeholder |
+| Lead Sponsor | Owen (auto) | placeholder |
+| Lead Officer | Adam (auto) | placeholder |
+| Pieter Van den Berg | Christopher (auto) | placeholder |
+| Vera Sorokina | Andrea (auto) | placeholder |
+| Baroness Eleonora Kessler | Maria Moody (auto) | placeholder |
+
+Pronunciation aliases set in-project (21): Leora lee-ora · Arya ar-ya · Reykjavik ray-kya-vik ·
+Fekete fek-eh-teh · Sorokina so-ro-kee-na · Quaerimus kwai-ri-moos · quod kwod · Horch horkh ·
+Citroën sit-ro-en · telluric tell-oor-ik · Aperiat ah-peh-ree-at · antiquae an-tee-kwai ·
+scientiae skee-en-tee-eye · Grutzen groot-sen · Hengill hen-gill · Istvan isht-vahn · Pieter pee-ter ·
+heptagrammic hep-ta-gram-ik · Olibanum oh-lib-a-num · benzoin ben-zo-in · labdanum lab-da-num.
+
 ## Narrator
 
 One narrator for everything that isn't dialogue. Dry, unhurried, male or

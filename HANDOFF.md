@@ -1,5 +1,13 @@
 # Rings of Dust — Session Handoff
 
+## 2026-09-26 [audiobook] First Spark Part One in production; cast additions
+
+- Voices saved today (owner-approved): Marta Von Grutzen (Voice Design, set 3 take 3), Klaus Verguld (renamed final), Emily Nova / The First Spark Narrator / Leora Henning (owner mic recordings), Chancellor DeMint raw clone deleted.
+- Marcus Verguld cleanup parked: source clip isolated (2,467 credits) and boosted; files in Downloads (`marcus_owner_isolated{,_x2,_x4}.mp3`). Not re-cloned yet.
+- `build_epub.py` gained `--only SUBSTR` and splits First Spark parts at their internal chapter headings. Part One EPUB = 11 chapters.
+- ElevenLabs Audiobooks project created for Part One (Multi cast). Casting + 21 pronunciation aliases in `audiobook/CAST.md`. Generation auto-started on create.
+- Next: owner records Anton Weiss; swap Anton in-project and regenerate his lines; review Part One chapter by chapter; music/SFX after.
+
 ## Project
 
 Prose editing session for *Rings of Dust*, a sci-fi manuscript. All canonical
