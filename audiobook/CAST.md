@@ -61,12 +61,12 @@ Generation auto-started on create; ~47k characters.
 | Anton Weiss | John Doe Intimate (auto) | **owner will record Anton; swap in-project, regenerate his lines** |
 | Arya Calder | Amara HQ (auto) | placeholder |
 | Count Istvan Fekete | **Count Istvan Fekete** (designed) | set 2026-09-27 |
-| Reginald Croft | Harwood (auto) | placeholder |
+| Reginald Croft | **Reginald Croft** (designed 2026-09-27, Voice 2; Budapest-born thick Hungarian, smooth deep baritone, no gravel, "not British"; Guidance 60, accent-spelled preview text) | assigned, 2 paras re-rendered |
 | Lead Sponsor | Owen (auto) | placeholder |
 | Lead Officer | Adam (auto) | placeholder |
 | Pieter Van den Berg | Christopher (auto) | placeholder |
 | Vera Sorokina | Andrea (auto) | placeholder |
-| Baroness Eleonora Kessler | Maria Moody (auto) | placeholder |
+| Baroness Eleonora Kessler | **Baroness Eleonora Kessler** (designed 2026-09-27, Voice 3; Marta-adjacent, more Dutch, same age) | assigned, "What we build." re-rendered |
 
 Pronunciation aliases set in-project (21): Leora lee-ora · Arya ar-ya · Reykjavik ray-kya-vik ·
 Fekete fek-eh-teh · Sorokina so-ro-kee-na · Quaerimus kwai-ri-moos · quod kwod · Horch horkh ·
