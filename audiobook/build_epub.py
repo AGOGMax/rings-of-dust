@@ -4,7 +4,11 @@ Run normalize.py first. One XHTML file per chapter with an <h1> so ElevenLabs
 Audiobooks detects chapters. Scene breaks ([[BREAK]]) become an empty spacer
 paragraph — safer than an SSML tag that a document import might read aloud.
 
-    python audiobook/normalize.py && python audiobook/build_epub.py [--prequel-last]
+    python audiobook/normalize.py && python audiobook/build_epub.py [--prequel-last] [--only SUBSTR]
+
+--only SUBSTR builds just the build files whose name contains SUBSTR
+(e.g. --only First_Spark_Part1) into Rings_of_Dust_<SUBSTR>.epub.
+First Spark parts are split at their internal "Chapter N" / title pairs.
 """
 import io, re, sys, zipfile, pathlib, html, uuid, datetime
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -12,8 +16,11 @@ BUILD = ROOT / "audiobook" / "build"
 DIST = ROOT / "audiobook" / "dist"
 DIST.mkdir(parents=True, exist_ok=True)
 PREQUEL_LAST = "--prequel-last" in sys.argv
+ONLY = sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else None
 
 files = sorted(BUILD.glob("*.txt"))
+if ONLY:
+    files = [f for f in files if ONLY in f.name]
 prequel = [f for f in files if "First_Spark" in f.name]
 rest = [f for f in files if "First_Spark" not in f.name]
 files = rest + prequel if PREQUEL_LAST else prequel + rest
@@ -35,21 +42,51 @@ def split_title(name, paras):
         return f"Epilogue {n}: {EP_PLACE[n]}", None, paras[1:]
     return paras[0], None, paras[1:]
 
-chapters = []
-for i, f in enumerate(files, 1):
-    paras = [p for p in io.open(f, encoding="utf-8").read().split("\n\n") if p.strip()]
-    title, _, body = split_title(f.name, paras)
+CH_HEAD = re.compile(r"^Chapter [A-Z][a-z]+(-[A-Z][a-z]+)?$")
+
+def split_internal(name, title, body):
+    """First Spark parts carry their own 'Chapter N' + title paragraphs.
+    Split into (title, paras) sections; the text before the first heading keeps the part title."""
+    if "First_Spark" not in name:
+        return [(title, body)]
+    secs, cur_title, cur = [], title, []
+    i = 0
+    while i < len(body):
+        p = body[i]
+        if CH_HEAD.match(p) and i + 1 < len(body) and len(body[i + 1]) < 60 and body[i + 1] != "[[BREAK]]":
+            if cur:
+                secs.append((cur_title, cur))
+            cur_title, cur = f"{p}: {body[i + 1]}", []
+            i += 2
+            continue
+        cur.append(p); i += 1
+    if cur:
+        secs.append((cur_title, cur))
+    return secs
+
+def to_xml(title, body):
     xml = [f"<h1>{html.escape(title)}</h1>"]
     for p in body:
         if p == "[[BREAK]]":
             xml.append('<p class="brk">&#160;</p>')
         else:
             xml.append(f"<p>{html.escape(p)}</p>")
-    chapters.append((f"ch{i:02d}", title, "\n".join(xml)))
+    return "\n".join(xml)
+
+chapters = []
+for f in files:
+    paras = [p for p in io.open(f, encoding="utf-8").read().split("\n\n") if p.strip()]
+    title, _, body = split_title(f.name, paras)
+    for t, b in split_internal(f.name, title, body):
+        while b and b[-1] == "[[BREAK]]":
+            b.pop()
+        if not b:
+            continue
+        chapters.append((f"ch{len(chapters) + 1:02d}", t, to_xml(t, b)))
 
 bid = str(uuid.uuid4())
 now = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-out = DIST / ("Rings_of_Dust_prequel-last.epub" if PREQUEL_LAST else "Rings_of_Dust.epub")
+out = DIST / (f"Rings_of_Dust_{ONLY}.epub" if ONLY else "Rings_of_Dust_prequel-last.epub" if PREQUEL_LAST else "Rings_of_Dust.epub")
 
 with zipfile.ZipFile(out, "w") as z:
     z.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
