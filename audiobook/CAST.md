@@ -33,6 +33,7 @@ that; Emily, Sharon, Gracie and Sam call him Cole.
 | **First Spark Narrator** | narration, The First Spark (prequel) | FINAL (owner: "I like voice 2", 2026-09-26): Voice Design built from measurements of the owner's mic clone (F0 ~150 Hz, wide melodic range, ElevenLabs-tagged Scottish), then nudged older/gruffer/weathered; set 2 take 2. Early sixties, dry rasp, soft Scottish lilt, storyteller cadence. Replaces "The First Spark Narrator" mic clone (which ElevenLabs put into verification-required state). Not yet swapped into the Part One project. |
 | **Anton Weiss** / **Anton** | Anton Weiss | Owner mic recordings (Instant Voice Clone, 2026-09-26). Both refused at generation time by ElevenLabs ("may violate ToS, requires verification"). "Anton Weiss" is assigned in the Part One project; his 30 paragraphs are cleared and unrendered until the voice is verified or replaced. |
 | **Count Istvan Fekete** | Count Istvan Fekete | FINAL (owner picked Voice 3, 2026-09-27): Voice Design, late sixties Hungarian aristocrat, heavy Central European accent, low/dry/worn, weary authority; replaces the auto-cast "Sully" (owner: "horrible AI commercial voice"). Assigned in the Part One project. |
+| **Marta Von Grutzen (German)** | Marta Von Grutzen | FINAL 2026-09-27 (owner: "I like the top one… version one"): Voice Design "native German speaker, ESL, very strong accent, hard/loud matriarch, dry close-mic" → owner liked Voice 2 but "straining, words too long" → saved as "Marta Von Grutzen v2" → Low-strength remix "remove the strain, faster, clipped" → take 1.1. Assigned in the Part One project. Older "Marta Von Grutzen" (British-ish) and "v2" kept as references. |
 | **Sommi** | Sommi | **Instant Voice Clone of the OWNER'S OWN voice** (60 s clip, 2026-09-25). Owner ruling overrides the Lore Bible's "flat, minimal" read: sharp, quick, wry, light Australian colour. Optional ElevenLabs voice verification not yet done. |
 
 ## Baseline voice settings (owner-locked; apply per speaker in the Audiobook project, override per paragraph for scene)
@@ -55,7 +56,7 @@ Generation auto-started on create; ~47k characters.
 | Detected role | Voice assigned | Status |
 |---|---|---|
 | Narrator | **The First Spark Narrator** (owner mic clone) | set |
-| Marta | **Marta Von Grutzen** | set |
+| Marta | **Marta Von Grutzen (German)** | set 2026-09-27 |
 | Dr. Leora Henning | **Leora Henning** (owner mic clone) | set |
 | Anton Weiss | John Doe Intimate (auto) | **owner will record Anton; swap in-project, regenerate his lines** |
 | Arya Calder | Amara HQ (auto) | placeholder |
