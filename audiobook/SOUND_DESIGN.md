@@ -63,3 +63,4 @@ Editor gotchas learned: triple-click selects one voice segment, not the paragrap
 
 ## Tone / emotion (owner question 2026-09-27)
 Multilingual v2 has no emotion tags. Per line: (1) punctuation/phrasing, (2) Edit Speech → "Override voice settings" (Style Exaggeration up, Stability down), (3) switch that paragraph's Model to **Eleven v3** (available in the dropdown) and put inline audio tags in the text, e.g. "[sarcastic] Evidently." — done for Marta's "Evidently." after Fekete's "And you came out." (v3 does not use the pronunciation dictionary; fine for short lines without names).
+- Owner edited the line to `She glowered at him [sarcastic] "Evidently."` (2026-09-27). Typing inside a voiced segment keeps that segment's speaker, so the narration went to Marta; fixed by selecting "She glowered at him " and clicking the Narrator row. Rule: after any in-editor text edit, check `data-voicename` per segment.
