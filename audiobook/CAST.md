@@ -133,3 +133,13 @@ lands a period without leaning on it.
 - "Sigilletur. Fiat manifestatio." → **Count Istvan Fekete** (was Narrator). Re-rendered.
 - "Quaerimus: magnam collectionem…" → **Sorokina** per the text ("Sorokina joined for the third section"). Still Narrator: Sorokina has no character/voice yet. Owner to pick.
 - English glosses ("The source opens…", "We seek…", "Let it be sealed…") stay Narrator.
+
+## 2026-09-27 — First Spark bit parts designed (replacing stock British voices)
+| Character | Voice (My Voices) | Pick | Replaces |
+|---|---|---|---|
+| Vera Sorokina | Vera Sorokina — Russian, 51, emigre aristocrat, low cool alto | Voice 3 | Andrea |
+| Pieter Van den Berg | Pieter Van den Berg — Dutch, late 50s, Rotterdam shipping, blunt skeptic | Voice 3 | Christopher (very English) |
+| Lead Sponsor | Lead Sponsor — late 40s, "clean, clipped, without accent", cold | Voice 2 | Owen (British) |
+| Lead Officer | Lead Officer — mid 30s, barked commands, neutral American | Voice 1 | Adam |
+- Saved and verified in My Voices. **Not yet swapped into the project** (owner working in the project tab).
+- New: **Report Reader** for Chapter Ten "Aftermath" (Classified Report — Eyes Only, through "Stone retains memory. Do not return."). Flat clinical analyst, neutral American. Three takes generated, awaiting owner pick.
