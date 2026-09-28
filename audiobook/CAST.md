@@ -149,3 +149,8 @@ lands a period without leaning on it.
 - Verification skipped (friend not available live). Saved unverified. If ElevenLabs flags it like Anton Weiss, the friend must do the 15 s read-aloud verification.
 - Project character **Report Reader** created and voiced by it. Not yet assigned to Chapter Ten text (existing Ch10 audio untouched until owner says render).
 - Fallback: three designed "report reader" takes (flat clinical analyst, neutral American) were generated but not saved.
+
+## 2026-09-28 — swaps applied and rendered
+- Vera Sorokina, Pieter Van den Berg, Lead Sponsor, Lead Officer: project characters switched to their designed voices (verified in Characters list).
+- Re-rendered: Part One "Quaerimus…" (now Sorokina); Chapter Eight: 6 Lead Sponsor/Officer paragraphs; Chapter Nine: 3 Lead Officer paragraphs.
+- Chapter Ten "Aftermath": all 12 report blocks ("Classified Report — Eyes Only" … "Stone retains memory. Do not return.") assigned to **Report Reader** and rendered (~2,000 credits). Chapter title stays Narrator. The unverified clone renders fine.
