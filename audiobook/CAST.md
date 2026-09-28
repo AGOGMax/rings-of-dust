@@ -143,3 +143,9 @@ lands a period without leaning on it.
 | Lead Officer | Lead Officer — mid 30s, barked commands, neutral American | Voice 1 | Adam |
 - Saved and verified in My Voices. **Not yet swapped into the project** (owner working in the project tab).
 - New: **Report Reader** for Chapter Ten "Aftermath" (Classified Report — Eyes Only, through "Stone retains memory. Do not return."). Flat clinical analyst, neutral American. Three takes generated, awaiting owner pick.
+
+## 2026-09-27 — Report Reader (Chapter Ten classified report)
+- Voice: **Report Reader** — Instant Voice Clone of the owner's friend (39 s recording sent via Telegram, "report audio.mp4"), background-noise removal on. Owner confirmed rights; friend sent it to be in the book.
+- Verification skipped (friend not available live). Saved unverified. If ElevenLabs flags it like Anton Weiss, the friend must do the 15 s read-aloud verification.
+- Project character **Report Reader** created and voiced by it. Not yet assigned to Chapter Ten text (existing Ch10 audio untouched until owner says render).
+- Fallback: three designed "report reader" takes (flat clinical analyst, neutral American) were generated but not saved.
